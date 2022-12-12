@@ -6,9 +6,9 @@ Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](h
 
 The RP2040 is a dual core, 32-bit [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family) Cortex M0+ processor that has very low power requirements. Therefore, it is a good choice for battery operation.
 
-The Raspberry Pi [SBC](https://en.wikipedia.org/wiki/Single-board_computer), single board computers, are the third most popular personal computer behind Apple Mac OS, and Window PCs.  A SBC runs an operation system to interface to the user and runs various programs.  In contrast the RP2040 is a microcontroller design to interface to hardware to do a signal task. 
+The Raspberry Pi [SBC](https://en.wikipedia.org/wiki/Single-board_computer), single board computers, are the third most popular personal computer behind Apple Mac OS, and Window PCs.  A SBC runs an operation system to interface to the user and runs various programs.  In contrast the RP2040 is a [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) design to interface to hardware to do a signal task. 
 
-To use a microcontroller it is connected to additional electrical hardware using digital I/O, analog I/O, buses (I2C, SPY, UART, etc.).
+To use a microcontroller it is connected to additional electrical hardware using digital I/O, analog I/O, buses ([I2C](https://en.wikipedia.org/wiki/I%C2%B2C), [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface), [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter), etc.). A compuer is used to develop the software to run one the microcontroller. The software is downloaded from the computer to the microcontroller board where is runs.  The software is saved on flash memory on the microcontroller board and runs when the board is power up and not connected to the computer.  When problems occur the computer is connected to the microcontroller board to debug it.
 
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 
