@@ -91,7 +91,7 @@ Shows how to mix assembly with C in a program
  
 ## Arduino Microcontroller 
 ## Overview 
-Arduino is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
+[Arduino(https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
 
 Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers). 
 + Wikipedia: [Arduino](https://en.wikipedia.org/wiki/Arduino)
