@@ -90,7 +90,7 @@ RP2040-Plus Mini Board
  
  
 ## Arduino Microcontroller 
-## Overview 
+### Overview 
 [Arduino](https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
 
 Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers). 
