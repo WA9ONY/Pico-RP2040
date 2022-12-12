@@ -1,26 +1,27 @@
 # Raspberry Pi Pico & RP2040 Microcontroller Projects
 
-## RP2040 Microcontroller
+## RP2040 Microcontroller Introduction
 
 Rasperry Pi Pico boards area  new popular low cost, powerful microcontroller that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller ASIC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
-The RP2040 is a dual core, 32-bit ARM Cortex M0+ processor that has very low power requirements. Therefore, it is a good choice for battery operation.
+The RP2040 is a dual core, 32-bit [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family) Cortex M0+ processor that has very low power requirements. Therefore, it is a good choice for battery operation.
 
 The Raspberry Pi SBC, single board computers, are the third most popular personal computer behind Apple Mac OS, and Window PCs.  A SBC runs a operation system to interface to the user and runs various programs.  In contrast the RP2040 is a microcontroller design to interface to hardware to do a signal task. 
 
 To use a microcontroller it is connected to additional electrical hardware using digital I/O, analog I/O, buses (I2C, SPY, UART, etc.).
 
-Overview
+## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 
-Raspberry Pi Pico boards
-+Pico $4
-+Pico H $5
-+Pico W $6
-+Pico WH $7
+[Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) boards
++ [Pico $4](https://www.adafruit.com/product/4864)
++ [Pico H $5](https://www.adafruit.com/product/5525)
++ [Pico W $6](https://www.adafruit.com/product/5526)
++ [Pico WH $7](https://www.adafruit.com/product/5544)
++ [RB2040 $1](https://www.adafruit.com/product/5041)
 
-RB2040
-
-Wikipedia: Raspberry Pi Pico & RP2040
+Wikipedia
++ [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
++ [RP2040](https://en.wikipedia.org/wiki/RP2040)
 
 ### Videos
 Exploring the Next Generation of Arduino Microcontrollers (Pico) - Glen Popiel, KW5GP
