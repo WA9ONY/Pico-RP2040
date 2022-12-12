@@ -99,8 +99,8 @@ Arduino is a popular microcontroller that was created for education in ~2003. Ov
 ### Books
 + Get Started With Arduino free PDF
 + ARRL
-- Arduino 352 pages by KW5GP
-- Arduino 2 500 pages by KW5GP
+  - Arduino 352 pages by KW5GP
+  - Arduino 2 500 pages by KW5GP
 Amazon Arduino Ham Radio Projects book list
 ### Magazines
 + Hackspace issue 30, 44
