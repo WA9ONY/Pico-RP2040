@@ -44,38 +44,37 @@ Wikipedia
 
 ### GitHub Repo
 + [WA9ONY/Raspberry_Pi_Pico_RP2040](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
-+ >3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
++ Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
   +[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
 ### Small list from >40 RP2040 boards
-Adafruit
-RP2040s
-Adafruit P4884 Feather RP2040 
-Adafruit P4888 ItsyBitsy RP2040
-Adafruit P4900 QT Py RP2040
-Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT
-Adafruit P5302 KB2040 - RP2040 Kee Boar Driver
-STEMMA QT video
-Circuitpython library
-Arduino
-Arduino Nano RP2040 Connect
-YouTube by WA9ONY
-First power on
-Sparkfun 
-RP2040s
-SparkFun Pro Micro - RP2040
-SparkFun Thing Plus - RP2040
-WizFi360-EVB-Pico
-W5500-EVB-Pico
-Seeed Studio
-RP2040s
-XIAO RP2040
-Waveshare
-RP2040s
-RP2040-Zero
-RP2040-One
-RP2040-Plus Mini Board
++ [Adafruit](https://www.adafruit.com/)
+  + [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
+  + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884)
+  + [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
+  + [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900)
+  + [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056)
+  + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302)
+  + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
+  + [Circuitpython library](https://www.adafruit.com/category/956)
++ Arduino
+  + [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
+  + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
++ [SparkFun](https://www.sparkfun.com/)
+  + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
+  + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
+  + [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745)
+  + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
+  + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
++ [Seeed Studio](https://www.seeedstudio.com/)
+  + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
+  + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
++ Waveshare
+  + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
+  + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
+  + [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+  + [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
 
 ### Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
