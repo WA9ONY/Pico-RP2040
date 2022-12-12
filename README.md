@@ -104,7 +104,7 @@ Arduino is a popular microcontroller that was created for education in ~2003. Ov
 Amazon Arduino Ham Radio Projects book list
 ### Magazines
 + Hackspace issue 30, 44
-+ Internet Archive Arduino list
++ Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
 
 
 73 David Haworth WA9ONY
