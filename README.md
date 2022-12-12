@@ -60,6 +60,10 @@ Wikipedia
   + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
   + [Circuitpython library](https://www.adafruit.com/category/956)
   
+<p align="center">
+Test  
+</p>  
+  
 ![Arduino Nanao RP240 Connect](/Images/arduinoNanoM.jpg)
 
 #### Arduino Nano RP2040 Connect
