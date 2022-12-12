@@ -61,7 +61,9 @@ Wikipedia
   + [Circuitpython library](https://www.adafruit.com/category/956)
   
 <p align="center">
-Test  
+![Arduino Nanao RP240 Connect](/Images/arduinoNanoM.jpg)
+
+#### Arduino Nano RP2040 Connect  
 </p>  
   
 ![Arduino Nanao RP240 Connect](/Images/arduinoNanoM.jpg)
