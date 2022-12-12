@@ -160,6 +160,50 @@ The full install includes Thonny and Mu.
 + Create Raspberry Pi Pico and RP2040 repo.
 + Create a README.md file describing Pico/RP2030 projects and resources.
 
+## Project : Setup Pico with Micorpython
+
+<p align="center">
+  <img width="640" height="480" src="/Images/GitHub.jpg">  
+</p>
+
+### Goal
++ Use git on the computer.
++ Create Raspberry Pi Pico and RP2040 repo.
++ Create a README.md file describing Pico/RP2030 projects and resources.
+
+## Project : Run Pico on Batteries
+
+<p align="center">
+  <img width="640" height="480" src="/Images/GitHub.jpg">  
+</p>
+
+### Goal
++ Use git on the computer.
++ Create Raspberry Pi Pico and RP2040 repo.
++ Create a README.md file describing Pico/RP2030 projects and resources.
+
+## Project : Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
+
+<p align="center">
+  <img width="640" height="480" src="/Images/GitHub.jpg">  
+</p>
+
+### Goal
++ Use git on the computer.
++ Create Raspberry Pi Pico and RP2040 repo.
++ Create a README.md file describing Pico/RP2030 projects and resources.
+
+## Project : Use Pico A/D to Measure CPU Temperature
+
+<p align="center">
+  <img width="640" height="480" src="/Images/GitHub.jpg">  
+</p>
+
+### Goal
++ Use git on the computer.
++ Create Raspberry Pi Pico and RP2040 repo.
++ Create a README.md file describing Pico/RP2030 projects and resources.
+
 
 
 73 David Haworth WA9ONY
