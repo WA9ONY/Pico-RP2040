@@ -133,6 +133,12 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
 # WA9ONY Projects
 
 ## Project 1: Build a Computer for Micorocontroller Development
+
+<p align="center">
+  <img width="640" height="480" src="/Images/P400.jpg">  
+</p>
+
+
 ### Goals
 The computer needs to run these ADE
 + Micropython - Thonny
