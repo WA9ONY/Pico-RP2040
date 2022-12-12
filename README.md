@@ -91,19 +91,22 @@ Shows how to mix assembly with C in a program
  
 ## Arduino Microcontroller 
 ## Overview 
-Arduino is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  Arduino supports the RP2040 with the Arduino Nano RP2040 Connect. 
-+ Wikipedia: Arduino
+Arduino is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
+
+Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers). 
++ Wikipedia: [Arduino](https://en.wikipedia.org/wiki/Arduino)
 ### Videos
-+ Exploring the Next Generation of Arduino Microcontrollers (Pico) - Glen Popiel, KW5GP
-+ YouTube video list: Arduino
++ Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://youtu.be/HOi_AYEgSmo) - Glen Popiel, KW5GP
++ YouTube video [list](https://www.youtube.com/results?search_query=Arduino): Arduino
+  - New Arduino Tutorials [List](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) 68 videos
 ### Books
-+ Get Started With Arduino free PDF
++ [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
 + ARRL
-  - Arduino 352 pages by KW5GP
-  - Arduino 2 500 pages by KW5GP
-Amazon Arduino Ham Radio Projects book list
+  - [Arduino](https://www.arrl.org/arduino) 352 pages by KW5GP
+  - [Arduino 2](https://www.arrl.org/arduino2) 500 pages by KW5GP
+Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
 ### Magazines
-+ Hackspace issue 30, 44
++ Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
 + Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
 
 
