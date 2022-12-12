@@ -138,7 +138,11 @@ The computer needs to run these ADE
 + Micropython - Thonny
 + Circuitpython - Mu
 + Arduino Web Editor
-+ Arduino ADE
++ Arduino IDE
+
+Use Raspberry Pi P400 computer.
+Create a new microSD card with latest OS with full install.
+The full install includes Thonny and Mu.
 
 ## Project 2: Setup Git and GitHub
 ### Goal
