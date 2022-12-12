@@ -27,26 +27,26 @@ Wikipedia
 + [RP2040](https://en.wikipedia.org/wiki/RP2040)
 
 ### Videos
-+ Exploring the Next Generation of Arduino Microcontrollers (Pico) - Glen Popiel, KW5GP
-+ YouTube: Raspberry Pi Pico
++ Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://www.youtube.com/watch?v=HOi_AYEgSmo) - Glen Popiel, KW5GP
++ YouTube: Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
 
 ### Books
-+ Get Started with MicroPython on Raspberry Pi Pico free PDF
-+ Raspberry Pi Pico for Radio Amateurs (E-book) color PDF 307 pages. 201 project pages 
-+ Amazon Pico book list
++ Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
++ Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 307 pages. 201 project pages 
++ Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 
 ### Magazines
-+ Hackspace issue 39, 40, 44, 52, 57, 61
-+ MagPi issue 109, 119, 121
++ Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
++ MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
 + [Make]([makezine.com](https://makezine.com/)) magazine volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. Back issues are availale with a digital subscription.
 
-### Internet Archive Raspberry Pi Pico list
+### Internet Archive Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
 
 ### GitHub Repo
-WA9ONY/Raspberry_Pi_Pico_RP2040
->3,100 Raspberry Pi Pico repositories
-raspberrypi/pico-micropython-examples
-SSH key for GitHub files upload
++ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
++ >3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
+  +[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
++ [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
 ### Small list from >40 RP2040 boards
 Adafruit
@@ -77,7 +77,7 @@ RP2040-Zero
 RP2040-One
 RP2040-Plus Mini Board
 
-## Software
+### Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
   - [Micropython](https://micropython.org/)
     * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
