@@ -43,7 +43,7 @@ Wikipedia
 ### Internet Archive Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
 
 ### GitHub Repo
-+ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
++ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
   +[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
