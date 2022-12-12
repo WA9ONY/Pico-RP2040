@@ -130,13 +130,22 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
 + Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
 
 
-## WA9ONY Projects
+# WA9ONY Projects
 
-### Project 1: TBD
-#### Objective
+## Project 1: Build a Computer for Micorocontroller Development
+### Goals
+The computer needs to run these ADE
++ Micropython - Thonny
++ Circuitpython - Mu
++ Arduino Web Editor
++ Arduino ADE
 
-### Project 2: TBD
-#### Objective
+## Project 2: Setup Git and GitHub
+### Goal
++ Use git on the computer.
++ Create Raspberry Pi Pico and RP2040 repo.
++ Create a README.md file describing Pico/RP2030 projects and resources.
+
 
 
 73 David Haworth WA9ONY
