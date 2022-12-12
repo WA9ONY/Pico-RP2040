@@ -59,6 +59,7 @@ Wikipedia
   + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302)
   + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
   + [Circuitpython library](https://www.adafruit.com/category/956)
+![Arduino Nanao RP240 Connect](arduinoNanoM.jpg)
 + [Arduino](https://www.arduino.cc/)
   + [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
   + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
