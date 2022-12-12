@@ -67,26 +67,26 @@ RP2040-Zero
 RP2040-One
 RP2040-Plus Mini Board
 ## Software
-Python, Wikipedia
-MicroPython on the Pico
-Micropython
-Raspberry Pi Pico Python SDK
++ Python, Wikipedia
+  - MicroPython on the Pico
+    * Micropython
+    * Raspberry Pi Pico Python SDK
 Quick reference for the RP2
-Circuitpython
-CircuitPython School 57 videos by John Gallaugher
-C/C++
-The C/C++ SDK
-Arduino
-Web Editor need a Arduino Agent to communicate between the browser and Arduino board.
-WA9ONY uses Web Editor on Chrome on Ubuntu 22.04.1 LTS, Intel NUC8i7HVK computer
-IDE V1.8 Legacy
-IDE V2 is 64-bit
-Guide
-Supports Arduino & Raspberry Pi Pico libraries
-IDE V2 on Raspberry Pi
-Assembly
-RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico 1st ed. Edition
-Shows how to mix assembly with C in a program
+  - Circuitpython
+    * CircuitPython School 57 videos by John Gallaugher
++ C/C++
+  - The C/C++ SDK
++ Arduino
+  - Web Editor need a Arduino Agent to communicate between the browser and Arduino board.
+    * WA9ONY uses Web Editor on Chrome on Ubuntu 22.04.1 LTS, Intel NUC8i7HVK computer
+  - IDE V1.8 Legacy
+  - IDE V2 is 64-bit
+    * Guide
+    + Supports Arduino & Raspberry Pi Pico libraries
+    - IDE V2 on Raspberry Pi
++ Assembly
+  - RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico 1st ed. Edition
+    * Shows how to mix assembly with C in a program
  
  
 ## Arduino Microcontroller 
@@ -108,6 +108,12 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
 ### Magazines
 + Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
 + Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
+
+## WA9ONY Projects
+### Project 1: TBD
+#### Objective
+### Project 2: TBD
+#### Objective
 
 
 73 David Haworth WA9ONY
