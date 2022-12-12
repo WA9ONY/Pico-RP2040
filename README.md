@@ -138,7 +138,6 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
   <img width="640" height="480" src="/Images/P400.jpg">  
 </p>
 
-
 ### Goals
 The computer needs to run these ADE
 + Micropython - Thonny
@@ -151,6 +150,11 @@ Create a new microSD card with latest OS with full install.
 The full install includes Thonny and Mu.
 
 ## Project 2: Setup Git and GitHub
+
+<p align="center">
+  <img width="640" height="480" src="/Images/GitHub.jpg">  
+</p>
+
 ### Goal
 + Use git on the computer.
 + Create Raspberry Pi Pico and RP2040 repo.
