@@ -67,25 +67,25 @@ RP2040-Zero
 RP2040-One
 RP2040-Plus Mini Board
 ## Software
-+ Python, Wikipedia
-  - MicroPython on the Pico
-    * Micropython
-    * Raspberry Pi Pico Python SDK
-Quick reference for the RP2
-  - Circuitpython
-    * CircuitPython School 57 videos by John Gallaugher
-+ C/C++
-  - The C/C++ SDK
++ [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+  - [Micropython](https://micropython.org/)
+    * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+    * [Raspberry Pi Pico Python SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
+    * [Quick reference for the RP2](https://docs.micropython.org/en/latest/rp2/quickref.html)
+  - [Circuitpython](https://circuitpython.org/)
+    * CircuitPython School 57 [videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by John Gallaugher
++ C, [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://isocpp.org/), [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
+  - [The C/C++ SDK](https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
 + Arduino
-  - Web Editor need a Arduino Agent to communicate between the browser and Arduino board.
+  - [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor#getting-started-with-the-web-editor) need a Arduino Agent to communicate between the browser and Arduino board.
     * WA9ONY uses Web Editor on Chrome on Ubuntu 22.04.1 LTS, Intel NUC8i7HVK computer
-  - IDE V1.8 Legacy
-  - IDE V2 is 64-bit
-    * Guide
+  - [IDE V1.8](https://www.arduino.cc/en/software) Legacy
+  - [IDE V2](https://www.arduino.cc/en/software) is 64-bit
+    * [Guide](https://www.arduino.cc/en/Guide)
     + Supports Arduino & Raspberry Pi Pico libraries
-    - IDE V2 on Raspberry Pi
+    - [IDE V2 on Raspberry Pi](https://forum.arduino.cc/t/arduino-ide-2-0-0-on-raspberry-pi/855695)
 + Assembly
-  - RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico 1st ed. Edition
+  - [RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico](https://www.amazon.com/RP2040-Assembly-Language-Programming-Cortex-M0/dp/148427752X/ref=sr_1_1?crid=10C0D1RJF1EMB&keywords=raspberry+pi+pico+assembly+language+programming&qid=1670506014&sprefix=Raspberry+Pi+Pico+ass%2Caps%2C158&sr=8-1) 1st ed. Edition
     * Shows how to mix assembly with C in a program
  
  
