@@ -12,6 +12,9 @@ To use a microcontroller it is connected to additional electrical hardware using
 
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 
+Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
+In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RB2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
+
 [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) boards
 + [Pico $4](https://www.adafruit.com/product/4864)
 + [Pico H $5](https://www.adafruit.com/product/5525)
