@@ -90,18 +90,19 @@ Shows how to mix assembly with C in a program
  
  
 ## Arduino Microcontroller 
- 
+## Overview 
 Arduino is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  Arduino supports the RP2040 with the Arduino Nano RP2040 Connect. 
-## Overview
-Wikipedia: Arduino
-## Videos
-Exploring the Next Generation of Arduino Microcontrollers (Pico) - Glen Popiel, KW5GP
-YouTube video list: Arduino
-## Books
-Get Started With Arduino free PDF
-ARRL Arduino 352 pages  & Arduino 2 500 pages both by KW5GP
++ Wikipedia: Arduino
+### Videos
++ Exploring the Next Generation of Arduino Microcontrollers (Pico) - Glen Popiel, KW5GP
++ YouTube video list: Arduino
+### Books
++ Get Started With Arduino free PDF
++ ARRL
+- Arduino 352 pages by KW5GP
+- Arduino 2 500 pages by KW5GP
 Amazon Arduino Ham Radio Projects book list
-## Magazines
+### Magazines
 + Hackspace issue 30, 44
 + Internet Archive Arduino list
 
