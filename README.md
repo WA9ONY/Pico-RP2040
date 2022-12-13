@@ -197,6 +197,7 @@ The full install includes Thonny and Mu.
 + Use a low cost solar cells that are design for remove cameras that provide 5V.
 + Find a solar cell with a micro USB connector that will plug directly into the Pico.
 + Test the solar cell/battery power configuration.
++ Find a water proof box for the Pico and battery.
 
 ## Project : Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
