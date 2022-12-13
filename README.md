@@ -95,7 +95,7 @@ Wikipedia
 
 ### Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-  - [Micropython](https://micropython.org/)
+  - [MicroPython](https://micropython.org/)
     * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
     * [Raspberry Pi Pico Python SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
     * [Quick reference for the RP2](https://docs.micropython.org/en/latest/rp2/quickref.html)
@@ -176,8 +176,8 @@ The full install includes Thonny and Mu.
 </p>
 
 ### Goals
-+ Learn micropython.
-+ Learn Thonny.
++ Learn how to program the Pico in MicropPython.
++ Learn how to use the Thonny IDE.
 + Learn about the Pico.
 
 ### Resources
@@ -187,7 +187,7 @@ The full install includes Thonny and Mu.
 + Books
   + Get Started with MicroPython on Raspberry Pi Pico 138 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
   + Raspberry Pi Pico Python SDK 46 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
-  + Python in easy steps 2nd Edition 192 pages {Amazon}(https://www.amazon.com/Python-easy-steps-Covers-3-7/dp/1840788127/ref=sr_1_1?crid=3F89EDNZ064E&keywords=python+in+easy+steps&qid=1670949063&sprefix=Python+in+%2Caps%2C159&sr=8-1)
+  + Python in easy steps 2nd Edition 192 pages [Amazon](https://www.amazon.com/Python-easy-steps-2nd-Covers-ebook/dp/B07FPPVWRX?ref_=ast_sto_dp)
 + Videos
   + YouTube: Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
 + Courses
