@@ -179,7 +179,7 @@ The full install includes Thonny and Mu.
 ## Project : Run Pico on Batteries
 
 <p align="center">
-  <img width="640" height="480" src="/Images/GitHub.jpg">  
+  <img width="640" height="480" src="/Images/voltsTemp.jpg">  
 </p>
 
 ### Goal
@@ -190,7 +190,7 @@ The full install includes Thonny and Mu.
 ## Project : Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
 <p align="center">
-  <img width="640" height="480" src="/Images/GitHub.jpg">  
+  <img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
 </p>
 
 ### Goal
@@ -201,7 +201,7 @@ The full install includes Thonny and Mu.
 ## Project : Use Pico A/D to Measure CPU Temperature
 
 <p align="center">
-  <img width="640" height="480" src="/Images/GitHub.jpg">  
+  <img width="640" height="480" src="/Images/dataLogVTemp.jpg">  
 </p>
 
 ### Goal
@@ -209,6 +209,27 @@ The full install includes Thonny and Mu.
 + Create Raspberry Pi Pico and RP2040 repo.
 + Create a README.md file describing Pico/RP2030 projects and resources.
 
-
+Data log saved to Pico flash memory.
+Day Time  VBUS  VSYS  VBat  Temp 2022/11/28
+28 17:28:11 5.29V 5.16V 1.87V 72.25F
+28 17:28:21 5.30V 5.16V 3.55V 72.25F
+28 17:28:31 1.04V 3.05V 3.41V 72.25F
+28 17:28:41 1.03V 3.06V 3.44V 70.56F
+28 17:28:51 1.03V 3.06V 3.44V 70.56F
+28 17:29:1 1.02V 3.05V 3.44V 71.41F
+28 17:29:11 1.02V 3.06V 3.42V 72.25F
+28 17:29:21 1.02V 3.06V 3.42V 72.25F
+28 17:29:31 1.02V 3.05V 3.42V 70.56F
+28 17:29:41 1.02V 3.07V 3.42V 70.56F
+28 17:29:51 1.01V 3.05V 3.42V 70.56F
+28 17:30:1 1.00V 3.06V 3.44V 70.56F
+28 17:30:11 0.99V 3.07V 3.41V 69.72F
+28 17:30:21 0.98V 3.05V 3.41V 69.72F
+28 17:30:31 0.98V 3.06V 3.41V 68.88F
+28 17:30:41 0.98V 3.04V 3.41V 69.72F
+28 17:30:51 0.97V 3.04V 3.41V 68.88F
+28 17:31:1 0.96V 3.06V 3.41V 68.88F
+28 17:31:11 0.96V 3.04V 3.41V 68.04F
+28 17:31:21 0.95V 3.05V 3.41V 68.04F
 
 73 David Haworth WA9ONY
