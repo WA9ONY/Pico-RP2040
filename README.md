@@ -172,7 +172,7 @@ The full install includes Thonny and Mu.
 ## Project 3 : Learn Micropython on the Pico
 
 <p align="center">
-  <img width="640" height="480" src="/Images/GetStartedWithMicroPythonOnRaspberryPiPico.png">  
+  <img width="333" height="499" src="/Images/GetStartedWithMicroPythonOnRaspberryPiPico.png">  
 </p>
 
 ### Goals
