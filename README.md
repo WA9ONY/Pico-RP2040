@@ -60,40 +60,43 @@ Wikipedia
 + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
 ### Small list from >40 RP2040 boards
+#### [Adafruit](https://www.adafruit.com/) RP2040s
 
-<p align="center">r
+<p align="center">
   <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
 </p>
 
+Above photo left to right:
++ [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
++ [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884)
++ [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
++ [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900)
++ [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056)
++ [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302)
 
-+ [Adafruit](https://www.adafruit.com/)
-  + [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
-  + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884)
-  + [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
-  + [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900)
-  + [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056)
-  + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302)
-  + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
-  + [Circuitpython library](https://www.adafruit.com/category/956)
-  
++ STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
++ [Circuitpython library](https://www.adafruit.com/category/956)
+
+#### [Arduino](https://www.arduino.cc/) Nano RP2040 Connect
+
 <p align="center">
-  <img width="640" height="278" src="/Images/arduinoNanoM.jpg"> 
-  <img width="598" height="282" src="/Images/ArduinoNanoS.jpg"> 
+  <img width="640" height="278" src="/Images/arduinoNanoM.jpg">  
 </p>
 
-#### Arduino Nano RP2040 Connect
-+ [Arduino](https://www.arduino.cc/)
-  + [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
-  + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
++ [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
++ [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
+
 + [SparkFun](https://www.sparkfun.com/)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
   + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
   + [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745)
   + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
   + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
+
 + [Seeed Studio](https://www.seeedstudio.com/)
   + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
   + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
+
 + [Waveshare](https://www.waveshare.com/)
   + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
   + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
