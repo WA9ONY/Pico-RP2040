@@ -210,6 +210,8 @@ The full install includes Thonny and Mu.
 + Create a README.md file describing Pico/RP2030 projects and resources.
 
 Data log saved to Pico flash memory.
+
+<pre>
 Day Time  VBUS  VSYS  VBat  Temp 2022/11/28
 28 17:28:11 5.29V 5.16V 1.87V 72.25F
 28 17:28:21 5.30V 5.16V 3.55V 72.25F
@@ -231,5 +233,6 @@ Day Time  VBUS  VSYS  VBat  Temp 2022/11/28
 28 17:31:1 0.96V 3.06V 3.41V 68.88F
 28 17:31:11 0.96V 3.04V 3.41V 68.04F
 28 17:31:21 0.95V 3.05V 3.41V 68.04F
+</pre>
 
 73 David Haworth WA9ONY
