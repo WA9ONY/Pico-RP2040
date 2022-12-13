@@ -59,12 +59,30 @@ Wikipedia
   +[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
-### Small list from >40 RP2040 boards
-#### [Adafruit](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
+### List >40 RP2040 boards
+
++ Wikipedia list on [RP2040](https://en.wikipedia.org/wiki/Adafruit_Industries)
++ Earle F. Philhower, III GitHub [supported RP2040 boards](https://github.com/earlephilhower/arduino-pico)
++ Tom's Hardware [Best RP2040 Boards 2022](https://www.tomshardware.com/best-picks/best-rp2040-boards)
++ Electromaker [RP2040 Board Comparison - Which RP2040 Board Should You Buy](https://www.electromaker.io/blog/article/rp2040-board-comparison-which-rp2040-board-should-you-buy)
++ Electromaker [Electromakers guide to boards 2022](https://www.electromaker.io/board-guide?type=microcontroller&processor=RP2040)
++ Electromaker [Top 5 Alternatives to Raspberry Pi Pico](https://www.electromaker.io/blog/article/top-5-alternatives-to-raspberry-pi-pico)
++ Renzo Mischianti [Raspberry Pi Pico, W, and other rp2040 boards: pinout, specs, and Arduino IDE configuration – 1](https://www.mischianti.org/2022/09/26/raspberry-pi-pico-w-and-other-rp2040-boards-pinout-specs-and-arduino-ide-configuration-1/)
++ MUO [11 Alternatives to the Raspberry Pi Pico](https://www.makeuseof.com/alternatives-to-the-raspberry-pi-pico/)
++ All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
+
+
+<p align="center">
+  <img width="220" height="75" src="/Images/Adafruit_logo.svg0.jpg"> 
+</p>
+
+#### [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
 
 <p align="center">
   <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
 </p>
+
+Adafruit [(Wikipedia)](https://en.wikipedia.org/wiki/Adafruit_Industries) is develops and sells open source hardware and is localed in New Your city. Adafruit is an offical distributer of Raspberry Pi products.  Therefore, they sell the Raspberry Pi Pico family of products and the Raspberry Pi SBC produccts. Also, Adafruit develops there own RP2040
 
 Above photo left to right:
 + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884) with STEMMA QT
@@ -73,6 +91,8 @@ Above photo left to right:
 + [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056) with STEMMA QT
 + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302) with STEMMA QT
 
+Some Adafriut product are available on Amazon.
+
 Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small connectors on sensor boards and some RP2040 boards.
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 
@@ -80,8 +100,9 @@ Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small conn
   <img width="300" height="132" src="/Images/circuitpython.jpg"><img width="300" height="90" src="/Images/python.png">  
 </p>
 
-Adafruit CircuitPython is based on Pythonand is a fork of MicroPython that support the Adafruit RP2040 boards, Raspberry Pi Pico boards (Adafruit sells them) and the large selection of Adafriut sensors boards.  CircuitPython works great with the Mu IDE.  CircuitPython has RP2040 functions like deep sleep that are not in CircuitPython.
+Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and is a fork of [MicroPython](https://micropython.org/) that support the Adafruit RP2040 boards, Raspberry Pi Pico boards (Adafruit sells them) and the large selection of Adafriut sensors boards.  CircuitPython works great with the Mu IDE.  CircuitPython has RP2040 functions like deep sleep that are not in CircuitPython.
 + [CircuitPython](https://circuitpython.org/)
+  + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
   + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
 
 #### [Arduino](https://www.arduino.cc/) Nano RP2040 Connect
@@ -92,6 +113,7 @@ Adafruit CircuitPython is based on Pythonand is a fork of MicroPython that suppo
 
 + [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
++ Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
 
 + [SparkFun](https://www.sparkfun.com/)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
@@ -116,6 +138,10 @@ Adafruit CircuitPython is based on Pythonand is a fork of MicroPython that suppo
     * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
     * [Raspberry Pi Pico Python SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
     * [Quick reference for the RP2](https://docs.micropython.org/en/latest/rp2/quickref.html)
+    * [Raspberry Pi Pico RP2040 Programming in MicroPython with Examples](https://www.electroniclinic.com/raspberry-pi-pico-rp2040-programming-in-micropython-with-examples/)
+    * Digi-Key Tutorials
+    *   Raspberry Pi Pico and RP2040 - MicroPython Part 1: Blink [tutorial](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-micropython-part-1-blink/58b3c31ac93649849b58824caa00529c)
+    *   Raspberry Pi Pico and RP2040 - MicroPython Part 2: I2C Sensor and Module [tutorial](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-micropython-part-2-i2c-sensor-and-module/b43e7958153f41fc9e7403df4d626ba5)
   - [CircuitPython](https://circuitpython.org/)
     * CircuitPython School 57 [videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by John Gallaugher
 + C, [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://isocpp.org/), [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
