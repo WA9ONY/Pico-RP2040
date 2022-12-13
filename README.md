@@ -24,6 +24,7 @@ In January 2021, Raspberry Pi Foundation entered the microcontroller market with
 <p align="center">
   <img width="640" height="161" src="/Images/picoPicoW.jpg">  
 </p>
+The board on the left is a Pico and the board on the right is a Pico W.  Both boards have pins soldered on them.
 
 [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) boards
 + [Pico $4](https://www.adafruit.com/product/4864) Has Rp2040, clock chip, flash chip and 3.3V regulator chip
