@@ -168,7 +168,7 @@ The full install includes Thonny and Mu.
 ## Project : Setup Pico with Micorpython
 
 <p align="center">
-  <img width="640" height="480" src="/Images/GitHub.jpg">  
+  <img width="640" height="480" src="/Images/dataLogVTemp2.jpg">  
 </p>
 
 ### Goal
