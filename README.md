@@ -60,20 +60,20 @@ Wikipedia
 + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
 ### Small list from >40 RP2040 boards
-#### [Adafruit](https://www.adafruit.com/) RP2040s
+#### [Adafruit](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
 
 <p align="center">
   <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
 </p>
 
 Above photo left to right:
-+ [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
 + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884)
 + [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
 + [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900)
 + [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056)
 + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302)
 
+Adafruit STEMMA QT is a I2C interface with small connectors on sensor boards.
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 + [Circuitpython library](https://www.adafruit.com/category/956)
 
