@@ -77,7 +77,7 @@ Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small conn
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 
 <p align="center">
-  <img width="300" height="132" src="/Images/circuitpython.jpg">  <img width="600" height="179" src="/Images/python.png">  
+  <img width="300" height="132" src="/Images/circuitpython.jpg"><img width="300" height="90" src="/Images/python.png">  
 </p>
 
 Adafruit CircuitPython is based on Pythonand is a fork of MicroPython that support the Adafruit RP2040 boards, Raspberry Pi Pico boards (Adafruit sells them) and the large selection of Adafriut sensors boards.  CircuitPython works great with the Mu IDE.  CircuitPython has RP2040 functions like deep sleep that are not in CircuitPython.
