@@ -147,10 +147,17 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
   <img width="640" height="480" src="/Images/P400.jpg">  
 </p>
 
+To use the Pico a computer with a Pico [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) is needed.
+To use the Pico.
+1. Create a Pico program in the IDE.
+2. Download the program into the Pico.
+3. Run the program.
+4. Debug the program in the IDE.
+
 ### Goals
 The computer needs to run these ADE
-+ Micropython - Thonny
-+ Circuitpython - Mu
++ MicroPython - Thonny IDE
++ Circuitpython - Mu IDE
 
 Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
@@ -162,12 +169,27 @@ The full install includes Thonny and Mu.
   <img width="640" height="480" src="/Images/GitHub.jpg">  
 </p>
 
+GitHub is a great way to document and share Pico projects.
+The GitHub home READ.md file provides a place to documenting the Pico projects.
+The GitHub provides free file storage ([repository](https://en.wikipedia.org/wiki/Repository_(version_control))) and version change control.
+GitHub is used by a web interface or a Linux CLI.
+The Raspberry Pi P400 full install includes git.
+
 ### Goals
 + Use git CLI on the computer.
 + Use GitHub web interface.
 + Create Raspberry Pi Pico and RP2040 repo.
 + Create a README.md file describing Pico/RP2030 projects and resources.
 
+### Resources
++ Articles
+  + TBD
+  + Wikipedia
+    + [RGitHub]([https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico](https://en.wikipedia.org/wiki/GitHub))
++ Videos
+  + YouTube [list](https://www.youtube.com/results?search_query=GitHub)
++ Books
+  +Amazon [list](https://www.amazon.com/s?k=Github+in+books&crid=2SACFZLPDLFD9&sprefix=github+in+books%2Caps%2C148&ref=nb_sb_noss_1)   
 
 ## Project 3 : Learn Micropython on the Pico
 
@@ -176,9 +198,9 @@ The full install includes Thonny and Mu.
 </p>
 
 ### Goals
-+ Learn how to program the Pico in MicropPython.
-+ Learn how to use the Thonny IDE.
-+ Learn about the Pico.
++ Learn how to program the Pico in [MicropPython](https://micropython.org/).
++ Learn how to use the [Thonny](https://thonny.org/) IDE.
++ Learn about the [Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/).
 
 ### Resources
 + Articles
@@ -187,6 +209,8 @@ The full install includes Thonny and Mu.
   + Wikipedia
     + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
     + [RP2040](https://en.wikipedia.org/wiki/RP2040)
+    + [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
+    + [Thonny IDE](https://en.wikipedia.org/wiki/Thonny)
 + Books
   + Get Started with MicroPython on Raspberry Pi Pico 138 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
   + Raspberry Pi Pico Python SDK 46 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
