@@ -1,7 +1,7 @@
 # Raspberry Pi Pico & RP2040 Microcontroller Projects
 
 <p align="center">
-  <img width="739" height="337" src="/Images/pico.jpg">  
+  <img width="739" height="337" src="/Images/picoS.jpg">  
 </p>
 
 [David Haworth](http://www.stargazing.net/david/index.html), [WA9ONY](https://www.qrz.com/db/WA9ONY)
