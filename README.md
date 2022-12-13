@@ -77,7 +77,7 @@ Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small conn
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 
 <p align="center">
-  <img width="640" height="278" src="/Images/arduinoNanoM.jpg">  
+  <img width="300" height="132" src="/Images/circuitpython.jpg">  
 </p>
 
 Adafruit CircuitPython
