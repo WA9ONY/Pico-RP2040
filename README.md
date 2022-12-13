@@ -67,15 +67,22 @@ Wikipedia
 </p>
 
 Above photo left to right:
-+ [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884)
++ [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884) with STEMMA QT
 + [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
-+ [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900)
-+ [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056)
-+ [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302)
++ [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900) with STEMMA QT
++ [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056) with STEMMA QT
++ [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302) with STEMMA QT
 
-Adafruit STEMMA QT is a I2C interface with small connectors on sensor boards.
+Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small connectors on sensor boards and some RP2040 boards.
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
-+ [Circuitpython library](https://www.adafruit.com/category/956)
+
+<p align="center">
+  <img width="640" height="278" src="/Images/arduinoNanoM.jpg">  
+</p>
+
+Adafruit CircuitPython
++ [CircuitPython](https://circuitpython.org/)
+  +[CircuitPython library](https://www.adafruit.com/category/956)
 
 #### [Arduino](https://www.arduino.cc/) Nano RP2040 Connect
 
@@ -109,7 +116,7 @@ Adafruit STEMMA QT is a I2C interface with small connectors on sensor boards.
     * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
     * [Raspberry Pi Pico Python SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
     * [Quick reference for the RP2](https://docs.micropython.org/en/latest/rp2/quickref.html)
-  - [Circuitpython](https://circuitpython.org/)
+  - [CircuitPython](https://circuitpython.org/)
     * CircuitPython School 57 [videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2) by John Gallaugher
 + C, [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://isocpp.org/), [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
   - [The C/C++ SDK](https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
