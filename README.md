@@ -73,7 +73,7 @@ Wikipedia
 
 
 <p align="center">
-  <img width="220" height="75" src="/Images/Adafruit_logo.svg0.jpg"> 
+  <img width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
 </p>
 
 #### [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
