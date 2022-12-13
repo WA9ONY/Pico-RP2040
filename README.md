@@ -185,6 +185,19 @@ The full install includes Thonny and Mu.
 + The Pico automatically switch to the highest voltage.
 + Protect both sources from loading down the other souce.
 
+## Project : Run Pico on Solar Cells
+
+<p align="center">
+  <img width="640" height="480" src="/Images/solar1.jpg"> 
+  <img width="640" height="480" src="/Images/solar2.jpg">  
+
+</p>
+
+### Goal
++ Use a low cost solar cells that are design for remove cameras that provide 5V.
++ Find a solar cell with a micro USB connector that will plug directly into the Pico.
++ Test the solar cell/battery power configuration.
+
 ## Project : Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
 <p align="center">
