@@ -184,6 +184,9 @@ The full install includes Thonny and Mu.
 + Articles
   + [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
   + [Quick reference for the RP2](https://docs.micropython.org/en/latest/rp2/quickref.html)
+  + Wikipedia
+    + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
+    + [RP2040](https://en.wikipedia.org/wiki/RP2040)
 + Books
   + Get Started with MicroPython on Raspberry Pi Pico 138 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
   + Raspberry Pi Pico Python SDK 46 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
@@ -191,7 +194,7 @@ The full install includes Thonny and Mu.
 + Videos
   + YouTube: Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
 + Courses
-  +The Great Courses: How to Program: Computer Science Concepts and Python Exercises [video](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
+  + The Great Courses: How to Program: Computer Science Concepts and Python Exercises [video](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
 + Code
   + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
 
