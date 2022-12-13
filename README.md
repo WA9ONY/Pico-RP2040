@@ -60,6 +60,12 @@ Wikipedia
 + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
 ### Small list from >40 RP2040 boards
+
+<p align="center">r
+  <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
+</p>
+
+
 + [Adafruit](https://www.adafruit.com/)
   + [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
   + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884)
@@ -71,7 +77,8 @@ Wikipedia
   + [Circuitpython library](https://www.adafruit.com/category/956)
   
 <p align="center">
-  <img width="640" height="278" src="/Images/arduinoNanoM.jpg">  
+  <img width="640" height="278" src="/Images/arduinoNanoM.jpg"> 
+  <img width="598" height="282" src="/Images/ArduinoNanoS.jpg"> 
 </p>
 
 #### Arduino Nano RP2040 Connect
