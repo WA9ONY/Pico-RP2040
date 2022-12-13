@@ -134,7 +134,6 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
 + Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
 + Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
 
-
 # WA9ONY Projects
 
 ## Project 1: Build a Computer for Micorocontroller Development
@@ -147,8 +146,6 @@ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino
 The computer needs to run these ADE
 + Micropython - Thonny
 + Circuitpython - Mu
-+ Arduino Web Editor
-+ Arduino IDE
 
 Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
@@ -161,20 +158,21 @@ The full install includes Thonny and Mu.
 </p>
 
 ### Goal
-+ Use git on the computer.
++ Use git CLI on the computer.
++ Use GitHub web interface.
 + Create Raspberry Pi Pico and RP2040 repo.
 + Create a README.md file describing Pico/RP2030 projects and resources.
 
-## Project : Setup Pico with Micorpython
+## Project : Setup Pico with Micropython
 
 <p align="center">
   <img width="640" height="480" src="/Images/dataLogVTemp2.jpg">  
 </p>
 
 ### Goal
-+ Use git on the computer.
-+ Create Raspberry Pi Pico and RP2040 repo.
-+ Create a README.md file describing Pico/RP2030 projects and resources.
++ Setup the Pico to run micopython with the Raspberry Pi P400 computer.
++ Configure the Pico for micropython.
++ Use Thonny to create, edit and debug micropython programs to run on the Pico.
 
 ## Project : Run Pico on Batteries
 
@@ -183,9 +181,9 @@ The full install includes Thonny and Mu.
 </p>
 
 ### Goal
-+ Use git on the computer.
-+ Create Raspberry Pi Pico and RP2040 repo.
-+ Create a README.md file describing Pico/RP2030 projects and resources.
++ Design a circuit so that the Pico automatically runs on the USB micro connector or a battery input.
++ The Pico automatically switch to the highest voltage.
++ Protect both sources from loading down the other souce.
 
 ## Project : Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
@@ -194,9 +192,9 @@ The full install includes Thonny and Mu.
 </p>
 
 ### Goal
-+ Use git on the computer.
-+ Create Raspberry Pi Pico and RP2040 repo.
-+ Create a README.md file describing Pico/RP2030 projects and resources.
++ Use the three A/D converters to measure Vbus, Vsys and Vbattery voltage.
++ Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
++ Test how low Vbattery can go before the Pico stops operating.
 
 ## Project : Use Pico A/D to Measure CPU Temperature
 
@@ -205,34 +203,48 @@ The full install includes Thonny and Mu.
 </p>
 
 ### Goal
-+ Use git on the computer.
-+ Create Raspberry Pi Pico and RP2040 repo.
-+ Create a README.md file describing Pico/RP2030 projects and resources.
++ Use the forth A/D converter to measure CPU temperature.
++ Measure the Vbus, Vsys and Vbattery voltage.
++ Use the internal real-time clock to time mark the data readings.
++ Save time, Vbus, Vsys, Vbattery and temperature to data log on the Pico flash memory.
 
 Data log saved to Pico flash memory.
+Below is the first few lines of the data file that was stored on the Pico flash memory.
 
 <pre>
-Day Time  VBUS  VSYS  VBat  Temp 2022/11/28
+Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 28 17:28:11 5.29V 5.16V 1.87V 72.25F
 28 17:28:21 5.30V 5.16V 3.55V 72.25F
 28 17:28:31 1.04V 3.05V 3.41V 72.25F
 28 17:28:41 1.03V 3.06V 3.44V 70.56F
 28 17:28:51 1.03V 3.06V 3.44V 70.56F
-28 17:29:1 1.02V 3.05V 3.44V 71.41F
+28 17:29:1  1.02V 3.05V 3.44V 71.41F
 28 17:29:11 1.02V 3.06V 3.42V 72.25F
 28 17:29:21 1.02V 3.06V 3.42V 72.25F
 28 17:29:31 1.02V 3.05V 3.42V 70.56F
 28 17:29:41 1.02V 3.07V 3.42V 70.56F
 28 17:29:51 1.01V 3.05V 3.42V 70.56F
-28 17:30:1 1.00V 3.06V 3.44V 70.56F
+28 17:30:1  1.00V 3.06V 3.44V 70.56F
 28 17:30:11 0.99V 3.07V 3.41V 69.72F
 28 17:30:21 0.98V 3.05V 3.41V 69.72F
 28 17:30:31 0.98V 3.06V 3.41V 68.88F
 28 17:30:41 0.98V 3.04V 3.41V 69.72F
 28 17:30:51 0.97V 3.04V 3.41V 68.88F
-28 17:31:1 0.96V 3.06V 3.41V 68.88F
+28 17:31:1  0.96V 3.06V 3.41V 68.88F
 28 17:31:11 0.96V 3.04V 3.41V 68.04F
 28 17:31:21 0.95V 3.05V 3.41V 68.04F
 </pre>
+
+# Future Project Ideas
+
++ A/D test, speed, accuracy, 2 point cal, etc.
++ Battery operation tests.
++ Low power modes, sleep, deep sleep.
++ Two core programming.
++ File functions and largest file size.
++ Use circuitpython.
++ Implement a RTC with I2C bus.
+
+
 
 73 David Haworth WA9ONY
