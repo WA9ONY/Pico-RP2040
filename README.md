@@ -162,13 +162,41 @@ The full install includes Thonny and Mu.
   <img width="640" height="480" src="/Images/GitHub.jpg">  
 </p>
 
-### Goal
+### Goals
 + Use git CLI on the computer.
 + Use GitHub web interface.
 + Create Raspberry Pi Pico and RP2040 repo.
 + Create a README.md file describing Pico/RP2030 projects and resources.
 
-## Project : Setup Pico with Micropython
+
+## Project 3 : Learn Micropython on the Pico
+
+<p align="center">
+  <img width="640" height="480" src="/Images/GetStartedWithMicroPythonOnRaspberryPiPico.png">  
+</p>
+
+### Goals
++ Learn micropython.
++ Learn Thonny.
++ Learn about the Pico.
+
+### Resources
++ Articles
+  + [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+  + [Quick reference for the RP2](https://docs.micropython.org/en/latest/rp2/quickref.html)
++ Books
+  + Get Started with MicroPython on Raspberry Pi Pico 138 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
+  + Raspberry Pi Pico Python SDK 46 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
+  + Python in easy steps 2nd Edition 192 pages {Amazon}(https://www.amazon.com/Python-easy-steps-Covers-3-7/dp/1840788127/ref=sr_1_1?crid=3F89EDNZ064E&keywords=python+in+easy+steps&qid=1670949063&sprefix=Python+in+%2Caps%2C159&sr=8-1)
++ Videos
+  + YouTube: Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
++ Courses
+  +The Great Courses: How to Program: Computer Science Concepts and Python Exercises [video](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
++ Code
+  + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
+
+
+## Project4 : Setup Pico with Micropython
 
 <p align="center">
   <img width="640" height="480" src="/Images/dataLogVTemp2.jpg">  
