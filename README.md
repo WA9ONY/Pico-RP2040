@@ -244,7 +244,7 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 + File functions and largest file size.
 + Use circuitpython.
 + Implement a RTC with I2C bus.
-
-
++ Use the different python libraries.
++ Use the Arduino IDE and libraries.
 
 73 David Haworth WA9ONY
