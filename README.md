@@ -253,6 +253,19 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       Size
     </TD>
   </TR>
+    <TD>
+      Raspberry Pi Pico for Radio Amateurs 
+    </TD>
+    <TD>
+      G7SCU
+    </TD>
+     <TD>
+      2021
+    </TD>
+    <TD>
+      307
+    </TD>
+  </TR>
 </TABLE>
 
 ## Project 2: Build a Computer for Micorocontroller Development
