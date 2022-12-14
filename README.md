@@ -275,7 +275,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       310 
     </TD>
      <TD>
-      [Files](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)
+       <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Files</A>
     </TD>
   </TR>
   
@@ -310,7 +310,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       500
     </TD>
    <TD>
-      [Files](http://www.kw5gp.com/Arduino2/)
+     <A HREF="http://www.kw5gp.com/Arduino2/">Files</A>
     </TD>
   </TR>
   
@@ -346,7 +346,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       352
     </TD>
    <TD>
-      [Files](http://www.kw5gp.com/Arduino/)
+       <A HREF="http://www.kw5gp.com/Arduino/">Files</A>
     </TD>
   </TR>
   
@@ -364,7 +364,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       352
     </TD>
     <TD>
-      [Files](http://hamradioprojects.com/projects/)
+       <A HREF="http://hamradioprojects.com/projects/">Files</A>
     </TD>
   </TR>
  
