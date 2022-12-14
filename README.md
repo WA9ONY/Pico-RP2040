@@ -57,7 +57,7 @@ Wikipedia
 
 ### Pico & RP2040 boards (>40) lists
 
-+ Wikipedia list on [RP2040](https://en.wikipedia.org/wiki/Adafruit_Industries)
++ Wikipedia list on [RP2040]([https://en.wikipedia.org/wiki/Adafruit_Industries](https://en.wikipedia.org/wiki/RP2040))
 + Earle F. Philhower, III GitHub [supported RP2040 boards](https://github.com/earlephilhower/arduino-pico)
 + Tom's Hardware [Best RP2040 Boards 2022](https://www.tomshardware.com/best-picks/best-rp2040-boards)
 + Electromaker [RP2040 Board Comparison - Which RP2040 Board Should You Buy](https://www.electromaker.io/blog/article/rp2040-board-comparison-which-rp2040-board-should-you-buy)
