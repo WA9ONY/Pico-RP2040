@@ -51,6 +51,7 @@ Wikipedia
 + Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
 + Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 + Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 307 pages. 201 project pages
+  + Book Overview [video](https://youtu.be/lU5fIYW1U0Y)
   + Station mains power on/off control
   + Radio station clock
   + GPS based station geographical coordinates
