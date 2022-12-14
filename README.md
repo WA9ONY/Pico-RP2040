@@ -214,7 +214,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 ### Books
 + [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
 + ARRL
-  - [Arduino](https://www.arrl.org/arduino) 352 pages by KW5GP
+  - [Arduino for Ham Radio](https://www.arrl.org/arduino) 352 pages by KW5GP
   - [Arduino 2](https://www.arrl.org/arduino2) 500 pages by KW5GP
   - [More Arduino for Ham Radio](https://home.arrl.org/action/Store/Product-Details/productId/133985) 384 pages by KW5GP
     - Projects:
