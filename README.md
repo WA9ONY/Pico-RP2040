@@ -100,6 +100,10 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
   + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
 
+<p align="center">
+  <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
+</p>
+
 #### [Arduino](https://www.arduino.cc/) Nano RP2040 Connect
 
 <p align="center">
