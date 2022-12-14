@@ -237,6 +237,17 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 
 ## Project 1: Build a Computer for Micorocontroller Development
 
+
+<TABLE>
+  <TR>
+    <TD>
+      Title
+    </TD>
+  </TR>
+</TABLE>
+
+## Project 2: Build a Computer for Micorocontroller Development
+
 <p align="center">
   <img width="640" height="480" src="/Images/P400.jpg">  
 </p>
@@ -257,7 +268,7 @@ Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
 The full install includes Thonny and Mu.
 
-## Project 2: Setup Git and GitHub
+## Project 3: Setup Git and GitHub
 
 <p align="center">
   <img width="640" height="480" src="/Images/GitHub.jpg">  
@@ -286,7 +297,7 @@ The Raspberry Pi P400 full install includes git.
 + Books
   +Amazon [list](https://www.amazon.com/s?k=Github+in+books&crid=2SACFZLPDLFD9&sprefix=github+in+books%2Caps%2C148&ref=nb_sb_noss_1)   
 
-## Project 3 : Learn Micropython on the Pico
+## Project 4 : Learn Micropython on the Pico
 
 <p align="center">
   <img width="333" height="499" src="/Images/GetStartedWithMicroPythonOnRaspberryPiPico.png">  
