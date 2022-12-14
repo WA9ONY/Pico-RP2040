@@ -55,7 +55,7 @@ Wikipedia
 
 ### Internet Archive Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
 
-### List >40 RP2040 boards
+### Pico & RP2040 boards (>40) lists
 
 + Wikipedia list on [RP2040](https://en.wikipedia.org/wiki/Adafruit_Industries)
 + Earle F. Philhower, III GitHub [supported RP2040 boards](https://github.com/earlephilhower/arduino-pico)
