@@ -237,6 +237,10 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 
 ## Project 1: Ham Radio Micorocontroller Books
 
+<p align="center">
+  <img width="1032" height="273" src="/Images/Books.png">  
+</p>
+
 
 <TABLE>
   <TR>
@@ -252,6 +256,9 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
     <TD>
       Pages
     </TD>
+    <TD>
+      Software
+    </TD>
   </TR>
   
   <TR>
@@ -265,8 +272,12 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       2021
     </TD>
     <TD>
-      307 
+      310 
     </TD>
+     <TD>
+      [Files](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)
+    </TD>
+
   </TR>
   
     <TR>
@@ -282,6 +293,9 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
     <TD>
       400
     </TD>
+    <TD>
+      Files ?
+    </TD>  
   </TR>
 
    <TD>
@@ -296,6 +310,9 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
     <TD>
       500
     </TD>
+   <TD>
+      [Files](http://www.kw5gp.com/Arduino2/)
+    </TD>
   </TR>
   
   <TR>
@@ -303,13 +320,16 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       Arduino Projects for Amateur Radio 
     </TD>
     <TD>
-      W8TEE
+      W8TEE, W6DQ,
     </TD>
      <TD>
       2014
     </TD>
     <TD>
       464 
+    </TD>
+    <TD>
+      Files ?
     </TD>
   </TR>
   
@@ -326,6 +346,9 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
     <TD>
       352
     </TD>
+   <TD>
+      [Files](http://www.kw5gp.com/Arduino/)
+    </TD>
   </TR>
   
   <TR>
@@ -333,13 +356,34 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       Ham Radio for Arduino and Picaxe
     </TD>
     <TD>
-      Author
+      WA5ZNU
     </TD>
      <TD>
       2013
     </TD>
     <TD>
-      WA5ZNU
+      352
+    </TD>
+    <TD>
+      [Files](http://hamradioprojects.com/projects/)
+    </TD>
+  </TR>
+ 
+  <TR>
+   <TD>
+      Arduino for Ham Radio - Part 3 Book
+    </TD>
+    <TD>
+      KW5GP
+    </TD>
+     <TD>
+      ?
+    </TD>
+    <TD>
+      ?
+    </TD>
+    <TD>
+      [Files](http://www.kw5gp.com/Arduino3/)
     </TD>
   </TR>
 
