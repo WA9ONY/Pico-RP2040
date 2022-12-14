@@ -49,8 +49,24 @@ Wikipedia
 
 ### Books
 + Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
-+ Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 307 pages. 201 project pages 
 + Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
++ Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 307 pages. 201 project pages
+  + Station mains power on/off control
+  + Radio station clock
+  + GPS based station geographical coordinates
+  + Radio station temperature and humidity
+  + Various waveform generation methods using software and hardware (DDS)
+  + Frequency counter
+  + Voltmeter / ammeter / ohmmeter / capacitance meter
+  + RF meter and RF attenuators
+  + Morse code exercisers
+  + RadioStation Click board
+  + Raspberry Pi Pico based FM radio
+  + Using Bluetooth and Wi-Fi with Raspberry Pi Pico
+  + Radio station security with RFID
+  + Audio amplifier module with rotary encoder volume control
+  + Morse decoder
+  + Using the FS1000A TX-RX modules to communicate with Arduino   
 
 ### Magazines
 + Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
