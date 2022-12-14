@@ -16,6 +16,10 @@ The Raspberry Pi [SBC](https://en.wikipedia.org/wiki/Single-board_computer), sin
 
 To use a microcontroller it is connected to additional electrical hardware using digital I/O, analog I/O, buses ([I2C](https://en.wikipedia.org/wiki/I%C2%B2C), [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface), [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter), etc.). A compuer is used to develop the software to run one the microcontroller. The software is downloaded from the computer to the microcontroller board where is runs.  The software is saved on flash memory on the microcontroller board and runs when the board is power up and not connected to the computer.  When problems occur the computer is connected to the microcontroller board to debug it.
 
+<p align="center">
+  <img align="right" width="215" height="53" src="/Images/rpiLogo.png"> 
+</p>
+
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 
 Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
