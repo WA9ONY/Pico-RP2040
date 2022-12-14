@@ -144,7 +144,7 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 </p>
 
 #### [Waveshare](https://www.waveshare.com/)
-Some Waveshare products are available from [Amazon](Waveshare)
+Some Waveshare products are available from [Amazon]([Waveshare](https://www.amazon.com/s?k=Waveshare&crid=AJL406YJVRKX&sprefix=waveshare%2Caps%2C136&ref=nb_sb_noss_1))
 + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
 + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 + [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
