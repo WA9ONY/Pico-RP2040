@@ -68,7 +68,7 @@ Wikipedia
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
 
 <p align="center">
-  <img width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
+  <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
 </p>
 
 #### [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
