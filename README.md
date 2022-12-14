@@ -111,7 +111,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 + Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
 
 <p align="center">
-  <img width="169" height="83" src="/Images/sparkfunLogo.png"> 
+  <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
 
 #### [SparkFun](https://www.sparkfun.com/)
