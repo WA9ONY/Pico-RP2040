@@ -39,7 +39,9 @@ Wikipedia
 
 ### Videos
 + Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://www.youtube.com/watch?v=HOi_AYEgSmo) - Glen Popiel, KW5GP
-+ YouTube: Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
++ YouTube
+  + Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
+  + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
 
 ### Books
 + Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
@@ -53,11 +55,6 @@ Wikipedia
 
 ### Internet Archive Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
 
-### GitHub Repo
-+ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
-+ Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
-  + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
-
 ### List >40 RP2040 boards
 
 + Wikipedia list on [RP2040](https://en.wikipedia.org/wiki/Adafruit_Industries)
@@ -69,7 +66,6 @@ Wikipedia
 + Renzo Mischianti [Raspberry Pi Pico, W, and other rp2040 boards: pinout, specs, and Arduino IDE configuration – 1](https://www.mischianti.org/2022/09/26/raspberry-pi-pico-w-and-other-rp2040-boards-pinout-specs-and-arduino-ide-configuration-1/)
 + MUO [11 Alternatives to the Raspberry Pi Pico](https://www.makeuseof.com/alternatives-to-the-raspberry-pi-pico/)
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
-
 
 <p align="center">
   <img width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
@@ -160,6 +156,11 @@ Some Waveshare products are available from [Amazon](Waveshare)
   - [RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico](https://www.amazon.com/RP2040-Assembly-Language-Programming-Cortex-M0/dp/148427752X/ref=sr_1_1?crid=10C0D1RJF1EMB&keywords=raspberry+pi+pico+assembly+language+programming&qid=1670506014&sprefix=Raspberry+Pi+Pico+ass%2Caps%2C158&sr=8-1) 1st ed. Edition
     * Shows how to mix assembly with C in a program
  
+ ### GitHub Repo
++ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
++ Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
+  + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
++ YouTube git & GitHub [list](https://www.youtube.com/results?search_query=GitHub)
  
 ## Arduino Microcontroller 
 ### Overview 
