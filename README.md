@@ -110,6 +110,10 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
 + Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
 
+<p align="center">
+  <img width="169" height="83" src="/Images/sparkfunLogo.jpg"> 
+</p>
+
 #### [SparkFun](https://www.sparkfun.com/)
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
