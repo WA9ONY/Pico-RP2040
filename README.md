@@ -245,7 +245,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 <TABLE>
   <TR>
     <TD>
-      Title
+      Book Title
     </TD>
     <TD>
       Author
@@ -262,8 +262,8 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   </TR>
   
   <TR>
-    <TD>
-      Raspberry Pi Pico for Radio Amateurs 
+    <TD> 
+      <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Raspberry Pi Pico for Radio Amateurs</A>
     </TD>
     <TD>
       G7SCU
@@ -281,7 +281,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   
    <TR>
    <TD>
-      Microcontroller Projects for Amateur Radio
+     <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/132600">Microcontroller Projects for Amateur Radio</A>
     </TD>
     <TD>
       W8TEE, AC8GY
@@ -298,7 +298,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   </TR>
 
   <TD>
-      More Arduino Projects for Ham Radio
+      <A HREF="https://www.arrl.org/arduino2">More Arduino Projects for Ham Radio</A>
     </TD>
     <TD>
       KW5GP
@@ -315,11 +315,11 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   </TR>
   
   <TR>
-    <TD>
-      Arduino Projects for Amateur Radio 
+    <TD> 
+      <A HREF="https://www.accessengineeringlibrary.com/content/book/9780071834056">Arduino Projects for Amateur Radio</A>
     </TD>
     <TD>
-      W8TEE, W6DQ,
+      W8TEE, W6DQ, et al.
     </TD>
      <TD>
       2014
@@ -334,7 +334,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   
   <TR>
     <TD>
-      Arduino for Ham Radio
+      <A HREF="https://www.arrl.org/arduino">Arduino for Ham Radio</A>
     </TD>
     <TD>
       KW5GP
@@ -352,7 +352,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   
   <TR>
    <TD>
-      Ham Radio for Arduino and Picaxe
+      <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/114304">Ham Radio for Arduino and Picaxe</A>
     </TD>
     <TD>
       WA5ZNU
@@ -370,7 +370,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
  
   <TR>
    <TD>
-      Arduino for Ham Radio - Part 3 Book
+      <A HREF="http://www.kw5gp.com/Arduino3/">Arduino for Ham Radio - Part 3 Book</A>
     </TD>
     <TD>
       KW5GP
