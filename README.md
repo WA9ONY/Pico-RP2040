@@ -139,6 +139,10 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
 + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
 
+<p align="center">
+  <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
+</p>
+
 #### [Waveshare](https://www.waveshare.com/)
 Some Waveshare products are available from [Amazon](Waveshare)
 + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
