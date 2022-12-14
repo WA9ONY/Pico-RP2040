@@ -263,9 +263,24 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       2021
     </TD>
     <TD>
-      307
+      307 pages
     </TD>
   </TR>
+    </TR>
+    <TD>
+      Arduino Projects for Amateur Radio 
+    </TD>
+    <TD>
+      W8TEE
+    </TD>
+     <TD>
+      2014
+    </TD>
+    <TD>
+      464 pages
+    </TD>
+  </TR>
+
 </TABLE>
 
 ## Project 2: Build a Computer for Micorocontroller Development
