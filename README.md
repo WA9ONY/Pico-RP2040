@@ -10,7 +10,7 @@
 
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
-The RP2040 is a dual core, 32-bit [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family) [Cortex M0+](https://developer.arm.com/Processors/Cortex-M0-Plus) processor that has very low power requirements. Therefore, it is a good choice for battery operation.
+The RP2040 is a dual core, 32-bit [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family) [Cortex M0+](https://developer.arm.com/Processors/Cortex-M0-Plus) ([Wikipedia](https://en.wikipedia.org/wiki/ARM_Cortex-M) processor that has very low power requirements. Therefore, it is a good choice for battery operation.
 
 The Raspberry Pi [SBC](https://en.wikipedia.org/wiki/Single-board_computer), single board computers, are the third most popular personal computer behind Apple Mac OS, and Window PCs.  A SBC runs an operation system to interface to the user and runs various programs.  In contrast the RP2040 is a [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) design to interface to hardware to do a signal task. 
 
