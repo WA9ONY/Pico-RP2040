@@ -250,9 +250,11 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       Date
     </TD>
     <TD>
-      Size
+      Pages
     </TD>
   </TR>
+  
+  <TR>
     <TD>
       Raspberry Pi Pico for Radio Amateurs 
     </TD>
@@ -263,10 +265,40 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       2021
     </TD>
     <TD>
-      307 pages
+      307 
     </TD>
   </TR>
-    </TR>
+  
+    <TR>
+   <TD>
+      Microcontroller Projects for Amateur Radio
+    </TD>
+    <TD>
+      W8TEE, AC8GY
+    </TD>
+     <TD>
+      2020
+    </TD>
+    <TD>
+      400
+    </TD>
+  </TR>
+
+   <TD>
+      More Arduino Projects for Ham Radio
+    </TD>
+    <TD>
+      KW5GP
+    </TD>
+     <TD>
+      2017
+    </TD>
+    <TD>
+      500
+    </TD>
+  </TR>
+  
+  <TR>
     <TD>
       Arduino Projects for Amateur Radio 
     </TD>
@@ -277,7 +309,37 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       2014
     </TD>
     <TD>
-      464 pages
+      464 
+    </TD>
+  </TR>
+  
+  <TR>
+    <TD>
+      Arduino for Ham Radio
+    </TD>
+    <TD>
+      KW5GP
+    </TD>
+     <TD>
+      2014
+    </TD>
+    <TD>
+      352
+    </TD>
+  </TR>
+  
+  <TR>
+   <TD>
+      Ham Radio for Arduino and Picaxe
+    </TD>
+    <TD>
+      Author
+    </TD>
+     <TD>
+      2013
+    </TD>
+    <TD>
+      WA5ZNU
     </TD>
   </TR>
 
