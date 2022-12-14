@@ -19,7 +19,7 @@ To use a microcontroller it is connected to additional electrical hardware using
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 
 Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
-In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RB2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
+In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
 
 <p align="center">
   <img width="640" height="161" src="/Images/picoPicoW.jpg">  
@@ -57,7 +57,6 @@ Wikipedia
 + [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
   +[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
-+ [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 
 ### List >40 RP2040 boards
 
@@ -229,6 +228,7 @@ The Raspberry Pi P400 full install includes git.
   + TBD
   + Wikipedia
     + [RGitHub]([https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico](https://en.wikipedia.org/wiki/GitHub))
+  + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 + Videos
   + YouTube [list](https://www.youtube.com/results?search_query=GitHub)
 + Books
