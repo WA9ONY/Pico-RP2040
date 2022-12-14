@@ -114,7 +114,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   <img width="640" height="278" src="/Images/arduinoNanoM.jpg">  
 </p>
 
-+ [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
++ Above photo is an [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
 + Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
 
