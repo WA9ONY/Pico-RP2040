@@ -56,7 +56,7 @@ Wikipedia
 ### GitHub Repo
 + [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
-  +[raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
+  + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 
 ### List >40 RP2040 boards
 
@@ -114,22 +114,25 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
 + Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
 
-+ [SparkFun](https://www.sparkfun.com/)
+#### [SparkFun](https://www.sparkfun.com/)
+Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
   + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
   + [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745)
   + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
   + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
 
-+ [Seeed Studio](https://www.seeedstudio.com/)
-  + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
-  + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
+#### [Seeed Studio](https://www.seeedstudio.com/)
+Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
++ [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
++ [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
 
-+ [Waveshare](https://www.waveshare.com/)
-  + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
-  + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
-  + [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-  + [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
+#### [Waveshare](https://www.waveshare.com/)
+Some Waveshare products are available from [Amazon](Waveshare)
++ [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
++ [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
++ [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
++ [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
 
 ### Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
