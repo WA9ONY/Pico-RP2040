@@ -126,6 +126,10 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
   + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
 
+<p align="center">
+  <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
+</p>
+
 #### [Seeed Studio](https://www.seeedstudio.com/)
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
