@@ -216,7 +216,18 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 + ARRL
   - [Arduino](https://www.arrl.org/arduino) 352 pages by KW5GP
   - [Arduino 2](https://www.arrl.org/arduino2) 500 pages by KW5GP
-Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
+  - [More Arduino for Ham Radio](https://home.arrl.org/action/Store/Product-Details/productId/133985) 384 pages by KW5GP
+    - Projects:
+    - Yaesu FH-2 Keypad
+    - Peltier Cooler Controller
+    - Rotator Turn Indicator
+    - Rotator Position Indicator
+    - Build Your Own AR-40 Rotator Controller
+    - USB CW Keyboard
+    - Yaesu CAT Display
+    - CDE/HyGain Keypad Rotator Controller
+    - RTTY Reader
++ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
 
 ### Magazines
 + Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
