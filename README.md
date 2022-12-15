@@ -284,7 +284,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
      <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/132600">Microcontroller Projects for Amateur Radio</A>
     </TD>
     <TD>
-      W8TEE, AC8GY
+      <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A> & <A HREF="https://www.qrz.com/db/AC8GY">AC8GY</A>
     </TD>
      <TD>
       2020
@@ -301,7 +301,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       <A HREF="https://www.arrl.org/arduino2">More Arduino Projects for Ham Radio</A>
     </TD>
     <TD>
-      KW5GP
+      <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
      <TD>
       2017
@@ -319,7 +319,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       <A HREF="https://www.accessengineeringlibrary.com/content/book/9780071834056">Arduino Projects for Amateur Radio</A>
     </TD>
     <TD>
-      W8TEE, W6DQ, et al.
+      <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A>,  <A HREF="https://www.qrz.com/db/W6DQ">W6DQ</A>, et al.
     </TD>
      <TD>
       2014
@@ -337,7 +337,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       <A HREF="https://www.arrl.org/arduino">Arduino for Ham Radio</A>
     </TD>
     <TD>
-      KW5GP
+      <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
      <TD>
       2014
@@ -355,7 +355,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/114304">Ham Radio for Arduino and Picaxe</A>
     </TD>
     <TD>
-      WA5ZNU
+      <A HREF="https://www.qrz.com/db/WA5ZNU">WA5ZNU</A>
     </TD>
      <TD>
       2013
@@ -373,7 +373,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
       <A HREF="http://www.kw5gp.com/Arduino3/">Arduino for Ham Radio - Part 3 Book</A>
     </TD>
     <TD>
-      KW5GP
+      <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
      <TD>
       ?
