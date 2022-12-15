@@ -238,7 +238,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 ## Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
-  <img width="567" height="484" src="/Images/Books2.png">  
+  <img width="567" height="484" src="/Images/Books3.png">  
 </p>
 
 
