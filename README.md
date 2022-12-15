@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="400" height="453" src="/Images/RP2040b.jpg">  
+  <img width="400" height="453" src="/Images/RP2040b.png">  
 </p>
 
 Raspberry Pi RP2040 Microcontroller.
