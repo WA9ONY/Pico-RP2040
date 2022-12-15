@@ -1,8 +1,17 @@
 # Raspberry Pi Pico & RP2040 Microcontroller Projects
 
+
+<p align="center">
+  <img width="400" height="453" src="/Images/RP2040b.jpg">  
+</p>
+
+Raspberry Pi RP2040 Microcontroller.
+
 <p align="center">
   <img width="739" height="337" src="/Images/picoS.jpg">  
 </p>
+
+Raspberry Pi Pico Microcontroller Board
 
 [David Haworth](http://www.stargazing.net/david/index.html), [WA9ONY](https://www.qrz.com/db/WA9ONY)
 
