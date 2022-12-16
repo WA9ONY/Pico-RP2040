@@ -187,8 +187,9 @@ Books are listed with the newest at the top of the table.
 </TABLE>
 
 
-+ Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 307 pages. 201 project pages
-  + Book Overview [video](https://youtu.be/lU5fIYW1U0Y)
+## Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 
++ Book Overview [video](https://youtu.be/lU5fIYW1U0Y)
++ Contents
 
 <p>
 <pre>
@@ -326,30 +327,32 @@ Index . . . . . . . . . . . . . . . . . . . . . . . .  307
 </pre>
 </p>
 
-## Books
-+ [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
-+ ARRL
-  - [Arduino for Ham Radio](https://www.arrl.org/arduino) 352 pages by KW5GP
-  - [More Arduino Projects for Ham Radio](https://www.arrl.org/arduino2) 500 pages by KW5GP
-  - [More Arduino for Ham Radio](https://home.arrl.org/action/Store/Product-Details/productId/133985) 384 pages by KW5GP
-    - Projects:
-    - Yaesu FH-2 Keypad
-    - Peltier Cooler Controller
-    - Rotator Turn Indicator
-    - Rotator Position Indicator
-    - Build Your Own AR-40 Rotator Controller
-    - USB CW Keyboard
-    - Yaesu CAT Display
-    - CDE/HyGain Keypad Rotator Controller
-    - RTTY Reader
+## [More Arduino for Ham Radio](https://home.arrl.org/action/Store/Product-Details/productId/133985) 384 pages by KW5GP
+- Projects:
+- Yaesu FH-2 Keypad
+- Peltier Cooler Controller
+- Rotator Turn Indicator
+- Rotator Position Indicator
+- Build Your Own AR-40 Rotator Controller
+- USB CW Keyboard
+- Yaesu CAT Display
+- CDE/HyGain Keypad Rotator Controller
+- RTTY Reader
+
 + Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
 
 <p align="center">
   <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
 </p>
-
-## Books
 + Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
+
+
+## [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
+
++ ARRL
+  - [Arduino for Ham Radio](https://www.arrl.org/arduino) 352 pages by KW5GP
+  - [More Arduino Projects for Ham Radio](https://www.arrl.org/arduino2) 500 pages by KW5GP
+
 + Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 
 
