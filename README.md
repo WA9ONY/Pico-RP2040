@@ -11,10 +11,8 @@ Raspberry Pi RP2040 Microcontroller IC.
 <p align="center">
 <A HREF="http://www.stargazing.net/david/index.html">David Haworth</A>, <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A>
 </p> 
- 
-[David Haworth](http://www.stargazing.net/david/index.html), [WA9ONY](https://www.qrz.com/db/WA9ONY)
 
-This repo is focused on documenting WA9ONY learning experinces and projects using microcontrollers for ham radio.  The startomg focus is on the new RP2040 microcontroller ecosystem and the defacto standard Arduino microcontroller ecosystem.
+This repo is focused on documenting WA9ONY learning experinces, resources and projects using microcontrollers for ham radio.  Most of the focus is on  the new (2021) RP2040 microcontroller ecosystem and the defacto standard (2005) Arduino microcontroller ecosystem.
  
 # Project 1: Ham Radio Micorocontroller Books
 
