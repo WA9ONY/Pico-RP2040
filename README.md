@@ -5,10 +5,12 @@
   <img width="400" height="453" src="/Images/RP2040b.png">  
 </p>
 
+<p><center>
 Raspberry Pi RP2040 Microcontroller.
+</center></p>
 
 <p align="center">
-  <img width="739" height="337" src="/Images/picoS.jpg">  
+  <img width="554" height="459" src="/Images/PicoBooth50.png">  
 </p>
 
 Raspberry Pi Pico Microcontroller Board
