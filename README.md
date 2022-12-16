@@ -304,29 +304,24 @@ Chapter 6 • Amateur Radio Hardware-based Projects . . . . . . . . . . . . . . 
 6.12.3 Project 23: Setting Morse speed using an LCD and a rotary encoder  . . . . . . .  225
 6.13 Project 24: Relay sequencer with time delays . . . . . . . . . . . . . . . . . . . . . . . . .  232
 6.14 Project 25: FM radio with the Raspberry Pi Pico  . . . . . . . . . . . . . . . . . . . . . . .  236
-6.14.1 Project 26: Modified FM Radio - increasing the output signal level–connecting a loudspeaker . . . . . . . . . . . . . . . .  244
+6.14.1 Project 26: Modified FM Radio - increasing the output signal level–connecting a loudspeaker . .  . .  244
 6.14.2 Project 27: FM radio using an LCD and external buttons . . . . . . . . . . . . . . . .  246
 6.14.3 Project 28: FM radio using an LCD and rotary encoder . . . . . . . . . . . . . . . . .  251
-6.15 Project 29: Measure the frequency and duty cycle of a PWM waveform –
-screen display . . . . . . . . . . . . . . .  . . . . . . . . . . .  257
-6.16 Project 30: Measure the frequency and duty cycle of a PWM waveform –
-LCD display . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . .  259
+6.15 Project 29: Measure the frequency and duty cycle of a PWM waveform – screen display . . . . .  257
+6.16 Project 30: Measure the frequency and duty cycle of a PWM waveform – LCD display . . .. . . . .  259
 6.17 Raspberry Pi Pico Bluetooth interface  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  260
 6.17.1 Project 31: Controlling an LED from a smartphone using Bluetooth  . . . . . . . .  260
 6.18 Project 32: Station security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  265
-6.19 Project 33: Generating accurate squarewave signals using the
-Raspberry Pi Pico State Machines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  270
-6.20 Project 34: Using Wi-Fi with the Raspberry Pi Pico –
-Controlling an LED from a smartphone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  271
-●8﻿
+6.19 Project 33: Generating accurate squarewave signals using the Raspberry Pi Pico State Machines .   270
+6.20 Project 34: Using Wi-Fi with the Raspberry Pi Pico – Controlling an LED from a smartphone . .  . .  271
 6.21 Project 35: Audio amplifier module with rotary encoder volume control . . . . . . .  279
 6.22 Project 36: Morse decoder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  285
 6.23 Raspberry Pi Pico RTL-SDR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  296
 6.24 Project 37: Using the FS1000A 433 MHz transmitter/receiver pair  . . . . . . . . . .  298
 Chapter 7 • Running a Program Automatically after the Raspberry Pi Pico Boots .  304
-APPENDIX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  306
-Parts Used in Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  306
-Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  307
+APPENDIX . . . . . . . . . . . . . . . . . .  . . . .  306
+Parts Used in Projects . . . . . . . .  . . . . . . .  306
+Index . . . . . . . . . . . . . . . . . . . . . . . .  307
 
 </pre>
 </p>
