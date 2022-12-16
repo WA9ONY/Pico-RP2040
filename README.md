@@ -468,7 +468,7 @@ Timber-RTC
 # Project : Micorocontrollers 
 
 <p align="center">
-  <img width="522" height="441" src="/Images/AD9833s50.png">  
+  <img width="522" height="441" src="/Images/AD9833s50b.png">  
 </p>
 
 <p align="center">
