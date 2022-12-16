@@ -323,7 +323,6 @@ Chapter 7 • Running a Program Automatically after the Raspberry Pi Pico Boots 
 APPENDIX . . . . . . . . . . . . . . . . . .  . . . .  306
 Parts Used in Projects . . . . . . . .  . . . . . . .  306
 Index . . . . . . . . . . . . . . . . . . . . . . . .  307
-
 </pre>
 </p>
 
@@ -339,21 +338,84 @@ Index . . . . . . . . . . . . . . . . . . . . . . . .  307
 - CDE/HyGain Keypad Rotator Controller
 - RTTY Reader
 
-+ Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
+## Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
+
+## [Arduino for Ham Radio](https://www.arrl.org/arduino) 352 pages by KW5GP
+
+## Arduino Projects for Amateur Radio
+<p>
+<pre>
+1 Introduction
+2 I Don't Know How to Program
+3 The LCD Shield Project
+4 Station Timer
+5 A General Purpose Panel Meter
+6 Dummy Load
+7 A CW Automatic Keyer
+8 A Morse Code Decoder
+9 A PS2 Keyboard CW Encoder
+10 Project Integration
+11 Universal Relay Shield
+12 A Flexible Sequencer
+13 Rotator Controller
+14 A Directional Watt and SWR Meter
+15 A Simple Frequency Counter
+16 A DDS VFO
+17 A Portable Solar Power Source
+A Suppliers and Sources
+B Substituting Parts
+C Arduino Pin Mapping
+D Check out these Tab books for building, tweaking, and boosting radios!
+</pre>
+</p>
+
+## [More Arduino Projects for Ham Radio](https://www.arrl.org/arduino2) 500 pages by KW5GP
+<p>
+<pre>
+Chapter 8 — Auto On/Off Mobile Power Control
+Chapter 9 — Station Power Monitor
+Chapter 10 — AC Current Monitor
+Chapter 11 — Load Tester
+Chapter 12 — Voice Memory Keyer
+Chapter 13 — Wireless Remote Coax Switch
+Chapter 14 — Wireless Remote Telemetry
+Chapter 15 — GPS-Based Ethernet Network Time Protocol Server
+Chapter 16 — Yaesu FT-series Transceiver Rotator Controller Interface
+Chapter 17 — Yaesu G-450A/G-800SA Rotator Controller Rebuild
+Chapter 18 — Yaesu Rotator Controller Modification
+Chapter 19 — 1 to 30 MHz DDS VFO
+Chapter 20 — Antenna SWR Analyzer
+Chapter 21 — 40 Meter QRP CW Transceiver
+Chapter 22 — 40 Meter QRP JT65 Transceiver
+Chapter 22 — HFWST software
+Chapter 22 — MPIDE software (227 MB file)
+</pre>
+</p>
+
+## Arduino for Ham Radio - Part 3 Book
+<p>
+<pre>
+CH 7 Yaesu FH-2 Keypad
+CH 8 Peltier Cooler Controller
+CH 9 Antenna Rotation Indicator
+CH 10 Antenna Direction Indicator
+CH 11 Build Your Own AR-40 Rotator Controller
+CH 12 Modified AR-40 Rotator Controller
+CH 13 USB CW Keyboard
+CH 14 Yaesu CAT Display
+CH 15 CDE/HyGain Keypad Rotator Controller
+CH 16 RTTY Reader
+</pre>
+</p>
 
 <p align="center">
   <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
 </p>
-+ Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
-
+## Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
 
 ## [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
 
-+ ARRL
-  - [Arduino for Ham Radio](https://www.arrl.org/arduino) 352 pages by KW5GP
-  - [More Arduino Projects for Ham Radio](https://www.arrl.org/arduino2) 500 pages by KW5GP
-
-+ Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
+## Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 
 
 # Project : Micorocontrollers Magazines
