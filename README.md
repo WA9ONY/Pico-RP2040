@@ -17,7 +17,7 @@ This repo is focused on documenting WA9ONY learning experinces, resources and pr
 # Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
-  <img width="567" height="484" src="/Images/Books3.png">  
+  <img width="567" height="740" src="/Images/Books4.png">  
 </p>
 
 <TABLE>
