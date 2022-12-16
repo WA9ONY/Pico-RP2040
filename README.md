@@ -465,6 +465,33 @@ Timber-RTC
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
 
 
+# Project : Micorocontrollers Applications
+
+<p align="center">
+  <img width="522" height="441" src="/Images/AD9833s50b.png">  
+</p>
+
+<p align="center">
+Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
+</p>
+
+## Microcontrollers are used to configure and operate ICs and electronic subsystem modules.
+
+Building electronic projects has changed over the years.  Today ICs are very samll surface mount packages that are a challenge to work with by themselves.  Sometimes the IC can be found mounted on a small circuit board with other components as is shown in the above photo of two AD9833 [21 page data sheet PDF](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9833.pdf) 0 MHz to 12.5 MHz Sine Square Wave DDS Signal Generator modules (module front side view & back side view).  Three AD9833 modules cost $12.99 with free shipping from [Amazon](https://www.amazon.com/dp/B09WV5LV3Q?ref=ppx_yo2ov_dt_b_product_details&th=1) 
+
+Therefore, enstead of building a project with ICs it is common to use modules that contain the IC.  The modules bacome functional subsystems of the project.  For example, the AD9833 module contains seven other componets (25 MHz XTAL, caps & resistors) to make the AD9833 operational and eaiser to use.  
+Also, in the past ICs had dedicated pins to control their functions.  To reduce cost and size those pins were replaced by serial interfaces (I2C, SPI, etc.)  The benefits are less pins, lower cost and smaller size.  In order to use the AD9833 a serial interface to a microcontroller or microporocessor with a three wire SPI interface is needed to configure and use the AD9833.  See the AD9833 Programmable Waveform Generator YouTube [video](https://youtu.be/PWj3QBuNFv8) show how to use the AD9833 module with a Arduino microcontroller.
+
+In the above photo, the AD9833 module interface requires Vcc, DigitalGND, AnalogGND, three wire SPI (SDATA SPI serial data, SCLK SPI serial clock, FSYNC SPI frame synchronization) and the function generator output signal is at OUT.
+
+YouTube
++ [Hamshield: Arduino meets amateur radio](https://youtu.be/xLTSlcZK14I)
+
+## Microcontrollers are used to read, process, log and communicate sensor data.
+
+For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
+
+
 # Project : Micorocontrollers 
 
 <p align="center">
@@ -472,7 +499,7 @@ Timber-RTC
 </p>
 
 <p align="center">
-Two AD9833 Function Generators & Raspberry Pi Pico Microcontroller Boards.
+Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
 </p>
 
 
