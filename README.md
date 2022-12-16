@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="400" height="453" src="/Images/RP2040Both.png">  
+  <img width="400" height="453" src="/Images/RP2040b.png">  
 </p>
 
 <p align="center">
@@ -10,11 +10,13 @@ Raspberry Pi RP2040 Microcontroller.
 </p>
 
 <p align="center">
-  <img width="554" height="459" src="/Images/PicoBooth50.png">  
+  <img width="554" height="459" src="/Images/PicoBoth50.png">  
 </p>
 
-Raspberry Pi Pico Microcontroller Board
-
+<p align="center">
+Raspberry Pi Pico W and Pico Microcontroller Boards
+</p>
+  
 [David Haworth](http://www.stargazing.net/david/index.html), [WA9ONY](https://www.qrz.com/db/WA9ONY)
 
 ## RP2040 Microcontroller Introduction
