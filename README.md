@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  <img width="400" height="453" src="/Images/RP2040b.png">  
+  <img width="400" height="453" src="/Images/RP2040Both.png">  
 </p>
 
-<p><center>
+<p align="center">
 Raspberry Pi RP2040 Microcontroller.
-</center></p>
+</p>
 
 <p align="center">
   <img width="554" height="459" src="/Images/PicoBooth50.png">  
