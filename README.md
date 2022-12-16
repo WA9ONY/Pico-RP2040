@@ -1,4 +1,4 @@
-# Raspberry Pi Pico & RP2040 Microcontroller Projects
+# RP2040 & Arduino Microcontroller Ham Radio Projects
 
 <p align="center">
   <img width="400" height="453" src="/Images/RP2040b.png">  
