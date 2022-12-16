@@ -408,6 +408,37 @@ CH 16 RTTY Reader
 </pre>
 </p>
 
+## Ham Radio for Arduino and Picaxe
+<p>
+<pre>
+Project Files and References
+Axekey
+Airgate
+MM-Shield
+QRSS-ATTiny
+Thermic
+Pharos
+Sunflower
+Counter
+Time-Out
+Hermes
+Timber
+Sweeper
+ARS
+Buddy
+Cascata
+CQDX
+Dozen
+Hardware
+LCDShields
+Marinus
+Nanokeyer
+Preface
+Swamper
+Timber-RTC
+</pre>
+</p>
+
 <p align="center">
   <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
 </p>
