@@ -467,6 +467,16 @@ Timber-RTC
 
 # Project : Micorocontrollers 
 
+<p align="center">
+  <img width="522" height="441" src="/Images/AD9833s50.png">  
+</p>
+
+<p align="center">
+Two AD9833 Function Generators & Raspberry Pi Pico Microcontroller Boards.
+</p>
+
+
+
 ## RP2040 Microcontroller Introduction
 
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
