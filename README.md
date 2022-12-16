@@ -20,6 +20,8 @@ This repo is focused on documenting WA9ONY learning experinces, resources and pr
   <img width="567" height="740" src="/Images/Books4.png">  
 </p>
 
+Books are listed with the newest at the top of the table.
+
 <TABLE>
   <TR>
     <TD>
@@ -184,13 +186,7 @@ This repo is focused on documenting WA9ONY learning experinces, resources and pr
 
 </TABLE>
 
-<p align="center">
-  <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
-</p>
 
-## Books
-+ Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
-+ Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 + Raspberry Pi Pico for Radio Amateurs ([print & E-book](https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book)) color PDF 307 pages. 201 project pages
   + Book Overview [video](https://youtu.be/lU5fIYW1U0Y)
   + Station mains power on/off control
@@ -210,6 +206,152 @@ This repo is focused on documenting WA9ONY learning experinces, resources and pr
   + Morse decoder
   + Using the FS1000A TX-RX modules to communicate with Arduino   
 
+<p>
+<pre>
+
+Chapter 1 • Raspberry Pi Pico Hardware  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+1.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+1.2 Pico hardware module . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+1.3 Comparison with the Arduino UNO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+1.4 Operating conditions and powering the Pico . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+1.5 Pinout of the RP2040 microcontroller and Pico module  . . . . . . . . . . . . . . . . . . . .  16
+1.6 Other RP2040 microcontroller-based boards  . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+1.6.1 Adafruit Feather RP2040 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+1.6.2 Adafruit ItsyBitsy RP2040 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+1.6.3 Pimoroni PicoSystem  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+1.6.4 Arduino Nano RP2040 Connect  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+1.6.5 SparkFun Thing Plus RP2040 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+1.6.6 Pimoroni Pico Explorer Base  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+1.6.7 SparkFun MicroMod RP2040 Processor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+1.6.8 SparkFun Pro Micro RP2040  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+1.6.9 Pico RGB Keypad Base . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+1.6.10 Pico Omnibus  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+1.6.11 Pimoroni Pico VGA Demo Base . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  24
+1.6.12 Tiny 2040 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Chapter 2 • Raspberry Pi Pico Programming  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+2.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+2.2 Installing MicroPython on Pico  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+2.2.1 Using a Raspberry Pi 4 to help install MicroPython on the Pico . . . . . . . . . . . . . .  27
+2.2.2 Using a PC (Windows 10) to help install MicroPython on Pico  . . . . . . . . . . . . . .  34
+Chapter 3 • Simple Programs – Software Only . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38
+3.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38
+3.2 Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38
+3.2.1 Average of two numbers read from the keyboard . . . . . . . . . . . . . . . . . . . . . . . 38
+3.2.2 Average of 10 numbers read from the keyboard  . . . . . . . . . . . . . . . . . . . . . . .  38
+3.2.3 Surface area of a cylinder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  39
+3.2.4 ºC to ºF conversion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  40
+●5Raspberry Pi Pico for Radio Amateurs
+3.2.5 Surface area and volume of a cylinder – user function . . . . . . . . . . . . . . . . . . .  41
+3.2.6 Table of squares of numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  41
+3.2.7 Table of trigonometric sine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  42
+3.2.8 Table of trigonometric sine, cosine and tangent . . . . . . . . . . . . . . . . . . . . . . . .  43
+3.2.9 Trigonometric function of a required angle  . . . . . . . . . . . . . . . . . . . . . . . . . . .  43
+3.2.10 Words in reverse order . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  44
+3.2.11 Calculator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  45
+3.2.12 Dice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  46
+3.2.13 Sorting lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  47
+3.2.14 File processing — writing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  47
+3.2.15 File processing — reading . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  47
+3.2.16 Squares and cubes of numbers  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  48
+3.2.17 Multiplication timetable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  48
+3.2.18 Odd or even? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  49
+3.2.19 Binary, octal, and hexadecimal  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  49
+3.2.20 Add two matrices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  50
+3.2.21 Shapes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  50
+Chapter 4 • Amateur Radio Programs — Software Only . . . . . . . . . . . . . . . . . . . . .  53
+4.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  53
+4.2 Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  53
+4.2.1 4-band resistor color code identifier  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  53
+4.2.2 4-band resistor color code identifier including small resistors . . . . . . . . . . . . . .  55
+4.2.3 Resistive potential divider . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  57
+4.2.4 Resistive attenuator design — equal source & load resistances  . . . . . . . . . . . . .  59
+4.2.5 Resistive attenuator design — unequal source & load resistances  . . . . . . . . . . .  63
+4.2.6 Zener diode based voltage regulator  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  65
+4.2.7 RC circuit frequency response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  69
+4.2.8 Resonance in series RLC circuits  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  71
+4.2.9 Calculating the inductance of a single-layer coil . . . . . . . . . . . . . . . . . . . . . . . .  74
+4.2.10 Constructing a single-layer coil for required inductance  . . . . . . . . . . . . . . . . .  76
+4.2.11 Bipolar junction transistor (BJT) voltage divider biasing  . . . . . . . . . . . . . . . . .  77
+4.2.12 Designing a common-emitter BJT transistor amplifier circuit . . . . . . . . . . . . . .  80
+●6﻿
+4.2.13 Designing active low-pass filters  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  84
+4.2.14 Quarter-wave vertical antenna length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  89
+4.2.15 The '555' Monostable / bistable / astable chip . . . . . . . . . . . . . . . . . . . . . . . .  90
+4.2. Impedance matching . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  96
+Chapter 5 • Simple Hardware-Based Projects  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  99
+5.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  99
+5.2 Project 1: Flashing the on-board LED  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  99
+5.3 Project 2: External flashing LED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  101
+5.4 Project 3: Changing the LED flashing rate using pushbutton interrupts . . . . . . . .  104
+5.5 Project 4: Binary counting LEDs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  109
+5.6 Using parallel LCDs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  112
+5.7 Project 5: LCD functions — displaying text . . . . . . . . . . . . . . . . . . . . . . . . . . . .  115
+5.8 Project 6: Seconds counter – Parallel LCD . . . . . . . . . . . . . . . . . . . . . . . . . . . .  120
+5.9 Using I2C LCDs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  121
+5.10 Project 7: Seconds counter with I2C LCD . . . . . . . . . . . . . . . . . . . . . . . . . . . .  121
+Chapter 6 • Amateur Radio Hardware-based Projects . . . . . . . . . . . . . . . . . . . . .  125
+6.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  125
+6.2 Project 1: Station mains On/Off power control . . . . . . . . . . . . . . . . . . . . . . . . .  125
+6.3 Project 2: Station clock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  129
+6.4 Project 3: Station temperature and humidity . . . . . . . . . . . . . . . . . . . . . . . . . .  134
+6.5 Project 4: Station geographical coordinates . . . . . . . . . . . . . . . . . . . . . . . . . . .  137
+6.6 Waveform generation – using software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  144
+6.6.1 Project 5: Generating a squarewave signal with amplitude under +3.3 V . . . . .  145
+6.6.2 Project 6: Generating fixed voltages  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  150
+6.6.3 Project 7: Generating a sawtooth signal . . . . . . . . . . . . . . . . . . . . . . . . . . . .  152
+6.6.4 Project 8: Generating a triangular-wave signal  . . . . . . . . . . . . . . . . . . . . . . .  154
+6.6.5 Project 9: Arbitrary periodic waveform . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  156
+6.6.6 Project 10: Generating a sinewave signal . . . . . . . . . . . . . . . . . . . . . . . . . . .  158
+6.6.7 Project 11: Generating an accurate sinewave signal using timer interrupts . . . .  161
+6.7 Waveform generation — using hardware . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  163
+6.7.1 Project 12: Fixed-frequency waveform generator . . . . . . . . . . . . . . . . . . . . . .  164
+●7Raspberry Pi Pico for Radio Amateurs
+6.7.2 Project 13: Generating waveforms with frequency-entry on
+keypad and LCD readout . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  171
+6.8 Project 14: Frequency counter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  181
+6.9 Voltmeter – Ammeter – Ohmmeter – Capacitance meter . . . . . . . . . . . . . . . . . .  187
+6.9.1 Project 15: Voltmeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  188
+6.9.2 Project 16: Ammeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  190
+6.9.3 Project 17: Ohmmeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  190
+6.9.4 Project 18: Capacitance meter  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  192
+6.10 Project 19: RF power meter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  196
+6.10.1 RF attenuators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  203
+6.10.2 dB, dBm, and W? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  204
+6.11 Project 20: Using the RadioStation Click board . . . . . . . . . . . . . . . . . . . . . . . .  206
+6.12 Morse Code exercisers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  217
+6.12.1 Project 21: Characters entered by the user . . . . . . . . . . . . . . . . . . . . . . . . .  217
+6.12.2 Project 22: Sending randomly generated characters . . . . . . . . . . . . . . . . . . . 222
+6.12.3 Project 23: Setting Morse speed using an LCD and a rotary encoder  . . . . . . .  225
+6.13 Project 24: Relay sequencer with time delays . . . . . . . . . . . . . . . . . . . . . . . . .  232
+6.14 Project 25: FM radio with the Raspberry Pi Pico  . . . . . . . . . . . . . . . . . . . . . . .  236
+6.14.1 Project 26: Modified FM Radio - increasing the output signal level –
+connecting a loudspeaker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  244
+6.14.2 Project 27: FM radio using an LCD and external buttons . . . . . . . . . . . . . . . .  246
+6.14.3 Project 28: FM radio using an LCD and rotary encoder . . . . . . . . . . . . . . . . .  251
+6.15 Project 29: Measure the frequency and duty cycle of a PWM waveform –
+screen display . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  257
+6.16 Project 30: Measure the frequency and duty cycle of a PWM waveform –
+LCD display . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  259
+6.17 Raspberry Pi Pico Bluetooth interface  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  260
+6.17.1 Project 31: Controlling an LED from a smartphone using Bluetooth  . . . . . . . .  260
+6.18 Project 32: Station security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  265
+6.19 Project 33: Generating accurate squarewave signals using the
+Raspberry Pi Pico State Machines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  270
+6.20 Project 34: Using Wi-Fi with the Raspberry Pi Pico –
+Controlling an LED from a smartphone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  271
+●8﻿
+6.21 Project 35: Audio amplifier module with rotary encoder volume control . . . . . . .  279
+6.22 Project 36: Morse decoder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  285
+6.23 Raspberry Pi Pico RTL-SDR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  296
+6.24 Project 37: Using the FS1000A 433 MHz transmitter/receiver pair  . . . . . . . . . .  298
+Chapter 7 • Running a Program Automatically after the Raspberry Pi Pico Boots .  304
+APPENDIX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  306
+Parts Used in Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  306
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  307
+
+</pre>
+</p>
+
 ## Books
 + [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
 + ARRL
@@ -227,6 +369,15 @@ This repo is focused on documenting WA9ONY learning experinces, resources and pr
     - CDE/HyGain Keypad Rotator Controller
     - RTTY Reader
 + Amazon Arduino Ham Radio Projects book [list](https://www.amazon.com/s?k=arduino+ham+radio&crid=YSCCY2436JXJ&sprefix=arduino+ham%2Caps%2C157&ref=nb_sb_ss_ts-doa-p_1_11)
+
+<p align="center">
+  <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
+</p>
+
+## Books
++ Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
++ Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
+
 
 # Project : Micorocontrollers Magazines
 
