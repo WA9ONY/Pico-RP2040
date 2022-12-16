@@ -184,6 +184,10 @@ This repo is focused on documenting WA9ONY learning experinces, resources and pr
 
 </TABLE>
 
+<p align="center">
+  <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
+</p>
+
 ## Books
 + Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
 + Amazon Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
