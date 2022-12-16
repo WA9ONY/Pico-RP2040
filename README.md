@@ -134,6 +134,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
   + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
 
+
 <p align="center">
   <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
 </p>
@@ -141,8 +142,17 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 #### [Arduino](https://www.arduino.cc/) Nano RP2040 Connect
 
 <p align="center">
+  <img width="472" height="198" src="/Images/ArduinoNano50.png">  
+</p>
+
+<p align="center">
   <img width="640" height="278" src="/Images/arduinoNanoM.jpg">  
 </p>
+
+<p align="center">
+Arduino Nano RP2040 Connect Microcontroller.
+</p>
+
 
 + Above photo is an [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
