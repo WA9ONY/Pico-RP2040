@@ -37,7 +37,7 @@ Books are listed with the newest at the top of the table.
       Date
     </TD>
      <TD>
-      Contents
+      <A HREF="./BookContents/RaspberryPiPicoforRadioAmateurs.pdf">PDF</A>
     </TD>
     <TD>
       Pages
