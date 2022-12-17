@@ -42,8 +42,11 @@ Books are listed with the newest at the top of the table.
     <TD>
       Software
     </TD>
+    <TD>
+      Price
+    </TD>
   </TR>
-  
+    
   <TR>
     <TD> 
       <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Raspberry Pi Pico for Radio Amateurs</A>
@@ -51,6 +54,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       G7SCU
     </TD>
+    <TD>
+      Elektor
+    </TD>    
      <TD>
       2021
     </TD>
@@ -63,6 +69,9 @@ Books are listed with the newest at the top of the table.
      <TD>
        <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Files</A>
     </TD>
+      <TD>
+      29.95 Euro PDF
+    </TD>
   </TR>
   
    <TR>
@@ -74,6 +83,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       G0MGX
     </TD>
+     <TD>
+      RSGB
+    </TD>     
      <TD>
       2021
     </TD>
@@ -88,6 +100,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://drive.google.com/drive/folders/1Q0chpbWhwx7m6oytslTZod9CoWsARgBl">Files</A>
     </TD>  
+    <TD>
+      $21.99 Kindle
+    </TD>
   </TR>
 
    <TR>
@@ -100,6 +115,10 @@ Books are listed with the newest at the top of the table.
      <TD>
       2020
     </TD>
+      ARRL
+     <TD>
+      2020
+    </TD>
     <TD>
       400 B&W
     </TD>
@@ -109,6 +128,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       Files ?
     </TD>  
+    <TD>
+      $39.95
+    </TD>
   </TR>
 
   <TD>
@@ -117,6 +139,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
+    </TD>
+      ARRL
+     <TD>
      <TD>
       2017
     </TD>
@@ -129,6 +154,9 @@ Books are listed with the newest at the top of the table.
    <TD>
      <A HREF="http://www.kw5gp.com/Arduino2/">Files</A>
     </TD>
+    <TD>
+      $34.95
+    </TD>
   </TR>
   
   <TR>
@@ -137,6 +165,9 @@ Books are listed with the newest at the top of the table.
     </TD>
     <TD>
       <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A>,  <A HREF="https://www.qrz.com/db/W6DQ">W6DQ</A>, et al.
+    </TD>
+     <TD>
+      Mc Graw Hill
     </TD>
      <TD>
       2014
@@ -150,6 +181,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       Files ?
     </TD>
+    <TD>
+      $25.45
+    </TD>
   </TR>
   
   <TR>
@@ -159,6 +193,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
+    </TD>
+      ARRL
+     <TD>
      <TD>
       2014
     </TD>
@@ -171,6 +208,9 @@ Books are listed with the newest at the top of the table.
     <TD>
        <A HREF="http://www.kw5gp.com/Arduino/">Files</A>
     </TD>
+    <TD>
+      Out of Print $76.06
+    </TD>
   </TR>
   
   <TR>
@@ -180,6 +220,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/WA5ZNU">WA5ZNU</A>
     </TD>
+     </TD>
+      ARRL
+     <TD>
      <TD>
       2013
     </TD>
@@ -192,6 +235,9 @@ Books are listed with the newest at the top of the table.
     <TD>
        <A HREF="http://hamradioprojects.com/projects/">Files</A>
     </TD>
+    <TD>
+      $34.95
+    </TD>
   </TR>
  
   <TR>
@@ -202,7 +248,10 @@ Books are listed with the newest at the top of the table.
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
      <TD>
-      ?
+      Maybe ARRL
+    </TD>
+    <TD>
+      Maybe 2022
     </TD>
     <TD>
       ?
@@ -212,6 +261,9 @@ Books are listed with the newest at the top of the table.
     </TD>    
     <TD>
       <A HREF="http://www.kw5gp.com/Arduino3/">Files</A>
+    </TD>
+    <TD>
+      Most likly $39.95
     </TD>
   </TR>
 
