@@ -52,7 +52,7 @@ Books are listed with the newest at the top of the table.
       2021
     </TD>
     <TD>
-      310 
+      310 Color PDF
     </TD>
      <TD>
        <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Files</A>
@@ -70,7 +70,7 @@ Books are listed with the newest at the top of the table.
       2021
     </TD>
     <TD>
-      175
+      175 Color Kindle
     </TD>
     <TD>
       <A HREF="https://drive.google.com/drive/folders/1Q0chpbWhwx7m6oytslTZod9CoWsARgBl">Files</A>
@@ -88,7 +88,7 @@ Books are listed with the newest at the top of the table.
       2020
     </TD>
     <TD>
-      400
+      400 B&W
     </TD>
     <TD>
       Files ?
@@ -105,7 +105,7 @@ Books are listed with the newest at the top of the table.
       2017
     </TD>
     <TD>
-      500
+      500 B&W
     </TD>
    <TD>
      <A HREF="http://www.kw5gp.com/Arduino2/">Files</A>
@@ -123,7 +123,7 @@ Books are listed with the newest at the top of the table.
       2014
     </TD>
     <TD>
-      464 
+      464 B&W
     </TD>
     <TD>
       Files ?
@@ -141,7 +141,7 @@ Books are listed with the newest at the top of the table.
       2014
     </TD>
     <TD>
-      352
+      352 B&W
     </TD>
    <TD>
        <A HREF="http://www.kw5gp.com/Arduino/">Files</A>
@@ -159,7 +159,7 @@ Books are listed with the newest at the top of the table.
       2013
     </TD>
     <TD>
-      352
+      352 B&W
     </TD>
     <TD>
        <A HREF="http://hamradioprojects.com/projects/">Files</A>
