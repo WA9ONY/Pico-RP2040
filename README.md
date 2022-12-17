@@ -298,6 +298,7 @@ Books are listed with the newest at the top of the table.
 
 </TABLE>
 
+# Micorocontrollers Books
 <p align="center">
   <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
 </p>
@@ -307,8 +308,11 @@ Books are listed with the newest at the top of the table.
 
 ## Amazon Books
 + Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
-+ Arduino book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
++ Python book [list](https://www.amazon.com/s?k=Python+in+books&crid=30BE822W2L736&sprefix=python+in+books%2Caps%2C169&ref=nb_sb_noss_1)
++ Arduino book [list](https://www.amazon.com/s?k=arduino+in+books&crid=1KKMCHXX3CGXS&sprefix=Arduino+in+books%2Caps%2C165&ref=nb_sb_ss_ts-doa-p_1_16)
++ C++ book [list](https://www.amazon.com/s?k=c%2B%2B+in+books&crid=30I4G3VL5WZP6&sprefix=c%2B%2B+in+books%2Caps%2C168&ref=nb_sb_ss_ts-doa-p_1_12)
 
+     
 # Project : Micorocontrollers Magazines
 
 + Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
