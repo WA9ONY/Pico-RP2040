@@ -584,6 +584,8 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 + Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
 + Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
 
+### Books
++ [Get Started with Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
 
 # Project : Micorocontrollers Development Boards 
 
