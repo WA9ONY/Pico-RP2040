@@ -30,6 +30,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       Author
     </TD>
+    <TD>
+      Publisher
+    </TD>
      <TD>
       Date
     </TD>
@@ -112,13 +115,10 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A> & <A HREF="https://www.qrz.com/db/AC8GY">AC8GY</A>
     </TD>
-     <TD>
-      2020
-    </TD>
-     <TD>
+    <TD>
       ARRL
-     </TD>  
-     <TD>
+    </TD>  
+    <TD>
       2020
     </TD>
     <TD>
