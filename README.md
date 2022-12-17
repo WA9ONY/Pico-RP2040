@@ -357,8 +357,22 @@ Index . . . . . . . . . . . . . . . . . . . . . . . .  307
 </pre>
 </p>
 
+
+## [Microcontroller Know How Amateur Radio projects and much more](https://rsgb.org/main/blog/publications/books-extra/2021/04/24/microcontroller-know-how/)
+Projects:
+- Yaesu FH-2 Keypad
+- Peltier Cooler Controller
+- Rotator Turn Indicator
+- Rotator Position Indicator
+- Build Your Own AR-40 Rotator Controller
+- USB CW Keyboard
+- Yaesu CAT Display
+- CDE/HyGain Keypad Rotator Controller
+- RTTY Reader
+
+
 ## [More Arduino for Ham Radio](https://home.arrl.org/action/Store/Product-Details/productId/133985) 384 pages by KW5GP
-- Projects:
+Projects:
 - Yaesu FH-2 Keypad
 - Peltier Cooler Controller
 - Rotator Turn Indicator
