@@ -115,7 +115,9 @@ Books are listed with the newest at the top of the table.
      <TD>
       2020
     </TD>
+     <TD>
       ARRL
+     </TD>  
      <TD>
       2020
     </TD>
@@ -139,9 +141,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
-    </TD>
-      ARRL
      <TD>
+      ARRL
+     </TD>  
      <TD>
       2017
     </TD>
@@ -193,9 +195,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
-    </TD>
-      ARRL
      <TD>
+      ARRL
+     </TD>  
      <TD>
       2014
     </TD>
@@ -220,9 +222,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/WA5ZNU">WA5ZNU</A>
     </TD>
-     </TD>
-      ARRL
      <TD>
+      ARRL
+     </TD>  
      <TD>
       2013
     </TD>
@@ -247,7 +249,7 @@ Books are listed with the newest at the top of the table.
     <TD>
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
-     <TD>
+    <TD>
       Maybe ARRL
     </TD>
     <TD>
