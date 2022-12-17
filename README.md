@@ -37,7 +37,7 @@ Books are listed with the newest at the top of the table.
       Pages
     </TD>
     <TD>
-      MCU
+      uC
     </TD>
     <TD>
       Software
@@ -82,9 +82,10 @@ Books are listed with the newest at the top of the table.
     </TD>
     <TD>
       <P>Arduino<BR>
+        Blue Pill<BR>
         STM32F103C8T6</P>  
     </TD>
-     <TD>
+    <TD>
       <A HREF="https://drive.google.com/drive/folders/1Q0chpbWhwx7m6oytslTZod9CoWsARgBl">Files</A>
     </TD>  
   </TR>
@@ -101,6 +102,9 @@ Books are listed with the newest at the top of the table.
     </TD>
     <TD>
       400 B&W
+    </TD>
+    <TD>
+    <P>Arduino</P>
     </TD>
     <TD>
       Files ?
