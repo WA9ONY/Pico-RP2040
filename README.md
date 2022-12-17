@@ -61,7 +61,9 @@ Books are listed with the newest at the top of the table.
   
    <TR>
    <TD>
-     <A HREF="https://rsgb.org/main/blog/publications/books-extra/2021/04/24/microcontroller-know-how/">Microcontroller Know How Amateur Radio projects and much more</A>
+     <P>
+     <A HREF="https://rsgb.org/main/blog/publications/books-extra/2021/04/24/microcontroller-know-how/">Microcontroller Know How Amateur Radio<BR> projects and much more</A>
+     </P>  
     </TD>
     <TD>
       G0MGX
