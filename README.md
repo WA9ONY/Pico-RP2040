@@ -36,6 +36,9 @@ Books are listed with the newest at the top of the table.
      <TD>
       Date
     </TD>
+     <TD>
+      Contents
+    </TD>
     <TD>
       Pages
     </TD>
@@ -62,6 +65,9 @@ Books are listed with the newest at the top of the table.
     </TD>    
      <TD>
       2021
+    </TD>
+     <TD>
+      Contents
     </TD>
     <TD>
       310 Color PDF
@@ -93,6 +99,9 @@ Books are listed with the newest at the top of the table.
       2021
     </TD>
     <TD>
+      Contents
+    </TD>
+    <TD>
       175 Color Kindle
     </TD>
     <TD>
@@ -122,6 +131,9 @@ Books are listed with the newest at the top of the table.
       2020
     </TD>
     <TD>
+      Contents
+    </TD>
+    <TD>
       400 B&W
     </TD>
     <TD>
@@ -146,6 +158,9 @@ Books are listed with the newest at the top of the table.
      </TD>  
      <TD>
       2017
+    </TD>
+    <TD>
+      Contents
     </TD>
     <TD>
       500 B&W
@@ -175,6 +190,9 @@ Books are listed with the newest at the top of the table.
       2014
     </TD>
     <TD>
+      [PDF](./BookContents/ArduinoProjectsforAmateurRadio.pdf)
+    </TD>
+    <TD>
       464 B&W
     </TD>
     <TD>
@@ -200,6 +218,9 @@ Books are listed with the newest at the top of the table.
      </TD>  
      <TD>
       2014
+    </TD>
+    <TD>
+      Contents
     </TD>
     <TD>
       352 B&W
@@ -229,6 +250,9 @@ Books are listed with the newest at the top of the table.
       2013
     </TD>
     <TD>
+      Contents
+    </TD>
+    <TD>
       352 B&W
     </TD>
     <TD>
@@ -254,6 +278,9 @@ Books are listed with the newest at the top of the table.
     </TD>
     <TD>
       Maybe 2022
+    </TD>
+    <TD>
+      <A HREF="http://www.kw5gp.com/Arduino3/">URL</A>
     </TD>
     <TD>
       ?
