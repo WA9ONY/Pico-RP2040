@@ -37,6 +37,9 @@ Books are listed with the newest at the top of the table.
       Pages
     </TD>
     <TD>
+      MCU
+    </TD>
+    <TD>
       Software
     </TD>
   </TR>
@@ -54,6 +57,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       310 Color PDF
     </TD>
+     <TD>
+      RP2040
+     </TD>
      <TD>
        <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Files</A>
     </TD>
@@ -75,6 +81,10 @@ Books are listed with the newest at the top of the table.
       175 Color Kindle
     </TD>
     <TD>
+      <P>Arduino<BR>
+        STM32F103C8T6</P>  
+    </TD>
+     <TD>
       <A HREF="https://drive.google.com/drive/folders/1Q0chpbWhwx7m6oytslTZod9CoWsARgBl">Files</A>
     </TD>  
   </TR>
@@ -109,6 +119,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       500 B&W
     </TD>
+    <TD>
+      <P>Arduino</P>  
+    </TD>    
    <TD>
      <A HREF="http://www.kw5gp.com/Arduino2/">Files</A>
     </TD>
@@ -128,6 +141,9 @@ Books are listed with the newest at the top of the table.
       464 B&W
     </TD>
     <TD>
+      <P>Arduino</P>  
+    </TD>    
+    <TD>
       Files ?
     </TD>
   </TR>
@@ -145,7 +161,10 @@ Books are listed with the newest at the top of the table.
     <TD>
       352 B&W
     </TD>
-   <TD>
+    <TD>
+      <P>Arduino</P>  
+    </TD>    
+    <TD>
        <A HREF="http://www.kw5gp.com/Arduino/">Files</A>
     </TD>
   </TR>
@@ -164,6 +183,9 @@ Books are listed with the newest at the top of the table.
       352 B&W
     </TD>
     <TD>
+      <P>Arduino</P>  
+    </TD>     
+    <TD>
        <A HREF="http://hamradioprojects.com/projects/">Files</A>
     </TD>
   </TR>
@@ -181,6 +203,9 @@ Books are listed with the newest at the top of the table.
     <TD>
       ?
     </TD>
+    <TD>
+     <P>Arduino</P>  
+    </TD>    
     <TD>
       <A HREF="http://www.kw5gp.com/Arduino3/">Files</A>
     </TD>
