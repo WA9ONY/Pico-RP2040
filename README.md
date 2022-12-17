@@ -37,7 +37,7 @@ Books are listed with the newest at the top of the table.
       Date
     </TD>
      <TD>
-      <A HREF="./BookContents/RaspberryPiPicoforRadioAmateurs.pdf">PDF</A>
+      Contents
     </TD>
     <TD>
       Pages
@@ -67,7 +67,7 @@ Books are listed with the newest at the top of the table.
       2021
     </TD>
      <TD>
-      Contents
+      <A HREF="./BookContents/RaspberryPiPicoforRadioAmateurs.pdf">PDF</A>
     </TD>
     <TD>
       310 Color PDF
