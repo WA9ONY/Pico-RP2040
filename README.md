@@ -190,7 +190,7 @@ Books are listed with the newest at the top of the table.
       2014
     </TD>
     <TD>
-      [PDF](./BookContents/ArduinoProjectsforAmateurRadio.pdf)
+      <A HREF="./BookContents/ArduinoProjectsforAmateurRadio.pdf">PDF</A>
     </TD>
     <TD>
       464 B&W
