@@ -16,6 +16,7 @@ This repo is focused on documenting WA9ONY learning experinces, resources used a
 
 Look at the contents column of the below table to see the various ham radio microcontroller projects that have been written abou.
 
+David Haworth, WA9ONY
 + [QRZ](https://www.qrz.com/db/WA9ONY)
 + [YouTube](https://www.youtube.com/user/DavidAHaworth)
 + [Website](http://www.stargazing.net/david/index.html)
@@ -305,12 +306,21 @@ Look at the contents column to see the various ham radio microcontroller project
 
 # Micorocontrollers Books
 <p align="center">
-  <img align="right"  width="152" height="224" src="/Images/GetStart60.png">  
+  <img align="center"  width="152" height="224" src="/Images/GetStart60.png">  
 </p>
-## Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
 
-## [Get Started With Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book) free PDF
-
+## Raspberry Pi
++ Raspberry Pi Pico Python SDK [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
++ Getting started with Raspberry Pi Pico [PDF](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)   
++ Raspberry Pi Pico C/C++ SDK [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)   
++ Connecting to the Internet with Raspberry Pi Pico W, [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
+   
+## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
++ Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
++ Get Started With Arduino, [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
+    
+##  Elektor [Books](https://www.elektor.com/books)   
+    
 ## Amazon Books
 + Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 + Python book [list](https://www.amazon.com/s?k=Python+in+books&crid=30BE822W2L736&sprefix=python+in+books%2Caps%2C169&ref=nb_sb_noss_1)
