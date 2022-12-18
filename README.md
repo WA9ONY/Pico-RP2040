@@ -316,7 +316,7 @@ Look at the contents column to see the various ham radio microcontroller project
 + Connecting to the Internet with Raspberry Pi Pico W, [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
    
 ## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
-+ Get Started with MicroPython on Raspberry Pi Pico [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
++ Get Started with MicroPython on Raspberry Pi Pico [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
 + Get Started With Arduino, [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
     
 ##  Elektor [Books](https://www.elektor.com/books)   
