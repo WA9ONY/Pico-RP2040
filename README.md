@@ -61,7 +61,7 @@ Books are listed with the newest at the top of the table.
       G7SCU
     </TD>
     <TD>
-      <A HREF="https://www.elektor.com/">Elektor</A>
+      <A HREF="https://www.elektor.com/books">Elektor</A>
     </TD>    
      <TD>
       2021
@@ -73,13 +73,13 @@ Books are listed with the newest at the top of the table.
       310 Color PDF
     </TD>
      <TD>
-      RP2040
+      <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A>
      </TD>
      <TD>
        <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Files</A>
     </TD>
       <TD>
-      29.95 Euro PDF
+     € 29.95 Euro PDF
     </TD>
   </TR>
   
@@ -105,7 +105,7 @@ Books are listed with the newest at the top of the table.
       175 Color Kindle
     </TD>
     <TD>
-      <P>Arduino<BR>
+      <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A><BR>
         <A HREF="https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html">Blue Pill</A></P>  
     </TD>
     <TD>
@@ -136,7 +136,7 @@ Books are listed with the newest at the top of the table.
       400 B&W
     </TD>
     <TD>
-    <P>Arduino</P>
+    <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>
     </TD>
     <TD>
       Files ?
@@ -153,7 +153,7 @@ Books are listed with the newest at the top of the table.
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
      <TD>
-      ARRL
+      <A HREF="https://home.arrl.org/action/Shop/Products#filter=%7B%22Facet%22%3A%7B%22Name%22%3A%22Publications%22,%22Value%22%3A%22WEB_FACET_1%22%7D,%22SubFacet%22%3A%7B%22Name%22%3A%22Books%22,%22Value%22%3A%22BOOKS%22%7D,%22Category%22%3Anull,%22SubCategory%22%3Anull%7D&searchTerm=&searchItemNameTerm=&searchDescriptionTerm=&productClass=">ARRL</A>
      </TD>  
      <TD>
       2017
@@ -165,7 +165,7 @@ Books are listed with the newest at the top of the table.
       500 B&W
     </TD>
     <TD>
-      <P>Arduino</P>  
+      <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
     </TD>    
    <TD>
      <A HREF="http://www.kw5gp.com/Arduino2/">Files</A>
@@ -195,7 +195,7 @@ Books are listed with the newest at the top of the table.
       464 B&W
     </TD>
     <TD>
-      <P>Arduino</P>  
+      <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
     </TD>    
     <TD>
       Files ?
@@ -213,7 +213,7 @@ Books are listed with the newest at the top of the table.
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
      <TD>
-      ARRL
+      <A HREF="https://home.arrl.org/action/Shop/Products#filter=%7B%22Facet%22%3A%7B%22Name%22%3A%22Publications%22,%22Value%22%3A%22WEB_FACET_1%22%7D,%22SubFacet%22%3A%7B%22Name%22%3A%22Books%22,%22Value%22%3A%22BOOKS%22%7D,%22Category%22%3Anull,%22SubCategory%22%3Anull%7D&searchTerm=&searchItemNameTerm=&searchDescriptionTerm=&productClass=">ARRL</A>
      </TD>  
      <TD>
       2014
@@ -225,7 +225,7 @@ Books are listed with the newest at the top of the table.
       352 B&W
     </TD>
     <TD>
-      <P>Arduino</P>  
+      <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
     </TD>    
     <TD>
        <A HREF="http://www.kw5gp.com/Arduino/">Files</A>
@@ -243,7 +243,7 @@ Books are listed with the newest at the top of the table.
       <A HREF="https://www.qrz.com/db/WA5ZNU">WA5ZNU</A>
     </TD>
      <TD>
-      ARRL
+      <A HREF="https://home.arrl.org/action/Shop/Products#filter=%7B%22Facet%22%3A%7B%22Name%22%3A%22Publications%22,%22Value%22%3A%22WEB_FACET_1%22%7D,%22SubFacet%22%3A%7B%22Name%22%3A%22Books%22,%22Value%22%3A%22BOOKS%22%7D,%22Category%22%3Anull,%22SubCategory%22%3Anull%7D&searchTerm=&searchItemNameTerm=&searchDescriptionTerm=&productClass=">ARRL</A>
      </TD>  
      <TD>
       2013
@@ -255,7 +255,7 @@ Books are listed with the newest at the top of the table.
       352 B&W
     </TD>
     <TD>
-      <P>Arduino</P>  
+      <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
     </TD>     
     <TD>
        <A HREF="http://hamradioprojects.com/projects/">Files</A>
@@ -285,7 +285,7 @@ Books are listed with the newest at the top of the table.
       ?
     </TD>
     <TD>
-     <P>Arduino</P>  
+     <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
     </TD>    
     <TD>
       <A HREF="http://www.kw5gp.com/Arduino3/">Files</A>
