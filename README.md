@@ -217,13 +217,14 @@ Ham radio microcontroller books table 1.1.
   
   <TR>
     <TD> 
-      <A HREF="https://www.accessengineeringlibrary.com/content/book/9780071834056">Arduino Projects for Amateur Radio</A>
+      <A HREF="https://www.academia.edu/41503314/Arduino_Projects_for_Amateur_Radio">Arduino Projects for Amateur Radio</A>
     </TD>
     <TD>
       <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A>,  <A HREF="https://www.qrz.com/db/W6DQ">W6DQ</A>, et al.
     </TD>
      <TD>
-      Mc Graw Hill
+      [O'Reilly](https://www.oreilly.com/library/view/arduino-projects-for/9780071834063/) &amp;
+      [Mc Graw Hill](https://www.accessengineeringlibrary.com/content/book/9780071834056)
     </TD>
      <TD>
       2014
@@ -241,7 +242,7 @@ Ham radio microcontroller books table 1.1.
       <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
     </TD>    
     <TD>
-      Files ?
+      URL broken
     </TD>
     <TD>
       $25.45
