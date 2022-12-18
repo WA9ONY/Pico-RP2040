@@ -30,7 +30,7 @@ David Haworth, WA9ONY
 Look at the contents column to see the various ham radio microcontroller projects that have been written about in these books. The books are sorted with the newest books at the top of the table.
 
 Summary of the eight books:
-+  > 120 chapters
++ &gt; 120 chapters
 + &#10093; 2,500 pages
 + Greater than 150 projects
   + Here is one project taken from each book.
