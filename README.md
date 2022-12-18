@@ -79,7 +79,7 @@ Books are listed with the newest at the top of the table.
        <A HREF="https://www.elektor.com/raspberry-pi-pico-for-radio-amateurs-e-book">Files</A>
     </TD>
       <TD>
-     € 29.95 Euro PDF
+        <P>€ 29.95<BR> PDF</P>
     </TD>
   </TR>
   
