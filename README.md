@@ -29,6 +29,20 @@ David Haworth, WA9ONY
 
 Look at the contents column to see the various ham radio microcontroller projects that have been written about in these books. The books are sorted with the newest books at the top of the table.
 
+Summary of the eight books:
++ >120 chapters
++ >2,500 pages
++ >150 projects
+  + Here is one project taken from each book.
+     + FM radio
+     + Simple DDS based CW TX
+     + DSP post processor
+     + 40 meter QRP JT65 transceiver
+     + DDS VFO
+     + Talking SWR meter
+     + APRS data logger
+     + RTTY reader
+
 <TABLE>
   <TR>
     <TD><P><B>
