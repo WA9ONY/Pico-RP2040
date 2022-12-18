@@ -37,9 +37,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       Author
     </B></P></TD>
-    <TH><P><B>
+    <TD><P><B>
       Publisher
-    </B></P></TH>
+    </B></P></TD>
     <TD><P><B>
       Date
     </B></P></TD>
