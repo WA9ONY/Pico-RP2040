@@ -31,9 +31,9 @@ Look at the contents column to see the various ham radio microcontroller project
 
 <TABLE>
   <TR>
-    <TD>
+    <TD><P><B>
       Book Title
-    </TD>
+      </B></P></TD>
     <TD>
       Author
     </TD>
@@ -80,7 +80,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/RaspberryPiPicoforRadioAmateurs.pdf">PDF</A>
     </TD>
     <TD>    
-    Projects
+    43
     </TD>    
     <TD>
       310 Color PDF
