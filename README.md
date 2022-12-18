@@ -36,31 +36,31 @@ Look at the contents column to see the various ham radio microcontroller project
       </B></P></TD>
     <TD>
       Author
-    </TD>
-    <TD>
+    </B></P></TD>
+    <TD><P><B>
       Publisher
-    </TD>
-     <TD>
+    </B></P></TD>
+    <TD><P><B>
       Date
-    </TD>
-     <TD>
+    </B></P></TD>
+    <TD><P><B>
       Contents
-    </TD>
-    <TD>    
+    </B></P></TD>
+    <TD><P><B>
     Projects
-    </TD>    
-    <TD>
+    </B></P></TD>
+    <TD><P><B>
       Pages
-    </TD>
-    <TD>
+    </B></P></TD>
+    <TD><P><B>
       uC
-    </TD>
-    <TD>
+    </B></P></TD>
+    <TD><P><B>
       Software
-    </TD>
-    <TD>
+    </B></P></TD>
+    <TD><P><B>
       Price
-    </TD>
+    </B></P></TD>
   </TR>
     
   <TR>
