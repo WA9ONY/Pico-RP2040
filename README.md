@@ -34,7 +34,7 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD><P><B>
       Book Title
       </B></P></TD>
-    <TD>
+    <TD><P><B>
       Author
     </B></P></TD>
     <TD><P><B>
