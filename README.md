@@ -304,7 +304,7 @@ Look at the contents column to see the various ham radio microcontroller project
 
 </TABLE>
 
-# Micorocontrollers Books
+# Project 2:  Micorocontrollers Books
 <p align="center">
   <img align="center"  width="152" height="224" src="/Images/GetStart60.png">  
 </p>
@@ -328,7 +328,7 @@ Look at the contents column to see the various ham radio microcontroller project
 + C++ book [list](https://www.amazon.com/s?k=c%2B%2B+in+books&crid=30I4G3VL5WZP6&sprefix=c%2B%2B+in+books%2Caps%2C168&ref=nb_sb_ss_ts-doa-p_1_12)
 
      
-# Project : Micorocontrollers Magazines
+# Project 3: Micorocontrollers Magazines
 
 + Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
 + MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
