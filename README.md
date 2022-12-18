@@ -61,7 +61,7 @@ Books are listed with the newest at the top of the table.
       G7SCU
     </TD>
     <TD>
-      Elektor
+      <A HREF="https://www.elektor.com/">Elektor</A>
     </TD>    
      <TD>
       2021
@@ -93,7 +93,7 @@ Books are listed with the newest at the top of the table.
       G0MGX
     </TD>
      <TD>
-      RSGB
+      <A HREF="https://www.rsgbshop.org/acatalog/Online_Catalogue_Radio_Books___CDs_29.html">RSGB</A>
     </TD>     
      <TD>
       2021
@@ -106,14 +106,13 @@ Books are listed with the newest at the top of the table.
     </TD>
     <TD>
       <P>Arduino<BR>
-        Blue Pill<BR>
-        STM32F103C8T6</P>  
+        <A HREF="https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html">Blue Pill</A></P>  
     </TD>
     <TD>
       <A HREF="https://drive.google.com/drive/folders/1Q0chpbWhwx7m6oytslTZod9CoWsARgBl">Files</A>
     </TD>  
     <TD>
-      $21.99 Kindle
+      $21.99 <A HREF="https://www.amazon.com/kindle-dbs/storefront?storeType=browse&node=154606011">Kindle</A>
     </TD>
   </TR>
 
@@ -125,7 +124,7 @@ Books are listed with the newest at the top of the table.
       <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A> & <A HREF="https://www.qrz.com/db/AC8GY">AC8GY</A>
     </TD>
     <TD>
-      ARRL
+      <A HREF="https://home.arrl.org/action/Shop/Products#filter=%7B%22Facet%22%3A%7B%22Name%22%3A%22Publications%22,%22Value%22%3A%22WEB_FACET_1%22%7D,%22SubFacet%22%3A%7B%22Name%22%3A%22Books%22,%22Value%22%3A%22BOOKS%22%7D,%22Category%22%3Anull,%22SubCategory%22%3Anull%7D&searchTerm=&searchItemNameTerm=&searchDescriptionTerm=&productClass=">ARRL</A>
     </TD>  
     <TD>
       2020
