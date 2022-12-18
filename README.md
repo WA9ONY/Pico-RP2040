@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Raspberry Pi RP2040 microcontroller IC, 0.267 square inches, with 56 pins<BR>of which most of the pins are used to interface to other electronic devices.
+The Raspberry Pi RP2040 microcontroller IC is a small computer, 0.267 square inches chip, with 56 pins<BR>of which most of the pins are used to interface to other electronic devices.
 </p>
  
 <p align="center">
