@@ -44,6 +44,10 @@ Summary of the eight books:
      + APRS data logger
      + RTTY reader
 
+<p align="center"><B>
+Ham radio microcontroller books table 1.1.
+</B></p>
+
 <TABLE>
   <TR>
     <TD><P><B>
