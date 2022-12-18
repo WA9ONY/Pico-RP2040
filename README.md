@@ -115,7 +115,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/MicrocontrollerKnowHowAmateurRadioprojects.png">PNG</A>
     </TD>
     <TD>    
-    Projects
+    9
     </TD>    
     <TD>
       175 Color Kindle
@@ -149,7 +149,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/MicrocontrollerProjectsforAmateurRadio.png">PNG</A>
     </TD>
     <TD>    
-    Projects
+    7
     </TD>    
     <TD>
       400 B&W
@@ -181,7 +181,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/MoreArduinoProjectsforHamRadio.png">PNG</A>
     </TD>
     <TD>    
-    Projects
+    14
     </TD>    
     <TD>
       500 B&W
@@ -214,7 +214,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/ArduinoProjectsforAmateurRadio.pdf">PDF</A>
     </TD>
     <TD>    
-    Projects
+    14
     </TD>    
     <TD>
       464 B&W
@@ -247,7 +247,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/ArduinoforHamRadio.png">PNG</A>
     </TD>
     <TD>    
-    Projects
+    19
     </TD>    
     <TD>
       352 B&W
@@ -280,7 +280,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/HamRadioforArduinoandPicaxe.png">PNG</A>
     </TD>
     <TD>    
-    Projects
+    19
     </TD>    
     <TD>
       352 B&W
@@ -313,7 +313,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="http://www.kw5gp.com/Arduino3/">URL</A>
     </TD>
     <TD>    
-    Projects
+    ?
     </TD>    
     <TD>
       ?
