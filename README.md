@@ -46,6 +46,9 @@ Look at the contents column to see the various ham radio microcontroller project
      <TD>
       Contents
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       Pages
     </TD>
@@ -76,6 +79,9 @@ Look at the contents column to see the various ham radio microcontroller project
      <TD>
       <A HREF="./BookContents/RaspberryPiPicoforRadioAmateurs.pdf">PDF</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       310 Color PDF
     </TD>
@@ -108,6 +114,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="./BookContents/MicrocontrollerKnowHowAmateurRadioprojects.png">PNG</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       175 Color Kindle
     </TD>
@@ -139,6 +148,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="./BookContents/MicrocontrollerProjectsforAmateurRadio.png">PNG</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       400 B&W
     </TD>
@@ -168,6 +180,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="./BookContents/MoreArduinoProjectsforHamRadio.png">PNG</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       500 B&W
     </TD>
@@ -198,6 +213,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="./BookContents/ArduinoProjectsforAmateurRadio.pdf">PDF</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       464 B&W
     </TD>
@@ -228,6 +246,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="./BookContents/ArduinoforHamRadio.png">PNG</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       352 B&W
     </TD>
@@ -258,6 +279,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="./BookContents/HamRadioforArduinoandPicaxe.png">PNG</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       352 B&W
     </TD>
@@ -288,6 +312,9 @@ Look at the contents column to see the various ham radio microcontroller project
     <TD>
       <A HREF="http://www.kw5gp.com/Arduino3/">URL</A>
     </TD>
+    <TD>    
+    Projects
+    </TD>    
     <TD>
       ?
     </TD>
@@ -315,7 +342,7 @@ Look at the contents column to see the various ham radio microcontroller project
 + Raspberry Pi Pico C/C++ SDK [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)   
 + Connecting to the Internet with Raspberry Pi Pico W, [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
    
-## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
+## Raspberry Pi Press Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
 + Get Started with MicroPython on Raspberry Pi Pico [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
 + Get Started With Arduino, [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
     
@@ -330,6 +357,7 @@ Look at the contents column to see the various ham radio microcontroller project
      
 # Project 3: Micorocontrollers Magazines
 
+## Raspberry Pi Press Free Magazines 
 + Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
 + MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
 + [Make](https://makezine.com/) magazine volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. Back issues are availale with a digital subscription.
@@ -370,7 +398,11 @@ YouTube
 
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
-
+# Project : RP2040 Microcontroller
+    
+ 
+    
+    
 # Project : Micorocontrollers 
 
 <p align="center">
@@ -431,7 +463,10 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 Raspberry Pi Pico W and Pico Microcontroller Boards
 </p>
 
-## Pico & RP2040 boards (>40) lists
+    
+## RP2040 Boards
+    
+There is greater than 40 RP2040 microcontroller boards. 
 
 + Wikipedia list on [RP2040]([https://en.wikipedia.org/wiki/Adafruit_Industries](https://en.wikipedia.org/wiki/RP2040))
 + Earle F. Philhower, III GitHub [supported RP2040 boards](https://github.com/earlephilhower/arduino-pico)
@@ -549,7 +584,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 
 # Project : Micorocontrollers Programming
 
-## Software
+# Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
   - [MicroPython](https://micropython.org/)
     * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
