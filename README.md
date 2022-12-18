@@ -14,7 +14,7 @@ Raspberry Pi RP2040 Microcontroller IC (0.267 square inches) with 56 pins.
 
 This repo is focused on documenting WA9ONY learning experinces, resources used and projects using microcontrollers for ham radio and other electronics projects.  I will be exploring the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies.  Also, microcontrollers would not be complete without understanding the defacto standard (2005) Arduino microcontroller ecosystem.
 
-Look at the contents column of the below table to see the various ham radio microcontroller projects that have been written abou.
+Look at the contents column of the below table to see the various ham radio microcontroller projects (totoal >150) that have been written abou.
 
 David Haworth, WA9ONY
 + [QRZ](https://www.qrz.com/db/WA9ONY)
@@ -280,7 +280,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="./BookContents/HamRadioforArduinoandPicaxe.png">PNG</A>
     </TD>
     <TD>    
-    19
+     19
     </TD>    
     <TD>
       352 B&W
@@ -313,7 +313,7 @@ Look at the contents column to see the various ham radio microcontroller project
       <A HREF="http://www.kw5gp.com/Arduino3/">URL</A>
     </TD>
     <TD>    
-    ?
+     10
     </TD>    
     <TD>
       ?
