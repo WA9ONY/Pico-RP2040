@@ -5,17 +5,16 @@
 </p>
 
 <p align="center">
-Raspberry Pi RP2040 Microcontroller IC (0.267 square inches) with 56 pins<BR>of which most are used to interface to other electronic devices.
+Raspberry Pi RP2040 microcontroller IC, 0.267 square inches, with 56 pins<BR>of which most of the pins are used to interface to other electronic devices.
 </p>
  
 <p align="center">
 <A HREF="http://www.stargazing.net/david/index.html">David Haworth</A>, <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A>
 </p> 
 
-This repo is focused on documenting WA9ONY learning experinces, resources used and projects using microcontrollers for ham radio and other electronics projects.  I will be exploring the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies.  Also, microcontrollers would not be complete without understanding the defacto standard (2005) Arduino microcontroller ecosystem.
+This repo is focused on documenting WA9ONY learning experinces, resources used and projects using microcontrollers for ham radio and other electronics projects.  This includes the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies to produce their own products that include the RP2040.  Also, microcontrollers would not be complete without understanding how to use the defacto standard since 2005, the Arduino microcontroller ecosystem.
 
-The ham radio projects range from a microcontroller board showing its temperature by using its LED to send the board temperature in morse code to
-transceiver built with a microcontroller and other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (totoal &gt;150) that have been written about.  YouTube and the Internet is filled with ham radio microcontroller projects. 
+The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to send the board's temperature in morse code to a transceiver built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects. 
 
 David Haworth, WA9ONY
 + [QRZ](https://www.qrz.com/db/WA9ONY)
