@@ -31,7 +31,7 @@ David Haworth, WA9ONY
 + Project 5: Forums 
 + Project 6: Micorocontrollers Applications
 + Project 7: <A HREF="#P7">RP2040 Microcontroller Introduction</A>
-+ Project 8: Arduino Microcontroller Introduction
++ Project 8: <A HREF="#P8">Arduino Microcontroller Introduction
 + Project 9: RP2040 Development Boards Lists
 + Project 10: Raspberry Pi RP2040 Boards
 + Project 11: Adafruit Industries RP2040 Boards
@@ -49,6 +49,8 @@ David Haworth, WA9ONY
 + Project 23: Run Pico on Solar Cells
 + Project 24: <A HREF="#P24">Use Pico A/D to Measure CPU Temperature</A>
 
+  
+<A NAME="P1"></A> 
 # Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
@@ -477,8 +479,9 @@ For example, a microcontroller with a temperature sensor can be used as a remote
 Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
 </p>
 
-
-# <A NAME="P7"></A> 7: RP2040 Microcontroller Introduction
+    
+<A NAME="P7"></A>
+#  7: RP2040 Microcontroller Introduction
 
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
@@ -498,6 +501,7 @@ Raspberry Pi Foundation helped redefine the personal computer market with the [R
 In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
 
     
+<A NAME="P8"></A>    
 # Project 8: Arduino Microcontroller Introduction
 ## Overview 
 [Arduino](https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
