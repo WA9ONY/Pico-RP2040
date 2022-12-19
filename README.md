@@ -353,7 +353,7 @@ Ham radio microcontroller books table 1.1.
 </TABLE>
 
 
-# Project 2:  Micorocontrollers Books
+# Project 2:  Micorocontrollers in Books
 <p align="center">
   <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
 </p>
@@ -385,16 +385,16 @@ Sign up for a account and you can borrow books.
 + Arduino [list](https://archive.org/search.php?query=Arduino)
 
 
-# Project 3: Micorocontrollers Magazines
+# Project 3: Micorocontrollers in Magazines
 
 ## Raspberry Pi Press Free Magazines 
 + Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
 + MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
-+ [Make](https://makezine.com/) magazine volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. Back issues are availale with a digital subscription.
+
+## [Make](https://makezine.com/) magazine volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. Back issues are availale with a digital subscription.
 
 
-
-# Project : Micorocontrollers Videos
+# Project 4: Micorocontrollers Videos
 
 + Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://www.youtube.com/watch?v=HOi_AYEgSmo) - Glen Popiel, KW5GP
 + YouTube
@@ -402,7 +402,14 @@ Sign up for a account and you can borrow books.
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
 
 
-# Project : Micorocontrollers Applications
+# Project 5: Forums
+
+## Groups.IO
++ SoftwareControlledHamRadio [group](https://groups.io/g/SoftwareControlledHamRadio)
+  + This is the support group for the book Microcontroller Projects for Amateur Radio.
+  + The files for book Arduino Projects for Amateur Radio are in the group files section.
+
+# Project 6: Micorocontrollers Applications
 
 <p align="center">
   <img width="522" height="441" src="/Images/AD9833s50b.png">  
@@ -428,10 +435,6 @@ YouTube
 
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
-# Project : RP2040 Microcontroller
-    
- 
-    
     
 # Project : Micorocontrollers 
 
@@ -444,8 +447,7 @@ Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
 </p>
 
 
-
-## RP2040 Microcontroller Introduction
+# Project : RP2040 Microcontroller Introduction
 
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
@@ -464,23 +466,24 @@ To use a microcontroller it is connected to additional electrical hardware using
 Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
 In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
 
-## Arduino Microcontroller 
-### Overview 
+    
+# Arduino Microcontroller Introduction
+## Overview 
 [Arduino](https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
 
 Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers). 
 + Wikipedia: [Arduino](https://en.wikipedia.org/wiki/Arduino)
 
-### Videos
+## Videos
 + Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://youtu.be/HOi_AYEgSmo) - Glen Popiel, KW5GP
 + YouTube video [list](https://www.youtube.com/results?search_query=Arduino): Arduino
   - New Arduino Tutorials [List](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) 68 videos
 
-### Magazines
+## Magazines
 + Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
 + Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
 
-### Books
+## Books
 + [Get Started with Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
 
 # Project : Micorocontrollers Development Boards 
@@ -494,7 +497,7 @@ Raspberry Pi Pico W and Pico Microcontroller Boards
 </p>
 
     
-## RP2040 Boards
+# Project : RP2040 Development Boards Lists
     
 There is greater than 40 RP2040 microcontroller boards. 
 
@@ -508,6 +511,8 @@ There is greater than 40 RP2040 microcontroller boards.
 + MUO [11 Alternatives to the Raspberry Pi Pico](https://www.makeuseof.com/alternatives-to-the-raspberry-pi-pico/)
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
 
+    
+# Project : RP2040 Development Boards from Raspberry Pi    
 
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 <p align="center">
@@ -614,7 +619,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 
 # Project : Micorocontrollers Programming
 
-# Software
+Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
   - [MicroPython](https://micropython.org/)
     * [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
