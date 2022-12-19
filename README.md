@@ -24,14 +24,31 @@ David Haworth, WA9ONY
  
 # Projects Index
  
-+ <P><A HREF="https://github.com/WA9ONY/RP2040_and_Arduino#P1/README.md#P1">1 Ham Radio Micorocontroller Books</A></P>
++ <A HREF="https://github.com/WA9ONY/RP2040_and_Arduino#P1/README.md#P1">1 Ham Radio Micorocontroller Books</A>
 + Project 2:  Micorocontrollers Books
-  
-  
-  
-  
-  
-  
++ Project 3: Micorocontrollers in Magazines
++ Project 4: Micorocontrollers Videos 
++ Project 5: Forums 
++ Project 6: Micorocontrollers Applications
++ Project 7: RP2040 Microcontroller Introduction 
++ Project 8: Arduino Microcontroller Introduction
++ Project 9: RP2040 Development Boards Lists
++ Project 10: Raspberry Pi RP2040 Boards
++ Project 11: Adafruit Industries RP2040 Boards
++ Project 12: Arduino Nano RP2040 Connect Board
++ Project 13: Seeed Studio RP2040 Boards
++ Project 14: SparkFun RP2040 Boards
++ Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
++ Project 16: Micorocontrollers Programming
++ Project 17: Arduino Micorocontrollers IDEs
++ Project 18: Build a Computer for Micorocontroller Development
++ Project 19: Setup Git and GitHub
++ Project 20: Learn Micropython on the Pico
++ Project 21: Setup Pico with Micropython
++ Project 22: Run Pico on Batteries
++ Project 23: Run Pico on Solar Cells
++ Project 24: Use Pico A/D to Measure CPU Temperature
+
 # Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
@@ -460,7 +477,7 @@ Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
 </p>
 
 
-# Project : RP2040 Microcontroller Introduction
+# Project 7: RP2040 Microcontroller Introduction
 
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
@@ -480,7 +497,7 @@ Raspberry Pi Foundation helped redefine the personal computer market with the [R
 In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
 
     
-# Arduino Microcontroller Introduction
+# Project 8: Arduino Microcontroller Introduction
 ## Overview 
 [Arduino](https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
 
@@ -510,7 +527,7 @@ Raspberry Pi Pico W and Pico Microcontroller Boards
 </p>
 
     
-# Project : RP2040 Development Boards Lists
+# Project 9: RP2040 Development Boards Lists
     
 There is greater than 40 RP2040 microcontroller boards. 
 
@@ -525,7 +542,7 @@ There is greater than 40 RP2040 microcontroller boards.
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
 
     
-# Project : RP2040 Development Boards from Raspberry Pi    
+# Project 10: Raspberry Pi RP2040 Boards   
 
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 <p align="center">
@@ -544,11 +561,12 @@ Wikipedia
 + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
 + [RP2040](https://en.wikipedia.org/wiki/RP2040)
 
+    
 <p align="center">
   <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
 </p>
 
-## [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch)
+# Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
 <p align="center">
   <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
@@ -582,7 +600,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
 </p>
 
-## [Arduino](https://www.arduino.cc/) Nano RP2040 Connect
+# Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
 <p align="center">
   <img width="472" height="198" src="/Images/ArduinoNano50.png">  
@@ -600,8 +618,7 @@ Arduino Nano RP2040 Connect Microcontroller.
   <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
 </p>
 
-
-## [Seeed Studio](https://www.seeedstudio.com/)
+# Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
 + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
@@ -610,7 +627,7 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
   <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
 
-## [SparkFun](https://www.sparkfun.com/)
+# Project 14: [SparkFun](https://www.sparkfun.com/) RP2040 Boards
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
   + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
@@ -622,7 +639,7 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
 </p>
 
-## [Waveshare](https://www.waveshare.com/)
+# Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
 Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=Waveshare&crid=AJL406YJVRKX&sprefix=waveshare%2Caps%2C136&ref=nb_sb_noss_1)
 + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
 + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
@@ -630,7 +647,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 + [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
 
 
-# Project : Micorocontrollers Programming
+# Project 16: Micorocontrollers Programming
 
 Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -659,9 +676,9 @@ Software
     * Shows how to mix assembly with C in a program
 
 
-# Project : Arduino Micorocontrollers IDEs
+# Project 17: Arduino Micorocontrollers IDEs
 
-# Project : Build a Computer for Micorocontroller Development
+# Project 18: Build a Computer for Micorocontroller Development
 
 <p align="center">
   <img width="640" height="480" src="/Images/P400.jpg">  
@@ -683,7 +700,7 @@ Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
 The full install includes Thonny and Mu.
 
-# Project 3: Setup Git and GitHub
+# Project 19: Setup Git and GitHub
 
 <p align="center">
   <img width="640" height="480" src="/Images/GitHub.jpg">  
@@ -718,7 +735,8 @@ The Raspberry Pi P400 full install includes git.
   + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + YouTube git & GitHub [list](https://www.youtube.com/results?search_query=GitHub)
 
-# Project : Learn Micropython on the Pico
+    
+# Project 20: Learn Micropython on the Pico
 
 <p align="center">
   <img width="333" height="499" src="/Images/GetStartedWithMicroPythonOnRaspberryPiPico.png">  
@@ -750,7 +768,7 @@ The Raspberry Pi P400 full install includes git.
   + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
 
 
-# Project : Setup Pico with Micropython
+# Project 21: Setup Pico with Micropython
 
 <p align="center">
   <img width="640" height="480" src="/Images/dataLogVTemp2.jpg">  
@@ -761,7 +779,8 @@ The Raspberry Pi P400 full install includes git.
 + Configure the Pico for micropython.
 + Use Thonny to create, edit and debug micropython programs to run on the Pico.
 
-# Project : Run Pico on Batteries
+    
+# Project 22: Run Pico on Batteries
 
 <p align="center">
   <img width="640" height="480" src="/Images/voltsTemp.jpg">  
@@ -772,7 +791,8 @@ The Raspberry Pi P400 full install includes git.
 + The Pico automatically switch to the highest voltage.
 + Protect both sources from loading down the other souce.
 
-# Project : Run Pico on Solar Cells
+    
+# Project 23: Run Pico on Solar Cells
 
 <p align="center">
   <img width="640" height="480" src="/Images/solar1.jpg"> 
@@ -797,7 +817,8 @@ The Raspberry Pi P400 full install includes git.
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
 
-# Project : Use Pico A/D to Measure CPU Temperature
+    
+# Project 24: Use Pico A/D to Measure CPU Temperature
 
 <p align="center">
   <img width="640" height="480" src="/Images/dataLogVTemp.jpg">  
