@@ -14,7 +14,7 @@ The Raspberry Pi RP2040 microcontroller IC is a small computer, 0.267 square inc
 
 This repo is focused on documenting WA9ONY learning experinces, resources used and projects using microcontrollers for ham radio and other electronics projects.  This includes the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies to produce their own products that include the RP2040.  Also, microcontrollers would not be complete without understanding how to use the defacto standard since 2005, the Arduino microcontroller ecosystem.
 
-The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to send the board's temperature in morse code to a transceiver built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects. 
+The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to send the board's temperature in Morse code to a transceiver built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects. 
 
 David Haworth, WA9ONY
 + [QRZ](https://www.qrz.com/db/WA9ONY)
@@ -355,7 +355,7 @@ Ham radio microcontroller books table 1.1.
 
 # Project 2:  Micorocontrollers Books
 <p align="center">
-  <img align="center"  width="152" height="224" src="/Images/GetStart60.png">  
+  <img  width="152" height="224" src="/Images/GetStart60.png">  <img width="206" height="267" src="/Images/GetStart60.png">
 </p>
 
 ## Raspberry Pi
