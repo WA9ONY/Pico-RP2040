@@ -25,28 +25,28 @@ David Haworth, WA9ONY
 # Projects Index
  
 + Project 1: <A HREF="#P1">Ham Radio Micorocontroller Books</A>
-+ Project 2: Micorocontrollers Books
-+ Project 3: Micorocontrollers in Magazines
-+ Project 4: Micorocontrollers Videos 
-+ Project 5: Forums 
-+ Project 6: Micorocontrollers Applications
-+ Project 7: <A HREF="#P7">RP2040 Microcontroller Introduction</A>
-+ Project 8: <A HREF="#P8">Arduino Microcontroller Introduction
-+ Project 9: RP2040 Development Boards Lists
-+ Project 10: Raspberry Pi RP2040 Boards
-+ Project 11: Adafruit Industries RP2040 Boards
-+ Project 12: Arduino Nano RP2040 Connect Board
-+ Project 13: Seeed Studio RP2040 Boards
-+ Project 14: SparkFun RP2040 Boards
-+ Project 15: Waveshare RP2040 Boards
-+ Project 16: Micorocontrollers Programming
-+ Project 17: Arduino Micorocontrollers IDEs
-+ Project 18: Build a Computer for Micorocontroller Development
-+ Project 19: Setup Git and GitHub
-+ Project 20: Learn Micropython on the Pico
-+ Project 21: Setup Pico with Micropython
-+ Project 22: Run Pico on Batteries
-+ Project 23: Run Pico on Solar Cells
++ Project 2: <A HREF="#P2">Micorocontrollers Books</A>
++ Project 3: <A HREF="#P3">Micorocontrollers in Magazines</A>
++ Project 4: <A HREF="#P4">Micorocontrollers Videos</A>
++ Project 5: <A HREF="#P5">Forums</A>
++ Project 6: <A HREF="#P6">Micorocontrollers Applications</A>
++ Project 7: <A HREF="#P7"><A HREF="#P7">RP2040 Microcontroller Introduction</A>
++ Project 8: <A HREF="#P8">Arduino Microcontroller Introduction</A>
++ Project 9: <A HREF="#P9">RP2040 Development Boards Lists</A>
++ Project 10: <A HREF="#P10">Raspberry Pi RP2040 Boards</A>
++ Project 11: <A HREF="#P11">Adafruit Industries RP2040 Boards</A>
++ Project 12: <A HREF="#P12">Arduino Nano RP2040 Connect Board</A>
++ Project 13: <A HREF="#P13">Seeed Studio RP2040 Boards</A>
++ Project 14: <A HREF="#P14">SparkFun RP2040 Boards</A>
++ Project 15: <A HREF="#P15">Waveshare RP2040 Boards</A>
++ Project 16: <A HREF="#P16">Micorocontrollers Programming</A>
++ Project 17: <A HREF="#P17">Arduino Micorocontrollers IDEs</A>
++ Project 18: <A HREF="#P18">Build a Computer for Micorocontroller Development</A>
++ Project 19: <A HREF="#P19">Setup Git and GitHub</A>
++ Project 20: <A HREF="#P20">Learn Micropython on the Pico</A>
++ Project 21: <A HREF="#P21">Setup Pico with Micropython</A>
++ Project 22: <A HREF="#P22">Run Pico on Batteries</A>
++ Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
 + Project 24: <A HREF="#P24">Use Pico A/D to Measure CPU Temperature</A>
 
   
@@ -383,6 +383,7 @@ Ham radio microcontroller books table 1.1.
 </TABLE>
 
 
+<A NAME="P2"></A>
 # Project 2:  Micorocontrollers Books
 <p align="center">
   <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
@@ -415,6 +416,7 @@ Sign up for a account and you can borrow books.
 + Arduino [list](https://archive.org/search.php?query=Arduino)
 
 
+<A NAME="P3"></A>
 # Project 3: Micorocontrollers in Magazines
 
 ## Raspberry Pi Press Free Magazines 
@@ -425,7 +427,8 @@ Sign up for a account and you can borrow books.
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
 + Back issues are availale with a digital subscription.
 
-
+    
+<A NAME="P4"></A>
 # Project 4: Micorocontrollers Videos
 
 + Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://www.youtube.com/watch?v=HOi_AYEgSmo) - Glen Popiel, KW5GP
@@ -433,7 +436,8 @@ Sign up for a account and you can borrow books.
   + Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
 
-
+    
+<A NAME="P5"></A>
 # Project 5: Forums
 
 ## Groups.IO
@@ -442,6 +446,7 @@ Sign up for a account and you can borrow books.
   + The files for book Arduino Projects for Amateur Radio are in the group files section.
 
     
+<A NAME="P6"></A>    
 # Project 6: Micorocontrollers Applications
 
 <p align="center">
@@ -532,6 +537,7 @@ Raspberry Pi Pico W and Pico Microcontroller Boards
 </p>
 
     
+<A NAME="P9"></A>    
 # Project 9: RP2040 Development Boards Lists
     
 There is greater than 40 RP2040 microcontroller boards. 
@@ -547,6 +553,7 @@ There is greater than 40 RP2040 microcontroller boards.
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
 
     
+<A NAME="P10"></A>    
 # Project 10: Raspberry Pi RP2040 Boards   
 
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
