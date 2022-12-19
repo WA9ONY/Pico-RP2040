@@ -223,8 +223,8 @@ Ham radio microcontroller books table 1.1.
       <A HREF="https://www.qrz.com/db/W8TEE">W8TEE</A>,  <A HREF="https://www.qrz.com/db/W6DQ">W6DQ</A>, et al.
     </TD>
      <TD>
-      [O'Reilly](https://www.oreilly.com/library/view/arduino-projects-for/9780071834063/) &amp;
-      [Mc Graw Hill](https://www.accessengineeringlibrary.com/content/book/9780071834056)
+     <A HREF="https://www.oreilly.com/library/view/arduino-projects-for/9780071834063/">O'Reilly</A>
+     <A HREF="https://www.accessengineeringlibrary.com/content/book/9780071834056">Mc Graw Hill</A>
     </TD>
      <TD>
       2014
