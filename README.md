@@ -24,8 +24,8 @@ David Haworth, WA9ONY
  
 # Projects Index
  
-+ <A HREF="https://github.com/WA9ONY/RP2040_and_Arduino#P1/README.md#P1">1 Ham Radio Micorocontroller Books</A>
-+ Project 2:  Micorocontrollers Books
++ Project 1: <A HREF="#P1">1 Ham Radio Micorocontroller Books</A>
++ Project 2: Micorocontrollers Books
 + Project 3: Micorocontrollers in Magazines
 + Project 4: Micorocontrollers Videos 
 + Project 5: Forums 
@@ -38,7 +38,7 @@ David Haworth, WA9ONY
 + Project 12: Arduino Nano RP2040 Connect Board
 + Project 13: Seeed Studio RP2040 Boards
 + Project 14: SparkFun RP2040 Boards
-+ Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
++ Project 15: Waveshare RP2040 Boards
 + Project 16: Micorocontrollers Programming
 + Project 17: Arduino Micorocontrollers IDEs
 + Project 18: Build a Computer for Micorocontroller Development
