@@ -24,9 +24,15 @@ David Haworth, WA9ONY
  
 # Projects Index
  
- <P><A HREF="#P1">1 Ham Radio Micorocontroller Books</A>
- 
-  # Project 1: Ham Radio Micorocontroller Books
++ <P><A HREF="#P1">1 Ham Radio Micorocontroller Books</A></P>
++ Project 2:  Micorocontrollers Books
+  
+  
+  
+  
+  
+  
+# Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
   <img width="567" height="740" src="/Images/Books4.png">  
@@ -358,7 +364,7 @@ Ham radio microcontroller books table 1.1.
 </TABLE>
 
 
-# Project 2:  Micorocontrollers in Books
+# Project 2:  Micorocontrollers Books
 <p align="center">
   <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
 </p>
