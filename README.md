@@ -928,7 +928,8 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 # Project 25: Run the Arduino IDE & Arduno Uno R3
 
 <p align="center">
-  <img width="241" height="341" src="/Images/ProgrammingArduino3rd.png">    <img width="92" height="94" src="/Images/Arduino1_8.png"> 
+  <img width="241" height="341" src="/Images/ProgrammingArduino3rd.png">    
+  <img align="right" width="92" height="94" src="/Images/Arduino1_8.png"> 
 </p>
 
 Goal
