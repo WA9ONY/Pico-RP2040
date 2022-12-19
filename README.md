@@ -24,7 +24,7 @@ David Haworth, WA9ONY
  
 # Projects Index
  
-+ <P><A HREF="#P1">1 Ham Radio Micorocontroller Books</A></P>
++ <P><A HREF="https://github.com/WA9ONY/RP2040_and_Arduino#P1/README.md#P1">1 Ham Radio Micorocontroller Books</A></P>
 + Project 2:  Micorocontrollers Books
   
   
