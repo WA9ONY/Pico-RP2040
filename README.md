@@ -355,7 +355,7 @@ Ham radio microcontroller books table 1.1.
 
 # Project 2:  Micorocontrollers Books
 <p align="center">
-  <img  width="152" height="224" src="/Images/GetStart60.png">  <img width="206" height="267" src="/Images/GetStartArduino.png">
+  <img  width="152" height="224" src="/Images/GetStart60.png">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
 </p>
 
 ## Raspberry Pi
