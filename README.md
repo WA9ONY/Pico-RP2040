@@ -24,13 +24,13 @@ David Haworth, WA9ONY
  
 # Projects Index
  
-+ Project 1: <A HREF="#P1">1 Ham Radio Micorocontroller Books</A>
++ Project 1: <A HREF="#P1">Ham Radio Micorocontroller Books</A>
 + Project 2: Micorocontrollers Books
 + Project 3: Micorocontrollers in Magazines
 + Project 4: Micorocontrollers Videos 
 + Project 5: Forums 
 + Project 6: Micorocontrollers Applications
-+ Project 7: RP2040 Microcontroller Introduction 
++ Project 7: <A HREF="#P7">RP2040 Microcontroller Introduction</A>
 + Project 8: Arduino Microcontroller Introduction
 + Project 9: RP2040 Development Boards Lists
 + Project 10: Raspberry Pi RP2040 Boards
@@ -47,7 +47,7 @@ David Haworth, WA9ONY
 + Project 21: Setup Pico with Micropython
 + Project 22: Run Pico on Batteries
 + Project 23: Run Pico on Solar Cells
-+ Project 24: Use Pico A/D to Measure CPU Temperature
++ Project 24: <A HREF="#P24">Use Pico A/D to Measure CPU Temperature</A>
 
 # Project 1: Ham Radio Micorocontroller Books
 
@@ -467,7 +467,7 @@ YouTube
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
     
-<A NAME="P1">Project</A> : Micorocontrollers 
+ : Micorocontrollers 
 
 <p align="center">
   <img width="522" height="441" src="/Images/AD9833s50b.png">  
@@ -478,7 +478,7 @@ Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
 </p>
 
 
-# Project 7: RP2040 Microcontroller Introduction
+# <A NAME="P7">Project</A> 7: RP2040 Microcontroller Introduction
 
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
