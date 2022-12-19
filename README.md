@@ -24,9 +24,9 @@ David Haworth, WA9ONY
  
 # Projects Index
  
- <P><A HREF="#P1">1</A> Ham Radio Micorocontroller Books
+ <P><A HREF="#P1">1 Ham Radio Micorocontroller Books</A>
  
-  # <A NAME="P1"></A>Project 1: Ham Radio Micorocontroller Books
+  # Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
   <img width="567" height="740" src="/Images/Books4.png">  
@@ -443,7 +443,7 @@ YouTube
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
     
-# Project : Micorocontrollers 
+# <A NAME="P1"></A>Project : Micorocontrollers 
 
 <p align="center">
   <img width="522" height="441" src="/Images/AD9833s50b.png">  
