@@ -439,6 +439,7 @@ Sign up for a account and you can borrow books.
   + This is the support group for the book Microcontroller Projects for Amateur Radio.
   + The files for book Arduino Projects for Amateur Radio are in the group files section.
 
+    
 # Project 6: Micorocontrollers Applications
 
 <p align="center">
@@ -466,7 +467,7 @@ YouTube
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
     
-# <A NAME="P1"></A>Project : Micorocontrollers 
+<A NAME="P1">Project</A> : Micorocontrollers 
 
 <p align="center">
   <img width="522" height="441" src="/Images/AD9833s50b.png">  
