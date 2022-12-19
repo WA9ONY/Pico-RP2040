@@ -54,6 +54,8 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
   <img width="567" height="740" src="/Images/Books4.png">  
 </p>
 
+Goal: Identify books on microcontrollers in ham radio as a learning resouce.  
+  
 Look at the contents column to see the various ham radio microcontroller projects that have been written about in these books. The books are sorted with the newest books at the top of the table.
 
 Summary of the eight books:
@@ -386,6 +388,8 @@ Ham radio microcontroller books table 1.1.
   <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
 </p>
 
+Goal: Identify books on microcontrollers as a learning resouce.
+    
 ## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
 + Get Started with MicroPython on Raspberry Pi Pico 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
   + The pest Pico book to start with.
@@ -416,6 +420,8 @@ Sign up for a account and you can borrow books.
 <A NAME="P3"></A>
 # Project 3: Micorocontrollers in Magazines
 
+Goal: Identify magazine articles on microcontrollers as a learning resouce.
+    
 ## Raspberry Pi Press Free Magazines 
 + Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
 + MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
