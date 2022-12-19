@@ -45,7 +45,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 22: <A HREF="#P22">Run Pico on Batteries</A>
 + Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
 + Project 24: <A HREF="#P24">Use Pico A/D to Measure CPU Temperature</A>
-+ Project 25: <A HREF="#P24">Run the Arduino IDE & Arduno Uno R3
++ Project 25: <A HREF="#P25">Run the Arduino IDE & Arduno Uno R3
   
 <A NAME="P1"></A> 
 # Project 1: Ham Radio Micorocontroller Books
