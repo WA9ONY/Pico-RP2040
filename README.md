@@ -179,7 +179,7 @@ Ham radio microcontroller books table 1.1.
     <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>
     </TD>
     <TD>
-      Files ?
+      <P><A HREF="https://groups.io/g/SoftwareControlledHamRadio">Files ?</A></P>
     </TD>  
     <TD>
       $39.95
