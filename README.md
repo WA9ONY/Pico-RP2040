@@ -818,7 +818,7 @@ The Raspberry Pi P400 full install includes git.
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
 
-    
+<A NAME="P24"></A>    
 # Project 24: Use Pico A/D to Measure CPU Temperature
 
 <p align="center">
