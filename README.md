@@ -703,7 +703,7 @@ Software
 # Project 17: Arduino Micorocontrollers IDEs
 
     
-    <A NAME="P18"></A>
+<A NAME="P18"></A>
 # Project 18: Build a Computer for Micorocontroller Development
 
 <p align="center">
@@ -768,7 +768,7 @@ The Raspberry Pi P400 full install includes git.
 # Project 20: Learn Micropython on the Pico
 
 <p align="center">
-  <img width="333" height="499" src="/Images/GetStartedWithMicroPythonOnRaspberryPiPico.png">  
+  <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  
 </p>
 
 ## Goals
