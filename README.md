@@ -379,9 +379,10 @@ Ham radio microcontroller books table 1.1.
 + Arduino book [list](https://www.amazon.com/s?k=arduino+in+books&crid=1KKMCHXX3CGXS&sprefix=Arduino+in+books%2Caps%2C165&ref=nb_sb_ss_ts-doa-p_1_16)
 + C++ book [list](https://www.amazon.com/s?k=c%2B%2B+in+books&crid=30I4G3VL5WZP6&sprefix=c%2B%2B+in+books%2Caps%2C168&ref=nb_sb_ss_ts-doa-p_1_12)
 
-## Internet Archive 
+## Internet Archive
+Sign up for a account and you can borrow books.
 + Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
-+ Arduino [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
++ Arduino [list](https://archive.org/search.php?query=Arduino)
 
 
 # Project 3: Micorocontrollers Magazines
