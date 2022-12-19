@@ -577,7 +577,9 @@ Wikipedia
 <p align="center">
   <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
 </p>
-
+    
+    
+<A NAME="P11"></A>
 # Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
 <p align="center">
@@ -611,7 +613,9 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 <p align="center">
   <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
 </p>
-
+    
+    
+<A NAME="P12"></A>
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
 <p align="center">
@@ -629,7 +633,9 @@ Arduino Nano RP2040 Connect Microcontroller.
 <p align="center">
   <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
 </p>
-
+    
+    
+<A NAME="P13"></A>
 # Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
@@ -638,7 +644,9 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 <p align="center">
   <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
-
+    
+    
+<A NAME="P14"></A>
 # Project 14: [SparkFun](https://www.sparkfun.com/) RP2040 Boards
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
@@ -651,6 +659,8 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
 </p>
 
+    
+<A NAME="P15"></A>    
 # Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
 Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=Waveshare&crid=AJL406YJVRKX&sprefix=waveshare%2Caps%2C136&ref=nb_sb_noss_1)
 + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
@@ -658,7 +668,8 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 + [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 + [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
 
-
+    
+<A NAME="P16"></A>
 # Project 16: Micorocontrollers Programming
 
 Software
@@ -688,8 +699,11 @@ Software
     * Shows how to mix assembly with C in a program
 
 
+<A NAME="P17"></A>
 # Project 17: Arduino Micorocontrollers IDEs
 
+    
+    <A NAME="P18"></A>
 # Project 18: Build a Computer for Micorocontroller Development
 
 <p align="center">
@@ -712,6 +726,8 @@ Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
 The full install includes Thonny and Mu.
 
+    
+<A NAME="P19"></A>
 # Project 19: Setup Git and GitHub
 
 <p align="center">
@@ -748,6 +764,7 @@ The Raspberry Pi P400 full install includes git.
 + YouTube git & GitHub [list](https://www.youtube.com/results?search_query=GitHub)
 
     
+<A NAME="P20"></A>    
 # Project 20: Learn Micropython on the Pico
 
 <p align="center">
@@ -779,7 +796,8 @@ The Raspberry Pi P400 full install includes git.
 + Code
   + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
 
-
+    
+<A NAME="P21"></A>
 # Project 21: Setup Pico with Micropython
 
 <p align="center">
@@ -792,6 +810,7 @@ The Raspberry Pi P400 full install includes git.
 + Use Thonny to create, edit and debug micropython programs to run on the Pico.
 
     
+<A NAME="P22"></A>    
 # Project 22: Run Pico on Batteries
 
 <p align="center">
@@ -803,7 +822,7 @@ The Raspberry Pi P400 full install includes git.
 + The Pico automatically switch to the highest voltage.
 + Protect both sources from loading down the other souce.
 
-    
+<A NAME="P23"></A>   
 # Project 23: Run Pico on Solar Cells
 
 <p align="center">
@@ -829,6 +848,7 @@ The Raspberry Pi P400 full install includes git.
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
 
+    
 <A NAME="P24"></A>    
 # Project 24: Use Pico A/D to Measure CPU Temperature
 
