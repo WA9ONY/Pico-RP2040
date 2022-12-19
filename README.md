@@ -350,33 +350,40 @@ Ham radio microcontroller books table 1.1.
       Most likly $39.95
     </TD>
   </TR>
-
 </TABLE>
+
 
 # Project 2:  Micorocontrollers Books
 <p align="center">
   <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
 </p>
 
+## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
++ Get Started with MicroPython on Raspberry Pi Pico 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+  + The pest Pico book to start with.
++ Get Started With Arduino 180 pages [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)   
+
 ## Raspberry Pi
-+ Raspberry Pi Pico Python SDK [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
-+ Getting started with Raspberry Pi Pico [PDF](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)   
-+ Raspberry Pi Pico C/C++ SDK [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)   
-+ Connecting to the Internet with Raspberry Pi Pico W, [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
++ Raspberry Pi Pico Python SDK 48 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
++ Getting started with Raspberry Pi Pico 80 pages [PDF](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)   
++ Raspberry Pi Pico C/C++ SDK 171 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)   
++ Connecting to the Internet with Raspberry Pi Pico W 30 pages [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
    
-## Raspberry Pi Press Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
-+ Get Started with MicroPython on Raspberry Pi Pico [PDF](https://hackspace.raspberrypi.com/books/micropython-pico)
-+ Get Started With Arduino, [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
-    
 ##  Elektor [Books](https://www.elektor.com/books)   
-    
+
+## Make [Books](https://www.makershed.com/collections/make-books-print)
+
 ## Amazon Books
 + Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 + Python book [list](https://www.amazon.com/s?k=Python+in+books&crid=30BE822W2L736&sprefix=python+in+books%2Caps%2C169&ref=nb_sb_noss_1)
 + Arduino book [list](https://www.amazon.com/s?k=arduino+in+books&crid=1KKMCHXX3CGXS&sprefix=Arduino+in+books%2Caps%2C165&ref=nb_sb_ss_ts-doa-p_1_16)
 + C++ book [list](https://www.amazon.com/s?k=c%2B%2B+in+books&crid=30I4G3VL5WZP6&sprefix=c%2B%2B+in+books%2Caps%2C168&ref=nb_sb_ss_ts-doa-p_1_12)
 
-     
+## Internet Archive 
++ Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
++ Arduino [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
+
+
 # Project 3: Micorocontrollers Magazines
 
 ## Raspberry Pi Press Free Magazines 
@@ -384,7 +391,7 @@ Ham radio microcontroller books table 1.1.
 + MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
 + [Make](https://makezine.com/) magazine volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. Back issues are availale with a digital subscription.
 
-## Internet Archive Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
+
 
 # Project : Micorocontrollers Videos
 
