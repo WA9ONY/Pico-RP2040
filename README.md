@@ -905,6 +905,7 @@ Goal
 + Use the three A/D converters to measure Vbus, Vsys and Vbattery voltage.
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
+<HR>
 
     
 <A NAME="P25"></A>    
@@ -969,7 +970,9 @@ Resources
 + [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, Nov. 2022](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages by [Simon Monk](https://www.monkmakes.com/#)
   + Simon Monk [Amazon page](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
   + I like Simon Monk's books.  
-    
+<HR>
+<HR>
+  
     
 # Future Project Ideas
 
