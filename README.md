@@ -966,7 +966,7 @@ Goal
 + Lear Arduino C++.
 
 Resources
-+ [Arduino IDE](https://www.arduino.cc/en/software) on Linux computer (Intel NUC8).
++ [Arduino IDE V1.8](https://www.arduino.cc/en/software) on Linux computer (Intel NUC8).
 + Arduino Uno R3 microcontroller board.
 + [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, Nov. 2022](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages 
   + by [Simon Monk](https://www.monkmakes.com/#)
@@ -988,6 +988,7 @@ Resources
 + Implement a RTC with I2C bus.
 + Use the different python libraries.
 + Use the Arduino IDE and libraries.
++ Explore [Fritzing](https://fritzing.org/)
 <HR>
 
 73 David Haworth WA9ONY
