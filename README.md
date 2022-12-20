@@ -46,7 +46,8 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
 + Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
-+ Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3
++ Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
++ <A HREF="#Future">Future Project Ideas</A>
 <HR>  
 
 
@@ -972,7 +973,7 @@ Resources
   + I like Simon Monk's books.  
 <HR>
 <HR>
-  
+ <A NAME="Future"></A> 
     
 # Future Project Ideas
 
@@ -985,5 +986,6 @@ Resources
 + Implement a RTC with I2C bus.
 + Use the different python libraries.
 + Use the Arduino IDE and libraries.
+<HR>
 
 73 David Haworth WA9ONY
