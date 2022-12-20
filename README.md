@@ -188,13 +188,13 @@ Ham radio microcontroller books table 1.1.
 
    <TR>
    <TD>
-      <A HREF="http://www.kw5gp.com/Arduino3/">More Arduino for Ham Radio</A>
+      <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/133985">More Arduino for Ham Radio</A>
     </TD>
     <TD>
       <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
     </TD>
     <TD>
-      ARRL
+      <A HREF="https://home.arrl.org/action/Shop/Products#filter=%7B%22Facet%22%3A%7B%22Name%22%3A%22Publications%22,%22Value%22%3A%22WEB_FACET_1%22%7D,%22SubFacet%22%3A%7B%22Name%22%3A%22Books%22,%22Value%22%3A%22BOOKS%22%7D,%22Category%22%3Anull,%22SubCategory%22%3Anull%7D&searchTerm=&searchItemNameTerm=&searchDescriptionTerm=&productClass=">ARRL</A>
     </TD>
     <TD>
       2021
