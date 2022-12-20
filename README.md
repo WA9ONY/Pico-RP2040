@@ -922,7 +922,7 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 28 17:31:11 0.96V 3.04V 3.41V 68.04F
 28 17:31:21 0.95V 3.05V 3.41V 68.04F
 </pre>
-
+<HR>
     
 <A NAME="P25"></A>    
 # Project 25: Run the Arduino IDE & Arduno Uno R3
@@ -937,7 +937,7 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 Goal
 + Learn how to use Arduino IDE.
 + Learn how to program the Arduno Uno R3.
-+ Lear C.
++ Lear Arduino C++.
 
 Resources
 + [Arduino IDE](https://www.arduino.cc/en/software) on Linux computer (Intel NUC8).
