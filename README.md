@@ -441,17 +441,16 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 + [Hackspace](https://hackspace.raspberrypi.com/) issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
 + [MagPi](https://magpi.raspberrypi.com/) issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
 
+## [Elektor](https://elektor.com/) magazine 
+ + 2022 Dec issue, Arduino 
+ + Back issues are available with a Green membership (no print, only PDFs) 
+
 <img align="right" width="94" height="133" src="/Images/Make83s.png">
 
 ## [Make](https://makezine.com/) magazine
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
 + Back issues are available with a digital subscription.
-
- ## [Elektor](https://elektor.com/) magazine 
- + 2022 Dec issue, Arduino 
- + Back issues are available with a Green membership (no print, only PDFs) 
-  <HR>
-
+<HR>
     
 <A NAME="P4"></A>
 # Project 4: Micorocontrollers Videos
