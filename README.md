@@ -55,7 +55,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 # Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
-  <img width="567" height="740" src="/Images/Books4.png">  
+  <img width="567" height="740" src="/Images/Books5.png">  
 </p>
 
 Goal: Identify books on microcontrollers in ham radio as a learning resouce.  
@@ -206,7 +206,7 @@ Ham radio microcontroller books table 1.1.
      10
     </TD>    
     <TD>
-      ?
+     384
     </TD>
     <TD>
      <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
@@ -215,7 +215,7 @@ Ham radio microcontroller books table 1.1.
       <A HREF="http://www.kw5gp.com/Arduino3/">Files</A>
     </TD>
     <TD>
-      Most likly $39.95
+      $39.95
     </TD>
   </TR>    
      
