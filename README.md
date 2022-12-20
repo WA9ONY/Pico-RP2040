@@ -425,6 +425,8 @@ Goal: Identify books on microcontrollers as a learning resouce.
 Sign up for a account and you can borrow books.
 + Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
 + Arduino [list](https://archive.org/search.php?query=Arduino)
++ Microcontroller [list](https://archive.org/search.php?query=microcontroller&page=1)
++ Python [list](https://archive.org/search.php?query=Python)
 <HR>
 
 
