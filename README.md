@@ -957,7 +957,9 @@ Resources
   + by [Simon Monk](https://www.monkmakes.com/#)
   + [Simon Monk](http://simonmonk.org/) 
   + [Amazon page](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
-  + I enjoy Simon Monk's books.  
+  + I enjoy Simon Monk's books. 
++ 1st & 2nd editions [downloads](http://www.arduinobook.com/progardui2ed/)
++  Simon Monk [GitHub](https://github.com/simonmonk) 
 <HR>
 <HR>
  <A NAME="Future"></A> 
