@@ -47,6 +47,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
 + Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
++ Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>  
 + <A HREF="#Future">Future Project Ideas</A>
 <HR>  
 
@@ -429,6 +430,11 @@ Sign up for a account and you can borrow books.
 <A NAME="P3"></A>
 # Project 3: Micorocontrollers in Magazines
 
+<p align="center">
+  <img  width="198" height="279" src="/Images/ElektorDec.png">
+</p>
+  
+  
 Goal: Identify magazine articles on microcontrollers as a learning resouce.
     
 ## Raspberry Pi Press Free Magazines 
@@ -437,8 +443,12 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 
 ## [Make](https://makezine.com/) magazine
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
-+ Back issues are availale with a digital subscription.
-<HR>
++ Back issues are available with a digital subscription.
+
+ ## [Elektor](https://elektor.com/) magazine 
+ + 2022 Dec issue, Arduino 
+ + Back issues are available with a Green membership (no print, only PDFs) 
+  <HR>
 
     
 <A NAME="P4"></A>
@@ -960,6 +970,28 @@ Resources
   + I enjoy Simon Monk's books. 
 + 1st & 2nd editions [downloads](http://www.arduinobook.com/progardui2ed/)
 +  Simon Monk [GitHub](https://github.com/simonmonk) 
+<HR>
+    
+<A NAME="P27"></A>    
+# Project 27: Using the GiHub Web Interface
+
+<p align="center">
+  <img width="241" height="341" src="/Images/ProgrammingArduino3rd.png">     
+</p>
+
+The GitHub has a web inferface to 
++ Create, edit & delete files.  
++ Upload and delete files.
++ Create folders.
+  
+On the repo home page is a README.md file that is shown to the user when the repo is shown in a browser.  The README.md explains the purpose and how to use the repao.  The GitHub web interace can edit the README.md file.  
++ README.md file formating codes
+  
+  
+  
+  
+  
+  
 <HR>
 <HR>
  <A NAME="Future"></A> 
