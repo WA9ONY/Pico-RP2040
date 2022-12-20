@@ -394,7 +394,7 @@ Ham radio microcontroller books table 1.1.
 <A NAME="P2"></A>
 # Project 2:  Micorocontrollers Books
 <p align="center">
-  <img  width="200" height="300" src="/Images/MicroPythonPico_Cover.jpg">  <img width="206" height="267" src="/Images/GetStartedArduino.png">
+  <img  width="269" height="134" src="/Images/ArduinoPico.jpg"> 
 </p>
 
 Goal: Identify books on microcontrollers as a learning resouce.
