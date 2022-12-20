@@ -17,7 +17,7 @@ This repo is focused on documenting WA9ONY learning experinces, resources used a
 The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to send the board's temperature in Morse code to a transceiver built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects. 
 
 David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://www.youtube.com/user/DavidAHaworth), [Website](http://www.stargazing.net/david/index.html)
- 
+<HR> 
  
 # Projects Index
  
@@ -46,7 +46,9 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
 + Project 24: <A HREF="#P24">Use Pico A/D to Measure CPU Temperature</A>
 + Project 25: <A HREF="#P25">Run the Arduino IDE & Arduno Uno R3
-  
+<HR>  
+
+
 <A NAME="P1"></A> 
 # Project 1: Ham Radio Micorocontroller Books
 
