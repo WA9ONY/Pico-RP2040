@@ -402,6 +402,7 @@ Goal: Identify books on microcontrollers as a learning resouce.
 ## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
 + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
   + The best Pico book to start with.
+  + Also found in MagPi [books](https://magpi.raspberrypi.com/books)
 + Get Started With Arduino, 180 pages [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)   
 
 ## Raspberry Pi
@@ -431,15 +432,14 @@ Sign up for a account and you can borrow books.
 # Project 3: Micorocontrollers in Magazines
 
 <p align="center">
-  <img  width="198" height="279" src="/Images/ElektorDec.png">
+  <img  width="747" height="286" src="/Images/Mags2.png">
 </p>
-  
   
 Goal: Identify magazine articles on microcontrollers as a learning resouce.
     
 ## Raspberry Pi Press Free Magazines 
-+ Hackspace issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
-+ MagPi issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
++ [Hackspace](https://hackspace.raspberrypi.com/) issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
++ [MagPi](https://magpi.raspberrypi.com/) issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
 
 ## [Make](https://makezine.com/) magazine
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
