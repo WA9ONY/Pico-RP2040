@@ -396,15 +396,15 @@ Ham radio microcontroller books table 1.1.
 Goal: Identify books on microcontrollers as a learning resouce.
     
 ## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
-+ Get Started with MicroPython on Raspberry Pi Pico 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
-  + The pest Pico book to start with.
-+ Get Started With Arduino 180 pages [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)   
++ Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+  + The best Pico book to start with.
++ Get Started With Arduino, 180 pages [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)   
 
 ## Raspberry Pi
-+ Raspberry Pi Pico Python SDK 48 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
-+ Getting started with Raspberry Pi Pico 80 pages [PDF](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)   
-+ Raspberry Pi Pico C/C++ SDK 171 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)   
-+ Connecting to the Internet with Raspberry Pi Pico W 30 pages [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
++ Raspberry Pi Pico Python SDK, 48 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
++ Getting started with Raspberry Pi Pico, 80 pages [PDF](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)   
++ Raspberry Pi Pico C/C++ SDK, 171 pages [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)   
++ Connecting to the Internet with Raspberry Pi Pico W, 30 pages [PDF](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
    
 ##  Elektor [Books](https://www.elektor.com/books)   
 
@@ -454,12 +454,12 @@ Goal: Identify videos on microcontrollers as a learning resouce.
 <A NAME="P5"></A>
 # Project 5: Forums
 
-Goal: Identify fourms on microcontrollers as a lsource for help.
+Goal: Identify fourms on microcontrollers as a source for help.
     
 ## Groups.IO
 + SoftwareControlledHamRadio [group](https://groups.io/g/SoftwareControlledHamRadio)
   + This is the support group for the book Microcontroller Projects for Amateur Radio.
-  + The files for book Arduino Projects for Amateur Radio are in the group files section.
+  + The [files](https://groups.io/g/SoftwareControlledHamRadio/files/Arduino%20Projects%20for%20Amateur%20Radio%20Source%20files) for book Arduino Projects for Amateur Radio are in the group files section.
 <HR>
 
     
@@ -492,21 +492,11 @@ YouTube
 
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
-    
- : Micorocontrollers 
-
-<p align="center">
-  <img width="522" height="441" src="/Images/AD9833s50b.png">  
-</p>
-
-<p align="center">
-Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
-</p>
 <HR>
 
     
 <A NAME="P7"></A>
-#  7: RP2040 Microcontroller Introduction
+#  Project 7: RP2040 Microcontroller Introduction
 
 Goal: Learn about the Raspberry Pi RP2030 microcontrollers.
     
@@ -552,15 +542,6 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 ## Books
 + [Get Started with Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
 
-# Project : Micorocontrollers Development Boards 
-
-<p align="center">
-  <img width="554" height="459" src="/Images/PicoBoth50.png">  
-</p>
-
-<p align="center">
-Raspberry Pi Pico W and Pico Microcontroller Boards
-</p>
 <HR>
 
     
