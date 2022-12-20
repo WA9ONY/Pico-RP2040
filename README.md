@@ -44,8 +44,9 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 21: <A HREF="#P21">Setup Pico with Micropython</A>
 + Project 22: <A HREF="#P22">Run Pico on Batteries</A>
 + Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
-+ Project 24: <A HREF="#P24">Use Pico A/D to Measure CPU Temperature</A>
-+ Project 25: <A HREF="#P25">Run the Arduino IDE & Arduno Uno R3
++ Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
++ Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
++ Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3
 <HR>  
 
 
@@ -382,6 +383,7 @@ Ham radio microcontroller books table 1.1.
     </TD>
   </TR>
 </TABLE>
+<HR>
 
 
 <A NAME="P2"></A>
@@ -417,6 +419,7 @@ Goal: Identify books on microcontrollers as a learning resouce.
 Sign up for a account and you can borrow books.
 + Raspberry Pi Pico [list](https://archive.org/search.php?query=Raspberry%20Pi%20Pico)
 + Arduino [list](https://archive.org/search.php?query=Arduino)
+<HR>
 
 
 <A NAME="P3"></A>
@@ -431,6 +434,7 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 ## [Make](https://makezine.com/) magazine
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
 + Back issues are availale with a digital subscription.
+<HR>
 
     
 <A NAME="P4"></A>
@@ -442,6 +446,7 @@ Goal: Identify videos on microcontrollers as a learning resouce.
 + YouTube
   + Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
+<HR>
 
     
 <A NAME="P5"></A>
@@ -453,6 +458,7 @@ Goal: Identify fourms on microcontrollers as a lsource for help.
 + SoftwareControlledHamRadio [group](https://groups.io/g/SoftwareControlledHamRadio)
   + This is the support group for the book Microcontroller Projects for Amateur Radio.
   + The files for book Arduino Projects for Amateur Radio are in the group files section.
+<HR>
 
     
 <A NAME="P6"></A>    
@@ -494,6 +500,7 @@ For example, a microcontroller with a temperature sensor can be used as a remote
 <p align="center">
 Two AD9833 Function Generators Boards & Raspberry Pi Pico Microcontroller Board.
 </p>
+<HR>
 
     
 <A NAME="P7"></A>
@@ -517,6 +524,7 @@ To use a microcontroller it is connected to additional electrical hardware using
 
 Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
 In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
+<HR>
 
     
 <A NAME="P8"></A>    
@@ -551,6 +559,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 <p align="center">
 Raspberry Pi Pico W and Pico Microcontroller Boards
 </p>
+<HR>
 
     
 <A NAME="P9"></A>    
@@ -569,6 +578,7 @@ There is greater than 40 RP2040 microcontroller boards.
 + Renzo Mischianti [Raspberry Pi Pico, W, and other rp2040 boards: pinout, specs, and Arduino IDE configuration – 1](https://www.mischianti.org/2022/09/26/raspberry-pi-pico-w-and-other-rp2040-boards-pinout-specs-and-arduino-ide-configuration-1/)
 + MUO [11 Alternatives to the Raspberry Pi Pico](https://www.makeuseof.com/alternatives-to-the-raspberry-pi-pico/)
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
+<HR>
 
     
 <A NAME="P10"></A>    
@@ -592,8 +602,8 @@ The board on the left is a Pico and the board on the right is a Pico W.  Both bo
 Wikipedia
 + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
 + [RP2040](https://en.wikipedia.org/wiki/RP2040)
+ <HR>
 
-    
 <p align="center">
   <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
 </p>
@@ -630,6 +640,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 + [CircuitPython](https://circuitpython.org/)
   + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
   + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
+<HR>
 
 
 <p align="center">
@@ -652,6 +663,7 @@ Arduino Nano RP2040 Connect Microcontroller.
 + Above photo is an [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
 + Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
+<HR>
 
 <p align="center">
   <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
@@ -666,6 +678,7 @@ Goal: Identify the Seeed Studio RP2040 microcontroller development boards.
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
 + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
+<HR>
 
 <p align="center">
   <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
@@ -683,6 +696,7 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   + [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745)
   + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
   + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
+<HR>
 
 <p align="center">
   <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
@@ -699,6 +713,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 + [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 + [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
+<HR>
 
     
 <A NAME="P16"></A>
@@ -731,12 +746,14 @@ Software
 + Assembly
   - [RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico](https://www.amazon.com/RP2040-Assembly-Language-Programming-Cortex-M0/dp/148427752X/ref=sr_1_1?crid=10C0D1RJF1EMB&keywords=raspberry+pi+pico+assembly+language+programming&qid=1670506014&sprefix=Raspberry+Pi+Pico+ass%2Caps%2C158&sr=8-1) 1st ed. Edition
     * Shows how to mix assembly with C in a program
+<HR>
 
 
 <A NAME="P17"></A>
 # Project 17: Arduino Micorocontrollers IDEs
 
 Goal: Identify the Arduino IDEs use for microcontrollers.
+<HR>
 
     
 <A NAME="P18"></A>
@@ -761,6 +778,7 @@ To use the Pico.
 Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
 The full install includes Thonny and Mu.
+<HR>
 
     
 <A NAME="P19"></A>
@@ -798,6 +816,7 @@ The Raspberry Pi P400 full install includes git.
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
   + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + YouTube git & GitHub [list](https://www.youtube.com/results?search_query=GitHub)
+<HR>
 
     
 <A NAME="P20"></A>    
@@ -831,6 +850,7 @@ Goals
   + The Great Courses: How to Program: Computer Science Concepts and Python Exercises [video](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
 + Code
   + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
+<HR>
 
     
 <A NAME="P21"></A>
@@ -844,6 +864,7 @@ Goal
 + Setup the Pico to run micopython with the Raspberry Pi P400 computer.
 + Configure the Pico for micropython.
 + Use Thonny to create, edit and debug micropython programs to run on the Pico.
+<HR>
 
     
 <A NAME="P22"></A>    
@@ -864,7 +885,6 @@ Goal
 <p align="center">
   <img width="640" height="480" src="/Images/solar1.jpg"> 
   <img width="640" height="480" src="/Images/solar2.jpg">  
-
 </p>
 
 Goal
@@ -872,8 +892,10 @@ Goal
 + Find a solar cell with a micro USB connector that will plug directly into the Pico.
 + Test the solar cell/battery power configuration.
 + Find a water proof box for the Pico and battery.
+<HR>
 
-# Project : Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
+<A NAME="P24"></A>  
+# Project 24: Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
 <p align="center">
   <img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
@@ -885,8 +907,8 @@ Goal
 + Test how low Vbattery can go before the Pico stops operating.
 
     
-<A NAME="P24"></A>    
-# Project 24: Use Pico A/D to Measure CPU Temperature
+<A NAME="P25"></A>    
+# Project 25: Use Pico A/D to Measure CPU Temperature
 
 <p align="center">
   <img width="640" height="480" src="/Images/dataLogVTemp.jpg">  
@@ -926,8 +948,8 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 </pre>
 <HR>
     
-<A NAME="P25"></A>    
-# Project 25: Run the Arduino IDE & Arduno Uno R3
+<A NAME="P26"></A>    
+# Project 26: Run the Arduino IDE & Arduno Uno R3
 
 <p align="center">
   <img width="241" height="341" src="/Images/ProgrammingArduino3rd.png">     
