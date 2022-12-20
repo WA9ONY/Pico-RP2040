@@ -447,6 +447,7 @@ Goal: Identify videos on microcontrollers as a learning resouce.
 + YouTube
   + Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
+  + Hamshield: Arduino meets amateur radio [video](https://youtu.be/xLTSlcZK14I)
 <HR>
 
     
@@ -988,7 +989,8 @@ Resources
 + Implement a RTC with I2C bus.
 + Use the different python libraries.
 + Use the Arduino IDE and libraries.
-+ Explore [Fritzing](https://fritzing.org/)
++ Explore [Fritzing](https://fritzing.org/).
++ Use Arduino IDE with the Raspberry Pi Pico board.
 <HR>
 
 73 David Haworth WA9ONY
