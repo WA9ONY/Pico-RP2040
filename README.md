@@ -188,6 +188,40 @@ Ham radio microcontroller books table 1.1.
 
    <TR>
    <TD>
+      <A HREF="http://www.kw5gp.com/Arduino3/">More Arduino for Ham Radio</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
+    </TD>
+    <TD>
+      ARRL
+    </TD>
+    <TD>
+      2021
+    </TD>
+    <TD>
+      <A HREF="./BookContents/MoreArduinoFHR.png">PNG</A>
+    </TD>
+    <TD>    
+     10
+    </TD>    
+    <TD>
+      ?
+    </TD>
+    <TD>
+     <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
+    </TD>    
+    <TD>
+      <A HREF="http://www.kw5gp.com/Arduino3/">Files</A>
+    </TD>
+    <TD>
+      Most likly $39.95
+    </TD>
+  </TR>    
+     
+     
+   <TR>
+   <TD>
      <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/132600">Microcontroller Projects for Amateur Radio</A>
     </TD>
     <TD>
@@ -351,38 +385,7 @@ Ham radio microcontroller books table 1.1.
     </TD>
   </TR>
  
-  <TR>
-   <TD>
-      <A HREF="http://www.kw5gp.com/Arduino3/">Arduino for Ham Radio - Part 3 Book</A>
-    </TD>
-    <TD>
-      <A HREF="https://www.qrz.com/db/KW5GP">KW5GP</A>
-    </TD>
-    <TD>
-      Maybe ARRL
-    </TD>
-    <TD>
-      Maybe 2022
-    </TD>
-    <TD>
-      <A HREF="http://www.kw5gp.com/Arduino3/">URL</A>
-    </TD>
-    <TD>    
-     10
-    </TD>    
-    <TD>
-      ?
-    </TD>
-    <TD>
-     <P><A HREF="https://en.wikipedia.org/wiki/Arduino">Arduino</A></P>  
-    </TD>    
-    <TD>
-      <A HREF="http://www.kw5gp.com/Arduino3/">Files</A>
-    </TD>
-    <TD>
-      Most likly $39.95
-    </TD>
-  </TR>
+
 </TABLE>
 <HR>
 
