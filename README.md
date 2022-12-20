@@ -17,7 +17,7 @@ This repo is focused on documenting WA9ONY learning experinces, resources used a
 The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to send the board's temperature in Morse code to a transceiver built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects. 
 
 David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://www.youtube.com/user/DavidAHaworth), [Website](http://www.stargazing.net/david/index.html)
-<HR style="height:30px"> 
+<HR> 
  
 # Projects Index
  
@@ -968,9 +968,11 @@ Goal
 Resources
 + [Arduino IDE](https://www.arduino.cc/en/software) on Linux computer (Intel NUC8).
 + Arduino Uno R3 microcontroller board.
-+ [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, Nov. 2022](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages by [Simon Monk](https://www.monkmakes.com/#)
-  + Simon Monk [Amazon page](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
-  + I like Simon Monk's books.  
++ [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, Nov. 2022](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages 
+  + by [Simon Monk](https://www.monkmakes.com/#)
+  + [Simon Monk](http://simonmonk.org/) 
+  + [Amazon page](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
+  + I enjoy Simon Monk's books.  
 <HR>
 <HR>
  <A NAME="Future"></A> 
