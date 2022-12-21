@@ -25,7 +25,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 
 <A NAME="INDEX"></A>
 <HR>
-<CENTER><A HREF="#HOME">&lt;--</A>INDEX<A HREF="#P1">--&gt;</A></CENTER>  
+<P align="center"><A HREF="#HOME">&lt;--</A>  INDEX  <A HREF="#P1">--&gt;</A></P>  
  
 # Projects Index
  
@@ -398,10 +398,10 @@ Ham radio microcontroller books table 1.1.
  
 
 </TABLE>
-<HR>
-
-
 <A NAME="P2"></A>
+<HR>
+<P align="center"><A HREF="#IP1">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P3">--&gt;</A></P>  
+
 # Project 2:  Micorocontrollers Books
 <p align="center">
   <img  width="269" height="134" src="/Images/ArduinoPico.png"> 
@@ -1020,10 +1020,10 @@ On the repo home page is a README.md file that is shown to the user when the rep
   
 To create a folder a new file is created in the new folder at the same time.    
   
-<A NAME="Future"></A>
+<A NAME="FUTURE"></A>
 <HR>
 <HR>
-<P align="center"><A HREF="#P27">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P27">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#HOME">--&gt;</A></P>  
  
  <A NAME="Future"></A> 
     
