@@ -1019,7 +1019,7 @@ To create a folder a new file is created in the new folder at the same time.
 <A NAME="Future"></A>
 <HR>
 <HR>
-<P align="center"><A HREF="#P27">&lt;--</A><A HREF="#INDEX"></A><A HREF="INDEX"> INDEX </A></A><A HREF="INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P27">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="INDEX">--&gt;</A></P>  
  
  <A NAME="Future"></A> 
     
