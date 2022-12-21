@@ -18,9 +18,10 @@ The ham radio projects range from a microcontroller board showing its temperatur
 
 David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://www.youtube.com/user/DavidAHaworth), [Website](http://www.stargazing.net/david/index.html)
 
-<A NAME="Index">
+<P align="center">
+<A NAME="Index"></A>
 <HR>
-  </A><A HREF="#P1"><P align="center">--&gt;</P></A>  
+<A HREF="#P1">--&gt;</A></P>  
  
 # Projects Index
  
