@@ -465,7 +465,7 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 + Back issues are available with a digital subscription.
 
   
-<A NAME="4"></A>
+<A NAME="P4"></A>
 <HR>
 <P align="center"><A HREF="#P3">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P5">--&gt;</A></P>  
 # Project 4: Micorocontrollers Videos
@@ -490,10 +490,11 @@ Goal: Identify fourms on microcontrollers as a source for help.
 + SoftwareControlledHamRadio [group](https://groups.io/g/SoftwareControlledHamRadio)
   + This is the support group for the book Microcontroller Projects for Amateur Radio.
   + The [files](https://groups.io/g/SoftwareControlledHamRadio/files/Arduino%20Projects%20for%20Amateur%20Radio%20Source%20files) for book Arduino Projects for Amateur Radio are in the group files section.
-<HR>
 
-    
-<A NAME="P6"></A>    
+  
+<A NAME="P6"></A>
+<HR>
+<P align="center"><A HREF="#P5">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P7">--&gt;</A></P>  
 # Project 6: Micorocontrollers Applications
 
 Goal: Identify the need for microcontrollers in ham radio projects.
@@ -522,10 +523,10 @@ YouTube
 
 For example, a microcontroller with a temperature sensor can be used as a remote weather station that uses a solar cel power system and Wi-Fi to report temperature to the Internet.
 
-<HR>
-
-    
+  
 <A NAME="P7"></A>
+<HR>
+<P align="center"><A HREF="#P6">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P8">--&gt;</A></P>  
 #  Project 7: RP2040 Microcontroller Introduction
 
 Goal: Learn about the Raspberry Pi RP2030 microcontrollers.
@@ -546,10 +547,11 @@ To use a microcontroller it is connected to additional electrical hardware using
 
 Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
 In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
-<HR>
 
-    
-<A NAME="P8"></A>    
+  
+<A NAME="P8"></A>
+<HR>
+<P align="center"><A HREF="#P7">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P9">--&gt;</A></P>  
 # Project 8: Arduino Microcontroller Introduction
 
 Goal: Learn about Arduino microcontrollers.    
@@ -572,10 +574,10 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 ## Books
 + [Get Started with Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
 
+  
+<A NAME="P9"></A>
 <HR>
-
-    
-<A NAME="P9"></A>    
+<P align="center"><A HREF="#P8">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P10">--&gt;</A></P>  
 # Project 9: RP2040 Development Boards Lists
 
 Goal: Identify RP2040 microcontroller development boards that are available.
@@ -591,10 +593,11 @@ There is greater than 40 RP2040 microcontroller boards.
 + Renzo Mischianti [Raspberry Pi Pico, W, and other rp2040 boards: pinout, specs, and Arduino IDE configuration – 1](https://www.mischianti.org/2022/09/26/raspberry-pi-pico-w-and-other-rp2040-boards-pinout-specs-and-arduino-ide-configuration-1/)
 + MUO [11 Alternatives to the Raspberry Pi Pico](https://www.makeuseof.com/alternatives-to-the-raspberry-pi-pico/)
 + All3DP [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/)
-<HR>
 
-    
-<A NAME="P10"></A>    
+  
+<A NAME="P10"></A>
+<HR>
+<P align="center"><A HREF="#P9">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P11">--&gt;</A></P>  
 # Project 10: Raspberry Pi RP2040 Boards   
 
 Goal: Identify the Raspberry Pi RP2040 microcontroller development boards.    
