@@ -784,6 +784,8 @@ The full install includes Thonny and Mu.
 # Project 19: Setup Git and GitHub
 
 <p align="center">
+  <img width="340" height="970" src="/Images/GitHub.png"> 
+  
   <img width="640" height="480" src="/Images/GitHub.jpg">  
 </p>
 
@@ -799,22 +801,22 @@ The GitHub provides free file storage ([repository](https://en.wikipedia.org/wik
 GitHub is used by a web interface or a Linux CLI.
 The Raspberry Pi P400 full install includes git.
 
+## GitHub Repo
++ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
++ Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
+  + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
++ Over 257,000 Arduino [repositories](https://github.com/search?q=Arduino)  
+  
 ## Resources
 + Articles
   + TBD
   + Wikipedia
-    + [RGitHub]([https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico](https://en.wikipedia.org/wiki/GitHub))
+    + [GitHub](https://en.wikipedia.org/wiki/GitHub)
   + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 + Videos
   + YouTube [list](https://www.youtube.com/results?search_query=GitHub)
 + Books
   +Amazon [list](https://www.amazon.com/s?k=Github+in+books&crid=2SACFZLPDLFD9&sprefix=github+in+books%2Caps%2C148&ref=nb_sb_noss_1)   
-
- ## GitHub Repo
-+ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
-+ Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
-  + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
-+ YouTube git & GitHub [list](https://www.youtube.com/results?search_query=GitHub)
 <HR>
 
     
