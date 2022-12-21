@@ -1002,7 +1002,7 @@ The GitHuib web interface changes to the repo all require a Commit Changes to ta
   
 On the repo home page is a README.md file that is shown to the user when the repo is shown in a browser.  The README.md explains the purpose and how to use the repao.  The GitHub web interace can edit the README.md file.  
 + README.md file formating syntax
-  + Some HTML code work in the .md file (<HR>, <A...</A>, <P>...</P>, <Table>... etc.)
+  + Some HTML code work in the .md file <PRE> (<HR>, <A...</A>, <P>...</P>, <Table>... etc.) </PRE>
   + Basic writing and formatting [syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   + GitHub Flavored Markdown [Spec}(https://github.github.com/gfm/#html-blocks)
   + markdown-it [demo](https://markdown-it.github.io/)
