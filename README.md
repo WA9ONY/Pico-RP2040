@@ -813,14 +813,12 @@ The Raspberry Pi P400 full install includes git.
   
 ## Resources
 + Articles
-  + TBD
-  + Wikipedia
-    + [GitHub](https://en.wikipedia.org/wiki/GitHub)
+  + Wikipedia [GitHub](https://en.wikipedia.org/wiki/GitHub)
   + [SSH key for GitHub](https://garywoodfine.com/setting-up-ssh-keys-for-github-access/) files upload
 + Videos
   + YouTube [list](https://www.youtube.com/results?search_query=GitHub)
 + Books
-  +Amazon [list](https://www.amazon.com/s?k=Github+in+books&crid=2SACFZLPDLFD9&sprefix=github+in+books%2Caps%2C148&ref=nb_sb_noss_1)   
+  + Amazon [list](https://www.amazon.com/s?k=Github+in+books&crid=2SACFZLPDLFD9&sprefix=github+in+books%2Caps%2C148&ref=nb_sb_noss_1)   
 <HR>
 
     
