@@ -1002,7 +1002,7 @@ On the repo home page is a README.md file that is shown to the user when the rep
 + README.md file formating syntax
   + Some HTML code work in the .md file
   + Basic writing and formatting [syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-  + GitHub Flavored Markdown [Spec](https://github.github.com/gfm/#html-blocks)
+  + GitHub Flavored Markdown [Spec](https://github.github.com/gfm)
   + markdown-it [demo](https://markdown-it.github.io/)
 + My README.md file is supported by two folders: 
   + BookContents contains PDFs and PNGs of the eight books related to ham radio.
