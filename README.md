@@ -21,7 +21,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 
 <A NAME="Index"></A>
 <HR>
-<P align="center">A HREF="#Future">&lt;--</A>INDEX<A HREF="#P1">--&gt;</A></P>  
+<P align="center"><A HREF="#Future">&lt;--</A>INDEX<A HREF="#P1">--&gt;</A></P>  
  
 # Projects Index
  
