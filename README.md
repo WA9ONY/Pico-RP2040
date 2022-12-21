@@ -784,7 +784,7 @@ The full install includes Thonny and Mu.
 # Project 19: Setup Git and GitHub
 
 <p align="center">
-  <img width="340" height="970" src="/Images/GitHub.png"> 
+  <img width="340" height="97" src="/Images/GitHub_logo.png"> 
   
   <img width="640" height="480" src="/Images/GitHub.jpg">  
 </p>
