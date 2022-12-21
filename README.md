@@ -623,14 +623,13 @@ Wikipedia
 <A NAME="P11"></A>
 <HR>
 <P align="center"><A HREF="#P10">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P12">--&gt;</A></P>  
-<p align="center">
-<img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
-</p>
-
-  # Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
+# Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
 <p align="center">
   <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
+</p>
+<p align="center">
+<img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
 </p>
 
 Goal: Identify the Adafriut RP2040 microcontroller development boards.        
