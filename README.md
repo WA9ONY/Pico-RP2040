@@ -53,10 +53,12 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
 + Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>  
 + <A HREF="#Future">Future Project Ideas</A>
-<HR>  
 
-
-<A NAME="P1"></A> 
+<P align="center">
+<A NAME="P1"></A>
+<HR>
+<A HREF="#P2">--&lt;</A><A HREF="#INDEX"> INDEX </A><A HREF="#P1">--&gt;</A></P>  
+ 
 # Project 1: Ham Radio Micorocontroller Books
 
 <p align="center">
