@@ -808,7 +808,7 @@ The Raspberry Pi P400 full install includes git.
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
   + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + Over 257,000 Arduino [repositories](https://github.com/search?q=Arduino) 
-+ Over 1,100 ham radio [repositories](repositories](https://github.com/search?q=ham+radio)
++ Over 1,100 ham radio [repositories](https://github.com/search?q=ham+radio)
 + Over 1,000 amateur radio [repositories](https://github.com/search?q=amateur+radio)
   
 ## Resources
