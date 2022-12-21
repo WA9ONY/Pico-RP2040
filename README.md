@@ -1,6 +1,6 @@
-<A NAME="TOP"></A>
+<A NAME="HOME"></A>
 <HR>
-<P align="center"><A HREF="#Future">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#FUTURE">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#INDEX">--&gt;</A></P>  
 
 # RP2040 & Arduino Microcontroller Ham Radio Projects
 
@@ -25,7 +25,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 
 <A NAME="INDEX"></A>
 <HR>
-<P align="center"><A HREF="#Future">&lt;--</A>INDEX<A HREF="#P1">--&gt;</A></P>  
+<CENTER><A HREF="#HOME">&lt;--</A>INDEX<A HREF="#P1">--&gt;</A></CENTER>  
  
 # Projects Index
  
