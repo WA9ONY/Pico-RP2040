@@ -395,12 +395,12 @@ Ham radio microcontroller books table 1.1.
       $34.95
     </TD>
   </TR>
- 
-
 </TABLE>
+    
+    
 <A NAME="P2"></A>
 <HR>
-<P align="center"><A HREF="#IP1">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P3">--&gt;</A></P>  
+<P align="center"><A HREF="#P1">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P3">--&gt;</A></P>  
 
 # Project 2:  Micorocontrollers Books
 <p align="center">
@@ -437,10 +437,11 @@ Sign up for a account and you can borrow books.
 + Arduino [list](https://archive.org/search.php?query=Arduino)
 + Microcontroller [list](https://archive.org/search.php?query=microcontroller&page=1)
 + Python [list](https://archive.org/search.php?query=Python)
-<HR>
 
-
+  
 <A NAME="P3"></A>
+<HR>
+<P align="center"><A HREF="#P2">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P4">--&gt;</A></P>  
 # Project 3: Micorocontrollers in Magazines
 
 <p align="center">
@@ -462,9 +463,11 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 ## [Make](https://makezine.com/) magazine
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
 + Back issues are available with a digital subscription.
+
+  
+<A NAME="4"></A>
 <HR>
-    
-<A NAME="P4"></A>
+<P align="center"><A HREF="#P3">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P5">--&gt;</A></P>  
 # Project 4: Micorocontrollers Videos
 
 Goal: Identify videos on microcontrollers as a learning resouce.
@@ -474,10 +477,11 @@ Goal: Identify videos on microcontrollers as a learning resouce.
   + Raspberry Pi Pico [list](https://www.youtube.com/results?search_query=raspberry+pi+pico)
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
   + Hamshield: Arduino meets amateur radio [video](https://youtu.be/xLTSlcZK14I)
-<HR>
 
-    
+  
 <A NAME="P5"></A>
+<HR>
+<P align="center"><A HREF="#P4">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P6">--&gt;</A></P>  
 # Project 5: Forums
 
 Goal: Identify fourms on microcontrollers as a source for help.
