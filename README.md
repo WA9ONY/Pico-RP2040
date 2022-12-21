@@ -670,7 +670,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   
 <A NAME="P12"></A>
 <HR>
-<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P11">--&gt;</A></P>  
+<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P113">--&gt;</A></P>  
 
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
@@ -868,8 +868,7 @@ The Raspberry Pi P400 full install includes git.
 <A NAME="P20"></A>
 <HR>
 <P align="center"><A HREF="#P19">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P21">--&gt;</A></P>  
-       
-    
+        
 # Project 20: Learn Micropython on the Pico
 
 <p align="center">
@@ -900,10 +899,12 @@ Goals
   + The Great Courses: How to Program: Computer Science Concepts and Python Exercises [video](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
 + Code
   + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
-<HR>
 
-    
+  
 <A NAME="P21"></A>
+<HR>
+<P align="center"><A HREF="#P20">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P22">--&gt;</A></P>  
+       
 # Project 21: Setup Pico with Micropython
 
 <p align="center">
@@ -914,10 +915,12 @@ Goal
 + Setup the Pico to run micopython with the Raspberry Pi P400 computer.
 + Configure the Pico for micropython.
 + Use Thonny to create, edit and debug micropython programs to run on the Pico.
-<HR>
 
-    
-<A NAME="P22"></A>    
+  
+<A NAME="P22"></A>
+<HR>
+<P align="center"><A HREF="#P21">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P23">--&gt;</A></P>  
+
 # Project 22: Run Pico on Batteries
 
 <p align="center">
@@ -929,7 +932,11 @@ Goal
 + The Pico automatically switch to the highest voltage.
 + Protect both sources from loading down the other souce.
 
-<A NAME="P23"></A>   
+  
+<A NAME="P23"></A>
+<HR>
+<P align="center"><A HREF="#P22">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P24">--&gt;</A></P>  
+
 # Project 23: Run Pico on Solar Cells
 
 <p align="center">
@@ -942,9 +949,12 @@ Goal
 + Find a solar cell with a micro USB connector that will plug directly into the Pico.
 + Test the solar cell/battery power configuration.
 + Find a water proof box for the Pico and battery.
-<HR>
 
-<A NAME="P24"></A>  
+  
+<A NAME="P24"></A>
+<HR>
+<P align="center"><A HREF="#P23">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P25">--&gt;</A></P>  
+
 # Project 24: Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
 <p align="center">
@@ -955,10 +965,12 @@ Goal
 + Use the three A/D converters to measure Vbus, Vsys and Vbattery voltage.
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
-<HR>
 
-    
-<A NAME="P25"></A>    
+  
+<A NAME="P25"></A>
+<HR>
+<P align="center"><A HREF="#P24">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P26">--&gt;</A></P>  
+
 # Project 25: Use Pico A/D to Measure CPU Temperature
 
 <p align="center">
@@ -997,9 +1009,12 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 28 17:31:11 0.96V 3.04V 3.41V 68.04F
 28 17:31:21 0.95V 3.05V 3.41V 68.04F
 </pre>
+
+  
+<A NAME="P26"></A>
 <HR>
-    
-<A NAME="P26"></A>    
+<P align="center"><A HREF="#P25">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P27">--&gt;</A></P>  
+
 # Project 26: Run the Arduino IDE & Arduno Uno R3
 
 <p align="center">
@@ -1024,9 +1039,12 @@ Resources
   + I enjoy Simon Monk's books. 
 + 1st & 2nd editions [downloads](http://www.arduinobook.com/progardui2ed/)
 +  Simon Monk [GitHub](https://github.com/simonmonk) 
+
+  
+<A NAME="P27"></A>
 <HR>
+<P align="center"><A HREF="#P26">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#FUTURE">--&gt;</A></P>  
     
-<A NAME="P27"></A>    
 # Project 27: Using the GiHub Web Interface
 
 <p align="center">
@@ -1059,10 +1077,10 @@ To create a folder a new file is created in the new folder at the same time.
   
 <A NAME="FUTURE"></A>
 <HR>
-<HR>
+
 <P align="center"><A HREF="#P27">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#HOME">--&gt;</A></P>  
  
- <A NAME="Future"></A> 
+<A NAME="Future"></A> 
     
 # Future Project Ideas
 
