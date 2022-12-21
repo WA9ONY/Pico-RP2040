@@ -618,14 +618,14 @@ The board on the left is a Pico and the board on the right is a Pico W.  Both bo
 Wikipedia
 + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
 + [RP2040](https://en.wikipedia.org/wiki/RP2040)
- <HR>
 
-<p align="center">
-  <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
-</p>
-    
-    
+  
 <A NAME="P11"></A>
+<HR>
+<P align="center"><A HREF="#P10">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P12">--&gt;</A></P>  
+<p align="center">
+<img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
+</p>
 # Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
 <p align="center">
