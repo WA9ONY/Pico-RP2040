@@ -18,10 +18,10 @@ The ham radio projects range from a microcontroller board showing its temperatur
 
 David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://www.youtube.com/user/DavidAHaworth), [Website](http://www.stargazing.net/david/index.html)
 
-<P align="center">
+
 <A NAME="Index"></A>
 <HR>
-<A HREF="#P1">--&gt;</A></P>  
+<P align="center"><A HREF="#P1">--&gt;</A></P>  
  
 # Projects Index
  
@@ -54,10 +54,10 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>  
 + <A HREF="#Future">Future Project Ideas</A>
 
-<P align="center">
+  
 <A NAME="P1"></A>
 <HR>
-<A HREF="#P2">--&lt;</A><A HREF="#INDEX"> INDEX </A><A HREF="#P1">--&gt;</A></P>  
+<P align="center"><A HREF="INDEX">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P2">--&gt;</A></P>  
  
 # Project 1: Ham Radio Micorocontroller Books
 
