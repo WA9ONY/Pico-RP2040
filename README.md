@@ -403,6 +403,7 @@ Ham radio microcontroller books table 1.1.
 <P align="center"><A HREF="#P1">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P3">--&gt;</A></P>  
 
 # Project 2:  Micorocontrollers Books
+
 <p align="center">
   <img  width="269" height="134" src="/Images/ArduinoPico.png"> 
 </p>
@@ -442,6 +443,7 @@ Sign up for a account and you can borrow books.
 <A NAME="P3"></A>
 <HR>
 <P align="center"><A HREF="#P2">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P4">--&gt;</A></P>  
+
 # Project 3: Micorocontrollers in Magazines
 
 <p align="center">
@@ -468,6 +470,7 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 <A NAME="P4"></A>
 <HR>
 <P align="center"><A HREF="#P3">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P5">--&gt;</A></P>  
+
 # Project 4: Micorocontrollers Videos
 
 Goal: Identify videos on microcontrollers as a learning resouce.
@@ -482,6 +485,7 @@ Goal: Identify videos on microcontrollers as a learning resouce.
 <A NAME="P5"></A>
 <HR>
 <P align="center"><A HREF="#P4">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P6">--&gt;</A></P>  
+
 # Project 5: Forums
 
 Goal: Identify fourms on microcontrollers as a source for help.
@@ -495,6 +499,7 @@ Goal: Identify fourms on microcontrollers as a source for help.
 <A NAME="P6"></A>
 <HR>
 <P align="center"><A HREF="#P5">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P7">--&gt;</A></P>  
+
 # Project 6: Micorocontrollers Applications
 
 Goal: Identify the need for microcontrollers in ham radio projects.
@@ -527,6 +532,7 @@ For example, a microcontroller with a temperature sensor can be used as a remote
 <A NAME="P7"></A>
 <HR>
 <P align="center"><A HREF="#P6">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P8">--&gt;</A></P>  
+
 #  Project 7: RP2040 Microcontroller Introduction
 
 Goal: Learn about the Raspberry Pi RP2030 microcontrollers.
@@ -552,6 +558,7 @@ In January 2021, Raspberry Pi Foundation entered the microcontroller market with
 <A NAME="P8"></A>
 <HR>
 <P align="center"><A HREF="#P7">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P9">--&gt;</A></P>  
+
 # Project 8: Arduino Microcontroller Introduction
 
 Goal: Learn about Arduino microcontrollers.    
@@ -578,6 +585,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
 <A NAME="P9"></A>
 <HR>
 <P align="center"><A HREF="#P8">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P10">--&gt;</A></P>  
+
 # Project 9: RP2040 Development Boards Lists
 
 Goal: Identify RP2040 microcontroller development boards that are available.
@@ -598,6 +606,7 @@ There is greater than 40 RP2040 microcontroller boards.
 <A NAME="P10"></A>
 <HR>
 <P align="center"><A HREF="#P9">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P11">--&gt;</A></P>  
+
 # Project 10: Raspberry Pi RP2040 Boards   
 
 Goal: Identify the Raspberry Pi RP2040 microcontroller development boards.    
@@ -657,19 +666,20 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 + [CircuitPython](https://circuitpython.org/)
   + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
   + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
-<HR>
 
-
-<p align="center">
-  <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
-</p>
-    
+  
 <A NAME="P12"></A>
+<HR>
+<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P11">--&gt;</A></P>  
+
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
 <p align="center">
   <img width="472" height="198" src="/Images/ArduinoNano50.png">  
 </p>
+<p align="center">
+  <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
+</p>  
 
 Goal: Identify the Arduino RP2040 microcontroller development board.
     
@@ -680,16 +690,18 @@ Arduino Nano RP2040 Connect Microcontroller.
 + Above photo is an [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
 + [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
 + Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
-<HR>
 
-<p align="center">
-  <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
-</p>
-    
-    
+  
 <A NAME="P13"></A>
+<HR>
+<P align="center"><A HREF="#P12">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P14">--&gt;</A></P>  
+       
 # Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
-    
+  
+<p align="center">
+<img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
+</p>
+
 Goal: Identify the Seeed Studio RP2040 microcontroller development boards.
     
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
@@ -700,9 +712,12 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 <p align="center">
   <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
-    
-    
+
+  
 <A NAME="P14"></A>
+<HR>
+<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P15">--&gt;</A></P>  
+       
 # Project 14: [SparkFun](https://www.sparkfun.com/) RP2040 Boards
     
 Goal: Identify the SparkFun RP2040 microcontroller development boards.
@@ -719,8 +734,11 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
 </p>
 
-    
-<A NAME="P15"></A>    
+  
+<A NAME="P15"></A>
+<HR>
+<P align="center"><A HREF="#P14">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P16">--&gt;</A></P>  
+          
 # Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
     
 Goal: Identify the Waveshare RP2040 microcontroller development boards.
@@ -730,10 +748,12 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 + [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
 + [RP2040-One](https://www.amazon.com/gp/product/B0BLMPDMLD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 + [RP2040-Plus Mini Board](https://www.amazon.com/dp/B0B6BM7CVT?psc=1&smid=A2SA28G0M1VPHD&ref_=chk_typ_imgToDp)
-<HR>
 
-    
+  
 <A NAME="P16"></A>
+<HR>
+<P align="center"><A HREF="#P15">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P17">--&gt;</A></P>  
+       
 # Project 16: Micorocontrollers Programming
 
 Goal: Identify the programming languages use for microcontrollers.    
@@ -763,17 +783,21 @@ Software
 + Assembly
   - [RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico](https://www.amazon.com/RP2040-Assembly-Language-Programming-Cortex-M0/dp/148427752X/ref=sr_1_1?crid=10C0D1RJF1EMB&keywords=raspberry+pi+pico+assembly+language+programming&qid=1670506014&sprefix=Raspberry+Pi+Pico+ass%2Caps%2C158&sr=8-1) 1st ed. Edition
     * Shows how to mix assembly with C in a program
-<HR>
 
-
+  
 <A NAME="P17"></A>
+<HR>
+<P align="center"><A HREF="#P16">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P18">--&gt;</A></P>  
+       
 # Project 17: Arduino Micorocontrollers IDEs
 
 Goal: Identify the Arduino IDEs use for microcontrollers.
-<HR>
 
-    
+  
 <A NAME="P18"></A>
+<HR>
+<P align="center"><A HREF="#P17">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P19">--&gt;</A></P>  
+       
 # Project 18: Build a Computer for Micorocontroller Development
 
 <p align="center">
@@ -795,10 +819,12 @@ To use the Pico.
 Use Raspberry Pi P400 computer.
 Create a new microSD card with latest OS with full install.
 The full install includes Thonny and Mu.
-<HR>
 
-    
+  
 <A NAME="P19"></A>
+<HR>
+<P align="center"><A HREF="#P18">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P20">--&gt;</A></P>  
+       
 # Project 19: Setup Git and GitHub
 
 <p align="center">
@@ -837,10 +863,13 @@ The Raspberry Pi P400 full install includes git.
   + YouTube [list](https://www.youtube.com/results?search_query=GitHub)
 + Books
   + Amazon [list](https://www.amazon.com/s?k=Github+in+books&crid=2SACFZLPDLFD9&sprefix=github+in+books%2Caps%2C148&ref=nb_sb_noss_1)   
-<HR>
 
+  
+<A NAME="P20"></A>
+<HR>
+<P align="center"><A HREF="#P19">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P21">--&gt;</A></P>  
+       
     
-<A NAME="P20"></A>    
 # Project 20: Learn Micropython on the Pico
 
 <p align="center">
