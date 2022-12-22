@@ -1093,6 +1093,11 @@ To create a folder a new file is created in the new folder at the same time.
 + Use Arduino IDE with the Raspberry Pi Pico board.
 + Magazine archive scan.
 + CircuitPython tutorial.
++ RPi Bookshelf.
++ Photo/image for each project
+
+  
+  
   
 
 73 David Haworth WA9ONY
