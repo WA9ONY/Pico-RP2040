@@ -25,7 +25,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 
 <A NAME="INDEX"></A>
 <HR>
-<P align="center"><A HREF="#HOME">&lt;--</A>  INDEX  <A HREF="#P1">--&gt;</A></P>  
+<P align="center"><A HREF="#HOME">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - Index - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
  
 # Projects Index
 + <A HREF="#HOME">Home</A> 
