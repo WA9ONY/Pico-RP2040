@@ -790,7 +790,15 @@ Software
        
 # Project 17: Arduino Micorocontrollers IDEs
 
-Goal: Identify the Arduino IDEs use for microcontrollers.
+<p align="center"><img width="452" height="451" src="/Images/UbuntuS.png"></p>
+
+The above screeshot shows the details of the Inel NUC8 Ubuntu computer.  
+  
+Goal: 
++ Install the three versions of Arduino IDEs Linux computer.
+  + Web editor
+  + IDE V1.8
+  + IDE V2
 
   
 <A NAME="P18"></A>
@@ -799,9 +807,7 @@ Goal: Identify the Arduino IDEs use for microcontrollers.
        
 # Project 18: Build a Computer for Micorocontroller Development
 
-<p align="center">
-  <img width="640" height="480" src="/Images/P400.jpg">  
-</p>
+<p align="center"><img width="640" height="480" src="/Images/P400.jpg"></p>
 
 Goals
 + The computer needs to run these ADE
