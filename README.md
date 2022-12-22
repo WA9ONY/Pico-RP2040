@@ -707,11 +707,6 @@ Goal: Identify the Seeed Studio RP2040 microcontroller development boards.
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
 + [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=9178e9456690e66382d9d6934ff4ae0a&objectID=5026&indexName=bazaar_retailer_products)
-<HR>
-
-<p align="center">
-  <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
-</p>
 
   
 <A NAME="P14"></A>
@@ -719,6 +714,11 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 <P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P15">--&gt;</A></P>  
        
 # Project 14: [SparkFun](https://www.sparkfun.com/) RP2040 Boards
+
+<p align="center">
+  <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
+</p>
+
     
 Goal: Identify the SparkFun RP2040 microcontroller development boards.
     
@@ -728,11 +728,6 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   + [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745)
   + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
   + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
-<HR>
-
-<p align="center">
-  <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
-</p>
 
   
 <A NAME="P15"></A>
@@ -740,7 +735,11 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
 <P align="center"><A HREF="#P14">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P16">--&gt;</A></P>  
           
 # Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
-    
+
+<p align="center">
+<img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
+</p>
+ 
 Goal: Identify the Waveshare RP2040 microcontroller development boards.
     
 Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=Waveshare&crid=AJL406YJVRKX&sprefix=waveshare%2Caps%2C136&ref=nb_sb_noss_1)
