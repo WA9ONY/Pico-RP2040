@@ -484,7 +484,7 @@ Goal: Identify videos on microcontrollers as a learning resouce.
   
 <A NAME="P5"></A>
 <HR>
-<P align="center"><A HREF="#P4">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P6">--&gt;</A></P>  
+<P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
 
 # Project 5: Forums
 
@@ -1094,6 +1094,8 @@ To create a folder a new file is created in the new folder at the same time.
 + Use the Arduino IDE and libraries.
 + Explore [Fritzing](https://fritzing.org/).
 + Use Arduino IDE with the Raspberry Pi Pico board.
-<HR>
++ Magazine archive scan.
++ CircuitPython tutorial.
+  
 
 73 David Haworth WA9ONY
