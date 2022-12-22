@@ -670,7 +670,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   
 <A NAME="P12"></A>
 <HR>
-<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P113">--&gt;</A></P>  
+<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P13">--&gt;</A></P>  
 
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
