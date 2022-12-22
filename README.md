@@ -442,7 +442,7 @@ Sign up for a account and you can borrow books.
   
 <A NAME="P3"></A>
 <HR>
-<P align="center"><A HREF="#P2">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P4">--&gt;</A></P>  
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
 
 # Project 3: Micorocontrollers in Magazines
 
@@ -469,7 +469,7 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
   
 <A NAME="P4"></A>
 <HR>
-<P align="center"><A HREF="#P3">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P5">--&gt;</A></P>  
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
 
 # Project 4: Micorocontrollers Videos
 
@@ -498,7 +498,7 @@ Goal: Identify fourms on microcontrollers as a source for help.
   
 <A NAME="P6"></A>
 <HR>
-<P align="center"><A HREF="#P5">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P7">--&gt;</A></P>  
+<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P7">--&gt;</A></P>  
 
 # Project 6: Micorocontrollers Applications
 
@@ -531,7 +531,7 @@ For example, a microcontroller with a temperature sensor can be used as a remote
   
 <A NAME="P7"></A>
 <HR>
-<P align="center"><A HREF="#P6">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P8">--&gt;</A></P>  
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
 
 #  Project 7: RP2040 Microcontroller Introduction
 
@@ -557,7 +557,7 @@ In January 2021, Raspberry Pi Foundation entered the microcontroller market with
   
 <A NAME="P8"></A>
 <HR>
-<P align="center"><A HREF="#P7">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P9">--&gt;</A></P>  
+<P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P9">--&gt;</A></P>  
 
 # Project 8: Arduino Microcontroller Introduction
 
@@ -584,7 +584,7 @@ Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store
   
 <A NAME="P9"></A>
 <HR>
-<P align="center"><A HREF="#P8">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P10">--&gt;</A></P>  
+<P align="center"><A HREF="#P8">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P10">--&gt;</A></P>  
 
 # Project 9: RP2040 Development Boards Lists
 
@@ -605,7 +605,7 @@ There is greater than 40 RP2040 microcontroller boards.
   
 <A NAME="P10"></A>
 <HR>
-<P align="center"><A HREF="#P9">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P11">--&gt;</A></P>  
+<P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P11">--&gt;</A></P>  
 
 # Project 10: Raspberry Pi RP2040 Boards   
 
@@ -631,7 +631,7 @@ Wikipedia
   
 <A NAME="P11"></A>
 <HR>
-<P align="center"><A HREF="#P10">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P12">--&gt;</A></P>  
+<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P12">--&gt;</A></P>  
 
 # Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
@@ -670,7 +670,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
   
 <A NAME="P12"></A>
 <HR>
-<P align="center"><A HREF="#P11">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P13">--&gt;</A></P>  
+<P align="center"><A HREF="#P11">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P13">--&gt;</A></P>  
 
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
@@ -694,7 +694,7 @@ Arduino Nano RP2040 Connect Microcontroller.
   
 <A NAME="P13"></A>
 <HR>
-<P align="center"><A HREF="#P12">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P14">--&gt;</A></P>  
+<P align="center"><A HREF="#P12">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P14">--&gt;</A></P>  
        
 # Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
   
@@ -711,7 +711,7 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
   
 <A NAME="P14"></A>
 <HR>
-<P align="center"><A HREF="#P13">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P15">--&gt;</A></P>  
+<P align="center"><A HREF="#P13">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P15">--&gt;</A></P>  
        
 # Project 14: [SparkFun](https://www.sparkfun.com/) RP2040 Boards
 
@@ -732,7 +732,7 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
   
 <A NAME="P15"></A>
 <HR>
-<P align="center"><A HREF="#P14">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P16">--&gt;</A></P>  
+<P align="center"><A HREF="#P14">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P16">--&gt;</A></P>  
           
 # Project 15: [Waveshare](https://www.waveshare.com/) RP2040 Boards
 
@@ -751,7 +751,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
   
 <A NAME="P16"></A>
 <HR>
-<P align="center"><A HREF="#P15">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P17">--&gt;</A></P>  
+<P align="center"><A HREF="#P15">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P17">--&gt;</A></P>  
        
 # Project 16: Micorocontrollers Programming
 
@@ -786,7 +786,7 @@ Software
   
 <A NAME="P17"></A>
 <HR>
-<P align="center"><A HREF="#P16">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P18">--&gt;</A></P>  
+<P align="center"><A HREF="#P16">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P18">--&gt;</A></P>  
        
 # Project 17: Arduino Micorocontrollers IDEs
 
@@ -795,7 +795,7 @@ Goal: Identify the Arduino IDEs use for microcontrollers.
   
 <A NAME="P18"></A>
 <HR>
-<P align="center"><A HREF="#P17">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P19">--&gt;</A></P>  
+<P align="center"><A HREF="#P17">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P19">--&gt;</A></P>  
        
 # Project 18: Build a Computer for Micorocontroller Development
 
@@ -822,7 +822,7 @@ The full install includes Thonny and Mu.
   
 <A NAME="P19"></A>
 <HR>
-<P align="center"><A HREF="#P18">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P20">--&gt;</A></P>  
+<P align="center"><A HREF="#P18">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P20">--&gt;</A></P>  
        
 # Project 19: Setup Git and GitHub
 
@@ -866,7 +866,7 @@ The Raspberry Pi P400 full install includes git.
   
 <A NAME="P20"></A>
 <HR>
-<P align="center"><A HREF="#P19">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P21">--&gt;</A></P>  
+<P align="center"><A HREF="#P19">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P21">--&gt;</A></P>  
         
 # Project 20: Learn Micropython on the Pico
 
@@ -902,7 +902,7 @@ Goals
   
 <A NAME="P21"></A>
 <HR>
-<P align="center"><A HREF="#P20">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P22">--&gt;</A></P>  
+<P align="center"><A HREF="#P20">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P22">--&gt;</A></P>  
        
 # Project 21: Setup Pico with Micropython
 
@@ -918,7 +918,7 @@ Goal
   
 <A NAME="P22"></A>
 <HR>
-<P align="center"><A HREF="#P21">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P23">--&gt;</A></P>  
+<P align="center"><A HREF="#P21">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P23">--&gt;</A></P>  
 
 # Project 22: Run Pico on Batteries
 
@@ -934,7 +934,7 @@ Goal
   
 <A NAME="P23"></A>
 <HR>
-<P align="center"><A HREF="#P22">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P24">--&gt;</A></P>  
+<P align="center"><A HREF="#P22">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P24">--&gt;</A></P>  
 
 # Project 23: Run Pico on Solar Cells
 
@@ -952,7 +952,7 @@ Goal
   
 <A NAME="P24"></A>
 <HR>
-<P align="center"><A HREF="#P23">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P25">--&gt;</A></P>  
+<P align="center"><A HREF="#P23">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P25">--&gt;</A></P>  
 
 # Project 24: Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 
@@ -968,7 +968,7 @@ Goal
   
 <A NAME="P25"></A>
 <HR>
-<P align="center"><A HREF="#P24">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P26">--&gt;</A></P>  
+<P align="center"><A HREF="#P24">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P26">--&gt;</A></P>  
 
 # Project 25: Use Pico A/D to Measure CPU Temperature
 
@@ -1012,7 +1012,7 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
   
 <A NAME="P26"></A>
 <HR>
-<P align="center"><A HREF="#P25">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#P27">--&gt;</A></P>  
+<P align="center"><A HREF="#P25">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P27">--&gt;</A></P>  
 
 # Project 26: Run the Arduino IDE & Arduno Uno R3
 
@@ -1042,7 +1042,7 @@ Resources
   
 <A NAME="P27"></A>
 <HR>
-<P align="center"><A HREF="#P26">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P26">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 27: Using the GiHub Web Interface
 
@@ -1077,7 +1077,7 @@ To create a folder a new file is created in the new folder at the same time.
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P27">&lt;--</A><A HREF="#INDEX"> INDEX </A><A HREF="#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P27">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
