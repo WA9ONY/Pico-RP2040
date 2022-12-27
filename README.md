@@ -697,7 +697,11 @@ Arduino Nano RP2040 Connect Microcontroller.
 <P align="center"><A HREF="#P12">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P14">--&gt;</A></P>  
        
 # Project 13: [Seed Studio](https://www.seeedstudio.com/) RP2040 Boards
-  
+
+<p>
+<img align="center" width="600" height="527" src="/Images/SeedXIAO600.png"> 
+</p>
+
 <p align="center">
 <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
 </p>
