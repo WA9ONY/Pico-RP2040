@@ -5,7 +5,7 @@
 # RP2040 & Arduino Microcontroller Ham Radio Projects
 
 <p align="center">
-  <img width="400" height="453" src="/Images/RP2040b.png">  
+  <img width="308" height="308" src="/Images/RP2040.png">  
 </p>
 
 <p align="center">
