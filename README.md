@@ -609,11 +609,11 @@ There is greater than 40 RP2040 microcontroller boards.
 
 # Project 10: Raspberry Pi RP2040 Boards   
 
-Goal: Identify the Raspberry Pi RP2040 microcontroller development boards.    
+Goal: Raspberry Pi RP2040 microcontroller development boards.    
     
 ## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 <p align="center">
-  <img width="640" height="161" src="/Images/picoPicoW.jpg">  
+  <img width="600" height="519" src="/Images/Picos600.png">  
 </p>
 The board on the left is a Pico and the board on the right is a Pico W.  Both boards have pins soldered on them.
 
