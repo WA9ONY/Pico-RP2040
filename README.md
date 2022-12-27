@@ -615,7 +615,7 @@ Goal: Raspberry Pi RP2040 microcontroller development boards.
 <p align="center">
   <img width="600" height="519" src="/Images/Picos600.png">  
 </p>
-The board on the left is a Pico and the board on the right is a Pico W.  Both boards have pins soldered on them.
+The board on the bottom is a Pico and the board on the top is a Pico W.  Both boards have pins soldered on them.
 
 [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) boards
 + [Pico $4](https://www.adafruit.com/product/4864) Has Rp2040, clock chip, flash chip and 3.3V regulator chip
@@ -675,7 +675,7 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
 <p align="center">
-  <img width="472" height="198" src="/Images/ArduinoNano50.png">  
+  <img width="600" height="269" src="/Images/AudRP2040_600.png">  
 </p>
 <p align="center">
   <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
@@ -696,7 +696,7 @@ Arduino Nano RP2040 Connect Microcontroller.
 <HR>
 <P align="center"><A HREF="#P12">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P14">--&gt;</A></P>  
        
-# Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
+# Project 13: [Seed Studio](https://www.seeedstudio.com/) RP2040 Boards
   
 <p align="center">
 <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
