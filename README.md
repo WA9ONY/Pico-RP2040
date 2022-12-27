@@ -747,15 +747,14 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 <p align="center">
   <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
-
-    
+  
 Goal: Identify the SparkFun RP2040 microcontroller development boards.
     
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
  
  <P align="center">
-<img width="600" height="332" src="/Images/SparkFunProMico600.png"> 
+<img width="600" height="332" src="/Images/SparkFunProMicor600.png"> 
 </p>  
   
   + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
