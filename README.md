@@ -636,7 +636,7 @@ Wikipedia
 # Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
 <p align="center">
-  <img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
+<img width="479" height="229" src="/Images/AdafruitRP2040.jpg"> 
 </p>
 <p align="center">
 <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
@@ -647,10 +647,35 @@ Goal: Identify the Adafriut RP2040 microcontroller development boards.
 Adafruit [(Wikipedia)](https://en.wikipedia.org/wiki/Adafruit_Industries) is develops and sells open source hardware and is localed in New Your city. Adafruit is an offical distributer of Raspberry Pi products.  Therefore, they sell the Raspberry Pi Pico family of products and the Raspberry Pi SBC produccts. Also, Adafruit develops there own RP2040
 
 Above photo left to right:
+  
+<p align="center">
+<img width="600" height="287" src="/Images/AdaP4884_600.png"> 
+</p>  
+
 + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884) with STEMMA QT
+  
+<p align="center">
+<img width="600" height="324" src="/Images/AdaP4888_600.png"> 
+</p>  
+
 + [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
+  
+<p align="center">
+<img width="600" height="493" src="/Images/AdaP4900_600.png"> 
+</p>  
+  
 + [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900) with STEMMA QT
+  
+<p align="center">
+<img width="600" height="306" src="/Images/AdaP5056_600.png"> 
+</p>  
+  
 + [Adafruit P5056 Trinkey QT2040 - RP2040 USB Key with Stemma QT](https://www.adafruit.com/product/5056) with STEMMA QT
+  
+<p align="center">
+<img width="600" height="326" src="/Images/AdaP5302_600.png"> 
+</p>    
+  
 + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302) with STEMMA QT
 
 Some Adafriut product are available on Amazon.
