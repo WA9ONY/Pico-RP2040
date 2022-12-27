@@ -753,7 +753,17 @@ Goal: Identify the SparkFun RP2040 microcontroller development boards.
     
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
+ 
+ <P align="center">
+<img width="600" height="332" src="/Images/SparkFunProMico600.png"> 
+</p>  
+  
   + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
+  
+<P align="center">
+<img width="600" height="259" src="/Images/SparkFunThingPlus600.png"> 
+</p>    
+  
   + [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745)
   + [WizFi360-EVB-Pico](https://www.sparkfun.com/products/19959)
   + [W5500-EVB-Pico](https://www.sparkfun.com/products/19958)
