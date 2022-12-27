@@ -41,7 +41,7 @@ David Haworth, WA9ONY, [QRZ](https://www.qrz.com/db/WA9ONY), [YouTube](https://w
 + Project 10: <A HREF="#P10">Raspberry Pi RP2040 Boards</A>
 + Project 11: <A HREF="#P11">Adafruit Industries RP2040 Boards</A>
 + Project 12: <A HREF="#P12">Arduino Nano RP2040 Connect Board</A>
-+ Project 13: <A HREF="#P13">Seed Studio RP2040 Boards</A>
++ Project 13: <A HREF="#P13">Seeed Studio RP2040 Boards</A>
 + Project 14: <A HREF="#P14">SparkFun RP2040 Boards</A>
 + Project 15: <A HREF="#P15">Waveshare RP2040 Boards</A>
 + Project 16: <A HREF="#P16">Micorocontrollers Programming</A>
@@ -696,7 +696,7 @@ Arduino Nano RP2040 Connect Microcontroller.
 <HR>
 <P align="center"><A HREF="#P12">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P14">--&gt;</A></P>  
        
-# Project 13: [Seed Studio](https://www.seeedstudio.com/) RP2040 Boards
+# Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
 
 <P align="center">
 <img width="600" height="527" src="/Images/SeedXIAO600.png"> 
