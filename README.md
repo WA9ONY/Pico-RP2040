@@ -493,7 +493,7 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 # Project 4: Micorocontrollers Videos
 
 <p align="center">
-<img  width="512" height="114" src="/Images/YouTube_Logo.png">
+<img  width="256" height="57" src="/Images/YouTube_LogoS.png">
 </p>
   
 Goal: Identify videos on microcontrollers as a learning resouce.
@@ -510,6 +510,10 @@ Goal: Identify videos on microcontrollers as a learning resouce.
 <P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
 
 # Project 5: Forums
+
+<p align="center">
+<img  width="115" height="93" src="/Images/groupsio.png">
+</p>
 
 Goal: Identify fourms on microcontrollers as a source for help.
     
