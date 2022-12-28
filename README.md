@@ -866,8 +866,10 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 + Web Editor needs the Arduino Create Agent installed to communicate to the Arduino board.
 + To use the [Arduino Cloud](https://cloud.arduino.cc/home/) the [free Cloud account](https://cloud.arduino.cc/plans/) provides 100 MBytes of storage. 
 + Later the Arduino IoT Cloud will be used in projects.  The Arduino Cloud and Arduino IoT Cloud are different.
-## IDE V2.0.3
+## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + No program icon was created.
++ V2 has a debugger.
++ Editor auto completes.
 
 <PRE> 
 Version: 2.0.3
@@ -877,7 +879,7 @@ CLI Version: 0.29.0 [76251df9]
 Copyright © 2022 Arduino SA 
 </PRE> 
  
-## IDE V1.8.19 
+## IDE [V1.8.19](https://www.arduino.cc/en/software) 
 + Icon installed in applications screen.
 + install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
   + [Permission denied on /dev/ttyACM0](https://forum.arduino.cc/t/permission-denied-on-dev-ttyacm0/475568)
