@@ -856,12 +856,14 @@ Software
        
 # Project 17: Arduino Micorocontrollers Web Editor IDEs
 
-<p align="center"><img width="452" height="451" src="/Images/UbuntuS.png"></p>
+<p align="center"><img width="960" height="540" src="/Images/ArduinoIDEsS.png"></p>
 
-The above screeshot shows the details of the Inel NUC8 Ubuntu computer.  All three Arduino IDEs were sucessfully installed on the Ubuntu computer.
-   
+The above screenshot shows the three Arduino IDEs open on an Ubuntu computer.
+ 
 + The three versions of Arduino IDEs Linux computer.
-  + Web editor needs the Arduino Create Agent installed to communicate to the Arduino board.  
+  + Web editor needs the Arduino Create Agent installed to communicate to the Arduino board.
+    + Need to have an Arduino account (no cost).
+    + To use the Arduino Cloud the free Cloud account provides 100 MBytes of storage.
   + IDE V2.0.3
     + No program icon was created.
 
