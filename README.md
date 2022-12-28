@@ -856,7 +856,7 @@ Software
        
 # Project 17: Arduino Micorocontrollers Web Editor IDEs
 
-<p align="center"><img width="960" height="540" src="/Images/ArduinoIDEsS.png"></p>
+<p align="center"><img width="960" height="540" src="/Images/ArduinnoIDEsS.png"></p>
 
 The above screenshot shows the three Arduino IDEs open on an Ubuntu computer.
  
