@@ -590,6 +590,10 @@ In January 2021, Raspberry Pi Foundation entered the microcontroller market with
 
 # Project 8: Arduino Microcontroller Introduction
 
+ <p align="center">
+<img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
+</p>  
+ 
 Goal: Learn about Arduino microcontrollers.    
     
 ## Overview 
@@ -729,10 +733,10 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
 <p align="center">
-  <img width="600" height="269" src="/Images/AudRP2040_600.png">  
+<img width="600" height="269" src="/Images/AudRP2040_600.png">  
 </p>
 <p align="center">
-  <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
+<img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
 </p>  
 
 Goal: Identify the Arduino RP2040 microcontroller development board.
