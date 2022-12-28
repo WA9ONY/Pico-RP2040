@@ -858,14 +858,16 @@ Software
 
 <p align="center"><img width="960" height="540" src="/Images/ArduinnoIDEsS.png"></p>
 
-The above screenshot shows the three Arduino IDEs open on an Ubuntu computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
+The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/software) open on an Ubuntu computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
  
-+ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
-  + Web editor needs the Arduino Create Agent installed to communicate to the Arduino board.
-    + Need to have an Arduino account (no cost).
-    + To use the Arduino Cloud the free Cloud account provides 100 MBytes of storage.
-  + IDE V2.0.3
-    + No program icon was created.
+The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
+## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
++ Need to have an Arduino account (no cost).
++ Web Editor needs the Arduino Create Agent installed to communicate to the Arduino board.
++ To use the [Arduino Cloud](https://cloud.arduino.cc/home/) the [free Cloud account](https://cloud.arduino.cc/plans/) provides 100 MBytes of storage. 
++ Later the Arduino IoT Cloud will be used in projects.  The Arduino Cloud and Arduino IoT Cloud are different.
+## IDE V2.0.3
++ No program icon was created.
 
 <PRE> 
 Version: 2.0.3
@@ -875,11 +877,13 @@ CLI Version: 0.29.0 [76251df9]
 Copyright © 2022 Arduino SA 
 </PRE> 
  
-  + IDE V1.8.19 
-    + Icon installed in applications screen.
-    + install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
-      + [Permission denied on /dev/ttyACM0](https://forum.arduino.cc/t/permission-denied-on-dev-ttyacm0/475568)
+## IDE V1.8.19 
++ Icon installed in applications screen.
++ install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
+  + [Permission denied on /dev/ttyACM0](https://forum.arduino.cc/t/permission-denied-on-dev-ttyacm0/475568)
 
+CLI history to fix permission denied issue. 
+ 
 <PRE>
 1272  cd arduino-1.8.19
 1273  ls
