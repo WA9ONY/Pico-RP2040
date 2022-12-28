@@ -88,7 +88,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
   <img width="567" height="740" src="/Images/Books5.png">  
 </p>
 
-Goal: Identify books on microcontrollers in ham radio as a learning resouce.  
+The below table identifies books on microcontrollers in ham radio.  
   
 Look at the contents column to see the various ham radio microcontroller projects that have been written about in these books. The books are sorted with the newest books at the top of the table.
 
@@ -426,8 +426,6 @@ Ham radio microcontroller books table 1.1.
 <p align="center">
   <img  width="269" height="134" src="/Images/ArduinoPico.png"> 
 </p>
-
-Goal: Identify books on microcontrollers as a learning resouce.
     
 ## HackSpace Free Books [PDFs](https://hackspace.raspberrypi.com/books)   
 + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
@@ -468,8 +466,6 @@ Sign up for a account and you can borrow books.
 <p align="center">
 <img  width="747" height="286" src="/Images/Mags2.png">
 </p>
-  
-Goal: Identify magazine articles on microcontrollers as a learning resouce.
     
 ## Raspberry Pi Press Free Magazines 
 + [Hackspace](https://hackspace.raspberrypi.com/) issue [39, 40, 44](https://hackspace.raspberrypi.com/issues?page=2), [52, 57, 61](https://hackspace.raspberrypi.com/issues?page=1)
@@ -496,7 +492,7 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 <img  width="256" height="57" src="/Images/YouTube_LogoS.png">
 </p>
   
-Goal: Identify videos on microcontrollers as a learning resouce.
+Videos on microcontrollers.
     
 + Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://www.youtube.com/watch?v=HOi_AYEgSmo) - Glen Popiel, KW5GP
 + YouTube
@@ -515,7 +511,7 @@ Goal: Identify videos on microcontrollers as a learning resouce.
 <img  width="115" height="93" src="/Images/groupsio.png">
 </p>
 
-Goal: Identify fourms on microcontrollers as a source for help.
+Forums related to microcontrollers.
     
 ## Groups.IO
 + SoftwareControlledHamRadio [group](https://groups.io/g/SoftwareControlledHamRadio)
@@ -562,9 +558,7 @@ For example, a microcontroller with a temperature sensor can be used as a remote
 
 <p align="center">
 <img width="308" height="308" src="/Images/RP2040.png">  
-</p>  
-  
-Goal: Learn about the Raspberry Pi RP2030 microcontrollers.
+</p> 
     
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
 
@@ -669,9 +663,7 @@ Wikipedia
 </p>
 <p align="center">
 <img align="right" width="220" height="75" src="/Images/Adafruit_logo.svg.png"> 
-</p>
-
-Goal: Identify the Adafriut RP2040 microcontroller development boards.        
+</p>       
     
 Adafruit [(Wikipedia)](https://en.wikipedia.org/wiki/Adafruit_Industries) is develops and sells open source hardware and is localed in New Your city. Adafruit is an offical distributer of Raspberry Pi products.  Therefore, they sell the Raspberry Pi Pico family of products and the Raspberry Pi SBC produccts. Also, Adafruit develops there own RP2040
 
