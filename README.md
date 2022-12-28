@@ -26,6 +26,8 @@ Microcontroller projects range from using only the microcontroller developement 
   
 Software is needed to program the microcontroller.  The long time defacto standard is Arduino IDE (since 2005) which is based on C++. Also, MicroPython and CircuitPython have large strong microcontroller ecosystems.  This results in different ways to program the microcontroller.   
 
+<img align="right" width="320" height="240" src="/Images/voltsTemp320.png">
+
 ## Summary of What is Needed for Microcontroller Project.
 - Microcontroller developement board.
 - Additional electronics and subsystem boards needed for the project.
