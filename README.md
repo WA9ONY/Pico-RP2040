@@ -864,6 +864,7 @@ The above screeshot shows the details of the Inel NUC8 Ubuntu computer.  All thr
   + Web editor needs the Arduino Create Agent installed to communicate to the Arduino board.  
   + IDE V2.0.3
     + No program icon was created.
+
 <PRE> 
 Version: 2.0.3
 Date: 2022-12-05T09:27:52.215Z
@@ -873,7 +874,9 @@ Copyright © 2022 Arduino SA
 </PRE> 
  
   + IDE V1.8.19 
-    +install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
+    + Icon installed in applications screen.
+    + install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
+      + [Permission denied on /dev/ttyACM0](https://forum.arduino.cc/t/permission-denied-on-dev-ttyacm0/475568)
 
 <PRE>
 1272  cd arduino-1.8.19
