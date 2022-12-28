@@ -912,11 +912,14 @@ YouTubes
 
 <p align="center"><img width="640" height="480" src="/Images/P400.jpg"></p>
 
-Goals
 + The computer needs to run these ADE
   + MicroPython - Thonny IDE
   + Circuitpython - Mu IDE
-    
+ 
+ + Limitations
+   + Arduino Web Editor is not support because the Arduino Create Agent does not run of the Raspberry Pi computer.
+   + Arduino V2 has no install for the Raspberry Pi computer.
+ 
 To use the Pico a computer with a Pico [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) is needed.
 To use the Pico.
 1. Create a Pico program in the IDE.
