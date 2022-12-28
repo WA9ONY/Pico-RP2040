@@ -640,11 +640,8 @@ There is greater than 40 RP2040 microcontroller boards.
 <HR>
 <P align="center"><A HREF="#P9">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P11">--&gt;</A></P>  
 
-# Project 10: Raspberry Pi RP2040 Boards   
-
-Goal: Raspberry Pi RP2040 microcontroller development boards.    
+# Project 10: Raspberry Pi RP2040 Boards       
     
-## [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 <p align="center">
   <img width="600" height="519" src="/Images/Picos600.png">  
 </p>
@@ -658,6 +655,7 @@ The board on the bottom is a Pico and the board on the top is a Pico W.  Both bo
 + [RB2040 $1](https://www.adafruit.com/product/5041) Just the RP2040 chip.
 
 Wikipedia
++ [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
 + [RP2040](https://en.wikipedia.org/wiki/RP2040)
 
