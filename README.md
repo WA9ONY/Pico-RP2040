@@ -986,7 +986,7 @@ The full install includes Thonny and Mu.
 # Project 19: Setup Git and GitHub
 
 <p align="center"><img width="340" height="97" src="/Images/GitHub_logo.png"></p>
-<p align="center"><img width="640" height="480" src="/Images/GitHub.jpg"></p>
+<p align="center"><img width="700" height="1076" src="/Images/GitHubL2_700.png"></p>
 
 Goals
 + Use git CLI on the computer.
