@@ -33,10 +33,10 @@ Software is needed to program the microcontroller.  The long time defacto standa
 - Additional electronics and subsystem boards needed for the project.
 - Computer
   - To develope software with the IDE.
-  - Upload the software to the microcontroller board usually with USB interface.
-  - Power the microcontroller board with the USB interface. 
+  - To upload the software to the microcontroller board usually with USB interface.
+  - To power the microcontroller board with the USB interface. 
 - Software IDE to develope the microcontroller software.
-- Power the project after software is completed.
+- Power the project after software is completed and the computer is not needed.
   - USB power souce
   - Batteries
   - Solar cells
