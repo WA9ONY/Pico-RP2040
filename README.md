@@ -896,6 +896,11 @@ CLI history to fix permission denied issue.
 1280  history
 </PRE>
 
+YouTubes
++ [Arduino Cloud Explained](https://youtu.be/uaLrmLCqGnc)
++ [Arduino IDE vs. Arduino IoT Cloud Editor](https://youtu.be/lL1caDBLlhA)
+ 
+ 
   
 <A NAME="P18"></A>
 <HR>
