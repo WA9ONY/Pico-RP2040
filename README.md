@@ -751,8 +751,6 @@ Arduino Nano RP2040 Connect Microcontroller.
 <p align="center">
 <img align="right" width="225" height="54" src="/Images/seedstudioLogo.png"> 
 </p>
-
-Goal: Identify the Seeed Studio RP2040 microcontroller development boards.
     
 Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?k=Seeed+Studio&crid=PQF86EWIGSXL&sprefix=seeed+studio%2Caps%2C197&ref=nb_sb_noss_1)
 + [RP2040s](https://www.seeedstudio.com/catalogsearch/result/?q=rp2040)
@@ -768,8 +766,6 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 <p align="center">
   <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
-  
-Goal: Identify the SparkFun RP2040 microcontroller development boards.
     
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
@@ -798,8 +794,6 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
 <p align="center">
 <img align="right" width="299" height="61" src="/Images/waveshareLogo.png"> 
 </p>
- 
-Goal: Identify the Waveshare RP2040 microcontroller development boards.
     
 Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=Waveshare&crid=AJL406YJVRKX&sprefix=waveshare%2Caps%2C136&ref=nb_sb_noss_1)
 + [RP2040s](https://www.waveshare.com/catalogsearch/result/?q=RP2040)
@@ -827,9 +821,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
 <HR>
 <P align="center"><A HREF="#P15">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P17">--&gt;</A></P>  
        
-# Project 16: Micorocontrollers Programming
-
-Goal: Identify the programming languages use for microcontrollers.    
+# Project 16: Micorocontrollers Programming   
     
 Software
 + [Python](https://www.python.org/), [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -866,102 +858,35 @@ Software
 
 <p align="center"><img width="452" height="451" src="/Images/UbuntuS.png"></p>
 
-The above screeshot shows the details of the Inel NUC8 Ubuntu computer.  
-  
-Goal: 
-+ Install the three versions of Arduino IDEs Linux computer.
-  + Web editor
+The above screeshot shows the details of the Inel NUC8 Ubuntu computer.  All three Arduino IDEs were sucessfully installed on the Ubuntu computer.
+   
++ The three versions of Arduino IDEs Linux computer.
+  + Web editor needs the Arduino Create Agent installed to communicate to the Arduino board.  
+  + IDE V2.0.3
+    + No program icon was created.
+<PRE> 
+Version: 2.0.3
+Date: 2022-12-05T09:27:52.215Z
+CLI Version: 0.29.0 [76251df9]
 
- Click on the Upload button.
+Copyright © 2022 Arduino SA 
+</PRE> 
  
- Do not plut the Arduino UNO R3 into the USB port.
- Open Arduino in Chrome.
- Log on the your Arduino account.
- 
- Make sure the Arduino Creeate Agent is running. If not start it. 
- I see a Arduino icon in the system bar.
- Open the Arduino icon and select Open Debug Console
- Notice the USB settings.
- Plug in the Arduino UNO R3
- Now the rduino UNO R3 shows in the 
- The default program in the Arduino UNO R3 flashes the yellow board LED 1 second on and 1 second off, repeating this sequence.
- Edit Blink.ino, change the first delay(1000) to delay(3000)
- The Arduino UNO R3 TX and RX LED will flash than both will be off.
- The board yellow LED flashes at the new settings.
- 
+  + IDE V1.8.19 
+    +install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
 
-The Debug Console opens a browser show the Serial Ports information.
-{
-  "Version": "1.2.7"
-}
+<PRE>
+1272  cd arduino-1.8.19
+1273  ls
+1274  ./install.sh 
+1275  sudo ./install.sh 
+1276  ls -l /dev/ttyACM*
+1277  group
+1278  groups
+1279  sudo adduser david dialout
+1280  history
+</PRE>
 
-{
-  "Commands": [
-    "list",
-    "open <portName> <baud> [bufferAlgorithm: ({default}, timed, timedraw)]",
-    "(send, sendnobuf, sendraw) <portName> <cmd>",
-    "close <portName>",
-    "restart",
-    "exit",
-    "killupload",
-    "downloadtool <tool> <toolVersion: {latest}> <pack: {arduino}> <behaviour: {keep}>",
-    "log",
-    "memorystats",
-    "gc",
-    "hostname",
-    "version"
-  ]
-}
-
-Serial Ports:
-[
-  {
-    "Name": "/dev/ttyACM0",
-    "SerialNumber": "14235303735351801271",
-    "IsOpen": false,
-    "VendorID": "0x2341",
-    "ProductID": "0x0043"
- 
-https://devicehunt.com/view/type/usb/vendor/2341
-Serial Ports:
-[
-  {
-    "Name": "/dev/ttyACM0",
-    "SerialNumber": "D7D21C46BACDCA162E34",
-    "IsOpen": false,
-    "VendorID": "0x03eb",
-    "ProductID": "0x2145"
-  }
-]
-SB	03EB	Atmel Corp.	2145	ATMEGA328P-XMINI (CDC ACM)
-Serial Ports:
-[
-  {
-    "Name": "/dev/ttyACM0",
-    "SerialNumber": "14235303735351801271",
-    "IsOpen": false,
-    "VendorID": "0x2341",
-    "ProductID": "0x0043"
-  }
-]
-
-
-Arduino NNano RP2040 Connect
-
-Serial Ports:
-[
-  {
-    "Name": "/dev/ttyACM0",
-    "SerialNumber": "06C6345018725992",
-    "IsOpen": false,
-    "VendorID": "0x2341",
-    "ProductID": "0x005e"
-  }
-]
-
-
-
-USB	2341	Arduino SA	0043	Uno R3 (CDC ACM)
   
 <A NAME="P18"></A>
 <HR>
