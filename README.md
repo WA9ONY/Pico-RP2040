@@ -591,10 +591,8 @@ In January 2021, Raspberry Pi Foundation entered the microcontroller market with
 # Project 8: Arduino Microcontroller Introduction
 
  <p align="center">
-<img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
-</p>  
- 
-Goal: Learn about Arduino microcontrollers.    
+<img width="74" height="57" src="/Images/arduinoLogo.png"> 
+</p>    
     
 ## Overview 
 [Arduino](https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
@@ -648,11 +646,11 @@ There is greater than 40 RP2040 microcontroller boards.
 The board on the bottom is a Pico and the board on the top is a Pico W.  Both boards have pins soldered on them.
 
 [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) boards
-+ [Pico $4](https://www.adafruit.com/product/4864) Has Rp2040, clock chip, flash chip and 3.3V regulator chip
-+ [Pico H $5](https://www.adafruit.com/product/5525) Adds two 20 pin headers to the Pico.
-+ [Pico W $6](https://www.adafruit.com/product/5526) Adds WiFy chip to the Pico
-+ [Pico WH $7](https://www.adafruit.com/product/5544) dds two 20 pin headers to the Pico W.
-+ [RB2040 $1](https://www.adafruit.com/product/5041) Just the RP2040 chip.
++ [Pico $4](https://www.adafruit.com/product/4864) has RP2040, clock chip, flash chip and 3.3V regulator chip
++ [Pico H $5](https://www.adafruit.com/product/5525) adds two 20 pin headers to the Pico.
++ [Pico W $6](https://www.adafruit.com/product/5526) adds WiFy chip to the Pico
++ [Pico WH $7](https://www.adafruit.com/product/5544) adds two 20 pin headers to the Pico W.
++ [RB2040 $1](https://www.adafruit.com/product/5041) is the RP2040 chip.
 
 Wikipedia
 + [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
