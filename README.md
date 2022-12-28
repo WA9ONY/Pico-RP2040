@@ -489,14 +489,13 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 <A NAME="P4"></A>
 <HR>
 <P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
-
- <p align="center">
-<img  width="512" height="114" src="/Images/YouTube_Logo.png">
-</p>
- 
   
 # Project 4: Micorocontrollers Videos
 
+<p align="center">
+<img  width="512" height="114" src="/Images/YouTube_Logo.png">
+</p>
+  
 Goal: Identify videos on microcontrollers as a learning resouce.
     
 + Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://www.youtube.com/watch?v=HOi_AYEgSmo) - Glen Popiel, KW5GP
