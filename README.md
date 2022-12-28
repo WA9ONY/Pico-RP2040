@@ -466,7 +466,7 @@ Sign up for a account and you can borrow books.
 # Project 3: Micorocontrollers in Magazines
 
 <p align="center">
-  <img  width="747" height="286" src="/Images/Mags2.png">
+<img  width="747" height="286" src="/Images/Mags2.png">
 </p>
   
 Goal: Identify magazine articles on microcontrollers as a learning resouce.
@@ -490,6 +490,11 @@ Goal: Identify magazine articles on microcontrollers as a learning resouce.
 <HR>
 <P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
 
+ <p align="center">
+<img  width="512" height="114" src="/Images/YouTube_Logo.png">
+</p>
+ 
+  
 # Project 4: Micorocontrollers Videos
 
 Goal: Identify videos on microcontrollers as a learning resouce.
