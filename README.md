@@ -854,13 +854,13 @@ Software
 <HR>
 <P align="center"><A HREF="#P16">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P18">--&gt;</A></P>  
        
-# Project 17: Arduino Micorocontrollers Web Editor IDEs
+# Project 17: Arduino Micorocontrollers IDEs
 
 <p align="center"><img width="960" height="540" src="/Images/ArduinnoIDEsS.png"></p>
 
-The above screenshot shows the three Arduino IDEs open on an Ubuntu computer.
+The above screenshot shows the three Arduino IDEs open on an Ubuntu computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
  
-+ The three versions of Arduino IDEs Linux computer.
++ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
   + Web editor needs the Arduino Create Agent installed to communicate to the Arduino board.
     + Need to have an Arduino account (no cost).
     + To use the Arduino Cloud the free Cloud account provides 100 MBytes of storage.
