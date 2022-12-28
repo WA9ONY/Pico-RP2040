@@ -28,11 +28,16 @@ Software is needed to program the microcontroller.  The long time defacto standa
 
 ## Summary of What is Needed for Microcontroller Project.
   1. Microcontroller controller developement board.
-  2. Software IDE.
-  3. Computer to run the IDE and upload the software to the microcontroller board usually with USB interface.
-  4. Additional electronics and subsystem boards needed for the project.
-  
-David Haworth, [WA9ONY](https://www.qrz.com/db/WA9ONY)
+  2. Additional electronics and subsystem boards needed for the project.
+  3. Computer
+    + To run the IDE.
+    + Upload the software to the microcontroller board usually with USB interface.
+    + Power the microcontroller board with the USB interface. 
+  2. Software IDE to develope the microcontroller software.
+  5. Power the project after software is completed.
+    + USB power souce
+    + Batteries
+    + Solar cells
 
 
 <A NAME="INDEX"></A>
