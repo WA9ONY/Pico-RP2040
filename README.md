@@ -1194,9 +1194,17 @@ To create a folder a new file is created in the new folder at the same time.
 <p align="center">
   <img width="157" height="54" src="/Images/ArduinoCloud.png"> 
 </p>
+ 
+ 
+ Links
+ + [Arduino Cloud How it Works](https://cloud.arduino.cc/how-it-works/)
+ + [Use Cases](https://cloud.arduino.cc/use-cases/)
 
  YouTube
  + [Arduino Cloud play list 16 videos](https://www.youtube.com/watch?v=uaLrmLCqGnc&list=PLT6rF_I5kknObk6lnQMpk5NIUB_vEHcNW)
+ + [Smart Lights and Automated Lighting using Arduino Cloud](https://youtu.be/eDcUefyDLZw)
+ + [Making Your Plants Smart with Arduino Cloud](https://youtu.be/RsmPT4kAUl8)
+ + [How to Integrate Amazon Alexa with Arduino Cloud](https://youtu.be/OMvZjwFYimo)
  + [Arduino IoT Cloud 2021 - Getting Started with Arduino & ESP32](https://youtu.be/UFCmTZUoZ1M)
  
 <A NAME="FUTURE"></A>
