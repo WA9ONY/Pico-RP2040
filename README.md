@@ -987,7 +987,7 @@ The Raspberry Pi P400 full install includes git.
 Goals
 + Learn how to program the Pico in [MicropPython](https://micropython.org/).
 + Learn how to use the [Thonny](https://thonny.org/) IDE.
-+ Learn about the [Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/).
++ Learn about the [Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) I/O.
 
 ## Resources
 + Articles
@@ -1007,7 +1007,7 @@ Goals
 + Courses
   + The Great Courses: How to Program: Computer Science Concepts and Python Exercises [video](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
 + Code
-  + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio)
+  + GitHub: [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 
   
 <A NAME="P21"></A>
@@ -1027,7 +1027,7 @@ Goal
 
 Steps
 + Download the [MicoPython UF2 file](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html).
-+ Hold the Pico Boot switch down when plugging the Pico into the P400
++ Hold the Pico Boot switch down when plugging the Pico into the P400.
 + The Pico will mount as a memory device.
 + Drage and drop the MicoPython UF2 file of the Pico memory.
 + The Pico will unmount and be ready to use MicoPython with Thonny with is all ready installed on the P400.
