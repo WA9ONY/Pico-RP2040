@@ -1026,6 +1026,7 @@ Goal
 + Use [Thonny](https://thonny.org/) to create, edit and debug MicoPython programs to run on the Pico.
 
 Steps
++ Download the [MicoPython UF2 file](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html).
 + Hold the Pico Boot switch down when plugging the Pico into the P400
 + The Pico will mount as a memory device.
 + Drage and drop the MicoPython UF2 file of the Pico memory.
