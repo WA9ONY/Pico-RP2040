@@ -66,7 +66,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 16: <A HREF="#P16">Micorocontrollers Programming</A>
 + Project 17: <A HREF="#P17">Arduino Micorocontrollers IDEs</A>
 + Project 18: <A HREF="#P18">Build a Computer for Micorocontroller Development</A>
-+ Project 19: <A HREF="#P19">Setup Git and GitHub</A>
++ Project 19: <A HREF="#P19">Setup GitHub</A>
 + Project 20: <A HREF="#P20">Learn Micropython on the Pico</A>
 + Project 21: <A HREF="#P21">Setup Pico with Micropython</A>
 + Project 22: <A HREF="#P22">Run Pico on Batteries</A>
@@ -937,9 +937,8 @@ The full install includes Thonny and Mu.
 <HR>
 <P align="center"><A HREF="#P18">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P20">--&gt;</A></P>  
        
-# Project 19: Setup Git and GitHub
+# Project 19: Setup GitHub
 
-<p align="center"><img width="340" height="97" src="/Images/GitHub_logo.png"></p>
 <p align="center"><img width="700" height="1076" src="/Images/GitHubL2_700.png"></p>
 
 Goals
