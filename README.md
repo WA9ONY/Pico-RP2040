@@ -70,7 +70,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 20: <A HREF="#P20">Learn Micropython on the Pico</A>
 + Project 21: <A HREF="#P21">Setup Pico with Micropython</A>
 + Project 22: <A HREF="#P22">Run Pico on Batteries</A>
-+ Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
++ Project 23: <A HREF="#P23">Power the  Pico on Solar Cells</A>
 + Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery Voltage
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
 + Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
@@ -1046,7 +1046,7 @@ Goal
 <HR>
 <P align="center"><A HREF="#P22">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P24">--&gt;</A></P>  
 
-# Project 23: Run Pico on Solar Cells
+# Project 23: Power the Pico on Solar Cells
 
 <p align="center">
   <img width="640" height="480" src="/Images/solar1.jpg"> 
@@ -1054,11 +1054,15 @@ Goal
 </p>
 
 Goal
-+ Use a low cost solar cells that are design for remove cameras that provide 5V.
-+ Find a solar cell with a micro USB connector that will plug directly into the Pico.
++ Use a low cost [solar cells](https://www.amazon.com/gp/product/B0B5G2BD5P/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) that are design for remove cameras that provide upto 5V, 5 Watts.
++ Find a solar cell with a micro USB connector that will plug directly into the Pico microcontroller board.
 + Test the solar cell/battery power configuration.
 + Find a water proof box for the Pico and battery.
 
+Results
++ Plastic [0.30 Caliber Ammo Box](https://www.harborfreight.com/030-caliber-ammo-box-63135.html?_br_psugg_q=ammo+box)
++ More testing will be done. 
+ 
   
 <A NAME="P24"></A>
 <HR>
