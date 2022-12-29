@@ -763,9 +763,10 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 # Project 14: [SparkFun](https://www.sparkfun.com/) RP2040 Boards
 
 <p align="center">
-  <img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
+<img align="right" width="169" height="83" src="/Images/sparkfunLogo.png"> 
 </p>
-    
+
+ 
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
   + [RP2040s](https://www.sparkfun.com/search/results?term=RP2040)
  
