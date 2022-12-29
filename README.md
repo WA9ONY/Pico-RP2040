@@ -1273,60 +1273,69 @@ README.md file
 <img width="600" height="557" src="/Images/ArdNANORPtb600.png"> 
 </p> 
 
-Arduino NANO RP2040 Connect 
+Arduino NANO RP2040 Connect on [Amazon](https://www.amazon.com/gp/product/B095J4KFVT/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
  
 <p align="center">
 <img width="600" height="251" src="/Images/ArdPortentaH7rev2front600.png"> 
 </p>  
 
-Arduino Portenta H7 Rev 2
+Arduino Portenta H7 Rev 2 on [Amazon](https://www.amazon.com/dp/B088KPDM8S?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+Portenta H7 is expensive and aimed at professional use.
  
 <p align="center">
 <img width="600" height="257" src="/Images/ArdNANO33BLE600.png"> 
 </p> 
 
-Arduino NANO 33 BLE
+Arduino NANO 33 BLE on [Amazon](https://www.amazon.com/dp/B07WV59YTZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   
 <p align="center">
 <img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
 </p> 
 
-Arduino MKR 1000 WIFI
+Arduino MKR1000 WIFI on [Amazon](https://www.amazon.com/dp/B071LRYYHH?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  
 <p align="center">
 <img width="600" height="250" src="/Images/ArdMICRO600.png"> 
 </p>  
 
-Arduino Micro
+Arduino Micro on [Amazon]()
   
 <p align="center">
 <img width="600" height="249" src="/Images/ArdNANO600.png"> 
 </p>  
 
-Arduino NANO
+Arduino NANO on [Amazon]()
   
 <p align="center">
 <img width="600" height="265" src="/Images/ArdNANOfront600.png"> 
 <img width="600" height="279" src="/Images/ArdNANOback600.png">  
 </p> 
 
-Arduino NANO
-  
+Arduino NANO on [Amazon]()
+
+<p align="center">
+<img width="600" height="442" src="/Images/ArdUNOWIFI_600.png"> 
+</p>  
+
+Arduino Arduino UNO WiFi Rev2 on [Amazon](https://www.amazon.com/dp/B07MK598QV?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+ 
 <p align="center">
 <img width="600" height="443" src="/Images/ArdUNOSMD600.png"> 
 </p>  
 
-Arduino UNO SMD is a Arduino UNO R3 with a surface mount chip.
+Arduino UNO SMD is a Arduino UNO R3 with a surface mount chip on [Amazon](https://www.amazon.com/dp/B007R9TUJE?psc=1&ref=ppx_yo2ov_dt_b_product_details).
   
 <p align="center">
 <img width="600" height="443" src="/Images/ArdUNOR3600.png"> 
 </p>  
   
 Arduino UNO R3, over 10 million have been sold.
- 
+On [Amazon]() 
 The Elegoo clone of the board is in the image below in project 30. 
-  
-  
+
+ 
+
+ 
 <A NAME="P30"></A>
 <HR>
 <P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
