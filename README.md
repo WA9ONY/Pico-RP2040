@@ -721,17 +721,15 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 
 # Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
 
-<p align="center">
-<img width="600" height="269" src="/Images/AudRP2040_600.png">  
+<p align="center"> 
+<img width="600" height="557" src="/Images/ArdNANORPtb600.png">
 </p>
 <p align="center">
 <img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
 </p>  
-
-Goal: Identify the Arduino RP2040 microcontroller development board.
-    
+   
 <p align="center">
-Arduino Nano RP2040 Connect Microcontroller.
+Arduino Nano RP2040 Connect Microcontroller Board.
 </p>
 
 + Above photo is an [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
