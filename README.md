@@ -1041,7 +1041,15 @@ Goal
 + The Pico automatically switch to the highest voltage.
 + Protect both sources from loading down the other souce.
 
-  
+Design
++ Vbus is the USB voltage.
++ Vsys is the Vbus with a Shottky diode.
++ Vsys goes to the Pico voltage regulator that provides 3.3 Volts to the Pico, flash and clock chips.
++ Vsys is rate for 1.8 V to 5.5 V.
++ Connect the battery to Vsys using a Shottky diode 1N5817.  Therefore, the highest voltage Vbus or Vbattery will power the Pico.
++ The above image shows [Treedix Compatible with Raspberry PI PICO Expansion Board PCB Shield Board Gold Plated Finish with Pin Header](https://www.amazon.com/gp/product/B08YDNMP46/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) 
+ 
+ 
 <A NAME="P23"></A>
 <HR>
 <P align="center"><A HREF="#P22">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P24">--&gt;</A></P>  
@@ -1061,6 +1069,7 @@ Goal
 
 Results
 + Plastic [0.30 Caliber Ammo Box](https://www.harborfreight.com/030-caliber-ammo-box-63135.html?_br_psugg_q=ammo+box)
++ The solar cell panel plugs into the Pico micro USB connector.
 + More testing will be done. 
  
   
