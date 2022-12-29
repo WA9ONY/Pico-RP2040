@@ -71,7 +71,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 21: <A HREF="#P21">Setup Pico with Micropython</A>
 + Project 22: <A HREF="#P22">Run Pico on Batteries</A>
 + Project 23: <A HREF="#P23">Run Pico on Solar Cells</A>
-+ Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
++ Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery Voltage
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
 + Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
 + Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>
@@ -1064,7 +1064,7 @@ Goal
 <HR>
 <P align="center"><A HREF="#P23">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P25">--&gt;</A></P>  
 
-# Project 24: Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
+# Project 24: Use Pico A/Ds to Measure Vbus, Vsys and Vbattery Voltage
 
 <p align="center">
   <img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
@@ -1075,6 +1075,15 @@ Goal
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
 
++ The Raspberry Pi Pico A/D inputs have a maximum voltage rating of 3.3 Volts.
++ The Vbus is the USB voltage which can be upto 5.25 Volts.
++ A voltage divider of two 1 Mohm 1% 1/4 watt resistors are used to reduce the voltage in half.
++ The two  1 Mohm 1% resistors will provide a small load of 2 Mohms to the voltage sources being measured.
++ The software has a single point calibration adjustment to agree with an external DMM reading. 
++ The above image is of the six resistors and the schottky diode (1N5817) for the battery supply portection from the USB 5 Volts. 
++ [Treedix Compatible with Raspberry PI PICO Expansion Board PCB Shield Board Gold Plated Finish with Pin Header](https://www.amazon.com/gp/product/B08YDNMP46/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) is being used.
++ Two AA batteries are connected to the Vsys through the 1N5817 schottky diode'
++ Pico will operate down to ~1.9 volts on two AA batteries. 
   
 <A NAME="P25"></A>
 <HR>
@@ -1087,12 +1096,12 @@ Goal
 </p>
 
 Goal
-+ Use the forth A/D converter to measure CPU temperature.
-+ Measure the Vbus, Vsys and Vbattery voltage.
++ Use the A/D converter to measure CPU temperature.
++ Use the A/D converter to measure the Vbus, Vsys and Vbattery voltage.
 + Use the internal real-time clock to time mark the data readings.
 + Save time, Vbus, Vsys, Vbattery and temperature to data log on the Pico flash memory.
 
-Data log saved to Pico flash memory.
+Data log is saved to Pico flash memory.
 Below is the first few lines of the data file that was stored on the Pico flash memory.
 
 <pre>
@@ -1144,9 +1153,9 @@ Resources
 + [Arduino IDE V1.8](https://www.arduino.cc/en/software) runs on a Linux computer (Intel NUC8).
 + Arduino Uno R3 microcontroller board is used in the book.
 + [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, 2023](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages 
-  + by [Simon Monk](https://www.monkmakes.com/#)
-  + [Simon Monk](http://simonmonk.org/) 
-  + [Amazon page](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
+  + [Amazon Simon Monk page of books](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
+  + [Monk Makes LTD](https://www.monkmakes.com/#)
+  + [SimonMonk.org](http://simonmonk.org/) 
   + I enjoy Simon Monk's books. 
 + 1st & 2nd editions [downloads](http://www.arduinobook.com/progardui2ed/)
 +  Simon Monk [GitHub](https://github.com/simonmonk) 
