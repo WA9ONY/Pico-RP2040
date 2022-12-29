@@ -1273,46 +1273,56 @@ README.md file
 <img width="600" height="557" src="/Images/ArdNANORPtb600.png"> 
 </p> 
 
+Arduino NANO RP2040 Connect 
+ 
 <p align="center">
 <img width="600" height="251" src="/Images/ArdPortentaH7rev2front600.png"> 
 </p>  
+
+Arduino Portenta H7 Rev 2
  
 <p align="center">
 <img width="600" height="257" src="/Images/ArdNANO33BLE600.png"> 
 </p> 
 
-<p align="center">
-<img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
-</p> 
- 
+Arduino NANO 33 BLE
+  
 <p align="center">
 <img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
 </p> 
 
+Arduino MKR 1000 WIFI
+ 
 <p align="center">
 <img width="600" height="250" src="/Images/ArdMICRO600.png"> 
 </p>  
- 
+
+Arduino Micro
+  
 <p align="center">
 <img width="600" height="249" src="/Images/ArdNANO600.png"> 
 </p>  
- 
+
+Arduino NANO
+  
 <p align="center">
 <img width="600" height="265" src="/Images/ArdNANOfront600.png"> 
 <img width="600" height="279" src="/Images/ArdNANOback600.png">  
 </p> 
- 
- 
+
+Arduino NANO
+  
 <p align="center">
 <img width="600" height="443" src="/Images/ArdUNOSMD600.png"> 
 </p>  
 
- 
+Arduino UNO SMD is a Arduino UNO R3 with a surface mount chip.
+  
 <p align="center">
 <img width="600" height="443" src="/Images/ArdUNOR3600.png"> 
 </p>  
   
-
+Arduino UNO R3, over 10 million have been sold.
   
   
 <A NAME="P30"></A>
@@ -1321,7 +1331,7 @@ README.md file
     
 # Project 30: Arduino Clone Microcontroller Boards
 
-Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) which results in other manufactures building products that are almost identical to the Arduino board except for the Arduino registered [trademark](https://en.wikipedia.org/wiki/Trademark) which are only on Arduino boards.
+Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) which results in other manufactures building products that are almost identical to the Arduino boards except for the Arduino registered [trademark](https://en.wikipedia.org/wiki/Trademark) which is only on Arduino boards.
 
  
 <p align="center">
