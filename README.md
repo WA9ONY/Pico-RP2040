@@ -1234,6 +1234,8 @@ README.md file
 
 <p align="center">
 <img width="157" height="54" src="/Images/ArduinoCloud.png"> 
+</p> 
+<p align="center"> 
 <img width="600" height="557" src="/Images/AudNANORPtb600.png">
 </p>
  
