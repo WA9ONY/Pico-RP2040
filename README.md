@@ -1133,15 +1133,17 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
   <img align="right" width="92" height="94" src="/Images/Arduino1_8.png"> 
 </p>
 
-Goal
+The 3rd edition is 2023 and contains a brief section on the Arduino NANO RP2040 Connect. 
+ 
+Book's purpose:
 + Learn how to use Arduino IDE.
 + Learn how to program the Arduno Uno R3.
 + Lear Arduino C++.
 
 Resources
-+ [Arduino IDE V1.8](https://www.arduino.cc/en/software) on Linux computer (Intel NUC8).
-+ Arduino Uno R3 microcontroller board.
-+ [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, Nov. 2022](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages 
++ [Arduino IDE V1.8](https://www.arduino.cc/en/software) runs on a Linux computer (Intel NUC8).
++ Arduino Uno R3 microcontroller board is used in the book.
++ [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, 2023](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages 
   + by [Simon Monk](https://www.monkmakes.com/#)
   + [Simon Monk](http://simonmonk.org/) 
   + [Amazon page](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
