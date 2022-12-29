@@ -1328,13 +1328,16 @@ Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-so
 <img width="600" height="431" src="/Images/ElegooUNOR3_600.png"> 
 </p>  
   
+Elegoo UNO R3 is a clone of the Arduino UNO R3 except it uses Elegoo logo enstead of the Arduino trademark.
 
-  
-<p align="center">
+[ELEGOO UNO R3 Project Most Complete Starter Kit w/ Tutorial Compatible with Arduino IDE (63 Items)](https://www.amazon.com/gp/product/B01CZTLHGE/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
+
+
+<p align="cenELEGOO UNO R3 Project Most Complete Starter Kit w/ Tutorial Compatible with Arduino IDE (63 Items)ter">
 <img width="600" height="537" src="/Images/LafvinNANOtb600.png"> 
 </p>  
   
-
+[LAFVIN Nano V3.0, Nano Board ATmega328P 5V 16M Micro-Controller Board Compatible with Arduino IDE (Nano x 3 with USB Cable)](https://www.amazon.com/dp/B07G99NNXL?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  
  
 <A NAME="FUTURE"></A>
