@@ -1275,8 +1275,10 @@ README.md file
 </p> 
 
 Arduino NANO RP2040 Connect on [Amazon](https://www.amazon.com/gp/product/B095J4KFVT/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
- 
-<p align="center">
+YouTube
++ [First Look at the Arduino Nano RP2040 Connect – It’s finally here!](https://youtu.be/rw_LifhqGjw) 
+
+ <p align="center">
 <img width="600" height="251" src="/Images/ArdPortentaH7rev2front600.png"> 
 </p>  
 
