@@ -4,13 +4,14 @@
     
 # Project 31: Arduino Kits
 
- 
+ [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+ + Learning kit for Ardunio IoT Cloud projects.   
  
  
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P30">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P31">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
