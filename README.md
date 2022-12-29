@@ -78,6 +78,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 28: <A HREF="#P28">Arduino Cloud</A>
 + Project 29: <A HREF="#P29">Arduino Microcontroller Boards</A>
 + Project 30: <A HREF="#P30">Arduino Clone Microcontroller Boards</A> 
++ Project 31: <A HREF="README2.md#P31">Arduino Kits</A>  
 + <A HREF="#Future">Future Project Ideas</A>
 
   
@@ -1332,7 +1333,7 @@ The Elegoo clone of the board is in the image below in project 30.
  
 <A NAME="P30"></A>
 <HR>
-<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#P31">--&gt;</A></P>  
+<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README2.md#P31">--&gt;</A></P>  
     
 # Project 30: Arduino Clone Microcontroller Boards
 
