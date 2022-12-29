@@ -1165,24 +1165,25 @@ The free GitHub account supports two types of interfaces.
 + GitHub to git interface. On a Linux computer git is a CLI command.  
   
 The GitHub has a web inferface to 
-+ Create the repo README.md file.
-+ Create, edit & delete files.  
-+ Upload and delete files.
-+ Create folders.
++ Create the repo README.md file, this file you are reading.
++ Create, edit & delete files in the repo.  
++ Upload and delete files in the repo.
++ Create folders in the repo.
 
 The GitHuib web interface changes to the repo all require a Commit Changes to take effect.
   
-On the repo home page is a README.md file that is shown to the user when the repo is shown in a browser.  The README.md explains the purpose and how to use the repao.  The GitHub web interace can edit the README.md file.  
+On the repo home page is a README.md file that is shown to the user when the repo is shown in a browser.  The README.md explains the purpose and how to use the repao.
+ 
+README.md file 
 + README.md file formating syntax
-  + Some HTML code work in the .md file
   + Basic writing and formatting [syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   + GitHub Flavored Markdown [Spec](https://github.github.com/gfm)
   + markdown-it [demo](https://markdown-it.github.io/)
 + My README.md file is supported by two folders: 
   + BookContents contains PDFs and PNGs of the eight books related to ham radio.
   + Images contains images used in the README.md file.
-  
-To create a folder a new file is created in the new folder at the same time.    
++ Some HTML code works in the .md file.
++ To create a folder a new file is created in the new folder at the same time.    
 
   
 <A NAME="P28"></A>
