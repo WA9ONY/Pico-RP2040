@@ -1074,17 +1074,23 @@ Goal
 + Use the three A/D converters to measure Vbus, Vsys and Vbattery voltage.
 + Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
 + Test how low Vbattery can go before the Pico stops operating.
-
+ 
+Implementation: 
 + The Raspberry Pi Pico A/D inputs have a maximum voltage rating of 3.3 Volts.
 + The Vbus is the USB voltage which can be upto 5.25 Volts.
 + A voltage divider of two 1 Mohm 1% 1/4 watt resistors are used to reduce the voltage in half.
 + The two  1 Mohm 1% resistors will provide a small load of 2 Mohms to the voltage sources being measured.
 + The software has a single point calibration adjustment to agree with an external DMM reading. 
-+ The above image is of the six resistors and the schottky diode (1N5817) for the battery supply portection from the USB 5 Volts. 
++ The above image is of the six resistors and the Schottky diode (1N5817) for the battery supply portection from the USB 5 Volts. 
 + [Treedix Compatible with Raspberry PI PICO Expansion Board PCB Shield Board Gold Plated Finish with Pin Header](https://www.amazon.com/gp/product/B08YDNMP46/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) is being used.
-+ Two AA batteries are connected to the Vsys through the 1N5817 schottky diode'
-+ Pico will operate down to ~1.9 volts on two AA batteries. 
++ Two AA batteries are connected to the Vsys through the 1N5817 Schottky diode.
+
+Results 
++ Pico will operate down to ~1.9 volts on two AA batteries.
++ The internal Schottky diode between Vbus and Vsys has a very low volage drop of ~.2 Volts.
++ The 1N5817 Schottky diode voltage drop is ~.4 Volts.
   
+ 
 <A NAME="P25"></A>
 <HR>
 <P align="center"><A HREF="#P24">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P26">--&gt;</A></P>  
