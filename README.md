@@ -1014,17 +1014,28 @@ Goals
 <HR>
 <P align="center"><A HREF="#P20">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P22">--&gt;</A></P>  
        
-# Project 21: Setup Pico with Micropython
+# Project 21: Setup Pico with MicroPython
 
 <p align="center">
   <img width="640" height="480" src="/Images/dataLogVTemp2.jpg">  
 </p>
 
 Goal
-+ Setup the Pico to run micopython with the Raspberry Pi P400 computer.
-+ Configure the Pico for micropython.
-+ Use Thonny to create, edit and debug micropython programs to run on the Pico.
++ Setup the Pico to run [MicoPython](https://micropython.org/) with the Raspberry Pi P400 computer.
++ Configure the Pico for MicoPython.
++ Use [Thonny](https://thonny.org/) to create, edit and debug MicoPython programs to run on the Pico.
 
+Steps
++ Hold the Pico Boot switch down when plugging the Pico into the P400
++ The Pico will mount as a memory device.
++ Drage and drop the MicoPython UF2 file of the Pico memory.
++ The Pico will unmount and be ready to use MicoPython with Thonny with is all ready installed on the P400.
+ 
+Links
++ Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+  + The best Pico book to start with.
++ [MicroPython on the Pico](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+ 
   
 <A NAME="P22"></A>
 <HR>
@@ -1043,10 +1054,10 @@ Goal
 
 Design
 + Vbus is the USB voltage.
-+ Vsys is the Vbus with a Shottky diode.
++ Vsys is the Vbus with a Shottky diode on the Pico PCB.
 + Vsys goes to the Pico voltage regulator that provides 3.3 Volts to the Pico, flash and clock chips.
 + Vsys is rate for 1.8 V to 5.5 V.
-+ Connect the battery to Vsys using a Shottky diode 1N5817.  Therefore, the highest voltage Vbus or Vbattery will power the Pico.
++ Connect the battery Vbattery to Vsys using a Shottky diode 1N5817.  Therefore, the highest voltage Vbus or Vbattery will power the Pico.
 + The above image shows [Treedix Compatible with Raspberry PI PICO Expansion Board PCB Shield Board Gold Plated Finish with Pin Header](https://www.amazon.com/gp/product/B08YDNMP46/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) 
  
  
