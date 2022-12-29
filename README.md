@@ -1330,23 +1330,23 @@ On [Amazon](https://www.amazon.com/dp/B008GRTSV6?psc=1&ref=ppx_yo2ov_dt_b_produc
 The Elegoo clone of the board is in the image below in project 30. 
 
  
-
- 
 <A NAME="P30"></A>
 <HR>
-<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#P31">--&gt;</A></P>  
     
 # Project 30: Arduino Clone Microcontroller Boards
 
-Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) which results in other manufactures building products that are almost identical to the Arduino boards except for the Arduino registered [trademark](https://en.wikipedia.org/wiki/Trademark) which is only on Arduino boards.
+Arduino is an [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) and software company.
+Therefore, Arduino designs are  used by other manufactures to build products that are almost identical to the Arduino products except for the Arduino registered [trademark](https://en.wikipedia.org/wiki/Trademark) which is only on Arduino products.
 
- 
 <p align="center">
 <img width="600" height="431" src="/Images/ElegooUNOR3_600.png"> 
 </p>  
   
 Elegoo UNO R3 is a clone of the Arduino UNO R3 except it uses Elegoo logo instead of the Arduino trademark.
 
+Elegoo UNO R3 USB interface identifies itself an Arduino UNO R3.
+ 
 [ELEGOO UNO R3 Project Most Complete Starter Kit w/ Tutorial Compatible with Arduino IDE (63 Items)](https://www.amazon.com/gp/product/B01CZTLHGE/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 
 
