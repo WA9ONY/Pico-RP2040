@@ -943,19 +943,18 @@ The full install includes Thonny and Mu.
 <p align="center"><img width="700" height="1076" src="/Images/GitHubL2_700.png"></p>
 
 Goals
-+ Use git CLI on the computer.
-+ Use GitHub web interface.
-+ Create Raspberry Pi Pico and RP2040 repo.
-+ Create a README.md file describing Pico/RP2030 projects and resources.
++ Create GitHub account
++ Create RP2040 Arduino repo. 
++ Use GitHub web interface to create the README.md file.
     
-GitHub is a great way to document and share Pico projects.
-The GitHub home READ.md file provides a place to documenting the Pico projects.
-The GitHub provides free file storage ([repository](https://en.wikipedia.org/wiki/Repository_(version_control))) and version change control.
-GitHub is used by a web interface or a Linux CLI.
-The Raspberry Pi P400 full install includes git.
+GitHub is a great way to document and share RP2040 and Arduino projects.
++ The GitHub home READ.md file provides a place to documenting the projects.
++ The GitHub provides free file storage ([repository](https://en.wikipedia.org/wiki/Repository_(version_control))) and version change control.
++ GitHub uses a web interface or a Linux CLI interface.
++ The Raspberry Pi P400 full install includes git CLI.
 
 ## GitHub Repo
-+ [WA9ONY/Raspberry_Pi_Pico_RP2040](https://github.com/WA9ONY/Raspberry_Pi_Pico_RP2040)
++ [WA9ONY/RP2040_and_Arduino](https://github.com/WA9ONY/RP2040_and_Arduino)
 + Over 44 amateur radio Arduino [repositories](https://github.com/search?q=amateur+radio+arduino)
 + Over 46 ham radio Arduino [repositories](https://github.com/search?q=ham+radio+arduino)
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
