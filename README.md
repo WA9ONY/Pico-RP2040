@@ -1192,7 +1192,7 @@ To create a folder a new file is created in the new folder at the same time.
 # Project 28: Arduino Cloud
 
 <p align="center">
-  <img width="157" height="54" src="/Images/GArduinoCloud.png"> 
+  <img width="157" height="54" src="/Images/ArduinoCloud.png"> 
 </p>
 
  YouTube
@@ -1202,7 +1202,7 @@ To create a folder a new file is created in the new folder at the same time.
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P27">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P28">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
