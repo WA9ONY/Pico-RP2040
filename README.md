@@ -74,7 +74,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
 + Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
-+ Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>  
++ Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>
++ Project 28: <A HREF="#P28">Arduino Cloud</A>  
 + <A HREF="#Future">Future Project Ideas</A>
 
   
@@ -1151,7 +1152,7 @@ Resources
   
 <A NAME="P27"></A>
 <HR>
-<P align="center"><A HREF="#P26">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P26">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P28">--&gt;</A></P>  
     
 # Project 27: Using the GiHub Web Interface
 
@@ -1182,7 +1183,22 @@ On the repo home page is a README.md file that is shown to the user when the rep
   + Images contains images used in the README.md file.
   
 To create a folder a new file is created in the new folder at the same time.    
+
   
+<A NAME="P28"></A>
+<HR>
+<P align="center"><A HREF="#P27">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 28: Arduino Cloud
+
+<p align="center">
+  <img width="157" height="54" src="/Images/GArduinoCloud.png"> 
+</p>
+
+ YouTube
+ + [Arduino Cloud play list 16 videos](https://www.youtube.com/watch?v=uaLrmLCqGnc&list=PLT6rF_I5kknObk6lnQMpk5NIUB_vEHcNW)
+ + [Arduino IoT Cloud 2021 - Getting Started with Arduino & ESP32](https://youtu.be/UFCmTZUoZ1M)
+ 
 <A NAME="FUTURE"></A>
 <HR>
 
