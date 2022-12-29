@@ -1280,6 +1280,10 @@ README.md file
 <p align="center">
 <img width="600" height="257" src="/Images/ArdNANO33BLE600.png"> 
 </p> 
+
+<p align="center">
+<img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
+</p> 
  
 <p align="center">
 <img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
@@ -1320,12 +1324,23 @@ README.md file
 Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) which results in other manufactures building products that are almost identical to the Arduino board except for the Arduino registered [trademark](https://en.wikipedia.org/wiki/Trademark) which are only on Arduino boards.
 
  
+<p align="center">
+<img width="600" height="431" src="/Images/ElegooUNOR3_600.png"> 
+</p>  
+  
+
+  
+<p align="center">
+<img width="600" height="537" src="/Images/LafvinNANOtb600.png"> 
+</p>  
+  
+
  
  
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P30">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
