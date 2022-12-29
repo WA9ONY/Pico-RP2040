@@ -64,8 +64,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 14: <A HREF="#P14">SparkFun RP2040 Boards</A>
 + Project 15: <A HREF="#P15">Waveshare RP2040 Boards</A>
 + Project 16: <A HREF="#P16">Micorocontrollers Programming</A>
-+ Project 17: <A HREF="#P17">Arduino Micorocontrollers IDEs</A>
-+ Project 18: <A HREF="#P18">Build a Computer for Micorocontroller Development</A>
++ Project 17: <A HREF="#P17">Arduino Microcontrollers IDEs</A>
++ Project 18: <A HREF="#P18">Build a Computer for Microcontroller Development</A>
 + Project 19: <A HREF="#P19">Setup GitHub</A>
 + Project 20: <A HREF="#P20">Learn Micropython on the Pico</A>
 + Project 21: <A HREF="#P21">Setup Pico with Micropython</A>
@@ -855,7 +855,7 @@ Software
 <HR>
 <P align="center"><A HREF="#P16">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P18">--&gt;</A></P>  
        
-# Project 17: Arduino Micorocontrollers IDEs
+# Project 17: Arduino Microcontrollers IDEs
 
 <p align="center"><img width="960" height="540" src="/Images/ArduinnoIDEsS.png"></p>
 
@@ -909,17 +909,17 @@ YouTubes
 <HR>
 <P align="center"><A HREF="#P17">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P19">--&gt;</A></P>  
        
-# Project 18: Build a Computer for Micorocontroller Development
+# Project 18: Build a Computer for Microcontroller Development
 
 <p align="center"><img width="640" height="480" src="/Images/P400.jpg"></p>
 
-+ The computer needs to run these ADE
++ The computer needs to run these IDEs
   + MicroPython - Thonny IDE
-  + Circuitpython - Mu IDE
+  + CircuitPython - Mu IDE
  
  + Limitations
-   + Arduino Web Editor is not support because the Arduino Create Agent does not run of the Raspberry Pi computer.
-   + Arduino V2 has no install for the Raspberry Pi computer.
+   + Arduino Web Editor is not support because the Arduino Create Agent does not run of the Raspberry Pi computers.
+   + Arduino V2 has no install for the Raspberry Pi computers.
  
 To use the Pico a computer with a Pico [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) is needed.
 To use the Pico.
