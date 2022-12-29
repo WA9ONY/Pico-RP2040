@@ -943,7 +943,7 @@ The full install includes Thonny and Mu.
 
 Goals
 + Create GitHub account
-+ Create RP2040 Arduino repo. 
++ Create RP2040 and Arduino repo. 
 + Use GitHub web interface to create the README.md file.
     
 GitHub is a great way to document and share RP2040 and Arduino projects.
@@ -954,8 +954,8 @@ GitHub is a great way to document and share RP2040 and Arduino projects.
 
 ## GitHub Repo
 + [WA9ONY/RP2040_and_Arduino](https://github.com/WA9ONY/RP2040_and_Arduino)
-+ Over 44 amateur radio Arduino [repositories](https://github.com/search?q=amateur+radio+arduino)
-+ Over 46 ham radio Arduino [repositories](https://github.com/search?q=ham+radio+arduino)
++ Over 40 amateur radio Arduino [repositories](https://github.com/search?q=amateur+radio+arduino)
++ Over 40 ham radio Arduino [repositories](https://github.com/search?q=ham+radio+arduino)
 + Over 3,100 Raspberry Pi Pico [repositories](https://github.com/search?q=Raspberry+Pi+Pico)
   + [raspberrypi/pico-micropython-examples](https://github.com/raspberrypi/pico-micropython-examples)
 + Over 257,000 Arduino [repositories](https://github.com/search?q=Arduino) 
