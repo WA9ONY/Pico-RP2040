@@ -1328,12 +1328,12 @@ Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-so
 <img width="600" height="431" src="/Images/ElegooUNOR3_600.png"> 
 </p>  
   
-Elegoo UNO R3 is a clone of the Arduino UNO R3 except it uses Elegoo logo enstead of the Arduino trademark.
+Elegoo UNO R3 is a clone of the Arduino UNO R3 except it uses Elegoo logo instead of the Arduino trademark.
 
 [ELEGOO UNO R3 Project Most Complete Starter Kit w/ Tutorial Compatible with Arduino IDE (63 Items)](https://www.amazon.com/gp/product/B01CZTLHGE/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 
 
-<p align="cenELEGOO UNO R3 Project Most Complete Starter Kit w/ Tutorial Compatible with Arduino IDE (63 Items)ter">
+<p align="center">
 <img width="600" height="537" src="/Images/LafvinNANOtb600.png"> 
 </p>  
   
