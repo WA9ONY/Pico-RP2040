@@ -1298,20 +1298,14 @@ Arduino MKR1000 WIFI on [Amazon](https://www.amazon.com/dp/B071LRYYHH?psc=1&ref=
 <img width="600" height="250" src="/Images/ArdMICRO600.png"> 
 </p>  
 
-Arduino Micro on [Amazon]()
-  
-<p align="center">
-<img width="600" height="249" src="/Images/ArdNANO600.png"> 
-</p>  
-
-Arduino NANO on [Amazon]()
+Arduino Micro on [Amazon](https://www.amazon.com/dp/B00AFY2S56?ref=ppx_yo2ov_dt_b_product_details&th=1)
   
 <p align="center">
 <img width="600" height="265" src="/Images/ArdNANOfront600.png"> 
 <img width="600" height="279" src="/Images/ArdNANOback600.png">  
 </p> 
 
-Arduino NANO on [Amazon]()
+Arduino NANO on [Amazon](https://www.amazon.com/dp/B0097AU5OU?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 <p align="center">
 <img width="600" height="442" src="/Images/ArdUNOWIFI_600.png"> 
@@ -1330,7 +1324,7 @@ Arduino UNO SMD is a Arduino UNO R3 with a surface mount chip on [Amazon](https:
 </p>  
   
 Arduino UNO R3, over 10 million have been sold.
-On [Amazon]() 
+On [Amazon](https://www.amazon.com/dp/B008GRTSV6?psc=1&ref=ppx_yo2ov_dt_b_product_details) 
 The Elegoo clone of the board is in the image below in project 30. 
 
  
@@ -1360,7 +1354,13 @@ Elegoo UNO R3 is a clone of the Arduino UNO R3 except it uses Elegoo logo instea
   
 [LAFVIN Nano V3.0, Nano Board ATmega328P 5V 16M Micro-Controller Board Compatible with Arduino IDE (Nano x 3 with USB Cable)](https://www.amazon.com/dp/B07G99NNXL?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  
- 
+ <p align="center">
+<img width="600" height="249" src="/Images/ArdNANO600.png"> 
+</p>  
+
+Aideepen V3.0 NANO on [Amazon](https://www.amazon.com/dp/B0BLW3881B?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+  
+
 <A NAME="FUTURE"></A>
 <HR>
 
