@@ -1233,9 +1233,17 @@ README.md file
 # Project 28: Arduino Cloud
 
 <p align="center">
-  <img width="157" height="54" src="/Images/ArduinoCloud.png"> 
+<img width="157" height="54" src="/Images/ArduinoCloud.png"> 
+<img width="600" height="557" src="/Images/ArdNANORPtb600.png">
 </p>
  
+ Arduino Cloud is Arduino’s integrated cloud platform to develop, deploy and manage IoT devices.
+ + [Supported boards](https://store-usa.arduino.cc/pages/cloud-compatible-boards)
+ + Above image is the Arduino NANO RP2040 Connect which supports Arduino IoT Cloud.
+ 
+ Webinar
+ + [Arduino Cloud Explained](https://www.crowdcast.io/e/arduino-cloud-explained)
+   + Thu, Jan 12, 2023 8:00 AM PST
  
  Links
  + [Arduino Cloud How it Works](https://cloud.arduino.cc/how-it-works/)
