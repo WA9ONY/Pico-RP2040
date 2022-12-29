@@ -767,7 +767,7 @@ Some Seeed Studio products are available from [Amazon](https://www.amazon.com/s?
 </p>
 
 <P>
-&npsp; 
+&nbsp; 
 </P>
  
 Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=SparkFun&crid=6GWYUPXP9EMB&sprefix=sparkfun%2Caps%2C310&ref=nb_sb_noss_1)
