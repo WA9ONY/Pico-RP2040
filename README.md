@@ -1236,7 +1236,7 @@ README.md file
 <img width="157" height="54" src="/Images/ArduinoCloud.png"> 
 </p> 
 <p align="center"> 
-<img width="600" height="557" src="/Images/AudNANORPtb600.png">
+<img width="600" height="557" src="/Images/ArdNANORPtb600.png">
 </p>
  
  Arduino Cloud is Arduino’s integrated cloud platform to develop, deploy and manage IoT devices.
