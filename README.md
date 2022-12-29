@@ -1071,8 +1071,8 @@ Goal
 </p>
 
 Goal
-+ Use the three A/D converters to measure Vbus, Vsys and Vbattery voltage.
-+ Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3V.
++ Use the Pico three A/D converters to measure Vbus, Vsys and Vbattery voltage.
++ Design a 50% voltage divider to prevent damage to the A/D inputs that have a maximum of 3.3 Volts.
 + Test how low Vbattery can go before the Pico stops operating.
  
 Implementation: 
@@ -1086,7 +1086,7 @@ Implementation:
 + Two AA batteries are connected to the Vsys through the 1N5817 Schottky diode.
 
 Results 
-+ Pico will operate down to ~1.9 volts on two AA batteries.
++ Pico will operate down to ~1.9 volts on two AA batteries. This is very impressive.
 + The internal Schottky diode between Vbus and Vsys has a very low volage drop of ~.2 Volts.
 + The 1N5817 Schottky diode voltage drop is ~.4 Volts.
   
