@@ -75,7 +75,9 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
 + Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
 + Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>
-+ Project 28: <A HREF="#P28">Arduino Cloud</A>  
++ Project 28: <A HREF="#P28">Arduino Cloud</A>
++ Project 29: <A HREF="#P29">Arduino Microcontroller Boards</A>
++ Project 30: <A HREF="#P30">Arduino Clone Microcontroller Boards</A> 
 + <A HREF="#Future">Future Project Ideas</A>
 
   
@@ -1230,7 +1232,7 @@ README.md file
   
 <A NAME="P28"></A>
 <HR>
-<P align="center"><A HREF="#P27">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P27">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P29">--&gt;</A></P>  
     
 # Project 28: Arduino Cloud
 
@@ -1260,10 +1262,70 @@ README.md file
  + [How to Integrate Amazon Alexa with Arduino Cloud](https://youtu.be/OMvZjwFYimo)
  + [Arduino IoT Cloud 2021 - Getting Started with Arduino & ESP32](https://youtu.be/UFCmTZUoZ1M)
  
+  
+<A NAME="P29"></A>
+<HR>
+<P align="center"><A HREF="#P28">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P30">--&gt;</A></P>  
+    
+# Project 29: Arduino Microcontroller Boards
+
+<p align="center">
+<img width="600" height="557" src="/Images/ArdNANORPtb600.png"> 
+</p> 
+
+<p align="center">
+<img width="600" height="251" src="/Images/ArdPortentaH7rev2front600.png"> 
+</p>  
+ 
+<p align="center">
+<img width="600" height="257" src="/Images/ArdNANO33BLE600.png"> 
+</p> 
+ 
+<p align="center">
+<img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
+</p> 
+
+<p align="center">
+<img width="600" height="250" src="/Images/ArdMICRO600.png"> 
+</p>  
+ 
+<p align="center">
+<img width="600" height="249" src="/Images/ArdNANO600.png"> 
+</p>  
+ 
+<p align="center">
+<img width="600" height="265" src="/Images/ArdNANOfront600.png"> 
+<img width="600" height="279" src="/Images/ArdNANOback600.png">  
+</p> 
+ 
+ 
+<p align="center">
+<img width="600" height="443" src="/Images/ArdUNOSMD600.png"> 
+</p>  
+
+ 
+<p align="center">
+<img width="600" height="443" src="/Images/ArdUNOR3600.png"> 
+</p>  
+  
+
+  
+  
+<A NAME="P30"></A>
+<HR>
+<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 30: Arduino Clone Microcontroller Boards
+
+Arduino designs are [open-source hardware](https://en.wikipedia.org/wiki/Open-source_hardware) which results in other manufactures building products that are almost identical to the Arduino board except for the Arduino registered [trademark](https://en.wikipedia.org/wiki/Trademark) which are only on Arduino boards.
+
+ 
+ 
+ 
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P28">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P29">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
