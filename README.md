@@ -1323,6 +1323,8 @@ Arduino UNO SMD is a Arduino UNO R3 with a surface mount chip.
 </p>  
   
 Arduino UNO R3, over 10 million have been sold.
+ 
+The Elegoo clone of the board is in the image below in project 30. 
   
   
 <A NAME="P30"></A>
