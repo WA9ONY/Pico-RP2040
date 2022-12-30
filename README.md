@@ -78,7 +78,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 28: <A HREF="#P28">Arduino Cloud</A>
 + Project 29: <A HREF="#P29">Arduino Microcontroller Boards</A>
 + Project 30: <A HREF="#P30">Arduino Clone Microcontroller Boards</A> 
-+ Project 31: <A HREF="README2.md#P31">Arduino Kits</A>  
++ Project 31: <A HREF="README2.md#P31">Arduino OPLA IoT Kit</A>  
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
   
