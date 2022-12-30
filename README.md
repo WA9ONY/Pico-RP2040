@@ -678,19 +678,22 @@ Above photo left to right:
 </p>  
 
 + [Adafruit P4884 Feather RP2040](https://www.adafruit.com/product/4884) with STEMMA QT
-  
+  + [ First Look at the Adafruit Feather RP2040 – Great Pico Alternative?](https://youtu.be/9a9Ug4g7vic) 
+
 <p align="center">
 <img width="600" height="324" src="/Images/AdaP4888_600.png"> 
 </p>  
 
 + [Adafruit P4888 ItsyBitsy RP2040](https://www.adafruit.com/product/4888)
-  
+  + [Adafruit ItsyBitsy RP2040 Review - Great Mid-Size RP2040 Board!!](https://youtu.be/UCU1snzejbQ)
+ 
 <p align="center">
 <img width="600" height="493" src="/Images/AdaP4900_600.png"> 
 </p>  
   
 + [Adafruit P4900 QT Py RP2040](https://www.adafruit.com/product/4900) with STEMMA QT
-  
+  + [First Look at the Adafruit QT Py RP2040 - Fantastic Tiny RP2040 Board!](https://youtu.be/qfbPyu_1L18)
+
 <p align="center">
 <img width="600" height="306" src="/Images/AdaP5056_600.png"> 
 </p>  
@@ -702,7 +705,8 @@ Above photo left to right:
 </p>    
   
 + [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302.png) with STEMMA QT
-
+  + [New RP2040 Board from Adafruit – KB2040 Review!](https://youtu.be/BWsNLsmMKpY)
+ 
 Some Adafriut product are available on Amazon.
 
 Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small connectors on sensor boards and some RP2040 boards.
@@ -781,6 +785,7 @@ Some SparkFun products are available from [Amazon](https://www.amazon.com/s?k=Sp
 </p>  
   
   + [SparkFun Pro Micro - RP2040](https://www.sparkfun.com/products/18288)
+    + [SparkFun Pro Micro RP2040 Review: The Best Small RP2040 Board?](https://youtu.be/kzDJy8ZabRM)
   
 <P align="center">
 <img width="600" height="259" src="/Images/SparkFunThingPlus600.png"> 
