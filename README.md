@@ -1290,7 +1290,10 @@ YouTube
 </p>  
 
 Arduino Portenta H7 Rev 2 on [Amazon](https://www.amazon.com/dp/B088KPDM8S?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+
 Portenta H7 is expensive and aimed at professional use.
+
+The top image is the Portenta H7 Rev 2 back side with two high density connectors that plug into a [Portenta breakout board](https://www.amazon.com/gp/product/B09FBV5GH7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1).
  
 <p align="center">
 <img width="600" height="257" src="/Images/ArdNANO33BLE600.png"> 
