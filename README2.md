@@ -2,7 +2,7 @@
 <HR>
 <P align="center"><A HREF="README.md#P30">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 31: Arduino Kits
+# Project 31: Arduino OPLA IoT Kit
 
 <p align="center">
 <img width="600" height="528" src="/Images/ArdOPLAc600.png">  
@@ -16,7 +16,7 @@
     
     
  [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
- + Learning kit for Ardunio IoT Cloud projects.   
+ + A microcontroller kit for learning Ardunio IoT Cloud projects.   
  
  
 <A NAME="FUTURE"></A>
