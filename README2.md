@@ -16,8 +16,8 @@
     
     
  [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
- + A microcontroller kit for learning Ardunio IoT Cloud projects.   
- 
+ + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
+ + [Tutorial](https://opla.arduino.cc/)
  
 <A NAME="FUTURE"></A>
 <HR>
