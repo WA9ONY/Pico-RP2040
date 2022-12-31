@@ -96,7 +96,14 @@ The following steps are used to create a microcontroller project.
     
 # Project 35: Electronic Breadboards 
 
+Electronic breadboard is used in the early stages of prototyping the project.  The breadboard alows wires, ICs, small PCSs with pins, etc. to be connected electrically without soldering.  Electronic breadboard available in different sizes and configurations.  For microcontroller projects the breadboard needs to be compatible with the microcontroller developement board with male header pins attached to it.
     
+Breadboard are a plastic body holding strips of metal strips that grab the wires insterted into the breadboards.
+    
+On [Amazon](https://www.amazon.com/gp/product/B07DL13RZH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
+    
+For more information
++  [Breadboard](https://en.wikipedia.org/wiki/Breadboard)    
   
    
 <A NAME="P36"></A>
@@ -104,8 +111,18 @@ The following steps are used to create a microcontroller project.
 <P align="center"><A HREF="#P35">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P37">--&gt;</A></P>  
     
 # Project 36: PCBs 
+
+<p align="center">
+<img width="600" height="359" src="/Images/TempV600b.png">  
+</p>
+ 
     
+PCBs are are used to transfer the microcontroller project from the quick breadboard to a perminet implementation.
     
+PCBs are available in may sizes and configurations.  I look for PCB configrations that work well with the microcontroller developemnt board.   
+    
+On [Amazon](https://www.amazon.com/gp/product/B08YN3HXX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
+   
   
    
 <A NAME="P37"></A>
