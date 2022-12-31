@@ -51,7 +51,7 @@ On [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B
 </p>
     
 
-Microcontroller project usually need other electronic conponents. The below electronic component kit are great for building electronic projects.    
+Microcontroller projects usually need other electronic components. The below electronic component kits are great for building electronic projects.   
 +   Inductor [Kit](https://www.amazon.com/dp/B09HKNT59M?psc=1&ref=ppx_yo2ov_dt_b_product_details) 
 +   0.25w Resistor [Kit](https://www.amazon.com/dp/B08BNDL6DS?psc=1&ref=ppx_yo2ov_dt_b_product_details)     
 +   1/2W Resistor [Kit](https://www.amazon.com/dp/B09PLNPX3P?ref=ppx_yo2ov_dt_b_product_details&th=1) 
