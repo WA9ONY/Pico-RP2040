@@ -18,12 +18,10 @@
  [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
  + [Tutorial](https://opla.arduino.cc/)
-
-    
- <p align="center">
+   
+<p align="center">
 <img width="600" height="368" src="/Images/ArdIOLAparts600.png">  
 </p>
-   
    
 <A NAME="P32"></A>
 <HR>
@@ -48,6 +46,9 @@ On [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B
     
 # Project 33: Electronic Component Kits 
 
+<p align="center">
+<img width="640" height="360" src="/Images/RCLkits.jpg">  
+</p>
     
 
 Microcontroller project usually need other electronic conponents. The below electronic component kit are great for building electronic projects.    
