@@ -42,7 +42,7 @@ On [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B
    
 <A NAME="P33"></A>
 <HR>
-<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P34">--&gt;</A></P>  
     
 # Project 33: Electronic Component Kits 
 
@@ -66,12 +66,33 @@ Microcontroller projects usually need other electronic components. The below ele
 +   Linear Voltage Regulator [Kit](https://www.amazon.com/gp/product/B098T6D3VN/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)     
 +   Analog Integrated Circuits [Kit](https://www.amazon.com/dp/B0969KNBV5?psc=1&ref=ppx_yo2ov_dt_b_product_details)     
 
+  
+   
+<A NAME="P34"></A>
+<HR>
+<P align="center"><A HREF="#P33">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 34: Steps in Building a Microcontroller Project. 
+
+<p align="center">
+<img width="600" height="311" src="/Images/PicoBreadBoard600.png">  
+</p>
+    
+The following steps are used to create a microcontroller project.
++ Project concept
++ Determine the project requirements.
++ Select the microcontroller. 
++ Mount the microcontroller on a [breadboard](https://www.amazon.com/dp/B07LFD4LT6?psc=1&ref=ppx_yo2ov_dt_b_product_details).
++ Wire up other components to the microcontroller.
++ Create and debug software on computer attached to the microcontroller USB interface.
++ Replace breadboard with [PCB](https://www.amazon.com/dp/B08YDNMP46?psc=1&ref=ppx_yo2ov_dt_b_product_details)
++ Find a case for the project.    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P33">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P34">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
