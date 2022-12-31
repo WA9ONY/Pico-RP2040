@@ -82,6 +82,9 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 32: <A HREF="README2.md#P32">Arduino IoTerrific Bundle</A>
 + Project 33: <A HREF="README2.md#P33">Electronic Component Kits</A>
 + Project 34: <A HREF="README2.md#P34">Steps in Building a Microcontroller Project</A>
++ Project 35: <A HREF="README2.md#P35">Electronic Breadboards</A>
++ Project 36: <A HREF="README2.md#P36">PCBs</A>
++ Project 37: <A HREF="README2.md#P37">Soldering</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
   
