@@ -24,11 +24,26 @@
 <img width="600" height="368" src="/Images/ArdIOLAparts600.png">  
 </p>
    
+   
+<A NAME="P32"></A>
+<HR>
+<P align="center"><A HREF="README.md#P31">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 32: Arduino IoTerrific Bundle 
+
+<p align="center">
+<img width="600" height="406" src="/Images/ArdMKRbundle600b.png">  
+</p>
+  
++ Arduino MKR WiFi 1010
++ Arduino MKR MEM Shield 
++ Arduino MKR Connector Carrier
+on [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B0B39Q35TG)    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P31">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
