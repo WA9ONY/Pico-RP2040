@@ -38,7 +38,8 @@
 + Arduino MKR WiFi 1010
 + Arduino MKR MEM Shield 
 + Arduino MKR Connector Carrier
-on [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B0B39Q35TG)    
+    
+On [Amazon](https://www.amazon.com/Arduino-IoTerrific-Bundle-ioterrific-bun/dp/B0B39Q35TG)    
     
 <A NAME="FUTURE"></A>
 <HR>
