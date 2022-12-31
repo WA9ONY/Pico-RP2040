@@ -81,6 +81,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 31: <A HREF="README2.md#P31">Arduino OPLA IoT Kit</A>
 + Project 32: <A HREF="README2.md#P32">Arduino IoTerrific Bundle</A>
 + Project 33: <A HREF="README2.md#P33">Electronic Component Kits</A>
++ Project 34: <A HREF="README2.md#P34">Steps in Building a Microcontroller Project</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
   
