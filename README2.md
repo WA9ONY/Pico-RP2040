@@ -117,12 +117,14 @@ For more information
 </p>
  
     
-PCBs are are used to transfer the microcontroller project from the quick breadboard to a perminet implementation.
+PCBs ([Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board)) are are used to transfer the microcontroller project from the quick breadboard to a perminet implementation.
     
 PCBs are available in may sizes and configurations.  I look for PCB configrations that work well with the microcontroller developemnt board.   
     
 On [Amazon](https://www.amazon.com/gp/product/B08YN3HXX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
    
+For more information
++  [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board)    
   
    
 <A NAME="P37"></A>
@@ -131,6 +133,15 @@ On [Amazon](https://www.amazon.com/gp/product/B08YN3HXX2/ref=ppx_yo_dt_b_search_
     
 # Project 37: Soldering
 
+    <p align="center">
+<img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
+</p>
+
+Using PCBs requires [soldering](https://en.wikipedia.org/wiki/Soldering) components to the PCB. The soldering tools I use are very old (>50 year old) that I used in working at Kern's Aircraft Electronics at the South Bend airport.  They are two Ungar Imperial soldering irons.  The Ungar Imperial solder iron is composed of four parts: Cord, Handel, Heating Element and Tip.  One Imperial iron has a very small tip and  the other has a mediam size tip.
+Unfortantly, the heating cartirdge are not marked.  They came in 25W, 35W, 45W and 55W versions.    (Ungar #6102-L Imperial cord, Ungar #6100 Imperial handle and Ungar #6203 55-W Heat Cartridge).  Since than I have collect various soldering irons that range in size and operation.
+    
+    
+    
     
     
 <A NAME="FUTURE"></A>
