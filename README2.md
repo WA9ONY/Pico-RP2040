@@ -167,17 +167,32 @@ Tips
 
 When using resistors in a project the correct wattage rating needs to be used.
     
-Formulas
+Useful formulas, V: Volts, I: Current in Amps, R: Resistance in ohms, P: Power in Watts
 + V=I*R
 + P=V*I
 + P=(I*I)*R
 + P=(V*V)/R  
+
+The Raspberry Pi Pico A/D input maximum specification is 3.3 V.
+I want to measure the USB supply at Vbus which may go to 5.24 V.
+To be safe, a two resistor 50% divider circuit is designed using two 1 Mohm resistoers.
+The total load to the Vbus is 2 Mohm, which loads the circuit 2.5 uA.    
+
+Now for the resistor power requirements. 
+The maximum voltage across the two resistors in series is 6.6 V.
+Therefore, maximum voltage across one 1 Mohm resistor is 3.3 V.
     
-For example, 3.3V across a 1 Mohm resistor, P=(V*V)/R  = 3.3*3.3/10+6 = .oooo1089 Watt 10.89 uW.
-.125 W resistor is fine.
+3.3V across an 1 Mohm resistor, 
+P=(V*V)/R
+P= 3.3*3.3/10+6 
+P= 0.00001089 Watt or 10.89 uW.
+
+A .25 W resistor is fine, which is is the smallest power rating resistors I have.
     
 YouTube
 + [What is Power Rating of a Resistor | Why Power Rating Matters ?](https://youtu.be/THsw7xx84qA)
+
+    
     
 <A NAME="FUTURE"></A>
 <HR>
