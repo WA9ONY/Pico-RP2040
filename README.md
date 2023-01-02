@@ -85,9 +85,9 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 35: <A HREF="README2.md#P35">Electronic Breadboards</A>
 + Project 36: <A HREF="README2.md#P36">PCBs</A>
 + Project 37: <A HREF="README2.md#P37">Soldering</A>
++ Project 38: <A HREF="README2.md#P38">Resistor Power Rating</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
-  
 <A NAME="P1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
