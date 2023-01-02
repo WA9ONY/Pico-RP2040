@@ -139,9 +139,11 @@ For more information
 <p align="center">
 <img width="600" height="340" src="/Images/Ungar600.png">  
 </p>
-<p align="center">
-50 year old Ungar Imperial Iron Clad, Gold Plated Soldering Iron Tip [#6304](https://ineedths.com/products/ungar-imperial-6304-gold-plated-tip) and [#6331](https://www.ebay.com/itm/125651287235?mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338722076&toolid=10001)    
-</p>
+
+50 year old Ungar Imperial Iron Clad, Gold Plated Soldering Iron Tips. 
++ Top and middle [#6304](https://ineedths.com/products/ungar-imperial-6304-gold-plated-tip)
++ Bottom [#6331](https://www.ebay.com/itm/125651287235?mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338722076&toolid=10001)    
+
     
 Using PCBs requires [soldering](https://en.wikipedia.org/wiki/Soldering) components to the PCB. The soldering tools I use are very old (>50 year old) that I used in working at Kern's Aircraft Electronics at the South Bend airport.  They are two Ungar Imperial soldering irons.  The Ungar Imperial solder iron is composed of four parts: Cord, Handel, Heating Element and Tip.  One Imperial iron has a very small tip and  the other has a mediam size tip.
 Unfortantly, the heating cartirdge are not marked.  They came in 25W, 35W, 45W and 55W versions.    (Ungar #6102-L Imperial cord, Ungar #6100 Imperial handle and Ungar #6203 55-W Heat Cartridge).  Since than I have collect various soldering irons that range in size and operation.
