@@ -162,7 +162,7 @@ Tips
    
 <A NAME="P38"></A>
 <HR>
-<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P39">--&gt;</A></P>  
     
 # Project 38: Resistor Power Rating
 
@@ -200,12 +200,55 @@ A .25 W resistor is fine, which is is the smallest power rating resistors I have
 YouTube
 + [What is Power Rating of a Resistor | Why Power Rating Matters ?](https://youtu.be/THsw7xx84qA)
 
+
+   
+<A NAME="P40"></A>
+<HR>
+<P align="center"><A HREF="#P39">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P40">--&gt;</A></P>  
+    
+# Project 40: Measuring Resistors
+
+<p align="center">
+<img width="640" height="360" src="/Images/ESI250.jpg">  
+</p>
+
+Above image is a 1956 ESI Model 250-C1 Impedance Bridge which measures resistance.
+    
+Measuring the resistance of resistors has changed over the years.
+    
+Instruments that measure resistance
++ Impedance Bridge: 
+    + The [ESI Model 250-C1](https://youtu.be/MwxKNIfNqJg) (1956) is the old test instrument I have.
++ [VOM](https://en.wikipedia.org/wiki/Multimeter): Volt, Ohm Meter
+    + [Simpson 260](https://www.simpson260.com/260-1/simpson_260-1a.htm#:~:text=The%20original%20Simpson%20260%20was,still%20a%20few%20years%20away.) is the classic VOM.
++ [VTVM](https://youtu.be/UQpk8R0qcAw): Vacumn Tube Volt Meter
++ DMM: Digital Multi Meter
+    + DMM range from cheap give awways at [Harbor Freight Tools](https://www.harborfreight.com/7-function-digital-multimeter-63759.html) to 
+    + expensive lab DMMs [Fluke 8505A](https://xdevs.com/article/f8505a/) Digital Multimeter.
++ [LCR](https://en.wikipedia.org/wiki/LCR_meter) meter: Inductance, Capacitance and Resistance meter
+    + [MASTECH MS5308 Handheld Portable LCR](https://www.amazon.com/gp/product/B00DXXIXIM/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
+
+Meters have [resolution and accuracy](https://youtu.be/nVFLT3FoWIQ) specificttions.
+For example, the highest resolution meter I have is the Fluke 8505A at 6.5 digits resolution.
+    
+Higher quality meter provice [4-wire resistance measurements](https://youtu.be/kqkluABmJhQ) which provide higher accuracy resistance measurements.
+    
+    
+   
+<A NAME="P39"></A>
+<HR>
+<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 39: Resistor Tolerance
+
+    
+    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P38">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
