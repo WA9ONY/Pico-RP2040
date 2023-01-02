@@ -170,7 +170,7 @@ When using resistors in a project the correct wattage rating needs to be used.
 Formulas
 + V=I*R
 + P=V*I
-+ P=I*I*R
++ P=(I*I)*R
 + P=(V*V)/R  
     
 For example, 3.3V across a 1 Mohm resistor, P=(V*V)/R  = 3.3*3.3/10+6 = .oooo1089 Watt 10.89 uW.
