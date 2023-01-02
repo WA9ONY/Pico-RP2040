@@ -166,6 +166,13 @@ Tips
     
 # Project 38: Resistor Power Rating
 
+<p align="center">
+<img width="600" height="298" src="/Images/Resistors600.png">  
+</p>
+
+Above image is 1 Mohm resistors: 1/4 W, 1/2 W, 1 W, 2 W & 5 W.  
+As the resistor power rating increases so does the physical size increase to dissipate more power.    
+    
 When using resistors in a project the correct wattage rating needs to be used.
     
 Useful formulas, V: Volts, I: Current in Amps, R: Resistance in ohms, P: Power in Watts
