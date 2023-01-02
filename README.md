@@ -86,6 +86,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 36: <A HREF="README2.md#P36">PCBs</A>
 + Project 37: <A HREF="README2.md#P37">Soldering</A>
 + Project 38: <A HREF="README2.md#P38">Resistor Power Rating</A>
++ Project 39: <A HREF="README2.md#P39">Resistor Tolerance</A>
++ Project 40: <A HREF="README2.md#P40">Measuring Resistors</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
