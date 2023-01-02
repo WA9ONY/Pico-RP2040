@@ -200,11 +200,29 @@ A .25 W resistor is fine, which is is the smallest power rating resistors I have
 YouTube
 + [What is Power Rating of a Resistor | Why Power Rating Matters ?](https://youtu.be/THsw7xx84qA)
 
+   
+<A NAME="P39"></A>
+<HR>
+<P align="center"><A HREF="#P38">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P40">--&gt;</A></P>  
+    
+# Project 39: Resistor Tolerance
 
+<p align="center">
+<img width="600" height="298" src="/Images/Resistors600.png">  
+</p>
+    
+The above first four 1 Mohom resistors are 1% tolerance as indicated by the bottom brown rind.  The far right 5 W resistor is    
+    
+Resistance [tolerance](https://riedon.com/blog/resister-characteristics-and-their-definitions/#:~:text=Resistor%20tolerance%20is%20the%20deviation,as%20tight%20as%20%C2%B10.005%25.) is how accrurate the resistor is to the desired value.  In the past 10%, 5% and 2% were common. But today, 1% tolerance are common and easy to obtain.
+    
+The [Standard Resistor Colour Code Chart](https://www.electronics-tutorials.ws/resistor/res_2.html) has tolerances from 10% to 0.05%.   
+The colore for 10% is siliver, 5% is gole and 1% is brown tolerance.
+    
+    
    
 <A NAME="P40"></A>
 <HR>
-<P align="center"><A HREF="#P39">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P40">--&gt;</A></P>  
+<P align="center"><A HREF="#P39">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P41--&gt;</A></P>  
     
 # Project 40: Measuring Resistors
 
@@ -232,17 +250,28 @@ Meters have [resolution and accuracy](https://youtu.be/nVFLT3FoWIQ) specificttio
 For example, the highest resolution meter I have is the Fluke 8505A at 6.5 digits resolution.
     
 Higher quality meter provice [4-wire resistance measurements](https://youtu.be/kqkluABmJhQ) which provide higher accuracy resistance measurements.
-    
-    
+        
    
-<A NAME="P39"></A>
+<A NAME="P41"></A>
 <HR>
-<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P40&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 39: Resistor Tolerance
+# Project 41: Resistor Composition
+    
+Chosing the right resistor composition is very import in building electronic projects.
+    
+For example, wire wound resistors will take on more inductance at higher frequencies and should be avoided in high frequency circuits.
 
+YouTube
+  + [Carbon Composition Resistors Explained. Advantages, Disadvantages,Apps etc](https://youtu.be/0qpO1Uajy6I)
+  + [Wire Wound Resistors Explained. Applications,Advantages, Disadvantages,Types etc](https://youtu.be/1slu1pp_aM8)    
+  + [Carbon Film Resistors Explained. Applications, Advantages, Disadvantages,etc](https://youtu.be/sLHOryw3XmE)
+  + [Metal Film Resistors Explained. Applications, Advantages, Availability, etc](https://youtu.be/ekpA6w8aCVw)
+
+Wikipedia
+  + [Resistors](https://en.wikipedia.org/wiki/Resistor)
     
-    
+
     
     
 <A NAME="FUTURE"></A>
