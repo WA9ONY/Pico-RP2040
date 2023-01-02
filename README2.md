@@ -115,6 +115,9 @@ For more information
 <p align="center">
 <img width="600" height="359" src="/Images/TempV600b.png">  
 </p>
+<p align="center">
+<img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
+</p>
  
     
 PCBs ([Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board)) are are used to transfer the microcontroller project from the quick breadboard to a perminet implementation.
@@ -133,16 +136,25 @@ For more information
     
 # Project 37: Soldering
 
-    <p align="center">
-<img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
+<p align="center">
+<img width="600" height="340" src="/Images/Ungar600.png">  
 </p>
-
+<p align="center">
+50 year old Ungar Imperial Iron Clad, Gold Plated Soldering Iron Tip [#6304](https://ineedths.com/products/ungar-imperial-6304-gold-plated-tip) and [#6331](https://www.ebay.com/itm/125651287235?mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338722076&toolid=10001)    
+</p>
+    
 Using PCBs requires [soldering](https://en.wikipedia.org/wiki/Soldering) components to the PCB. The soldering tools I use are very old (>50 year old) that I used in working at Kern's Aircraft Electronics at the South Bend airport.  They are two Ungar Imperial soldering irons.  The Ungar Imperial solder iron is composed of four parts: Cord, Handel, Heating Element and Tip.  One Imperial iron has a very small tip and  the other has a mediam size tip.
 Unfortantly, the heating cartirdge are not marked.  They came in 25W, 35W, 45W and 55W versions.    (Ungar #6102-L Imperial cord, Ungar #6100 Imperial handle and Ungar #6203 55-W Heat Cartridge).  Since than I have collect various soldering irons that range in size and operation.
-    
-Imperial Iron Clad, Gold Plated Soldering Iron Tip #6331 and #    
-    
-    
+
+Tips
++ When possible tin both parts and the solder iron tip. 
++ Do not move the parts until the solder is cool.
++ Solder flows down, heat rises. 
++ Use a damp spong to clean the solder iron tip, too much water cools the tip.
++ I use Kester 60/40 "44" resin core flux, lead is bad dispose hazard waste collection site.    
++ Try not to use solder as a mechanical connection.
++ Joining two wires, tin both wires, hook them together, finaly solder them.    
+
     
 <A NAME="FUTURE"></A>
 <HR>
