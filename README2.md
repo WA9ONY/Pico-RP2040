@@ -128,7 +128,8 @@ On [Amazon](https://www.amazon.com/gp/product/B08YN3HXX2/ref=ppx_yo_dt_b_search_
    
 For more information
 +  [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board)    
-  
++  [Hex Brass Spacer Standoff](https://www.amazon.com/gp/product/B07PDQ7DVS/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) 
+    
    
 <A NAME="P37"></A>
 <HR>
