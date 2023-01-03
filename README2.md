@@ -310,20 +310,20 @@ Wikipedia
 <HR>
 <P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 42: USB: 
+# Project 42: USB 
 
 <p align="center">
 <img width="566" height="53" src="/Images/ArdWebEditorUSB.png">  
 </p>
 
-
 The USB interface is a commaon way to connect the computer with the IDE to the microcontroller development board. Below are several ways to check that the microcontorller board USB interface is connected to  the computer.    
 
 ## Arduino Web Editor    
-The above image of Arduino Web Editor shows Arduino MKR WIFI 1010 connected to Linux USB interface /dev/ttyACM0 
+The above image of Arduino Web Editor shows Arduino MKR WiFi 1010 connected to Linux USB interface /dev/ttyACM0 
   
 ## Arduino Create Agent   
 Arduino Create Agent, Open Debug Console
+
 <PRE>
 list
 
@@ -339,6 +339,7 @@ Serial Ports:
 </PRE>    
 
 ## Linux CLI lsusb command    
+
 <PRE>
 david@wa9ony-nuc8i7hvk:~$ lsusb
 Bus 001 Device 043: ID 2341:8054 Arduino SA Arduino MKR WiFi 1010  
