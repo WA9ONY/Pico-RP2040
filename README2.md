@@ -211,13 +211,14 @@ YouTube
 <img width="600" height="298" src="/Images/Resistors600.png">  
 </p>
     
-The above first four 1 Mohom resistors are 1% tolerance as indicated by the bottom brown rind.  The far right 5 W resistor is 5% tolerance.  
+The above first four 1 MOhom resistors are 1% tolerance as indicated by the bottom brown band.  
+The far right 5 W resistor is 5% tolerance bottom gold band.  
 
 <p align="center">
 <img width="600" height="277" src="/Images/Fluke8505A600.png">  
 </p>
     
-The above image is a Fluke 8505A DMM measuring (4-wire measurement) a 1 Mohm 1% tolerance resistor.   
+The above image is a Fluke 8505A DMM 4-wire Ohms measurement a 1 MOhm 1% tolerance resistor.   
 1 Mohm 1% tolerance is +/- 10 kOhms. 
 The measurement is 998,860 Ohms. This is 1.14 kOhms low from 1 MOhms.
 The tolerance of this resistor is - 0.114% which is much better than 1%.
