@@ -18,20 +18,7 @@
  [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
  + [Tutorial](https://opla.arduino.cc/)
-
-Arduino Create Agent Debug Console USB information of MKR1010 WIFI.
-<PRE>
-Serial Ports:
-[
-  {
-    "Name": "/dev/ttyACM0",
-    "SerialNumber": "1EFE803450553133352E3120FF012734",
-    "IsOpen": false,
-    "VendorID": "0x2341",
-    "ProductID": "0x8054"
-  }
-]   
-    
+  
     
 <p align="center">
 <img width="600" height="368" src="/Images/ArdIOLAparts600.png">  
