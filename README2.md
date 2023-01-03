@@ -18,7 +18,21 @@
  [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
  + [Tutorial](https://opla.arduino.cc/)
-   
+
+Arduino Create Agent Debug Console USB information of MKR1010 WIFI.
+<PRE>
+Serial Ports:
+[
+  {
+    "Name": "/dev/ttyACM0",
+    "SerialNumber": "1EFE803450553133352E3120FF012734",
+    "IsOpen": false,
+    "VendorID": "0x2341",
+    "ProductID": "0x8054"
+  }
+]   
+    
+    
 <p align="center">
 <img width="600" height="368" src="/Images/ArdIOLAparts600.png">  
 </p>
@@ -266,7 +280,7 @@ Higher quality meter provice [4-wire resistance measurements](https://youtu.be/k
    
 <A NAME="P41"></A>
 <HR>
-<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P42">--&gt;</A></P>  
     
 # Project 41: Resistor Composition
 
@@ -290,6 +304,47 @@ Wikipedia
   + [Resistors](https://en.wikipedia.org/wiki/Resistor)
     
 
+        
+   
+<A NAME="P42"></A>
+<HR>
+<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 42: USB: 
+
+<p align="center">
+<img width="566" height="53" src="/Images/ArdWebEditorUSB.png">  
+</p>
+
+
+The USB interface is a commaon way to connect the computer with the IDE to the microcontroller development board. Below are several ways to check that the microcontorller board USB interface is connected to  the computer.    
+
+## Arduino Web Editor    
+The above image of Arduino Web Editor shows Arduino MKR WIFI 1010 connected to Linux USB interface /dev/ttyACM0 
+  
+## Arduino Create Agent   
+Arduino Create Agent, Open Debug Console
+<PRE>
+list
+
+Serial Ports:
+[
+  {
+    "Name": "/dev/ttyACM0",
+    "SerialNumber": "1EFE803450553133352E3120FF012734",
+    "IsOpen": true,
+    "VendorID": "0x2341",
+    "ProductID": "0x8054"
+  }
+</PRE>    
+
+## Linux CLI lsusb command    
+<PRE>
+david@wa9ony-nuc8i7hvk:~$ lsusb
+Bus 001 Device 043: ID 2341:8054 Arduino SA Arduino MKR WiFi 1010  
+</PRE>
+    
+    
     
     
 <A NAME="FUTURE"></A>
