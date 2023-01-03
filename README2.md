@@ -308,7 +308,8 @@ The above image of Arduino Web Editor shows Arduino MKR WiFi 1010 connected to L
   
 ## Arduino Create Agent   
 Arduino Create Agent, Open Debug Console "list" command
-
++ VendorID: 0x2341 is Arduino LLC
++ ProductID: 0x8054 is Arduino MKR WiFi 1010
 <PRE>
 list
 
