@@ -218,13 +218,13 @@ The far right 5 W resistor is 5% tolerance bottom gold band.
 <img width="600" height="271" src="/Images/Fluke8505Ab600.png">  
 </p>
     
-The above image is a Fluke 8505A DMM 4-wire Ohms measurement of a 1 MOhm 1% tolerance resistor.   
+The above image is a Fluke 8505A DMM 4-wire Ohms measurement of a 1 MOhm 0.25 W, 1% tolerance resistor.   
 Specifications of a 1 MOhm 1% tolerance is +/- 10 kOhms. 
 The measurement is 1,000,030 Ohms (DMM 5.5 digit resolution, 10 Ohms resolution on an 1 MOhm scale). 
 This is 30 Ohms high from 1 MOhms.
-The tolerance of this resistor is + 0.003% (30 ppm) which is much better than 1%.
+The tolerance of this resistor is + 0.003% (30 ppm) which is much better than 1% tolerance specification.
 This does not take in account the Fluke 8505A accuracy.    
-A discussion for another time and project.    
+DMM accuracy is a discussion for another time and project.    
     
 Resistance [tolerance](https://riedon.com/blog/resister-characteristics-and-their-definitions/#:~:text=Resistor%20tolerance%20is%20the%20deviation,as%20tight%20as%20%C2%B10.005%25.) is how accrurate the resistor is to the desired value.  In the past 10%, 5% and 2% were common. But today, 1% tolerance are common and easy to obtain.
     
