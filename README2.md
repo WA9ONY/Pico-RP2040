@@ -289,13 +289,11 @@ YouTube
 
 Wikipedia
   + [Resistors](https://en.wikipedia.org/wiki/Resistor)
-    
-
-        
+         
    
 <A NAME="P42"></A>
 <HR>
-<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P43">--&gt;</A></P>  
     
 # Project 42: USB 
 
@@ -309,7 +307,7 @@ The USB interface is a commaon way to connect the computer with the IDE to the m
 The above image of Arduino Web Editor shows Arduino MKR WiFi 1010 connected to Linux USB interface /dev/ttyACM0 
   
 ## Arduino Create Agent   
-Arduino Create Agent, Open Debug Console
+Arduino Create Agent, Open Debug Console "list" command
 
 <PRE>
 list
@@ -325,14 +323,14 @@ Serial Ports:
   }
 </PRE>    
 
-## Linux CLI lsusb command    
+## Linux CLI "lsusb" command    
 
 <PRE>
 david@wa9ony-nuc8i7hvk:~$ lsusb
 Bus 001 Device 043: ID 2341:8054 Arduino SA Arduino MKR WiFi 1010  
 </PRE>
     
- ## Linux CLI sudo dmesg command    
+ ## Linux CLI "sudo dmesg" command    
 
 <PRE>
 david@wa9ony-nuc8i7hvk:~$ sudo dmesg 
@@ -345,11 +343,42 @@ david@wa9ony-nuc8i7hvk:~$ sudo dmesg
 [1475151.245216] usb 1-11.2: Manufacturer: Arduino LLC
 [1475151.245217] usb 1-11.2: SerialNumber: 1EFE803450553133352E3120FF012734
 </PRE>   
+   
+   
+<A NAME="P43"></A>
+<HR>
+<P align="center"><A HREF="#P42">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P44">--&gt;</A></P>  
+    
+# Project 43: Arduino Registration and Cloud Plan 
+
+<p align="center">
+<img width="269" height="417" src="/Images/ArdMaker.png">  
+</p>
+    
+To use the Arduino Web Editor which is used for IoT Cloud software development you have to have a Arduino account.  The account is free.
+    
+To use the Arduino Cloud and IoT Clout a [Plan](https://cloud.arduino.cc/plans/?source=webide&redirect=https://create.arduino.cc/editor/wa9ony/9cb4e926-92fe-4a7b-9556-ad9ae326b902) is needed.  A Free Plan is available.  The first Plan that provides dashboard sharing is the Maker Plan at $5.99/month. The dashboard sharing feature is the reason I chose the Maker Plan.
+    
+   
+<A NAME="P44"></A>
+<HR>
+<P align="center"><A HREF="#P43">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 44: Arduino OPLA First Sketch 
+
+<p align="center">
+<img width="566" height="53" src="/Images/ArdWebEditorUSB.png">  
+</p>
+
+This is my first Arduino OPLA skectch to take a temperature, humidity and pressure sensor reading form the Arduino MKR IoT Carrier.  The readings are displayed on the Arduino Web Editor Monitor. 
+    
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P44">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
