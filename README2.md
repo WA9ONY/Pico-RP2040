@@ -211,15 +211,24 @@ YouTube
 <img width="600" height="298" src="/Images/Resistors600.png">  
 </p>
     
-The above first four 1 Mohom resistors are 1% tolerance as indicated by the bottom brown rind.  The far right 5 W resistor is    
+The above first four 1 Mohom resistors are 1% tolerance as indicated by the bottom brown rind.  The far right 5 W resistor is 5% tolerance.  
+
+<p align="center">
+<img width="600" height="277" src="/Images/Fluke8505A600.png">  
+</p>
+    
+The above image is a Fluke 8505A DMM measuring (4-wire measurement) a 1 Mohm 1% tolerance resistor.   
+1 Mohm 1% tolerance is +/- 10 kOhms. 
+The measurement is 998,860 Ohms. This is 1.14 kOhms low from 1 MOhms.
+The tolerance of this resistor is - 0.114% which is much better than 1%.
+This does not take in account the Fluke 8505A accuracy. A discussion for another project.    
     
 Resistance [tolerance](https://riedon.com/blog/resister-characteristics-and-their-definitions/#:~:text=Resistor%20tolerance%20is%20the%20deviation,as%20tight%20as%20%C2%B10.005%25.) is how accrurate the resistor is to the desired value.  In the past 10%, 5% and 2% were common. But today, 1% tolerance are common and easy to obtain.
     
 The [Standard Resistor Colour Code Chart](https://www.electronics-tutorials.ws/resistor/res_2.html) has tolerances from 10% to 0.05%.   
 The colore for 10% is siliver, 5% is gole and 1% is brown tolerance.
     
-    
-   
+     
 <A NAME="P40"></A>
 <HR>
 <P align="center"><A HREF="#P39">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P41">--&gt;</A></P>  
