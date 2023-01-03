@@ -218,7 +218,7 @@ The far right 5 W resistor is 5% tolerance bottom gold band.
 <img width="600" height="271" src="/Images/Fluke8505Ab600.png">  
 </p>
     
-The above image is a Fluke 8505A DMM 4-wire Ohms measurement of a 1 MOhm 0.25 W, 1% tolerance resistor.   
+The above image is a Fluke 8505A DMM 4-wire Ohms measurement of a metal film 1 MOhm 0.25 W, 1% tolerance resistor.   
 Specifications of a 1 MOhm 1% tolerance is +/- 10 kOhms. 
 The measurement is 1,000,030 Ohms (DMM 5.5 digit resolution, 10 Ohms resolution on an 1 MOhm scale). 
 This is 30 Ohms high from 1 MOhms.
