@@ -332,8 +332,19 @@ david@wa9ony-nuc8i7hvk:~$ lsusb
 Bus 001 Device 043: ID 2341:8054 Arduino SA Arduino MKR WiFi 1010  
 </PRE>
     
-    
-    
+ ## Linux CLI sudo dmesg command    
+
+<PRE>
+david@wa9ony-nuc8i7hvk:~$ sudo dmesg 
+[1475146.372531] cdc_acm 1-11.2:1.0: ttyACM0: USB ACM device
+[1475150.341574] usb 1-11.2: USB disconnect, device number 41
+[1475151.105206] usb 1-11.2: new full-speed USB device number 42 using xhci_hcd
+[1475151.245207] usb 1-11.2: New USB device found, idVendor=2341, idProduct=8054, bcdDevice= 1.00
+[1475151.245212] usb 1-11.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[1475151.245214] usb 1-11.2: Product: Arduino MKR WiFi 1010
+[1475151.245216] usb 1-11.2: Manufacturer: Arduino LLC
+[1475151.245217] usb 1-11.2: SerialNumber: 1EFE803450553133352E3120FF012734
+</PRE>   
     
 <A NAME="FUTURE"></A>
 <HR>
