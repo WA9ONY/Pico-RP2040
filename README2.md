@@ -354,9 +354,11 @@ david@wa9ony-nuc8i7hvk:~$ sudo dmesg
 <p align="center">
 <img width="269" height="417" src="/Images/ArdMaker.png">  
 </p>
-    
-To use the Arduino Web Editor which is used for IoT Cloud software development you have to have a Arduino account.  The account is free.
-    
+
+## Arduino Account    
+To use the Arduino Web Editor which is used for IoT Cloud software development an Arduino account (free) is required. 
+
+## Arduino Cloud Plan    
 To use the Arduino Cloud and IoT Clout a [Plan](https://cloud.arduino.cc/plans/?source=webide&redirect=https://create.arduino.cc/editor/wa9ony/9cb4e926-92fe-4a7b-9556-ad9ae326b902) is needed.  A Free Plan is available.  The first Plan that provides dashboard sharing is the Maker Plan at $5.99/month. The dashboard sharing feature is the reason I chose the Maker Plan.
     
    
