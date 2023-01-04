@@ -1374,7 +1374,15 @@ Elegoo UNO R3 USB interface identifies itself an Arduino UNO R3.
  
 [ELEGOO UNO R3 Project Most Complete Starter Kit w/ Tutorial Compatible with Arduino IDE (63 Items)](https://www.amazon.com/gp/product/B01CZTLHGE/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 
-
+Elegoo YouTube Videos
++ [Get Started in Electronics #1 - Elegoo Arduino Uno Super Starter Kit](https://youtu.be/A21eaw4V8_4)
++ [UNO](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8bWpkBHe7qp4rJczTJyvUI5)
++ [UNO V2](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8b88C3gXKaLbGaJUB-jZBRU) 
++ [MEGA Playlist](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8abqae2cQZ1-ztcuZuIt4G7)
+ 
+[Elegoo files](https://www.elegoo.com/pages/arduino-kits-support-files)
+ 
+ 
 <p align="center">
 <img width="600" height="537" src="/Images/LafvinNANOtb600.png"> 
 </p>  
