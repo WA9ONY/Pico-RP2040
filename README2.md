@@ -375,7 +375,7 @@ The [Arduino OPLA IoT kit](#P31) includes one year free Cloud Plan.
    
 <A NAME="P44"></A>
 <HR>
-<P align="center"><A HREF="#P43">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P43">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P45">--&gt;</A></P>  
     
 # Project 44: Arduino Simple OPLA Read & Display Sensor Data Sketch 
 
@@ -441,12 +441,47 @@ MKR IoT Carrier in a plastic case and connected to a USB cable.
 </p>
     
     
+   
+<A NAME="P45"></A>
+<HR>
+<P align="center"><A HREF="#P44">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 45: DIY Soldering Iron Holder 
+
+<p align="center">
+<img width="271" height="268" src="/Images/OPLAsw1.png">  
+</p>
+
+<p align="center">
+<img width="600" height="457" src="/Images/SolderingIron4.png">  
+</p>
+    
+A kitchen paper towel holder can be into a soldering iron holder by cutting off the top and bending the wires down.
+
+Kitchen paper towel holder ($1.25) is available from Dollar Tree.     
+    
+<p align="center">
+<img width="360" height="516" src="/Images/SolderingIron1.png">  
+</p>
+
+Cut the vertical wires 3 inches from the bottom.    
+    
+<p align="center">
+<img width="386" height="352" src="/Images/SolderingIron2.png">  
+</p>
+    
+Bend the two vertical wires into a "M" shape.
+    
+<p align="center">
+<img width="320" height="434" src="/Images/SolderingIron3.png">  
+</p>
+    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P44">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
