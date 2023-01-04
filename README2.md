@@ -446,14 +446,10 @@ MKR IoT Carrier in a plastic case and connected to a USB cable.
 <HR>
 <P align="center"><A HREF="#P44">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 45: DIY Soldering Iron Holder 
+# Project 45: DIY (Do It Youself) Soldering Iron Holder 
 
 <p align="center">
-<img width="271" height="268" src="/Images/OPLAsw1.png">  
-</p>
-
-<p align="center">
-<img width="600" height="457" src="/Images/SolderingIron4.png">  
+<img width="217" height="457" src="/Images/SolderingIron4.png">  
 </p>
     
 A kitchen paper towel holder can be into a soldering iron holder by cutting off the top and bending the wires down.
