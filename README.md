@@ -1378,7 +1378,7 @@ Elegoo YouTube Videos
 + [Get Started in Electronics #1 - Elegoo Arduino Uno Super Starter Kit](https://youtu.be/A21eaw4V8_4)
 + [UNO](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8bWpkBHe7qp4rJczTJyvUI5)
 + [UNO V2](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8b88C3gXKaLbGaJUB-jZBRU) 
-+ [MEGA Playlist](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8abqae2cQZ1-ztcuZuIt4G7)
++ [MEGA](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8abqae2cQZ1-ztcuZuIt4G7)
  
 [Elegoo files](https://www.elegoo.com/pages/arduino-kits-support-files)
  
