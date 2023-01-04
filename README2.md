@@ -371,15 +371,62 @@ The [Arduino OPLA IoT kit](#P31) includes one year free Cloud Plan.
 <HR>
 <P align="center"><A HREF="#P43">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 44: Arduino OPLA First Sketch 
+# Project 44: Arduino Simple OPLA Read & Display Sensor Data Sketch 
 
 <p align="center">
-<img width="566" height="53" src="/Images/ArdWebEditorUSB.png">  
+<img width="493" height="268" src="/Images/OPLAsw1.png">  
 </p>
 
 This is my first Arduino OPLA skectch to take a temperature, humidity and pressure sensor reading form the Arduino MKR IoT Carrier.  The readings are displayed on the Arduino Web Editor Monitor. 
+
+## [sketch_OPLAsw1.zip](OPLA/sketch_OPLAsw1.zip)    
+<PRE>
+/*
+sketch_OPLAsw1 
+David Haworth, WA9ONY
+https://github.com/WA9ONY/RP2040_and_Arduino
+First simple IOLA sketch to read and display MKR IoT carrier sensor data.
+HW: OPLA IoT Kit
+*/
+//Initialization
+#include <Arduino_MKRIoTCarrier.h>  // OPLA kit library
+MKRIoTCarrier carrier;  // create carrier object
+
+float temperature = 0;  // variables for sensor data
+float humidity = 0;
+float pressure = 0;
+
+//Setup
+void setup() {
+  delay(1500);         // Give the carrier time
+  CARRIER_CASE = true; // use a the clear case
+  Serial.begin(9600);  // set the baud rate for the Monitor
+  while (!Serial);     // wait for the serial Monitor to be ready
+  carrier.begin();     // start up the carrier
+}
+
+//Loop
+void loop() {
+  temperature = carrier.Env.readTemperature(); //reads temperature
+  humidity = carrier.Env.readHumidity();       //reads humidity
+  pressure = carrier.Pressure.readPressure();  //reads pressure
+  
+  Serial.print("Temperature = ");              //print temperature data to the Monitor
+  Serial.print(temperature);
+  Serial.print("°C");
+
+  Serial.print(" Humidity = ");               //print humidity data to the Monitor
+  Serial.print(humidity);
+  Serial.print("% ");
+  
+  Serial.print(" Pressure = ");               //print pressure data to the Monitor 
+  Serial.print(pressure);
+  Serial.print("\n");
+ 
+  delay(10000);                               //10 sec delay for the loop
+}
     
-    
+</PRE>    
     
     
 <A NAME="FUTURE"></A>
