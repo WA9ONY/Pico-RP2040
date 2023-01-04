@@ -466,7 +466,7 @@ Cut the vertical wires 3 inches from the bottom.
 <img width="386" height="352" src="/Images/SolderingIron2.png">  
 </p>
     
-Bend the two vertical wires into a "M" shape.
+Bend the two vertical wires into a "M" shape and the holder is ready for the soldering iron.
     
 <p align="center">
 <img width="320" height="434" src="/Images/SolderingIron3.png">  
