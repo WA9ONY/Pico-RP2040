@@ -88,6 +88,10 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 38: <A HREF="README2.md#P38">Resistor Power Rating</A>
 + Project 39: <A HREF="README2.md#P39">Resistor Tolerance</A>
 + Project 40: <A HREF="README2.md#P40">Measuring Resistors</A> 
++ Project 41: <A HREF="README2.md#P41">Resistor Composition/A> 
++ Project 42: <A HREF="README2.md#P42">USB</A> 
++ Project 43: <A HREF="README2.md#P43">Arduino Registration and Cloud Plan</A> 
++ Project 44: <A HREF="README2.md#P44">Arduino Simple OPLA Read & Display Sensor Data Sketch</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
