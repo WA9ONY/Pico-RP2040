@@ -472,7 +472,7 @@ Bend the two vertical wires into a "M" shape.
 <img width="320" height="434" src="/Images/SolderingIron3.png">  
 </p>
     
-    
+Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with [24 Kt. gold plated tip](#P37).     
     
 <A NAME="FUTURE"></A>
 <HR>
