@@ -434,7 +434,7 @@ void loop() {
     
 </PRE>    
 
-MKR IoT Carrier in a plastic case.
+MKR IoT Carrier in a plastic case and connected to a USB cable.
     
 <p align="center">
 <img width="600" height="507" src="/Images/OPLAusb600.png">  
