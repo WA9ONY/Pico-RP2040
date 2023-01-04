@@ -13,7 +13,14 @@
 <p align="center">
 <img width="490" height="750" src="/Images/ArdOPLAi600.png">  
 </p>
-    
+
+<p align="center">
+<img width="600" height="559" src="/Images/OPLAtopbd600.png">  
+</p>
+<p align="center">
+<img width="600" height="584" src="/Images/OPLAcasebd600.png">  
+</p>
+
     
  [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
@@ -427,6 +434,14 @@ void loop() {
 }
     
 </PRE>    
+
+MKR IoT Carrier in a plastic case.
+    
+<p align="center">
+<img width="600" height="507" src="/Images/OPLAusb600.png">  
+</p>
+    
+    
     
     
 <A NAME="FUTURE"></A>
