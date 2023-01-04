@@ -377,7 +377,7 @@ The [Arduino OPLA IoT kit](#P31) includes one year free Cloud Plan.
 <img width="493" height="268" src="/Images/OPLAsw1.png">  
 </p>
 
-This is my first Arduino OPLA skectch to take a temperature, humidity and pressure sensor reading form the Arduino MKR IoT Carrier.  The readings are displayed on the Arduino Web Editor Monitor. 
+This is my first Arduino OPLA skectch to take a temperature, humidity and pressure sensor reading form the Arduino MKR IoT Carrier.  The readings are displayed on the Arduino Web Editor Monitor (see above image). 
 
 ## [sketch_OPLAsw1.zip](Arduino/OPLA/sketch_OPLAsw1.zip)    
 <PRE>
