@@ -92,6 +92,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 42: <A HREF="README2.md#P42">USB</A> 
 + Project 43: <A HREF="README2.md#P43">Arduino Registration and Cloud Plan</A> 
 + Project 44: <A HREF="README2.md#P44">Arduino Simple OPLA Read & Display Sensor Data Sketch</A> 
++ Project 45: <A HREF="README2.md#P45">DIY Soldering Iron Holder</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
