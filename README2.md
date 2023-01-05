@@ -518,7 +518,7 @@ Elektor
 <HR>
 <P align="center"><A HREF="#P46">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 47: AC Power Suppies fo Microcontroller Boards 
+# Project 47: AC Power Suppies for Microcontroller Boards 
 
 <p align="center">
 <img width="600" height="856" src="/Images/PWS7_5_600.png">  
