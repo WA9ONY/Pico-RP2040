@@ -452,7 +452,7 @@ MKR IoT Carrier in a plastic case and connected to a USB cable.
 <img width="271" height="457" src="/Images/SolderingIron4.png">  
 </p>
     
-A kitchen paper towel holder can be into a soldering iron holder by cutting off the top and bending the wires down.
+A kitchen paper towel holder can be made into a soldering iron holder by cutting off the top and bending the wires down.
 
 Kitchen paper towel holder ($1.25) is available from Dollar Tree.     
     
