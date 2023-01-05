@@ -35,7 +35,7 @@ OPLA IoT kit includes
 <img width="600" height="559" src="/Images/OPLAtopbd600.png">  
 </p>
     
-The front of the Carrier board has five touch switches that work with the plastic cover overthtem.
+The front of the Carrier board has five touch switches that work with the plastic cover over them.
     
 Next to the touch switches are five RGB LEDs.
     
@@ -47,19 +47,17 @@ At the bottom of the Carrier board are LEDs showing the status of the relays.
 <img width="600" height="584" src="/Images/OPLAcasebd600.png">  
 </p>
  
+At the top of the Carrier board are connectors to attach to sensors.    
+    
 The above image show the silver battery clips for one 18650 lithium ion battery.  The battery is not part of the kit and has to be purchased seperately.
 The MKR IoT Carrier will charge the 18650 batter from the USB power source.
     
-At the bottom of the Carrier board is a connector for a SD caard.    
-
-The black boxes are the relay 1 and relay 2 of the left side of the Carrier board.
-    
-The blue circuit board is the MKR WiFi 1010 microcontroller board.
-    
 The red and black wires are the power cable from the battery to the MKR WiFi 1010 microcontroller board.
     
-At the top of the Carrier board are connectors to attach to sensors.    
+The black boxes are the relay 1 and relay 2 of the left side of the Carrier board.
     
+At the bottom of the Carrier board is a connector for a SD caard.    
+
 [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
  + [Tutorial](https://opla.arduino.cc/)
