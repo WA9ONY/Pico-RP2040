@@ -476,7 +476,7 @@ Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with
       
 <A NAME="P46"></A>
 <HR>
-<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P46">--&gt;</A></P>  
     
 # Project 46: Arduino MEGA 2560 Microcontroller Board 
 
@@ -512,6 +512,37 @@ Amazon
 
 Elektor
 + [Ultimate Arduino Mega 2560 Hardware Manual, 234 pages, E-book, color PDF](https://www.elektor.com/ultimate-arduino-mega-2560-hardware-manual-e-book)
+    
+      
+<A NAME="P47"></A>
+<HR>
+<P align="center"><A HREF="#P46">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 47: AC Power Suppies fo Microcontroller Boards 
+
+<p align="center">
+<img width="600" height="856" src="/Images/PWS7_5_600.png">  
+</p>
+
+There are multiple ways to power a microcomputer board.  
++ USB
++ 120 Volts AC to DC Volts power supply
++ Battery
++ Solar cells
+    
+Different microcontroller boards accept different DC voltages.
+    
+For example, 
++ Arduino MEGA 2560 2.1mm center-positive plug accepts 7 to 12 volts.
+  + The above image shows an used 7.5 Vdc power suppy from Goodwill that is perfect for the MEAG 2560.
+  + A higher voltage results in higher temperature for the on microcontroller board voltage regulator.
+  + Therefore, using a 7.5 Volts power supply is better than using a 12 Volts power supply.  
++ Raspberry Pi Pico square pins Vsys accepts 1.8 to 5.5 volts.
+  + The above 7.5 power supply would damage the Pico.  
+    
+A good soure of used low cost 120 Volts AC to DC Volts [wall wart](https://en.wikipedia.org/wiki/AC_adapter) power supplies is [Goodwill](https://www.goodwill.org/).
+Goodwill price tags have a color and one color is 50% off for a week. The discount color changes every Sunday.    
+    
     
     
 <A NAME="FUTURE"></A>
