@@ -510,6 +510,8 @@ Atmel ATmega 2560 data sheet
 Amazon
 + [Book list](https://www.amazon.com/s?k=MEGA+2560&i=stripbooks&crid=K9MTI3JRIR15&sprefix=mega+2560%2Cstripbooks%2C136&ref=nb_sb_noss_2)    
 
+Elektor
++ [Ultimate Arduino Mega 2560 Hardware Manual, 234 pages, E-book, color PDF](https://www.elektor.com/ultimate-arduino-mega-2560-hardware-manual-e-book)
     
     
 <A NAME="FUTURE"></A>
