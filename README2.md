@@ -480,8 +480,10 @@ Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with
     
 # Project 46: Arduino MEGA 2560 Microcontroller Board 
 
-    
-The Arduino MEGA 2560 has an Elegoo clone which is in their STEM kits.    
+
+The Arduino MEGA 2560 was introduced in 2009 and is still being sold by Arduino and clone manfucturers.    
+
+    The Arduino MEGA 2560 has an Elegoo clone which is in their STEM kits.    
     
 Notes
 + Power: USB and/or 2.1mm center-positive plug 7 to 12 volts    
