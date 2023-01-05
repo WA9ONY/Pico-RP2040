@@ -13,6 +13,20 @@
 <p align="center">
 <img width="490" height="750" src="/Images/ArdOPLAi600.png">  
 </p>
+    
+OPLA IoT kit includes
++ USB cable
++ Two sensor cables
++ A battery cable
++ A moisture sensor
++ MKR WiFi 1010
++ A moton sensor
++ Three screws to hold the Carrier board to the plastic case.
++ Plastic case, top and bottom snap together.
++ Carrier board that accepts, MKR WiFi 1010 microcontroller board that plugs in to the Carrier board, 19650 Lithium ion battery that snaps in the Carrier board, battery cable.   
++ One year subscription code to Arduno iCloud Maker plan.
++ Link to OPLA tutorils.    
+    
 <p align="center">
 <img width="600" height="368" src="/Images/ArdIOLAparts600.png">  
 </p>
