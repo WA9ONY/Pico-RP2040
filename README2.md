@@ -23,6 +23,9 @@
 <p align="center">
 <img width="600" height="584" src="/Images/OPLAcasebd600.png">  
 </p>
+ 
+The above image show the silver battery clips for a 18650 LI batter.  The battery is not part of the kit and has to be purchased seperately.
+The MKR IoT Carrier will charge the 18650 batter from the USB power source.    
     
 [Arduino OPLA IoT Kit](https://www.amazon.com/dp/B08LY4G87J?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  + A microcontroller kit for learning how to do Ardunio IoT Cloud projects.   
