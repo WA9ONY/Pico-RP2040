@@ -480,12 +480,21 @@ Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with
     
 # Project 46: Arduino MEGA 2560 Microcontroller Board 
 
-<p align="center">
-<img width="271" height="457" src="/Images/SolderingIron4.png">  
-</p>
     
 WIP
 
+Arduino
++  [Mega 2560 Rev3](https://docs.arduino.cc/hardware/mega-2560)   
+
+Clones
++ [Elegoo kits](https://www.elegoo.com/blogs/arduino-projects/elegoo-mega-2560-the-most-complete-starter-kit-tutorial)
++ [Elegoo board](https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=sr_1_4?crid=GE34C0A2Z1X9&keywords=elegoo%2Bmega%2Br3&qid=1672891988&sprefix=Elegoo%2BMEGA%2Caps%2C153&sr=8-4&th=1) 
++ [Mega R3 Project The Most Complete Ultimate Starter Kit w/ TUTORIAL Compatible with Arduino IDE](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_3?crid=GE34C0A2Z1X9&keywords=elegoo%2Bmega%2Br3&qid=1672892043&sprefix=Elegoo%2BMEGA%2Caps%2C153&sr=8-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&th=1)    
+  + [Software 372 MB](https://www.elegoo.com/blogs/arduino-projects/elegoo-mega-2560-the-most-complete-starter-kit-tutorial)
+    + Tutorial PDF 223 pages
+  + [YouTube playlist 19 videos](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8abqae2cQZ1-ztcuZuIt4G7)  
+
+    
 On Amazon
 + []()    
     
