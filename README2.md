@@ -588,7 +588,22 @@ Goodwill price tags have a color and one color is 50% off for a week. The discou
 <img width="960" height="540" src="/Images/ArDIDEWin960.png">  
 </p>
 
+The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/software) open on an Windows 10 computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
+ 
+The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
+## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
++ Need to have an Arduino account (no cost).
++ Web Editor needs the Arduino Create Agent installed to communicate to the Arduino board.
++ To use the [Arduino Cloud](https://cloud.arduino.cc/home/) the [free Cloud account](https://cloud.arduino.cc/plans/) provides 100 MBytes of storage. 
++ Later the Arduino IoT Cloud will be used in projects.  The Arduino Cloud and Arduino IoT Cloud are different.
+## IDE [V2.0.3](https://www.arduino.cc/en/software)
++ Icon installed desktop.
++ V2 has a debugger.
++ Editor auto completes.
+## IDE [V1.8.19](https://www.arduino.cc/en/software) 
++ Icon installed desktop.
     
+
     
     
 <A NAME="FUTURE"></A>
