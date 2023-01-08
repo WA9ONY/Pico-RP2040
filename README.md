@@ -491,7 +491,7 @@ Sign up for a account and you can borrow books.
 + [MagPi](https://magpi.raspberrypi.com/) issue [109](https://magpi.raspberrypi.com/issues?page=2), [119, 121](https://magpi.raspberrypi.com/issues)
 
 ## [Elektor](https://elektor.com/) magazine 
- + 2022 Dec issue, Arduino ([free issue](https://www.elektormagazine.com/declassified-arduino-bonus-edition?utm_source=Elektor+International+%28English%29&utm_campaign=8eed08f225-EMAIL_CAMPAIGN_1_5_2023_10_5&utm_medium=email&utm_term=0_23bd160f48-8eed08f225-%5BLIST_EMAIL_ID%5D&mc_cid=8eed08f225&mc_eid=1bc428feb9))
+ + 2022 Dec issue, Arduino ([free 40 pages of the 140 page issue](https://www.elektormagazine.com/declassified-arduino-bonus-edition?utm_source=Elektor+International+%28English%29&utm_campaign=8eed08f225-EMAIL_CAMPAIGN_1_5_2023_10_5&utm_medium=email&utm_term=0_23bd160f48-8eed08f225-%5BLIST_EMAIL_ID%5D&mc_cid=8eed08f225&mc_eid=1bc428feb9))
  + Back issues are available with a Green membership (no print, only PDFs) 
 
 <img align="right" width="94" height="133" src="/Images/Make83s.png">
