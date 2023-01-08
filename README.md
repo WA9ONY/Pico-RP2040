@@ -64,7 +64,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 14: <A HREF="#P14">SparkFun RP2040 Boards</A>
 + Project 15: <A HREF="#P15">Waveshare RP2040 Boards</A>
 + Project 16: <A HREF="#P16">Micorocontrollers Programming</A>
-+ Project 17: <A HREF="#P17">Arduino Microcontrollers IDEs</A>
++ Project 17: <A HREF="#P17">Arduino IDEs on Linux Computer</A>
 + Project 18: <A HREF="#P18">Build a Computer for Microcontroller Development</A>
 + Project 19: <A HREF="#P19">Setup GitHub</A>
 + Project 20: <A HREF="#P20">Learn Micropython on the Pico</A>
@@ -95,6 +95,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 45: <A HREF="README2.md#P45">DIY Soldering Iron Holder</A> 
 + Project 46: <A HREF="README2.md#P46">Arduino MEGA 2560 Microcontroller Board</A>
 + Project 47: <A HREF="README2.md#P47">AC Power Suppies for Microcontroller Boards</A>
++ Project 48: <A HREF="README2.md#P48">Arduino IDEs on Windows 10 Computer</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
@@ -880,7 +881,7 @@ Software
 <HR>
 <P align="center"><A HREF="#P16">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P18">--&gt;</A></P>  
        
-# Project 17: Arduino Microcontrollers IDEs
+# Project 17: Arduino IDEs on Linux Computer
 
 <p align="center"><img width="960" height="540" src="/Images/ArduinnoIDEsS.png"></p>
 
