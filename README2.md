@@ -596,12 +596,15 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 + Web Editor needs the Arduino Create Agent installed to communicate to the Arduino board.
 + To use the [Arduino Cloud](https://cloud.arduino.cc/home/) the [free Cloud account](https://cloud.arduino.cc/plans/) provides 100 MBytes of storage. 
 + Later the Arduino IoT Cloud will be used in projects.  The Arduino Cloud and Arduino IoT Cloud are different.
+
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + Icon installed desktop.
 + V2 has a debugger.
 + Editor auto completes.
+
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
 + Icon installed desktop.
++ Most Arduino books are written about the Arduino IDE V1.8 or earlier. 
     
     
       
@@ -615,12 +618,13 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 <img width="960" height="540" src="/Images/Arduino1_8RPi.png">  
 </p>
 
-The above screenshot shows the Blink sketch loaded on the [Arduino IDE V1,8.19](https://www.arduino.cc/en/software) on a Raspberry Pi 400 computer.  The left is the  IDE V1,8.19 and right side is a CLI window with the lsusb command showing the Arduino SA Mega 2560 R3 USB connection.
+The above screenshot shows the Blink sketch loaded on the [Arduino IDE V1.8.19](https://www.arduino.cc/en/software) on a Raspberry Pi 400 computer.  The left side of the screen is the  IDE V1.8.19 and the right side is a CLI window with the "lsusb" command showing the Arduino SA Mega 2560 R3 USB connection.
  
-
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
-+ Icon installed Memu, Programming.
-+ CLI install process after uncompressing the download file. 
++ Icon installed in Memu, Programming.
++ Most Arduino books are written about the Arduino IDE V1.8 or earlier.    
++ Below is the CLI install process after uncompressing the download file.
++ Do not use the directory Arduino.  Arduio director is used by the IDE and libraries.    
 <PRE>
  wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ ls -al
 total 22872
@@ -648,10 +652,10 @@ wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $
 </PRE>    
      
 ## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
-+ No Arduino Create Agent for ARM 32-bit.
++ No Arduino Create Agent for Raspberry Pi ARM 32-bit computers.
 
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
-+ No ARM 32-bit install
++ No Raspberry Pi ARM 32-bit computers install.
 
     
 <A NAME="FUTURE"></A>
