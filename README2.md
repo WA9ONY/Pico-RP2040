@@ -656,7 +656,8 @@ wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $
   + Menu Tools, Board, select Arduino board.
   + Menu Tools, Port, select USB port with the Arduino board name.  
 + In Files load the Examples, 01 Basics, Blink sketch
-+ Upload Blink sketch to test IDE.    
++ Upload Blink sketch to test IDE.
+  + The RX and TX LEDs will blink during the upload process if the board has RX and TX LEDs.  
     
 ## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
 + No Arduino Create Agent for Raspberry Pi ARM 32-bit computers.
