@@ -655,7 +655,7 @@ wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $
 + In the IDE
   + Menu Tools, Board, select Arduino board.
   + Menu Tools, Port, select USB port with the Arduino board name.  
-+ Load the Examples, 01 Basics, Blink sketch
++ In Files load the Examples, 01 Basics, Blink sketch
 + Upload Blink sketch to test IDE.    
     
 ## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
