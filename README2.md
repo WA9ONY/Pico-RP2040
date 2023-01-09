@@ -621,10 +621,10 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 The above screenshot shows the Blink sketch loaded on the [Arduino IDE V1.8.19](https://www.arduino.cc/en/software) on a Raspberry Pi 400 computer.  The left side of the screen is the  IDE V1.8.19 and the right side is a CLI window with the "lsusb" command showing the Arduino SA Mega 2560 R3 microcontroller board USB connection.
  
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
-+ Icon installed in Memu, Programming.
++ Icon installed in Memu, Programming, Ardunio IDE.
 + Most Arduino books are written about the Arduino IDE V1.8 or earlier.    
-+ Below is the CLI install process after uncompressing the download file.
-+ Do not use the directory Arduino.  Arduio director is used by the IDE and libraries.    
++ Below is the CLI install process after uncompressing the download file (arduino-1.8.19-linuxarm.tar.xz)..
++ Do not use the directory Arduino.  Arduio director is used by the IDE for sketch files and libraries.    
 <PRE>
  wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ ls -al
 total 22872
@@ -650,7 +650,14 @@ Adding desktop shortcut, menu item and file associations for Arduino IDE...
  done!
 wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ 
 </PRE>    
-     
++ To run the Arduino IDE go to Application Memu, Programming, Ardunio IDE.
++ Plug the Arduino board into the USB interface.
++ In the IDE
+  + Menu Tools, Board, select Arduino board.
+  + Menu Tools, Port, select USB port with the Arduino board name.  
++ Load the Examples, 01 Basics, Blink sketch
++ Upload Blink sketch to test IDE.    
+    
 ## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
 + No Arduino Create Agent for Raspberry Pi ARM 32-bit computers.
 
