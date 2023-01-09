@@ -580,7 +580,7 @@ Goodwill price tags have a color and one color is 50% off for a week. The discou
       
 <A NAME="P48"></A>
 <HR>
-<P align="center"><A HREF="#P47">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P47">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P49">--&gt;</A></P>  
     
 # Project 48: Arduino IDEs on Windows 10 Computer 
 
@@ -603,13 +603,61 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
 + Icon installed desktop.
     
-
     
+      
+<A NAME="P49"></A>
+<HR>
+<P align="center"><A HREF="#P48">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 49: Arduino IDEs on Raspberry Pi Computer 
+
+<p align="center">
+<img width="960" height="540" src="/Images/Arduino1_8RPi.png">  
+</p>
+
+The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/software) open on an Windows 10 computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
+ 
+The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
+## IDE [V1.8.19](https://www.arduino.cc/en/software) 
++ Icon installed desktop.
+ 
+<PRE>
+ wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ ls -al
+total 22872
+drwxr-xr-x  9 wa9ony wa9ony     4096 Dec 20  2021 .
+drwxr-xr-x  3 wa9ony wa9ony     4096 Jan  8 18:50 ..
+-rwxr-xr-x  1 wa9ony wa9ony      882 Dec 20  2021 arduino
+-rwxr-xr-x  1 wa9ony wa9ony 23255549 Dec 20  2021 arduino-builder
+-rwxr-xr-x  1 wa9ony wa9ony     5865 Dec 20  2021 arduino-linux-setup.sh
+drwxr-xr-x 13 wa9ony wa9ony     4096 Dec 20  2021 examples
+drwxr-xr-x  4 wa9ony wa9ony     4096 Dec 20  2021 hardware
+-rwxr-xr-x  1 wa9ony wa9ony    11070 Dec 20  2021 install.sh
+drwxr-xr-x  4 wa9ony wa9ony     4096 Feb 11  2020 java
+drwxr-xr-x  4 wa9ony wa9ony     4096 Dec 20  2021 lib
+drwxr-xr-x 21 wa9ony wa9ony     4096 Dec 20  2021 libraries
+-rw-r--r--  1 wa9ony wa9ony    96244 Dec 20  2021 revisions.txt
+drwxr-xr-x  4 wa9ony wa9ony     4096 Dec 20  2021 tools
+drwxr-xr-x  4 wa9ony wa9ony     4096 May 14  2021 tools-builder
+-rwxr-xr-x  1 wa9ony wa9ony       86 Dec 20  2021 uninstall.sh
+wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ sudo ./install.sh
+Adding desktop shortcut, menu item and file associations for Arduino IDE...
+
+
+ done!
+wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ 
+</PRE>    
+     
+## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
++ No Arduino Create Agent for ARM 32-bit.
+
+## IDE [V2.0.3](https://www.arduino.cc/en/software)
++ No ARM 32-bit install
+
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P48">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
