@@ -618,7 +618,7 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 <img width="960" height="540" src="/Images/Arduino1_8RPi.png">  
 </p>
 
-The above screenshot shows the Blink sketch loaded on the [Arduino IDE V1.8.19](https://www.arduino.cc/en/software) on a Raspberry Pi 400 computer.  The left side of the screen is the  IDE V1.8.19 and the right side is a CLI window with the "lsusb" command showing the Arduino SA Mega 2560 R3 USB connection.
+The above screenshot shows the Blink sketch loaded on the [Arduino IDE V1.8.19](https://www.arduino.cc/en/software) on a Raspberry Pi 400 computer.  The left side of the screen is the  IDE V1.8.19 and the right side is a CLI window with the "lsusb" command showing the Arduino SA Mega 2560 R3 microcontroller board USB connection.
  
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
 + Icon installed in Memu, Programming.
