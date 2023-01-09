@@ -609,18 +609,18 @@ The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) com
 <HR>
 <P align="center"><A HREF="#P48">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 49: Arduino IDEs on Raspberry Pi Computer 
+# Project 49: Arduino IDE V1.8 on Raspberry Pi Computer 
 
 <p align="center">
 <img width="960" height="540" src="/Images/Arduino1_8RPi.png">  
 </p>
 
-The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/software) open on an Windows 10 computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
+The above screenshot shows the Blink sketch loaded on the [Arduino IDE V1,8.19](https://www.arduino.cc/en/software) on a Raspberry Pi 400 computer.  The left is the  IDE V1,8.19 and right side is a CLI window with the lsusb command showing the Arduino SA Mega 2560 R3 USB connection.
  
-The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
+
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
-+ Icon installed desktop.
- 
++ Icon installed Memu, Programming.
++ CLI install process after uncompressing the download file. 
 <PRE>
  wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $ ls -al
 total 22872
