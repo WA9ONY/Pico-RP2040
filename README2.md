@@ -707,7 +707,7 @@ Anateur radio operators on the net with microcontroller projects.
       
 <A NAME="P51"></A>
 <HR>
-<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P51">--&gt;</A></P>  
     
 # Project 51: Learn C++ with Arduino Web Editor & Board 
 
@@ -730,21 +730,70 @@ Summary
 + Create C++ program that uses the Web Editor Monitor.
 + Compile the C++ program on the Arduino Web Editor server and download into the Arduino board to run.
 + Web Editor Monitor displays the C++ output.    
-    
-    
+      
 ## Learn C++ Lesson 1: Output Hello World
 Purpose: Output Hello World to the Web Editor Monitor.
 Files: [LearnC_1_HelloWorld.zip](/Arduino/LearC/LearnC_1_HelloWorld.zip)    
 
+To setup the serial connection to the Arduino Web Editor Monitor.
+  Serial.begin(9600);           // set the baud rate for the Monitor
+  while (!Serial);              // wait for Web Editor Monitor to be ready
+  delay(9000);                  // wait 9 seconds to fix bug
+    
+The C++ statement
+    cout<<"Hello World<<;
+is replaced by
+    Serial.print("Hello World");  // send Hello World to the Monitor
+    
 <p align="center">
 <img width="870" height="397" src="/Images/LearnC_1.png">  
 </p>    
+       
+      
+<A NAME="P52"></A>
+<HR>
+<P align="center"><A HREF="#P51">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 52: Microcontroller Development Boards Price Table
+    
+<TABLE>
+  <TR>
+    <TD><P><B>
+      Model
+      </B></P></TD>
+    <TD><P><B>
+      Manufacturer
+    </B></P></TD>
+    <TD><P><B>
+     Store
+    </B></P></TD>
+    <TD><P><B>
+      Price
+    </B></P></TD>
+  </TR>
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4864">Adafruit</A>
+    </TD>    
+     <TD>
+      $4.00
+    </TD>
+   </TR>   
+</TABLE>
+    
+
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P51">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
