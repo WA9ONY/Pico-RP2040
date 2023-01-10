@@ -703,7 +703,7 @@ Anateur radio operators on the net with microcontroller projects.
     + Elegoo [Code & Tutorial](https://www.elegoo.com/blogs/arduino-projects/elegoo-mega-2560-the-most-complete-starter-kit-tutorial)
     + Elegoo [Tutorial 224 page PDF](https://m.media-amazon.com/images/I/D1oC-c3G5TS.pdf)
 + [WA9ONY](https://www.qrz.com/db/WA9ONY) David Haworth
-  + Raspberry Pi Pico and various Arduino microcontrollerrs.  
+  + Raspberry Pi Pico and various Arduino microcontrollerrs [projects](README.md#INDEX).  
 
     
     
