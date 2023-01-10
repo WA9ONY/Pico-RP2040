@@ -664,12 +664,11 @@ wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $
 
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + No Raspberry Pi ARM 32-bit computers install.
-    
-    
+       
       
 <A NAME="P50"></A>
 <HR>
-<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P51">--&gt;</A></P>  
     
 # Project 50: WA7ABU Repeater Project Net 
 
@@ -704,8 +703,40 @@ Anateur radio operators on the net with microcontroller projects.
     + Elegoo [Tutorial 224 page PDF](https://m.media-amazon.com/images/I/D1oC-c3G5TS.pdf)
 + [WA9ONY](https://www.qrz.com/db/WA9ONY) David Haworth
   + Raspberry Pi Pico and various Arduino microcontrollerrs [projects](README.md#INDEX).  
-
+       
+      
+<A NAME="P51"></A>
+<HR>
+<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 51: Learn C++ with Arduino Web Editor & Board 
+
+<p align="center">
+<img width="160" height="320" src="/Images/Ham160.png">  
+</p>
+
+All three Arduino IDEs are based on C++.  Learning C++ is done by using the Arduino Web Editor, a Arduino board/clone and C++ training materials (videos, articles, books, etc.
+
+Using the Web Editior with Arduino Cloud allows the training sketches to be saved and accessed by different computers.  The Web Editor has a Monitor functions that is simple to use in learning C++.  By running the C++ program on the Arduino board no C++ compilier is needed on the computer with the Web Editor.  
+
+The high level program structor is 
++ Initialization is left empty
++ Setup contains two lines of serial code for the Monitor and the C++ lessions code.
++ Loop is left empty
+    
+Summary
++ Create C++ program that uses the Web Editor Monitor.
++ Compile the C++ program on the Arduino Web Editor server and download into the Arduino board to run.
++ Web Editor Monitor displays the C++ output.    
+    
+    
+## Learn C++ Lesson 1: Output Hello World
+Purpose: Output Hello World to the Web Editor Monitor.
+Files: [LearnC_1_HelloWorld.zip](/Arduino/LearC/LearnC_1_HelloWorld.zip)    
+
+<p align="center">
+<img width="853" height="390" src="/Images/LearnC_1_HelloWorld.png">  
+</p>    
     
     
 <A NAME="FUTURE"></A>
