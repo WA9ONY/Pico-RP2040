@@ -786,7 +786,6 @@ is replaced by
       $4.00
     </TD>
    </TR>   
-</TABLE>
     
   <TR>
     <TD> 
