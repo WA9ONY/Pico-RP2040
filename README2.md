@@ -752,9 +752,11 @@ is replaced by
       
 <A NAME="P52"></A>
 <HR>
-<P align="center"><A HREF="#P51">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P51">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P53">--&gt;</A></P>  
     
 # Project 52: Microcontroller Development Boards Price Table
+ 
+Prices are as of January 10, 2023    
     
 <TABLE>
   <TR>
@@ -769,6 +771,9 @@ is replaced by
     </B></P></TD>
     <TD><P><B>
       Price
+    </B></P></TD>
+    <TD><P><B>
+      Notes
     </B></P></TD>
   </TR>
     
@@ -785,7 +790,10 @@ is replaced by
      <TD>
       $4.00
     </TD>
-   </TR>   
+    <TD>
+      
+    </TD>
+  </TR>   
     
   <TR>
     <TD> 
@@ -800,7 +808,10 @@ is replaced by
      <TD>
       $5.00
     </TD>
-   </TR>   
+    <TD>
+      Best lowest cost uC to start with.
+    </TD>
+  </TR>   
     
   <TR>
     <TD> 
@@ -814,6 +825,9 @@ is replaced by
     </TD>    
      <TD>
       $6.00
+    </TD>
+    <TD>
+      
     </TD>
    </TR>   
     
@@ -830,45 +844,61 @@ is replaced by
      <TD>
       $7.00
     </TD>
-   </TR>   
-    
-  <TR>
-    <TD> 
-      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico</A>
-    </TD>
     <TD>
-      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
-    </TD>
-    <TD>
-      <A HREF="https://www.adafruit.com/product/4864">Adafruit</A>
-    </TD>    
-     <TD>
-      $4.00
+      
     </TD>
    </TR>   
     
   <TR>
     <TD> 
-      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico</A>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">UNO R3</A>
     </TD>
     <TD>
-      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+      <A HREF="https://www.arduino.cc/">Arduino</A>
     </TD>
     <TD>
-      <A HREF="https://www.adafruit.com/product/4864">Adafruit</A>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">Arduino</A>
     </TD>    
      <TD>
-      $4.00
+      $27.60
+    </TD>
+    <TD>
+     Very old uC with the largest ecosystem. Over 10 million sold.
+    </TD>
+   </TR>   
+    
+  <TR>
+    <TD> 
+      <A HREF="https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us">MEGA 2560 Rev3</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us">Arduino</A>
+    </TD>    
+     <TD>
+      $48.40
+    </TD>
+    <TD>
+      
     </TD>
    </TR>   
 </TABLE>
+       
+      
+<A NAME="P53"></A>
+<HR>
+<P align="center"><A HREF="#P52">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 53: Starting with Microcontroller 
     
 
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P51">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
