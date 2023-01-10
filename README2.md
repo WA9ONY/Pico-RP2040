@@ -598,11 +598,12 @@ The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/so
 
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + Icon installed desktop.
-+ V2 has a debugger.
-+ Editor auto completes.
++ V2 has
+  + A debugger
+  + An editor with auto completes.
 
 ## IDE [V1.8.19](https://www.arduino.cc/en/software) 
-+ Icon installed desktop.
++ Icon installed on the desktop.
 + Most Arduino books are written about the Arduino IDE V1.8 or earlier. 
     
     
@@ -663,12 +664,54 @@ wa9ony@raspberrypi:~/Arduino1_8/arduino-1.8.19 $
 
 ## IDE [V2.0.3](https://www.arduino.cc/en/software)
 + No Raspberry Pi ARM 32-bit computers install.
+    
+    
+      
+<A NAME="P50"></A>
+<HR>
+<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 50: WA7ABU Repeater Project Net 
 
+<p align="center">
+<img width="160" height="320" src="/Images/Ham160.png">  
+</p>
+
+The weekly Project Net covers many topics including microcontroller projects.    
++ [WA7ABU](http://wa7abu.com/) Repeater Project Net
++ Salem, OR USA    
++ Tuesday evening 7:00 pm PST/PDT
++ 145.290 no tone
++ [EchoLink](https://www.echolink.org/) 59247
++ [AllStar](https://www.allstarlink.org/) link node [54326](http://status.allstarlink.org/stats/54326)    
++ [RepeaterBook](https://www.repeaterbook.com/repeaters/details.php?ID=365&state_id=41)
++ Listen to [WA7ABU](https://www.broadcastify.com/listen/feed/12926) on the internet with [Broadcastify](https://www.broadcastify.com/). 
++ [WA7ABU.groups.io](https://wa7abu.groups.io/g/WA7ABU)    
+
+    
+Anateur radio operators on the net with microcontroller projects.
++ KJ7NWK Nick Smith
+  +  He bought a LoRa TBeam ([LILYGO SoftRF LORA32 T-Beam ESP32](http://www.lilygo.cn/claprod_view.aspx?TypeId=62&Id=1281&FId=t28:62:28)) which is based off on E32 microcontroller. It has a built in 915 mHz transceiver, built in gos as well as Bluetooth and WiFi.
+    + On [Amazon](https://www.amazon.com/LILYGO-LORA32-T-Beam-Development-CH9102F/dp/B09VLFQQG4?th=1)
+    + YouTube
+      + [TTGO T-Beam // ESP32, GPS, LoRa & Bluetooth](https://youtu.be/xrOo5SROzD8)
+      + [Tech Note 105 - ESP32 based TTGO T-Beam LoRa + GPS](https://youtu.be/fK4YQROD9Ps)
++ KG7GDB Brett Popovich
+  + [Elegoo](https://www.elegoo.com/collections/arduino-learning-sets?page=1) [The most Complete Started Kit Mega Project](https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-the-most-complete-starter-kit)  
+    + YouTube
+      + Elegoo Mega 2560 The Most Complete Kit [playlist](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8abqae2cQZ1-ztcuZuIt4G7)
+    + Elegoo [Code & Tutorial](https://www.elegoo.com/blogs/arduino-projects/elegoo-mega-2560-the-most-complete-starter-kit-tutorial)
+    + Elegoo [Tutorial 224 page PDF](https://m.media-amazon.com/images/I/D1oC-c3G5TS.pdf)
++ WA9ONY David Haworth
+  + Raspberry Pi Pico and various Arduino microcontrollerrs.  
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
