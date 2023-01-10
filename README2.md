@@ -707,7 +707,7 @@ Anateur radio operators on the net with microcontroller projects.
       
 <A NAME="P51"></A>
 <HR>
-<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 51: Learn C++ with Arduino Web Editor & Board 
 
@@ -735,7 +735,7 @@ Purpose: Output Hello World to the Web Editor Monitor.
 Files: [LearnC_1_HelloWorld.zip](/Arduino/LearC/LearnC_1_HelloWorld.zip)    
 
 <p align="center">
-<img width="853" height="390" src="/Images/LearnC_1_HelloWorld.png">  
+<img width="870" height="397" src="/Images/LearnC_1.png">  
 </p>    
     
     
