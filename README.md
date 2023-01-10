@@ -2,7 +2,7 @@
 <HR>
 <P align="center"><A HREF="README2.md#FUTURE">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
 
-# RP2040 & Arduino Microcontroller Ham Radio Projects
+# RP2040 & Arduino Microcontroller Projects
 
 <p align="center">
 <img width="308" height="308" src="/Images/RP2040.png">  
