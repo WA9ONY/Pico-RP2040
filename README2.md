@@ -716,6 +716,8 @@ Anateur radio operators on the net with microcontroller projects.
 </p>
 
 All three Arduino IDEs are based on C++.  Learning C++ is done by using the Arduino Web Editor, a Arduino board/clone and C++ training materials (videos, articles, books, etc.
++ [C++ Programming in easy steps, 6th edition 6th Edition](https://www.amazon.com/C-Programming-easy-steps-6th/dp/1840789719/ref=sr_1_1?crid=3CF6P6B0HVN3A&keywords=c%2B%2B+in+easy+steps&qid=1673365872&sprefix=C%2B%2B+in%2Caps%2C157&sr=8-1)
++ The Great Courses [Introduction to C++: Programming Concepts and Applications](https://www.thegreatcourses.com/courses/introduction-to-c-plus-plus-programming-concepts-and-applications)  
 
 Using the Web Editior with Arduino Cloud allows the training sketches to be saved and accessed by different computers.  The Web Editor has a Monitor functions that is simple to use in learning C++.  By running the C++ program on the Arduino board no C++ compilier is needed on the computer with the Web Editor.  
 
