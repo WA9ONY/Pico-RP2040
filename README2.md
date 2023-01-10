@@ -891,9 +891,35 @@ Prices are as of January 10, 2023
 <HR>
 <P align="center"><A HREF="#P52">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 53: Starting with Microcontroller 
+# Project 53: Starting with Microcontrollers 
     
+How to start with microcontroller depends upon the person's background and experineces.
+    
+Beginner
++ No electronics experiences
++ No programming experiences
++ No soldering tools and no soldering skills.    
 
+Goal
++ Low cost
+    
+Assumptions
++ A person has a compute that can run IDE.
+  + Free Thonny with MicroPython  
+
+Free Microcontroller training materials
++ Get Started with MicroPython on Raspberry Pi Pico, 139 pages [free PDF](https://hackspace.raspberrypi.com/books/micropython-pico)   
+    
+Low cost Microcontroller hardware
++ Raspberry Pi [Pico H](https://www.raspberrypi.com/products/raspberry-pi-pico/) [$5.00](https://www.adafruit.com/product/5525)    
++ micro USB cable from Dollar Tree for $1.25.   
+
+Kits
++ SunFounder Raspberry Pi Pico Starter Kits [$45.99 to 128.49](https://www.amazon.com/SunFounder-Raspberry-Tutorials-Electronics-Programming/dp/B08XXHGSQ7?th=1)   
++  Raspberry Pi Pico Starter Kits on [Amazon](https://www.amazon.com/s?k=raspberry+pi+pico+kit&crid=1T22X55NTOSKV&sprefix=Raspberry+Pi+Pico+%2Caps%2C165&ref=nb_sb_ss_ts-doa-p_2_18)   
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
