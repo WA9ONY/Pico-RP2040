@@ -788,6 +788,82 @@ is replaced by
    </TR>   
 </TABLE>
     
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico H</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5525">Adafruit</A>
+    </TD>    
+     <TD>
+      $5.00
+    </TD>
+   </TR>   
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico W</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5526">Adafruit</A>
+    </TD>    
+     <TD>
+      $6.00
+    </TD>
+   </TR>   
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico WH</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5544">Adafruit</A>
+    </TD>    
+     <TD>
+      $7.00
+    </TD>
+   </TR>   
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4864">Adafruit</A>
+    </TD>    
+     <TD>
+      $4.00
+    </TD>
+   </TR>   
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Pico</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.raspberrypi.com/">Raspberry Pi</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4864">Adafruit</A>
+    </TD>    
+     <TD>
+      $4.00
+    </TD>
+   </TR>   
+</TABLE>
+    
 
     
 <A NAME="FUTURE"></A>
