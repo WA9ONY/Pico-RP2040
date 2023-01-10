@@ -99,6 +99,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 49: <A HREF="README2.md#P49">Arduino IDE V1.8 on Raspberry Pi Computer</A>
 + Project 50: <A HREF="README2.md#P50">WA7ABU Repeater Project Net</A>
 + Project 51: <A HREF="README2.md#P51">Learn C++ with Arduino Web Editor & Board</A>
++ Project 52: <A HREF="README2.md#P52"> Microcontroller Development Boards Price Table</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
