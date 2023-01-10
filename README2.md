@@ -684,14 +684,14 @@ The weekly Project Net covers many topics including microcontroller projects.
 + 145.290 no tone
 + [EchoLink](https://www.echolink.org/) 59247
 + [AllStar](https://www.allstarlink.org/) link node [54326](http://status.allstarlink.org/stats/54326)    
-+ [RepeaterBook](https://www.repeaterbook.com/repeaters/details.php?ID=365&state_id=41)
++ WA7ABU on [RepeaterBook](https://www.repeaterbook.com/repeaters/details.php?ID=365&state_id=41)
 + Listen to [WA7ABU](https://www.broadcastify.com/listen/feed/12926) on the internet with [Broadcastify](https://www.broadcastify.com/). 
 + [WA7ABU.groups.io](https://wa7abu.groups.io/g/WA7ABU)    
 
     
 Anateur radio operators on the net with microcontroller projects.
 + KJ7NWK Nick Smith
-  +  He bought a LoRa TBeam ([LILYGO SoftRF LORA32 T-Beam ESP32](http://www.lilygo.cn/claprod_view.aspx?TypeId=62&Id=1281&FId=t28:62:28)) which is based off on E32 microcontroller. It has a built in 915 mHz transceiver, built in gos as well as Bluetooth and WiFi.
+  +  He bought a LoRa T-Beam ([LILYGO SoftRF LORA32 T-Beam ESP32](http://www.lilygo.cn/claprod_view.aspx?TypeId=62&Id=1281&FId=t28:62:28)) which is based off on E32 microcontroller. It has a built in 915 mHz transceiver, built in gos as well as Bluetooth and WiFi.
     + On [Amazon](https://www.amazon.com/LILYGO-LORA32-T-Beam-Development-CH9102F/dp/B09VLFQQG4?th=1)
     + YouTube
       + [TTGO T-Beam // ESP32, GPS, LoRa & Bluetooth](https://youtu.be/xrOo5SROzD8)
