@@ -272,7 +272,6 @@ Ham radio microcontroller books table 1.1.
     </TD>
   </TR>    
      
-     
    <TR>
    <TD>
      <A HREF="https://home.arrl.org/action/Store/Product-Details/productId/132600">Microcontroller Projects for Amateur Radio</A>
