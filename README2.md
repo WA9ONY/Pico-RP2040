@@ -690,19 +690,19 @@ The weekly Project Net covers many topics including microcontroller projects.
 
     
 Anateur radio operators on the net with microcontroller projects.
-+ KJ7NWK Nick Smith
++ [KJ7NWK](https://www.qrz.com/db/KJ7NWK) Nick Smith
   +  He bought a LoRa T-Beam ([LILYGO SoftRF LORA32 T-Beam ESP32](http://www.lilygo.cn/claprod_view.aspx?TypeId=62&Id=1281&FId=t28:62:28)) which is based off on E32 microcontroller. It has a built in 915 mHz transceiver, built in gos as well as Bluetooth and WiFi.
     + On [Amazon](https://www.amazon.com/LILYGO-LORA32-T-Beam-Development-CH9102F/dp/B09VLFQQG4?th=1)
     + YouTube
       + [TTGO T-Beam // ESP32, GPS, LoRa & Bluetooth](https://youtu.be/xrOo5SROzD8)
       + [Tech Note 105 - ESP32 based TTGO T-Beam LoRa + GPS](https://youtu.be/fK4YQROD9Ps)
-+ KG7GDB Brett Popovich
++ [KG7GDB](https://www.qrz.com/db/KG7GDB) Brett Popovich
   + [Elegoo](https://www.elegoo.com/collections/arduino-learning-sets?page=1) [The most Complete Started Kit Mega Project](https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-the-most-complete-starter-kit)  
     + YouTube
       + Elegoo Mega 2560 The Most Complete Kit [playlist](https://www.youtube.com/playlist?list=PLkFeYZKRTZ8abqae2cQZ1-ztcuZuIt4G7)
     + Elegoo [Code & Tutorial](https://www.elegoo.com/blogs/arduino-projects/elegoo-mega-2560-the-most-complete-starter-kit-tutorial)
     + Elegoo [Tutorial 224 page PDF](https://m.media-amazon.com/images/I/D1oC-c3G5TS.pdf)
-+ WA9ONY David Haworth
++ [WA9ONY](https://www.qrz.com/db/WA9ONY) David Haworth
   + Raspberry Pi Pico and various Arduino microcontrollerrs.  
 
     
