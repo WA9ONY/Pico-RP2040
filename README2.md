@@ -689,8 +689,10 @@ The weekly Project Net covers many topics including microcontroller projects.
 
     
 Anateur radio operators on the net with microcontroller projects.
++ [KW7DSP](https://www.qrz.com/db/KW7DSP) Steve Pickering
+  + Arduino user  
 + [KJ7NWK](https://www.qrz.com/db/KJ7NWK) Nick Smith
-  +  He bought a LoRa T-Beam ([LILYGO SoftRF LORA32 T-Beam ESP32](http://www.lilygo.cn/claprod_view.aspx?TypeId=62&Id=1281&FId=t28:62:28)) which is based off on E32 microcontroller. It has a built in 915 mHz transceiver, built in gos as well as Bluetooth and WiFi.
+  + He bought a LoRa T-Beam ([LILYGO SoftRF LORA32 T-Beam ESP32](http://www.lilygo.cn/claprod_view.aspx?TypeId=62&Id=1281&FId=t28:62:28)) which is based off on E32 microcontroller. It has a built in 915 mHz transceiver, built in gos as well as Bluetooth and WiFi.
     + On [Amazon](https://www.amazon.com/LILYGO-LORA32-T-Beam-Development-CH9102F/dp/B09VLFQQG4?th=1)
     + YouTube
       + [TTGO T-Beam // ESP32, GPS, LoRa & Bluetooth](https://youtu.be/xrOo5SROzD8)
