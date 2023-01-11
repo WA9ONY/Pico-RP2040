@@ -904,6 +904,8 @@ Beginner
 
 Goal
 + Low cost
++ Easy to learn
++ Lots of tutorials    
     
 Assumptions
 + A person has a compute that can run IDE.
