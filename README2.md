@@ -918,8 +918,7 @@ Kits
 + KEYESTUDIO: 
   + Raspberry Pi Basic PICO Starter Kit, MicroPython C/C++ 21 Lessons Easy to Learn, PICO IO Shield Easy for Beginners Hobbyists Kids [$28.00 on Amazon](https://www.amazon.com/KEYESTUDIO-Raspberry-MicroPython-Beginners-Hobbyists/dp/B0B6B5QYS3/ref=sr_1_9?crid=1T22X55NTOSKV&keywords=raspberry+pi+pico+kit&qid=1673405444&sprefix=Raspberry+Pi+Pico+%2Caps%2C165&sr=8-9)
 + SunFounder:
-  + Raspberry Pi Pico Starter Kits [5 kits from $45.99 to 128.49](https://www.amazon.com/SunFounder-Raspberry-Tutorials-Electronics-Programming/dp/B08XXHGSQ7?th=1)
-  + Raspberry Pi Pico W Ultimate Starter Kit with Online Tutorials, 450+ Items, 117 Projects, MicroPython, Piper Make and C/C++ (Compatible with Arduino IDE) [5 kits on Amazon](https://www.amazon.com/s?k=SunFounder+pi+pico+starter+kit&i=electronics&crid=37J6KOPAA5FBN&sprefix=sunfounder+pi+pico+starter+kit%2Celectronics%2C135&ref=nb_sb_noss) 
+  + Raspberry Pi [Pico Kits](https://www.amazon.com/s?k=SunFounder+pi+pico+starter+kit&i=electronics&crid=37J6KOPAA5FBN&sprefix=sunfounder+pi+pico+starter+kit%2Celectronics%2C135&ref=nb_sb_noss) [5 kits from $45.99 to 128.49 on Amazon](https://www.amazon.com/SunFounder-Raspberry-Tutorials-Electronics-Programming/dp/B08XXHGSQ7?th=1)
 + ELECROW: 
   + Raspberry Pi Pico, ELECROW Sensor Advanced Kit for Programming, Pi Pico Micropython 32 Projects Lessons and 32 Modules with Detailed Tutorial for Programmer [$69.99 on Amazon](https://www.amazon.com/Raspberry-ELECROW-Programming-Micropython-Programmer/dp/B0BC8BVQXY/ref=sr_1_2?crid=2Z1JP0BRDA8LF&keywords=ELECROW+pico&qid=1673404503&s=electronics&sprefix=elecrow+pico%2Celectronics%2C194&sr=1-2&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
 + Freenove: 
