@@ -891,7 +891,7 @@ Prices are as of January 10, 2023
       
 <A NAME="P53"></A>
 <HR>
-<P align="center"><A HREF="#P52">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P52">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P54">--&gt;</A></P>  
     
 # Project 53: Starting with Microcontrollers 
     
@@ -928,13 +928,35 @@ Kits
 + Freenove: 
   + [3 kits $24.95 to $59.95 on Azamon](https://www.amazon.com/s?k=Freenove+pi+pico+kit&i=electronics&crid=18MC2660QZ24O&sprefix=freenove+pi+pico+kit%2Celectronics%2C147&ref=nb_sb_noss)    
 +  Raspberry Pi Pico Starter Kits on [Amazon](https://www.amazon.com/s?k=raspberry+pi+pico+kit&crid=1T22X55NTOSKV&sprefix=Raspberry+Pi+Pico+%2Caps%2C165&ref=nb_sb_ss_ts-doa-p_2_18)   
-   
+       
+      
+<A NAME="P54"></A>
+<HR>
+<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 54: Arduino MEGA 2560 Rev3 Case 
+    
+ 
+<p align="center">
+<img width="600" height="486" src="/Images/MEGAcase600.png">  
+</p>
+
+SunFounder 2560 Case Enclosure Transparent Gloss Acrylic Computer Box Compatible with Arduino Mega 2560 Rev3 R3, Genuino Mega 2560 Rev3 [on Amazon](https://www.amazon.com/dp/B00HNMZ2L0?ref=ppx_yo2ov_dt_b_product_details&th=1) 
+    
+Pros
++ Clear so that you can see the connector and LEDs.
++ Access to all the connectors.
++ Reset button works with the case button extension.
++ Cooling vent above the uC chip.
++ Works with the Elegoo MEGA 2560 R3 clone.    
+    
+Cons
++ Needs rubber feet.    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P54">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
