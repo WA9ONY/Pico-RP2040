@@ -946,7 +946,7 @@ SunFounder 2560 Case installed on an Elegoo MEGA 2560 R3 clone.
 SunFounder 2560 Case Enclosure Transparent Gloss Acrylic Computer Box Compatible with Arduino Mega 2560 Rev3 R3, Genuino Mega 2560 Rev3 [on Amazon](https://www.amazon.com/dp/B00HNMZ2L0?ref=ppx_yo2ov_dt_b_product_details&th=1) 
     
 Pros
-+ Clear so that you can see the connector and LEDs.
++ Clear so that you can see the connector labels and LEDs.
 + Access to all the connectors.
 + Reset button works with the case button extension.
 + Cooling vent above the uC chip.
