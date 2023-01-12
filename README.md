@@ -102,6 +102,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 52: <A HREF="README2.md#P52">Microcontroller Development Boards Price Table</A>
 + Project 53: <A HREF="README2.md#P53">Starting with Microcontroller</A>
 + Project 54: <A HREF="README2.md#P54">Arduino MEGA 2560 Rev3 Case</A>
++ Project 55: <A HREF="README2.md#P55">Arduino IoT Cloud</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
