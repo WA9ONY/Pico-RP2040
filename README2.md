@@ -941,6 +941,8 @@ Kits
 <img width="600" height="486" src="/Images/MEGAcase600.png">  
 </p>
 
+SunFounder 2560 Case installed on an Elegoo MEGA 2560 R3 clone.  
+    
 SunFounder 2560 Case Enclosure Transparent Gloss Acrylic Computer Box Compatible with Arduino Mega 2560 Rev3 R3, Genuino Mega 2560 Rev3 [on Amazon](https://www.amazon.com/dp/B00HNMZ2L0?ref=ppx_yo2ov_dt_b_product_details&th=1) 
     
 Pros
