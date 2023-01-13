@@ -967,10 +967,6 @@ Cons
 
 Above image credit: [Arduino Cloud Explained](https://www.crowdcast.io/e/arduino-cloud-explained/1) slide 5    
 
-<p align="right">
-<img width="220" height="248" src="/Images/ArdCloudFree.png">  
-</p>    
- 
 Arduio IoT Cloud allows selected Arduino microcontroller boards 
 + to save data to the Arduino Cloud.
 + to share data to a mobile phone.
@@ -985,7 +981,13 @@ URLs
 
 What is needed
 + Arduino account (free)
-+ Arduino Cloud [plan](https://cloud.arduino.cc/plans/) (free plan will work)    
++ Arduino Cloud [plan](https://cloud.arduino.cc/plans/) 
+Free plan shown below will work    
+
+<p align="left">
+<img width="220" height="248" src="/Images/ArdCloudFree.png">  
+</p>    
+ 
     
     
     
