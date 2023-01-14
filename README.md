@@ -529,6 +529,7 @@ Videos on microcontrollers.
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
   + Hamshield: Arduino meets amateur radio [video](https://youtu.be/xLTSlcZK14I)
 
+ ## [Elektor TV](https://www.youtube.com/@ElektorTV)
 + Elektor Lab [Talk Arduino](https://youtu.be/rfPZvhgw_CQ) January 26, 8:00 PST
  
   
