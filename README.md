@@ -469,6 +469,9 @@ Ham radio microcontroller books table 1.1.
 
 ## Make [Books](https://www.makershed.com/collections/make-books-print)
 
+## Best Arduino Books
++ Google: [best arduino books](https://www.google.com/search?q=best+arduino+books&sxsrf=AJOqlzXcME85zWR1o0DOzV2u7ydBnHq21A%3A1673719775242&ei=3-_CY7i-DpDJ0PEPwIGVoAE&oq=best+arduino+book&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIABCRAjIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIICAAQFhAeEA8yBggAEBYQHjIFCAAQhgM6CggAEEcQ1gQQsAM6BwgAELADEEM6DQgAEOQCENYEELADGAE6DwguEOUEEMgDELADEEMYAjoECCMQJzoECAAQQzoKCAAQgAQQhwIQFEoECEEYAEoECEYYAVDVJVjuNWCzV2gFcAB4AIABXIgBnwOSAQE1mAEAoAEByAEQwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz-serp) 
+ 
 ## Amazon Books
 + Pico book [list](https://www.amazon.com/s?k=raspberry+pi+pico+book&crid=3TYSWPL6AAMTA&sprefix=raspberry+pi+pico+book%2Caps%2C146&ref=nb_sb_noss_1)
 + Python book [list](https://www.amazon.com/s?k=Python+in+books&crid=30BE822W2L736&sprefix=python+in+books%2Caps%2C169&ref=nb_sb_noss_1)
