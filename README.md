@@ -529,10 +529,16 @@ Videos on microcontrollers.
   + ExplainingComputers Pico [list](https://www.youtube.com/@ExplainingComputers/search?query=Pico)
   + Hamshield: Arduino meets amateur radio [video](https://youtu.be/xLTSlcZK14I)
 
- ## [Elektor TV](https://www.youtube.com/@ElektorTV)
+## [Elektor TV](https://www.youtube.com/@ElektorTV)
 + Elektor Lab [Talk Arduino](https://youtu.be/rfPZvhgw_CQ) January 26, 8:00 PST
  
-  
+## Arduino [Channel](https://www.youtube.com/channel/UCUpmmT1Gm_raVpqSvQYyd2Q)
+
+ 
+## Raspberry Pi [Channel](https://www.youtube.com/raspberrypi)
+
+ 
+ 
 <A NAME="P5"></A>
 <HR>
 <P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
