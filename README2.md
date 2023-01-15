@@ -1000,12 +1000,222 @@ Free plan shown below will work
 # Project 56: Arduino OPLA RGB LED Test
     
 <p align="center">
-<img width="857" height="504" src="/Images/ArdIoTs.png">  
+<img width="416" height="411" src="/Images/OPLArgbLEDtest.png">  
 </p>
 
 + [YouTube](https://youtube.com/shorts/u6esn-DFMuk?feature=share)    
 + [Software](https://github.com/WA9ONY/RP2040_and_Arduino/blob/main/Arduino/OPLA/sketch_OPLAsw1.zip)    
+<PRE>
+/*
+OPLA RGB LED Test
+David WA9ONY
+*/
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+
+void SOS(int bitTime) {
+  
+ for ( int k = 0; k < 3 ; k++) {
+  carrier.leds.fill(carrier.leds.Color(120, 120, 120), 0, 5);
+  carrier.leds.show();
+  delay(bitTime);
+  carrier.leds.fill(carrier.leds.Color(0, 0, 0), 0, 5);
+  carrier.leds.show();
+  delay(bitTime);
+  }
+  delay(2*bitTime);
+
+ for ( int k = 0; k < 3 ; k++) {  
+  carrier.leds.fill(carrier.leds.Color(120, 120, 120), 0, 5);
+  carrier.leds.show();
+  delay(3*bitTime);
+  carrier.leds.fill(carrier.leds.Color(0, 0, 0), 0, 5);
+  carrier.leds.show();
+  delay(bitTime);
+  }
+  delay(2*bitTime);
+  
+ for ( int k = 0; k < 3 ; k++) {   
+  carrier.leds.fill(carrier.leds.Color(120, 120, 120), 0, 5);
+  carrier.leds.show();
+  delay(bitTime);
+  carrier.leds.fill(carrier.leds.Color(0, 0, 0), 0, 5);
+  carrier.leds.show();
+  delay(bitTime);
+  }
     
+}
+
+void BlinkWhite(int bitTime) {
+ carrier.leds.fill(carrier.leds.Color(120, 120, 120), 0, 5);
+ carrier.leds.show();
+ delay(bitTime);
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 0, 5);
+ carrier.leds.show();
+ delay(bitTime);
+}
+
+void FaidBlink(int bitTime, int r, int g, int b, int LEDstartPos, int LEDcnt) {
+int l, r1, g1, b1; 
+for ( int k = 0; k < 101 ; k++) {
+  r1 = (r * k)/100;
+  g1 = (g * k)/100;
+  b1 = (b * k)/100;
+  carrier.leds.fill(carrier.leds.Color(r1, g1, b1), LEDstartPos, LEDcnt);
+  carrier.leds.show();
+  delay(bitTime);
+ }  
+
+for ( int k = 0; k < 101 ; k++) {
+  r1 = (r*(100-k))/100;
+  g1 = (g*(100-k))/100;
+  b1 = (b*(100-k))/100;
+  carrier.leds.fill(carrier.leds.Color(r1, g1, b1), LEDstartPos, LEDcnt);
+  carrier.leds.show();
+  delay(bitTime);
+ } 
+
+}
+
+void FaidOn(int bitTime, int r, int g, int b, int LEDstPos) {
+int l, r1, g1, b1; 
+for ( int k = 0; k < 101 ; k++) {
+  r1 = (r * k)/100;
+  g1 = (g * k)/100;
+  b1 = (b * k)/100;
+  carrier.leds.fill(carrier.leds.Color(r1, g1, b1), LEDstPos, 1);
+  carrier.leds.show();
+  delay(10);
+ } 
+  delay(bitTime);
+}
+
+void FaidOnAll() {
+
+FaidOn(0, 120, 0, 0, 0);
+FaidOn(0, 0, 120, 0, 1);
+FaidOn(0, 0, 0, 120, 2);
+FaidOn(0, 120, 0, 120, 3);
+FaidOn(0, 120, 120, 0, 4);
+FaidOn(0, 0, 120, 120, 0);
+
+FaidOn(0, 120, 0, 0, 1);
+FaidOn(0, 0, 120, 0, 2);
+FaidOn(0, 0, 0, 120, 3);
+FaidOn(0, 120, 0, 120, 4);
+FaidOn(0, 120, 120, 0, 0);
+FaidOn(0, 0, 120, 120, 1);
+
+FaidOn(0, 120, 0, 0, 2);
+FaidOn(0, 0, 120, 0, 3);
+FaidOn(0, 0, 0, 120, 4);
+FaidOn(0, 120, 0, 120, 0);
+FaidOn(0, 120, 120, 0, 1);
+FaidOn(0, 0, 120, 120, 2);
+
+FaidOn(0, 120, 0, 0, 3);
+FaidOn(0, 0, 120, 0, 4);
+FaidOn(0, 0, 0, 120, 0);
+FaidOn(0, 120, 0, 120, 1);
+FaidOn(0, 120, 120, 0, 2);
+FaidOn(0, 0, 120, 120, 3);
+
+FaidOn(0, 120, 0, 0, 4);
+FaidOn(0, 0, 120, 0, 0);
+FaidOn(0, 0, 0, 120, 1);
+FaidOn(0, 120, 0, 120, 2);
+FaidOn(0, 120, 120, 0, 3);
+FaidOn(0, 0, 120, 120, 4);
+
+}
+
+
+void LEDrotate(int timeOn, int timeOff) {
+  
+for ( int i =0; i < 4 ; i++) {
+ carrier.leds.fill(carrier.leds.Color(120, 0, 0), 0, 1);
+ carrier.leds.show();
+ delay(timeOn);
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 0, 1);
+ carrier.leds.show();
+ delay(timeOff);
+
+ carrier.leds.fill(carrier.leds.Color(0, 120, 0), 1, 1);
+ carrier.leds.show();
+ delay(timeOn);
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 1, 1);
+ carrier.leds.show();
+ delay(timeOff);
+ 
+ carrier.leds.fill(carrier.leds.Color(0, 0, 120), 2, 1);
+ carrier.leds.show();
+ delay(timeOn);
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 2, 1);
+ carrier.leds.show();
+ delay(timeOff);
+
+ carrier.leds.fill(carrier.leds.Color(120, 0, 120), 3, 1);
+ carrier.leds.show();
+ delay(timeOn);
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 3, 1);
+ carrier.leds.show();
+ delay(timeOff);
+
+ carrier.leds.fill(carrier.leds.Color(120, 120, 0), 4, 1);
+ carrier.leds.show();
+ delay(timeOn);
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 4, 1);
+ carrier.leds.show();
+ delay(timeOff);
+ }
+  
+}
+
+void LEDsoff() {
+ carrier.leds.fill(carrier.leds.Color(0, 0, 0), 0, 5);
+ carrier.leds.show();
+}
+
+void setup() {
+  CARRIER_CASE = true;
+  Serial.begin(9600);
+  delay(1500);
+
+  if (!carrier.begin())
+  {
+    Serial.println("Carrier not connected, check connections");
+    while (1);
+  }
+}
+
+void loop() {
+
+ FaidOnAll();
+
+// BlinkWhite(100);
+ FaidBlink(10, 120, 120, 120, 0, 5); 
+ FaidBlink(10, 120, 0, 0, 0, 5); 
+ FaidBlink(10, 0, 120, 0, 0, 5); 
+ FaidBlink(10, 0, 0, 120, 0, 5); 
+ FaidBlink(10, 120, 120, 0, 0, 5); 
+ FaidBlink(10, 0, 120, 120, 0, 5); 
+ FaidBlink(10, 120, 0, 120, 0, 5); 
+ /* 
+ SOS(500);
+ 
+ FaidBlink(10, 120, 0, 0, 0, 1); 
+ FaidBlink(10, 0, 120, 0, 1, 1); 
+ FaidBlink(10, 0, 0, 120, 2, 1); 
+ FaidBlink(10, 120, 120, 0, 3, 1); 
+ FaidBlink(10, 0, 120, 120, 4, 1); 
+ FaidBlink(10, 120, 0, 120, 0, 1); 
+ LEDrotate(1000, 50);
+*/
+ delay(4000);
+}
+    
+    
+</PRE>    
     
 <A NAME="FUTURE"></A>
 <HR>
