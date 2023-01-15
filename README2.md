@@ -1003,8 +1003,8 @@ Free plan shown below will work
 <img width="416" height="411" src="/Images/OPLArgbLEDtest.png">  
 </p>
 
-+ [YouTube](https://youtube.com/shorts/u6esn-DFMuk?feature=share)    
-+ [Software](https://github.com/WA9ONY/RP2040_and_Arduino/blob/main/Arduino/OPLA/sketch_OPLAsw1.zip)    
++ [YouTube](https://youtube.com/shorts/u6esn-DFMuk?feature=share) short shows the RGB LED test running.   
++ [Software/Sketch/ReadMe](https://github.com/WA9ONY/RP2040_and_Arduino/blob/main/Arduino/OPLA/sketch_OPLAsw1.zip)    
     
 Goals
 + Have fun with the RGB LEDs.
@@ -1015,6 +1015,10 @@ Goals
 + Create the ReadMe.adoc file that is part of the ZIP file.    
 
 ## OPLA_RGB_LED_Test Script    
+
+Some of the LED test functions were commented out in the Loop to make the run time under one minute for the YouTube short.    
+
+The LED functions were place in the initialization section of the Arduino program.    
     
 <PRE>
 /*
