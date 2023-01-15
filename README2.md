@@ -1003,8 +1003,8 @@ Free plan shown below will work
 <img width="857" height="504" src="/Images/ArdIoTs.png">  
 </p>
 
-    
-    
++ [YouTube](https://youtube.com/shorts/u6esn-DFMuk?feature=share)    
++ [Software](https://github.com/WA9ONY/RP2040_and_Arduino/blob/main/Arduino/OPLA/sketch_OPLAsw1.zip)    
     
     
 <A NAME="FUTURE"></A>
