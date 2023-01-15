@@ -1005,6 +1005,16 @@ Free plan shown below will work
 
 + [YouTube](https://youtube.com/shorts/u6esn-DFMuk?feature=share)    
 + [Software](https://github.com/WA9ONY/RP2040_and_Arduino/blob/main/Arduino/OPLA/sketch_OPLAsw1.zip)    
+    
+Goals
++ Have fun with the RGB LEDs.
++ Use the Arduino Web Editor.
++ Learn how to program the OPLA RGB LEDs.
++ Learn how to use C++ functions.
++ Create a YouTub short of the RGB LED test with the iPhone & YouTube app.
++ Create the ReadMe.adoc file that is part of the ZIP file.    
+
+    
 <PRE>
 /*
 OPLA RGB LED Test
