@@ -1019,6 +1019,8 @@ Goals
 Some of the LED test functions were commented out in the Loop to make the run time under one minute for the YouTube short.    
 
 The LED functions were place in the initialization section of the Arduino program.    
+
+Some of the LED function vary the LED intensity.    
     
 <PRE>
 /*
