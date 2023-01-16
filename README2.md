@@ -1026,6 +1026,23 @@ ArduinoIoTCloudTCP::handle_ConnectMqttBroker could not connect to mqtts-sa.iot.a
 ArduinoIoTCloudTCP::handle_ConnectMqttBroker 1 connection attempt at tick time 35405
 ArduinoIoTCloudTCP::handle_ConnectMqttBroker could not connect to mqtts-sa.iot.arduino.cc:8883
 </PRE> 
+      
+## Personal Weather Station template  
+The Personal Weather Station template is simple to use and it worked the first time.
++ I changed the temperature maximum form 100 to 40 C.
++ I added C to the temperature label. 
+
+Below is the  Personal Weather Station panel on Chrome/Ubuntu 22.04.1 LTS.      
+<p align="center">
+<img width="600" height="280" src="/Images/weatherstationReadings600.png">  
+</p>
++ Had to close/restart the IoT Cloud app to get it working with the Personal Weather Station.
+
+Below is the  Personal Weather Station panel on iPhone.   
+<p align="center">
+<img width="450" height="651" src="/Images/weatherstationIOS.png">  
+</p>
+    
     
 ## Summary
 + IoT Cloud rarely works. I spent several days and it only worked once and slowly when it did.
