@@ -104,6 +104,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 54: <A HREF="README2.md#P54">Arduino MEGA 2560 Rev3 Case</A>
 + Project 55: <A HREF="README2.md#P55">Arduino IoT Cloud</A>
 + Project 56: <A HREF="README2.md#P56">Arduino OPLA RGB LED Test</A>
++ Project 57: <A HREF="README2.md#P57">Arduino OPLA Personal Weather Station IoT Cloud</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
