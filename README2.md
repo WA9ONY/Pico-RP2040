@@ -1446,10 +1446,18 @@ WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
 <P align="center"><A HREF="#P57">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 58: Arduino IoT Cloud Over-the-Air
+<p align="center">
+<img width="479" height="48" src="/Images/OverTheAir.png">  
+</p>
 
- 
+Arduino IoT Cloud supports the ability to update the microcontroller software by IoT Cloud WiFi.  The IoT device does not need to be attached to the computer that is editing the device software.
     
+For example, I used a Raspberry Pi computer on the Amateur Radio ARDEN Mesh network to edit the software of the Arduino OPLA Personal Weather Station IoT Cloud that was connected to a Linux computer.  The Linux computer could have been replaced by a simple USB power source.  
     
+Requirements
+  + A working Arduino IoT device.
+  + The IoT device has a WiFi connection to the Arduino IoT Cloud server.
+  + Edit the device sketch with Arduino Web Editor with connection to the Arduino IoT Cloud server.  
     
     
 <A NAME="FUTURE"></A>
