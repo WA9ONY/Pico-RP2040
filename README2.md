@@ -28,7 +28,7 @@ OPLA IoT kit includes
 + Three screws to hold the Carrier board to the plastic case.
 + Plastic case, top and bottom snap together.
 + Carrier board that accepts, MKR WiFi 1010 microcontroller board that plugs in to the Carrier board, 19650 Lithium ion battery that snaps in the Carrier board, battery cable.   
-+ One year subscription code to Arduno iCloud Maker plan.
++ One year subscription code to Arduno iCloud Maker [plan](https://cloud.arduino.cc/plans).
 + Link to OPLA tutorils.    
 
 <p align="center">
@@ -1451,6 +1451,12 @@ WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
 </p>
 
 The above image shows the Arduino Web Editor connected to the WeatherStation - Arduino MKR WiFi 1010 by Over-the-Air (IoT Cloud to WiFi to MKR WiFi 1010) and not by the computer USB interface to the MKR WiFi 1010.  The MKR WiFi 1010 can be remotely updated.   
+
+<p align="center">
+<img width="566" height="53" src="/Images/ArdWebEditorUSB.png">  
+</p>
+
+The above image shows the Arduino IDE connected to the Arduino MKR WiFi 1010 by Linux USB port /dev/ttyACM0.   
     
 Arduino IoT Cloud supports the ability to update the microcontroller software by IoT Cloud WiFi.  The IoT device does not need to be attached to the computer that is editing the device software.  The device software is located on the Arduino Cloud which is different than the IoT Cloud.  The Web Editor is used to edit the sketches on the Arduion Cloud.
     
@@ -1460,7 +1466,7 @@ Over-the-Air Updates Requirements
   + A working Arduino IoT device.
   + The IoT device has a WiFi connection to the Arduino IoT Cloud server.
   + Edit the device sketch with Arduino Web Editor with connection to the Arduino IoT Cloud server.
-  + Arduino account (free) and Arduino Cloud Plan (Entry plan at $1.99/month or highter level Cloud plans).  
+  + Arduino account (free) and Arduino Cloud [Plan](https://cloud.arduino.cc/plans) (Entry plan at $1.99/month or highter level Cloud plans).  
     
     
 <A NAME="FUTURE"></A>
