@@ -1443,7 +1443,7 @@ WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
 
 <A NAME="P58"></A>
 <HR>
-<P align="center"><A HREF="#P57">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P57">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P59">--&gt;</A></P>  
     
 # Project 58: Arduino IoT Cloud Over-the-Air
 <p align="center">
@@ -1456,7 +1456,7 @@ The above image shows the Arduino Web Editor connected to the WeatherStation - A
 <img width="566" height="53" src="/Images/ArdWebEditorUSB.png">  
 </p>
 
-The above image shows the Arduino IDE connected to the Arduino MKR WiFi 1010 by Linux USB port /dev/ttyACM0.   
+The above image shows the Arduino IDE connected to the Arduino MKR WiFi 1010 by Linux computer USB port /dev/ttyACM0.   
     
 Arduino IoT Cloud supports the ability to update the microcontroller software by IoT Cloud WiFi.  The IoT device does not need to be attached to the computer that is editing the device software.  The device software is located on the Arduino Cloud which is different than the IoT Cloud.  The Web Editor is used to edit the sketches on the Arduion Cloud.
     
@@ -1467,12 +1467,22 @@ Over-the-Air Updates Requirements
   + The IoT device has a WiFi connection to the Arduino IoT Cloud server.
   + Edit the device sketch with Arduino Web Editor with connection to the Arduino IoT Cloud server.
   + Arduino account (free) and Arduino Cloud [Plan](https://cloud.arduino.cc/plans) (Entry plan at $1.99/month or highter level Cloud plans).  
+
+    
+    
+
+<A NAME="P59"></A>
+<HR>
+<P align="center"><A HREF="#P58">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 59: Arduino IoT Cloud iOS Mobile Dashboard Panel
+    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P58">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
