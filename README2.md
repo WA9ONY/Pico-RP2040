@@ -1450,6 +1450,8 @@ WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
 <img width="479" height="48" src="/Images/OverTheAir.png">  
 </p>
 
+The above image shows the Arduino Web Editor connected to the WeatherStation - Arduino MKR WiFi 1010 by Over-the-Air (IoT Cloud to WiFi to MKR WiFi 1010) and not by the computer USB interface to the MKR WiFi 1010.  The MKR WiFi 1010 can be remotely updated.   
+    
 Arduino IoT Cloud supports the ability to update the microcontroller software by IoT Cloud WiFi.  The IoT device does not need to be attached to the computer that is editing the device software.
     
 For example, I used a Raspberry Pi computer on the Amateur Radio ARDEN Mesh network to edit the software of the Arduino OPLA Personal Weather Station IoT Cloud that was connected to a Linux computer.  The Linux computer could have been replaced by a simple USB power source.  
