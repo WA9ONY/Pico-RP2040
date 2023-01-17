@@ -106,6 +106,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 56: <A HREF="README2.md#P56">Arduino OPLA RGB LED Test</A>
 + Project 57: <A HREF="README2.md#P57">Arduino OPLA Personal Weather Station IoT Cloud</A>
 + Project 58: <A HREF="README2.md#P58">Arduino IoT Cloud Over-the-Air</A>
++ Project 59: <A HREF="README2.md#P59">Arduino IoT Cloud iOS Mobile Dashboard Pane</A>l
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
