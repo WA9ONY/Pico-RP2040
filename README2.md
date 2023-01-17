@@ -1032,26 +1032,26 @@ The Personal Weather Station template is simple to use and it worked the first t
 + I changed the temperature maximum form 100 to 40 C.
 + I added C to the temperature label. 
 
-Below is the  Personal Weather Station panel on Chrome/Ubuntu 22.04.1 LTS.      
+Below is the Personal Weather Station panel on Chrome/Ubuntu 22.04.1 LTS.      
 <p align="center">
 <img width="600" height="280" src="/Images/weatherstationReadings600.png">  
 </p>
+
 + Had to close/restart the IoT Cloud app to get it working with the Personal Weather Station.
 
-Below is the  Personal Weather Station panel on iPhone.   
+Below is the Personal Weather Station panel on iPhone.   
 <p align="center">
 <img width="450" height="651" src="/Images/weatherstationIOS.png">  
 </p>
-    
-    
+      
 ## Summary
-+ IoT Cloud rarely works. I spent several days and it only worked once and slowly when it did.
-+ Going to work on something else and not this time sink.    
++ IoT Cloud rarely works except for using the Personal Weather Station template. I spent several days and it only worked once and slowly when it did.
++ IoT Cloud needs a good wizard.   
 
     
 <A NAME="P56"></A>
 <HR>
-<P align="center"><A HREF="#P55">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P55">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P57">--&gt;</A></P>  
     
 # Project 56: Arduino OPLA RGB LED Test
     
@@ -1289,11 +1289,164 @@ void loop() {
     
     
 </PRE>    
+
+    
+
+    
+<A NAME="P57"></A>
+<HR>
+<P align="center"><A HREF="#P55">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 57: Arduino OPLA Personal Weather Station IoT Cloud
+
+    
+## Personal_Weather_Station_jan16a.ino   
+    
+<PRE>
+#include "thingProperties.h"
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+void setup() {
+  // Initialize serial and wait for port to open:
+  Serial.begin(9600);
+  // This delay gives the chance to wait for a Serial Monitor without blocking if none is found
+  delay(1500); 
+ 
+  // Defined in thingProperties.h
+  initProperties();
+ 
+  // Connect to Arduino IoT Cloud
+  ArduinoCloud.begin(ArduinoIoTPreferredConnection);
+  //Get Cloud Info/errors , 0 (only errors) up to 4
+  setDebugMessageLevel(2);
+  ArduinoCloud.printDebugInfo();
+ 
+  //Wait to get cloud connection to init the carrier
+  while (ArduinoCloud.connected() != 1) {
+    ArduinoCloud.update();
+    delay(500);
+  }
+  delay(500);
+  CARRIER_CASE = false;
+  carrier.begin();
+  carrier.display.setRotation(0);
+  delay(1500);
+}
+ 
+void loop() {
+  ArduinoCloud.update();
+  carrier.Buttons.update();
+ 
+  while(!carrier.Light.colorAvailable()) {
+    delay(5);
+  }
+  int none;
+  carrier.Light.readColor(none, none, none, light);
+  
+  temperature = carrier.Env.readTemperature();
+  temperature = (temperature * 9.0 / 5.0) + 32.0;  // Modification to cChange temperature C to F.
+  humidity = carrier.Env.readHumidity();
+  pressure = carrier.Pressure.readPressure();
+ 
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    carrier.display.fillScreen(ST77XX_WHITE);
+    carrier.display.setTextColor(ST77XX_RED);
+    carrier.display.setTextSize(2);
+ 
+    carrier.display.setCursor(30, 110);
+    carrier.display.print("Temp: ");
+    carrier.display.print(temperature);
+    carrier.display.print(" C");
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    carrier.display.fillScreen(ST77XX_WHITE);
+    carrier.display.setTextColor(ST77XX_RED);
+    carrier.display.setTextSize(2);
+ 
+    carrier.display.setCursor(30, 110);
+    carrier.display.print("Humi: ");
+    carrier.display.print(humidity);
+    carrier.display.print(" %");
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    carrier.display.fillScreen(ST77XX_WHITE);
+    carrier.display.setTextColor(ST77XX_RED);
+    carrier.display.setTextSize(2);
+ 
+    carrier.display.setCursor(30, 110);
+    carrier.display.print("Light: ");
+    carrier.display.print(light);
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH3)) {
+    carrier.display.fillScreen(ST77XX_WHITE);
+    carrier.display.setTextColor(ST77XX_RED);
+    carrier.display.setTextSize(2);
+ 
+    carrier.display.setCursor(30, 110);
+    carrier.display.print("Pressure: ");
+    carrier.display.print(pressure);
+    
+  }
+ 
+  if (humidity >= 60 && temperature >= 15) {
+    weather_report = "It is very humid outside";
+    
+  }else if (temperature >= 15 && light >= 700) {
+    weather_report = "Warm and sunny outside";
+    
+  }else if (temperature <= 16 && light >= 700) {
+    weather_report = "A little cold, but sunny outside";
+  }
+  
+  else{
+   weather_report = "Weather is normal"; 
+  }
+ 
+}    
+      
+</PRE>    
+
+## thingProperties.h    
+
+<PRE>     
+// Code generated by Arduino IoT Cloud, DO NOT EDIT.
+
+#include <ArduinoIoTCloud.h>
+#include <Arduino_ConnectionHandler.h>
+
+const char SSID[]     = SECRET_SSID;    // Network SSID (name)
+const char PASS[]     = SECRET_OPTIONAL_PASS;    // Network password (use for WPA, or use as key for WEP)
+
+float humidity;
+float pressure;
+float temperature;
+int light;
+String weather_report;
+
+void initProperties(){
+
+  ArduinoCloud.addProperty(humidity, READ, 1 * SECONDS, NULL);
+  ArduinoCloud.addProperty(pressure, READ, 1 * SECONDS, NULL);
+  ArduinoCloud.addProperty(temperature, READ, 1 * SECONDS, NULL);
+  ArduinoCloud.addProperty(light, READ, 1 * SECONDS, NULL);
+  ArduinoCloud.addProperty(weather_report, READ, ON_CHANGE, NULL);
+
+}
+
+WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
+
+</PRE> 
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P56">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P57">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
