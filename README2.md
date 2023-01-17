@@ -1460,7 +1460,7 @@ Over-the-Air Updates Requirements
   + A working Arduino IoT device.
   + The IoT device has a WiFi connection to the Arduino IoT Cloud server.
   + Edit the device sketch with Arduino Web Editor with connection to the Arduino IoT Cloud server.
-  + Arduino account (free) and Arduino Cloud Plan (Entry plan at $1.99/month).  
+  + Arduino account (free) and Arduino Cloud Plan (Entry plan at $1.99/month or highter level Cloud plans).  
     
     
 <A NAME="FUTURE"></A>
