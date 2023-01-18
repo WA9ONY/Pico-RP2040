@@ -1484,7 +1484,7 @@ Over-the-Air Updates Requirements
 + Start the IoT Thing.
     
 <p align="center">
-<img width="60" height="69" src="/Images/iOSappStore.png">  
+<img width="60" height="69" src="/Images/iOSappStore1.png">  
 </p>
 + Open the iOS app store.    
     
