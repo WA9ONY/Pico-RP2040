@@ -1486,6 +1486,7 @@ Over-the-Air Updates Requirements
 <p align="center">
 <img width="60" height="69" src="/Images/iOSappStore1.PNG">  
 </p>
+
 + Open the iOS app store.    
     
 <p align="center">
@@ -1502,14 +1503,14 @@ Over-the-Air Updates Requirements
 + Login with Arduino account (you also need to have a Arduino Clound pla.
     
 <p align="center">
-<img width="287" height="583" src="/Images/iOSWeather2s.PNG">  
+<img width="287" height="291" src="/Images/iOSWeather2s.PNG">  
 </p>
     
 + Click on the Deskboard Panel that you want to use.
 + The above image is for the Personal Weather Station made with the OPLA IoT kit.    
     
 <p align="center">
-<img width="287" height="291" src="/Images/weatherstationIOS.png">  
+<img width="450" height="651" src="/Images/weatherstationIOS.png">  
 </p>
     
 + Enjoy the IoT device.    
