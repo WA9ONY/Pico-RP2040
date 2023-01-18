@@ -1507,7 +1507,7 @@ Over-the-Air Updates Requirements
 </p>
     
 + Click on the Deskboard Panel that you want to use.
-+ The above image is for the Personal Weather Station made with the [OPLA IoT kit]("README2.md#P31").    
++ The above image is for the Personal Weather Station made with the <A HREF="README2.md#P31">Arduino OPLA IoT Kit</A>).    
     
 <p align="center">
 <img width="450" height="651" src="/Images/weatherstationIOS.png">  
