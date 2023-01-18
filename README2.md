@@ -1495,14 +1495,14 @@ Over-the-Air Updates Requirements
 +Install the Arduino IoT Cloud Remote app.
     
 <p align="center">
-<img width="54" height="368" src="/Images/iOSicon.PNG">  
+<img width="54" height="57" src="/Images/iOSicon.PNG">  
 </p>
     
 + Start the  Arduino IoT Cloud Remote app.
 + Login with Arduino account (you also need to have a Arduino Clound pla.
     
 <p align="center">
-<img width="574" height="583" src="/Images/iOSWeather2s.PNG">  
+<img width="287" height="583" src="/Images/iOSWeather2s.PNG">  
 </p>
     
 + Click on the Deskboard Panel that you want to use.
