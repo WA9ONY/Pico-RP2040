@@ -1493,7 +1493,7 @@ Over-the-Air Updates Requirements
 <img width="206" height="57" src="/Images/iOSinstall.PNG">  
 </p>
 
-+Install the Arduino IoT Cloud Remote app.
++ Install the Arduino IoT Cloud Remote app.
     
 <p align="center">
 <img width="54" height="57" src="/Images/iOSicon.PNG">  
