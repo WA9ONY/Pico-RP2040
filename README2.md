@@ -1489,27 +1489,27 @@ Over-the-Air Updates Requirements
 + Open the iOS app store.    
     
 <p align="center">
-<img width="206" height="59" src="/Images/iOSinstall.PNG">  
+<img width="206" height="57" src="/Images/iOSinstall.PNG">  
 </p>
 
 +Install the Arduino IoT Cloud Remote app.
     
 <p align="center">
-<img width="600" height="368" src="/Images/iOSicon.PNG">  
+<img width="54" height="368" src="/Images/iOSicon.PNG">  
 </p>
     
 + Start the  Arduino IoT Cloud Remote app.
 + Login with Arduino account (you also need to have a Arduino Clound pla.
     
 <p align="center">
-<img width="574" height="583" src="/Images/iOSWeather2.PNG">  
+<img width="574" height="583" src="/Images/iOSWeather2s.PNG">  
 </p>
     
 + Click on the Deskboard Panel that you want to use.
 + The above image is for the Personal Weather Station made with the OPLA IoT kit.    
     
 <p align="center">
-<img width="450" height="651" src="/Images/weatherstationIOS.png">  
+<img width="287" height="291" src="/Images/weatherstationIOS.png">  
 </p>
     
 + Enjoy the IoT device.    
