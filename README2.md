@@ -1500,7 +1500,7 @@ Over-the-Air Updates Requirements
 </p>
     
 + Start the  Arduino IoT Cloud Remote app.
-+ Login with Arduino account (you also need to have a Arduino Clound pla.
++ Login with Arduino account (you also need to have a Arduino Clound [plan](https://cloud.arduino.cc/plans/).
     
 <p align="center">
 <img width="287" height="291" src="/Images/iOSWeather2s.PNG">  
