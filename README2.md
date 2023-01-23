@@ -1530,6 +1530,7 @@ Over-the-Air Updates Requirements
 </p>
     
 [Fritzing](https://fritzing.org/)
+My focus of using Fritzing is to document my prototypes to share them with others.    
 + Price ~$9 to Paypal
 + Installed on Ubuntu 22.04 LTS.
   + Create directory: /Home/appimages
@@ -1538,12 +1539,15 @@ Over-the-Air Updates Requirements
   + If necessary extract the zip file. There is only one file in the zip file.
   + Change fritzing-0.9.10-l2134-40d23c29.AppImage permissions to execute 
   + Double click on fritzing-0.9.10-l2134-40d23c29.AppImage to start Fritzing.  
-+ Schmatic capture
++ Schematic capture
   + Library include Arduino and other microcontorller boards.
+  + Various breadboards are available to use.
+  + Online parts to expand Fritzing library.  
 
-Fritzing Tutorials
+Fritzing Videos
 + [Fritzing Tutorial - A Beginners Guide to Making Circuit & Wiring Diagrams](https://youtu.be/-saXw1EipX0)    
-    
++ YouTube Fritzing [tutorial list](https://www.youtube.com/results?search_query=fritzing+tutorial+)    
++ YouTube Fritzing [list](https://www.youtube.com/results?search_query=fritzing++)    
 
     
 <A NAME="FUTURE"></A>
