@@ -1553,7 +1553,7 @@ Fritzing Videos
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
@@ -1567,8 +1567,7 @@ Fritzing Videos
 + Use circuitpython.
 + Implement a RTC with I2C bus.
 + Use the different python libraries.
-+ Use the Arduino IDE and libraries.
-+ Explore [Fritzing](https://fritzing.org/).
++ Use the Arduino IDE and libraries..
 + Use Arduino IDE with the Raspberry Pi Pico board.
 + Magazine archive scan.
 + CircuitPython tutorial.
