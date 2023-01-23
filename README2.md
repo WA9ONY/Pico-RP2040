@@ -1467,13 +1467,11 @@ Over-the-Air Updates Requirements
   + The IoT device has a WiFi connection to the Arduino IoT Cloud server.
   + Edit the device sketch with Arduino Web Editor with connection to the Arduino IoT Cloud server.
   + Arduino account (free) and Arduino Cloud [Plan](https://cloud.arduino.cc/plans) (Entry plan at $1.99/month or highter level Cloud plans).  
-
-    
-    
+ 
 
 <A NAME="P59"></A>
 <HR>
-<P align="center"><A HREF="#P58">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P58">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P60">--&gt;</A></P>  
     
 # Project 59: Arduino IoT Cloud iOS Mobile Dashboard Panel
     
@@ -1519,7 +1517,34 @@ Over-the-Air Updates Requirements
 + iPhone 14 Pro Max iOS 16.1.2
 + iPhone 13    
 + iPad 5th gen, iOS 15.6.1 just WiFi connection, no data service.    
+ 
+
+<A NAME="P60"></A>
+<HR>
+<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 60: Fritzing
+    
+<p align="center">
+<img width="536" height="411" src="/Images/FritzingUnoLEDswitch.png">  
+</p>
+    
+[Fritzing](https://fritzing.org/)
++ Price ~$9 to Paypal
++ Installed on Ubuntu 22.04 LTS.
+  + Create directory: /Home/appimages
+  + Add libraries: sudo apt install libfuse2
+  + Download Fritzing-20221215T224353Z-001.zip into /Home/appimages
+  + If necessary extract the zip file. There is only one file in the zip file.
+  + Change fritzing-0.9.10-l2134-40d23c29.AppImage permissions to execute 
+  + Double click on fritzing-0.9.10-l2134-40d23c29.AppImage to start Fritzing.  
++ Schmatic capture
+  + Library include Arduino and other microcontorller boards.
+
+Fritzing Tutorials
++ [Fritzing Tutorial - A Beginners Guide to Making Circuit & Wiring Diagrams](https://youtu.be/-saXw1EipX0)    
+    
+
     
 <A NAME="FUTURE"></A>
 <HR>
