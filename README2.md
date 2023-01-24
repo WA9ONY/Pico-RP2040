@@ -1536,16 +1536,32 @@ Over-the-Air Updates Requirements
   + Online parts to expand Fritzing library. 
     + My focus of using Fritzing is to document my prototypes to share them with others.    
 + Schematic capture
-+ Circuit simulator
++ [Circuit simulation](https://blog.fritzing.org/2022/06/27/Simulating-Circuits-with-Fritzing)
 + Circuit board design
 + Order circuit board    
-      
+
+    
+<p align="center">
+<img width="624" height="566" src="/Images/FritzingUNOsch.png">  
+</p>    
+
+## Schematic    
+The above image is the schematic of the prototype documentation at the top of this project section.   
+    
+<p align="center">
+<img width="803" height="336" src="/Images/FritzingLEDpuff.png">  
+</p>    
+
+## Circuit Simulation    
+The above image shows the LED burning out because off too much current.
+The LED current limiting resistor is too low at 10Ohms.
+    
 <p align="center">
 <img width="465" height="319" src="/Images/PicoWs2.png">  
 </p>
      
 ## Adding Parts to the Library
-Steps to add Raspberry Pi Pico and Pico W.
+Steps to add Raspberry Pi Pico and Pico W to the Parts library.
 + [Download](https://datasheets.raspberrypi.com/) parts
   + Pico-R3-Fritzing.fzpz
   + PicoW-Fritzing.fzpz
