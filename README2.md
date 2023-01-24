@@ -1553,14 +1553,16 @@ The above image is the schematic of the prototype documentation at the top of th
 </p>    
 
 ## Circuit Simulation    
-The above image shows the LED burning out because off too much current.
-The LED current limiting resistor is too low at 10Ohms.
+The above image shows the LED burning out because of too much current.
+The LED current limiting resistor is too low at 10 Ohms.
     
 <p align="center">
 <img width="465" height="319" src="/Images/PicoWs2.png">  
 </p>
      
 ## Adding Parts to the Library
+The above image shows the Raspberry Pi Pico W part that was added to the Fritzing parts library.
+    
 Steps to add Raspberry Pi Pico and Pico W to the Parts library.
 + [Download](https://datasheets.raspberrypi.com/) parts
   + Pico-R3-Fritzing.fzpz
