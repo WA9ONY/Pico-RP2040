@@ -1604,7 +1604,7 @@ Videos
     
 <A NAME="P62"></A>
 <HR>
-<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P63">--&gt;</A></P>  
     
 # Project 62: LED: Light-emitting Diode
     
@@ -1613,6 +1613,14 @@ The Arduino has two LEDs the that indicate the transmitting and recevinng data f
 Most microcontrollerr developement boards have one or more LEDs on then that are under user progarm control.
 One of the first microcontrollerr progarms is to turn a LED on and off.    
 
+Key specifications for simple LEDs
++ Color
++ Size
++ Mounting
++ Brightness
++ FV: foward voltage
++ Maximum current    
+    
 LED circuit design
 + LED Circuit Design- How to [design](https://theengineeringmindset.com/led-circuit-design-how-to-design-led-circuits/) LED Circuits    
 
@@ -1627,13 +1635,36 @@ Videos
 + YouTube [LED list](https://www.youtube.com/results?search_query=LED)    
     
 LED kit
-+ [Amamzon](https://www.amazon.com/dp/B093GL1FFH?ref=ppx_yo2ov_dt_b_product_details&th=1)    
++ 20 LED types [Amamzon](https://www.amazon.com/dp/B093GL1FFH?ref=ppx_yo2ov_dt_b_product_details&th=1)    
+
+    
+<A NAME="P63"></A>
+<HR>
+<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 63: I2C: Inter-Integrated Circuit
+
+I2C is a serial communication bus for two inter-intergrated circuits to communicate with each other.
+Most microcontroller support the I2C bus.    
+
+Tutorials    
++ SparkFun I2C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
++ TronicsBench  I2C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
++ Arduino [I2C](https://docs.arduino.cc/learn/communication/wire)
++ Adafruit [I2C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
+    
+Reference    
++ [Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C)   
+    
+Videos
++ YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
+
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
