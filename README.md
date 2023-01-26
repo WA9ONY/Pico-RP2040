@@ -112,6 +112,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 62: <A HREF="README2.md#P62">LED: Light-emitting Diode</A>
 + Project 63: <A HREF="README2.md#P63">I2C: Inter-Integrated Circuit</A>
 + Project 64: <A HREF="README2.md#P64">SPI: Serial Peripheral Interface</A>
++ Project 65: <A HREF="README2.md#P65">OLED: Organic Light-Emitting Diode</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
