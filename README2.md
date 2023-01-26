@@ -1717,7 +1717,7 @@ Videos
 </p>
 
     
-QWIIC is Sparkfun I2C connection with four pins: power, gnd, data and clock.  The above image is of the QWIIC on a OLED display.
+Sparkfun QWIIC is a small I2C connection with four pins: power, ground, data and clock.  The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 
 Tutorials    
 + SparkFun [QWIIC](https://www.sparkfun.com/qwiic)     
