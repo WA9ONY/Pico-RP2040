@@ -1664,7 +1664,7 @@ Videos
     
 <A NAME="P64"></A>
 <HR>
-<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P65">--&gt;</A></P>  
     
 # Project 64: SPI: Serial Peripheral Interface
 
@@ -1684,11 +1684,35 @@ Videos
 + YouTube [SPI list](https://www.youtube.com/results?search_query=SPI)    
 
     
+    
+
+    
+<A NAME="P65"></A>
+<HR>
+<P align="center"><A HREF="#P64">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 65: OLED: Organic Light-Emitting Diode
+
+OLEDs are a common way to display information from the microcontroller    
+
+Tutorials    
++ SparkFun [OLED](https://learn.sparkfun.com/tutorials/tags/oled) [guide](https://learn.sparkfun.com/tutorials/micro-oled-breakout-hookup-guide/all)     
++ Arduino [OLED](https://arduinogetstarted.com/tutorials/arduino-oled)
++ Adafruit [OLED](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples)    
++ Guide for I2C OLED Display with Arduino [OLED](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/)
       
+Reference    
++ [Wikipedia](https://en.wikipedia.org/wiki/OLED)   
+    
+Videos
++ YouTube [OLED list](https://www.youtube.com/results?search_query=OLED)    
+
+    
+       
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P64">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P65">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
