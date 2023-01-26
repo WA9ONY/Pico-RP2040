@@ -1674,7 +1674,7 @@ Most microcontroller support the SPI bus.
 Tutorials    
 + SparkFun SPI [tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)      
 + Arduino [SPI](https://docs.arduino.cc/tutorials/generic/introduction-to-the-serial-peripheral-interface)
-+ Adafruit [SPI](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
++ Adafruit [SPI](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/spi-devices)    
 + Circuit Digest [SPI](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial)
       
 Reference    
