@@ -1720,7 +1720,7 @@ Videos
 Sparkfun QWIIC is a small I2C connection with four pins: power, ground, data and clock.  The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 
 Tutorials    
-+ SparkFun [QWIIC](https://www.sparkfun.com/qwiic)     
++ SparkFun (OVERVIEW | PRODUCTS | FAQS | RESOURCES  ) [QWIIC](https://www.sparkfun.com/qwiic)     
     
 Videos
 + YouTube [QWIIC list](https://www.youtube.com/results?search_query=QWIIC)    
@@ -1728,7 +1728,11 @@ Videos
 SparkFun Qwiic Cable Kit    
 + [Amamzon](https://www.amazon.com/gp/product/B07RB2LRH5/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
 
-    
+Sparkfun QWIIC cable pinout
++ Red 3.3 Vdc
++ Black ground
++ Blue serial data - SDA
++ Yellow serial clock - SCK   
     
     
 <A NAME="FUTURE"></A>
