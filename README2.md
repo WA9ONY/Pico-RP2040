@@ -1752,7 +1752,7 @@ Sparkfun
 Raspberry Pi Pico progarmming the SerLCD
   + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
     + Chapter 10 Digital communication protocols: I2C and SPI
-      + Example SerLCD code 
+      + Sparkfun SerLCD I2C and SPI code examples
 
     
 <A NAME="FUTURE"></A>
