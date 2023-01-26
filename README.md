@@ -109,6 +109,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 59: <A HREF="README2.md#P59">Arduino IoT Cloud iOS Mobile Dashboard Pane</A>
 + Project 60: <A HREF="README2.md#P60">Fritzing</A>
 + Project 61: <A HREF="README2.md#P61">Tinkercad Arduino Simulator</A>
++ Project 62: <A HREF="README2.md#P62">LED: Light-emitting Diode</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
