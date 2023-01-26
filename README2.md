@@ -1640,7 +1640,7 @@ LED kit
     
 <A NAME="P63"></A>
 <HR>
-<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
     
 # Project 63: I2C: Inter-Integrated Circuit
 
@@ -1660,11 +1660,35 @@ Videos
 + YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
 
     
+
     
+<A NAME="P64"></A>
+<HR>
+<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 64: SPI: Serial Peripheral Interface
+
+SPI is a serial communication bus for short distances on a circuit board.
+Most microcontroller support the SPI bus.    
+
+Tutorials    
++ SparkFun SPI [tutorial](https://learn.sparkfun.com/tutorials/spi/all)    
++ TronicsBench  SPI [tutorial](https://www.best-microcontroller-projects.com/spi-tutorial.html)   
++ Arduino [SPI](https://docs.arduino.cc/learn/communication/wire)
++ Adafruit [SPI](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
+    
+Reference    
++ [Wikipedia](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)   
+    
+Videos
++ YouTube [SPI list](https://www.youtube.com/results?search_query=SPI)    
+
+    
+      
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P63">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P64">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
