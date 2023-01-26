@@ -1729,10 +1729,10 @@ SparkFun Qwiic Cable Kit
 + [Amamzon](https://www.amazon.com/gp/product/B07RB2LRH5/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
 
 Sparkfun QWIIC cable pinout
-+ Red 3.3 Vdc
-+ Black ground
-+ Blue serial data - SDA
-+ Yellow serial clock - SCK   
++ Red: 3.3 Vdc
++ Black: ground
++ Blue: serial data - SDA
++ Yellow: serial clock - SCK   
     
     
 <A NAME="FUTURE"></A>
