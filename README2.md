@@ -1672,11 +1672,11 @@ SPI is a serial communication bus for short distances on a circuit board.
 Most microcontroller support the SPI bus.    
 
 Tutorials    
-+ SparkFun SPI [tutorial](https://learn.sparkfun.com/tutorials/spi/all)    
-+ TronicsBench  SPI [tutorial](https://www.best-microcontroller-projects.com/spi-tutorial.html)   
-+ Arduino [SPI](https://docs.arduino.cc/learn/communication/wire)
++ SparkFun SPI [tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)      
++ Arduino [SPI](https://docs.arduino.cc/tutorials/generic/introduction-to-the-serial-peripheral-interface)
 + Adafruit [SPI](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
-    
++ Circuit Digest [SPI](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial)
+      
 Reference    
 + [Wikipedia](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)   
     
