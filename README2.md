@@ -1684,12 +1684,9 @@ Videos
 + YouTube [SPI list](https://www.youtube.com/results?search_query=SPI)    
 
     
-    
-
-    
 <A NAME="P65"></A>
 <HR>
-<P align="center"><A HREF="#P64">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P64">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P66">--&gt;</A></P>  
     
 # Project 65: OLED: Organic Light-Emitting Diode
 
@@ -1708,11 +1705,30 @@ Videos
 + YouTube [OLED list](https://www.youtube.com/results?search_query=OLED)    
 
     
-       
+<A NAME="P66"></A>
+<HR>
+<P align="center"><A HREF="#P65">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 66: Sparkfun QWIIC
+
+QWIIC is Sparkfun I2C connection.
+
+Tutorials    
++ SparkFun [QWIIC](https://www.sparkfun.com/qwiic)     
+    
+Videos
++ YouTube [QWIIC list](https://www.youtube.com/results?search_query=QWIIC)    
+
+SparkFun Qwiic Cable Kit    
++ [Amamzon](https://www.amazon.com/gp/product/B07RB2LRH5/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
+
+    
+    
+    
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P65">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P66">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
