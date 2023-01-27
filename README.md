@@ -115,6 +115,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 65: <A HREF="README2.md#P65">OLED: Organic Light-Emitting Diode</A>
 + Project 66: <A HREF="README2.md#P66">Sparkfun QWIIC</A>
 + Project 67: <A HREF="README2.md#P67">SparkFun 16x2 SerLCD - RGB Text (QWIIC)</A>
++ Project 68: <A HREF="README2.md#P68">Raspberry Pi Pico I2C Scan</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
