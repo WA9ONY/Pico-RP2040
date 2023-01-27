@@ -1794,10 +1794,19 @@ Program credit
 <HR>
 <P align="center"><A HREF="#P68">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 69: SparkFun 16x2 SerLCD - RGB Text (Qwiic)
+# Project 69: Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic
    
+<p align="center">
+<img width="600" height="529" src="/Images/SerLCDhello600.png">  
+</p>
+ 
+Qwiic would not run at speeds greater or equal to 300 kHz.  
+I2C at 200 kHz is working.    
+    
+<PRE>
     
     
+</PRE>    
     
 <A NAME="FUTURE"></A>
 <HR>
