@@ -1744,6 +1744,9 @@ Sparkfun QWIIC cable pinout
     
 # Project 67: SparkFun 16x2 SerLCD - RGB Text (Qwiic)
    
+<p align="center">
+<img width="600" height="535" src="/Images/SerLCDsplash600.png">  
+</p>
     
 Sparkfun
   + [SparkFun 16x2 SerLCD - RGB Text (Qwiic)](https://www.sparkfun.com/products/16397) 
