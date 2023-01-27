@@ -1710,15 +1710,22 @@ Videos
 <P align="center"><A HREF="#P65">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P67">--&gt;</A></P>  
     
 # Project 66: Sparkfun QWIIC
-
-    
+  
 <p align="center">
 <img width="600" height="326" src="/Images/QWIIC600.png">  
 </p>
-
+   
+Sparkfun QWIIC is a small I2C 4-pin JST connector: 3.3 V power, ground, data and clock.  
     
-Sparkfun QWIIC is a small I2C connection with four pins: power, ground, data and clock.  The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 
+Sparkfun Qwiic benfits
++ Small
++ I2C supports multiple devices with different I2C address.
++ Provides 3.3 V power and ground.
++ Easy to connect I2C devices with no soldering.
++ Qwiic cable kits.    
+    
 Tutorials    
 + SparkFun (OVERVIEW | PRODUCTS | FAQS | RESOURCES  ) [QWIIC](https://www.sparkfun.com/qwiic)     
     
@@ -1728,14 +1735,22 @@ Videos
 SparkFun Qwiic Cable Kit    
 + [Amamzon](https://www.amazon.com/gp/product/B07RB2LRH5/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
 
-Sparkfun QWIIC cable pinout
+Sparkfun QWIIC cable color pinout
 + Red: 3.3 Vdc
 + Black: ground
 + Blue: serial data - SDA
 + Yellow: serial clock - SCK   
     
-
+Qwiic cable connection to Raspberry Pi Pico microcontroller development board.
++ Pin 36 3V3(OUT) - Red: 3.3 Vdc
++ Pin 38 GND - Black: ground
++ Pin 1 I2C0 SDA - Blue: serial data - SDA
++ Pin 2 I2C0 SCL - Yellow: serial clock - SCK      
     
+<p align="center">
+<img width="600" height="326" src="/Images/QWIIC600.png">  
+</p>
+   
  
     
 <A NAME="P67"></A>
