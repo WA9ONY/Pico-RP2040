@@ -1715,7 +1715,7 @@ Videos
 <img width="600" height="326" src="/Images/QWIIC600.png">  
 </p>
    
-Sparkfun QWIIC is a small I2C 4-pin JST connector: 3.3 V power, ground, data and clock.  
+Sparkfun QWIIC is a small I2C 4-pin JST connector, 1mm pitch: 3.3 V power, ground, I2C data and I2C clock.  
     
 The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 No soldering [Qwiic cable](https://www.sparkfun.com/products/17912) between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.    
@@ -1726,6 +1726,8 @@ Sparkfun Qwiic benfits
 + Provides 3.3 V power and ground.
 + Easy to connect I2C devices with no soldering.
 + Qwiic cable kits.    
++ I2C address: 0x72 or [114 decimal](https://coolconversion.com/math/binary-octal-hexa-decimal/Convert_hex_number_72_in_decimal_+%E2%80%94+Hex+to+Decimal+Calculator+) 
++ Input voltage: 3.3V-9V (3.3V only via Qwiic connector and "+" pin)    
     
 Tutorials    
 + SparkFun (OVERVIEW | PRODUCTS | FAQS | RESOURCES  ) [QWIIC](https://www.sparkfun.com/qwiic)     
@@ -1768,6 +1770,13 @@ Image credit
 </p>
 
 No soldering [Qwiic cable](https://www.sparkfun.com/products/17912) between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.    
+ 
+Sparkfun SerLCD features
++ Support multiple inferfaces: I2C, Qwiic connector, SPI & serial UART.
++ Has a ATmega328P AVR microcontroller
++ Black Liquid Crystal Display
++ Blacklight version available    
++ 3.3V device which works well wtih the 3.3V Raspberry Pi Pico.
     
 Sparkfun
   + [SparkFun 16x2 SerLCD - RGB Text (Qwiic)](https://www.sparkfun.com/products/16397) 
@@ -1777,6 +1786,57 @@ Raspberry Pi Pico progarmming the SerLCD
   + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
     + Chapter 10 Digital communication protocols: I2C and SPI
       + Sparkfun SerLCD I2C and SPI code examples
+
+The special pipe character '|' (also called the 'or' character) is used to tell the screen to enter "settings mode". 
+You then follow this command with another special character (usually "ctrl+c", ctrl+d, etc.). [Table](https://learn.sparkfun.com/tutorials/avr-based-serial-enabled-lcds-hookup-guide/firmware-overview)
+
+SerLCD commands from SerLCD.h
+    
+<PRE>
+
+//OpenLCD command characters
+#define SPECIAL_COMMAND 254  //Magic number for sending a special command
+#define SETTING_COMMAND 0x7C //124, |, the pipe character: The command to change settings: baud, lines, width, backlight, splash, etc
+
+//OpenLCD commands
+#define CLEAR_COMMAND 0x2D					//45, -, the dash character: command to clear and home the display
+#define CONTRAST_COMMAND 0x18				//Command to change the contrast setting
+#define ADDRESS_COMMAND 0x19				//Command to change the i2c address
+#define SET_RGB_COMMAND 0x2B				//43, +, the plus character: command to set backlight RGB value
+#define ENABLE_SYSTEM_MESSAGE_DISPLAY 0x2E  //46, ., command to enable system messages being displayed
+#define DISABLE_SYSTEM_MESSAGE_DISPLAY 0x2F //47, /, command to disable system messages being displayed
+#define ENABLE_SPLASH_DISPLAY 0x30			//48, 0, command to enable splash screen at power on
+#define DISABLE_SPLASH_DISPLAY 0x31			//49, 1, command to disable splash screen at power on
+#define SAVE_CURRENT_DISPLAY_AS_SPLASH 0x0A //10, Ctrl+j, command to save current text on display as splash
+
+// special commands
+#define LCD_RETURNHOME 0x02
+#define LCD_ENTRYMODESET 0x04
+#define LCD_DISPLAYCONTROL 0x08
+#define LCD_CURSORSHIFT 0x10
+#define LCD_SETDDRAMADDR 0x80
+
+// flags for display entry mode
+#define LCD_ENTRYRIGHT 0x00
+#define LCD_ENTRYLEFT 0x02
+#define LCD_ENTRYSHIFTINCREMENT 0x01
+#define LCD_ENTRYSHIFTDECREMENT 0x00
+
+// flags for display on/off control
+#define LCD_DISPLAYON 0x04
+#define LCD_DISPLAYOFF 0x00
+#define LCD_CURSORON 0x02
+#define LCD_CURSOROFF 0x00
+#define LCD_BLINKON 0x01
+#define LCD_BLINKOFF 0x00
+
+// flags for display/cursor shift
+#define LCD_DISPLAYMOVE 0x08
+#define LCD_CURSORMOVE 0x00
+#define LCD_MOVERIGHT 0x04
+#define LCD_MOVELEFT 0x00
+   
+</PRE>    
     
     
 <A NAME="P68"></A>
