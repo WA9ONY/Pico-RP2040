@@ -1764,7 +1764,7 @@ Raspberry Pi Pico progarmming the SerLCD
 # Project 68: Raspberry Pi Pico I2C Scan
      
 <p align="center">
-<img width="600" height="531" src="/Images/SerLCDTemp.png">  
+<img width="600" height="304" src="/Images/SerLCDScan600.png">  
 </p>
     
  MicroPython
