@@ -1740,7 +1740,7 @@ Sparkfun QWIIC cable pinout
     
 <A NAME="P67"></A>
 <HR>
-<P align="center"><A HREF="#P66">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P66">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P68">--&gt;</A></P>  
     
 # Project 67: SparkFun 16x2 SerLCD - RGB Text (Qwiic)
    
@@ -1753,12 +1753,50 @@ Raspberry Pi Pico progarmming the SerLCD
   + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
     + Chapter 10 Digital communication protocols: I2C and SPI
       + Sparkfun SerLCD I2C and SPI code examples
+    
+    
 
+    
+<A NAME="P68"></A>
+<HR>
+<P align="center"><A HREF="#P67">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P69">--&gt;</A></P>  
+    
+# Project 68: Raspberry Pi Pico I2C Scan
+     
+<p align="center">
+<img width="600" height="531" src="/Images/SerLCDTemp.png">  
+</p>
+    
+ MicroPython
+    
+<PRE>
+import machine
+sda=machine.Pin(0)
+scl=machine.Pin(1)
+i2c=machine.I2C(0,sda=sda, scl=scl, freq=400000)
+print(i2c.scan())     
+</PRE>    
+
+Program credit
+  + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+    + Chapter 10 Digital communication protocols: I2C and SPI
+      + I2C scan code examples
+    
+ 
+    
+<A NAME="P69"></A>
+<HR>
+<P align="center"><A HREF="#P68">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 69: SparkFun 16x2 SerLCD - RGB Text (Qwiic)
+   
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P67">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P69">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
