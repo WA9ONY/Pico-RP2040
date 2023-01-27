@@ -1767,7 +1767,10 @@ Raspberry Pi Pico progarmming the SerLCD
 <img width="600" height="304" src="/Images/SerLCDScan600.png">  
 </p>
     
- MicroPython
+The above image shows the Raspberry Pi Pico scanning I2C addresses and finding a I2C device at 114 decimal (x72 hex).  
+The I2C device is the Sparkfun SerLCD.
+    
+MicroPython program
     
 <PRE>
 import machine
