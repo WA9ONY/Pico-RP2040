@@ -1718,6 +1718,7 @@ Videos
 Sparkfun QWIIC is a small I2C 4-pin JST connector: 3.3 V power, ground, data and clock.  
     
 The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+No soldering Qwiic cable between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.    
 
 Sparkfun Qwiic benfits
 + Small
@@ -1765,6 +1766,8 @@ Image credit
 <p align="center">
 <img width="600" height="535" src="/Images/SerLCDsplash600.png">  
 </p>
+
+No soldering Qwiic cable between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.    
     
 Sparkfun
   + [SparkFun 16x2 SerLCD - RGB Text (Qwiic)](https://www.sparkfun.com/products/16397) 
@@ -1788,6 +1791,7 @@ Raspberry Pi Pico progarmming the SerLCD
     
 The above image shows the Raspberry Pi Pico scanning I2C addresses and finding a I2C device at 114 decimal (x72 hex).  
 The I2C device is the Sparkfun SerLCD.
+No soldering Qwiic cable between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.
     
 MicroPython program
     
@@ -1818,6 +1822,9 @@ Program credit
  
 Qwiic would not run at speeds greater or equal to 300 kHz.  
 I2C at 200 kHz is working.    
+No soldering Qwiic cable between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.
+
+MicroPython program    
     
 <PRE>
 
@@ -1852,6 +1859,9 @@ Program credit
  
 Qwiic would not run at speeds greater or equal to 300 kHz.  
 I2C at 200 kHz is working.    
+No soldering Qwiic cable between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.
+
+MicroPython program    
     
 <PRE>
 
