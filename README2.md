@@ -1831,7 +1831,7 @@ Program credit
 # Project 70: Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"
    
 <p align="center">
-<img width="600" height="529" src="/Images/SerLCDhello600.png">  
+<img width="600" height="528" src="/Images/SerLCDtemp600.png">  
 </p>
  
 Qwiic would not run at speeds greater or equal to 300 kHz.  
