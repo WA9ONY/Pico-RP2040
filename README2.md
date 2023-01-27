@@ -1804,9 +1804,20 @@ Qwiic would not run at speeds greater or equal to 300 kHz.
 I2C at 200 kHz is working.    
     
 <PRE>
-    
+
+import machine
+sda=machine.Pin(0)
+scl=machine.Pin(1)
+i2c=machine.I2C(0,sda=sda, scl=scl, freq=200000)
+i2c.writeto(114, '\x7C')
+i2c.writeto(114, '\x2D')
+i2c.writeto(114, "hello world     I2C 200kHz")    
     
 </PRE>    
+
+Notes
++ "/n" does not work to advance to the second textt line.    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
