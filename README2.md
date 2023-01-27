@@ -1792,7 +1792,7 @@ Program credit
     
 <A NAME="P69"></A>
 <HR>
-<P align="center"><A HREF="#P68">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P68">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P70">--&gt;</A></P>  
     
 # Project 69: Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "hello"
    
@@ -1817,12 +1817,56 @@ i2c.writeto(114, "hello world     I2C 200kHz")
 
 Notes
 + "/n" does not work to advance to the second textt line.    
+
+Program credit
+  + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+    + Chapter 10 Digital communication protocols: I2C and SPI
+      + I2C hello world code examples    
     
+   
+<A NAME="P70"></A>
+<HR>
+<P align="center"><A HREF="#P69">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 70: Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"
+   
+<p align="center">
+<img width="600" height="529" src="/Images/SerLCDhello600.png">  
+</p>
+ 
+Qwiic would not run at speeds greater or equal to 300 kHz.  
+I2C at 200 kHz is working.    
+    
+<PRE>
+
+import machine
+import utime
+sda=machine.Pin(0)
+scl=machine.Pin(1)
+i2c=machine.I2C(0,sda=sda, scl=scl, freq=200000)
+adc = machine.ADC(4)
+conversion_factor = 3.3 / (65535)
+while True:
+ reading = adc.read_u16() * conversion_factor
+ temperature = 25 - (reading - 0.706)/0.001721
+ i2c.writeto(114, '\x7C')
+ i2c.writeto(114, '\x2D')
+ out_string = "Temp: " + str(temperature)
+ i2c.writeto(114, out_string)
+ utime.sleep(2)    
+    
+</PRE>    
+
+Program credit
+  + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+    + Chapter 10 Digital communication protocols: I2C and SPI
+      + I2C temperature code examples
+        
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P69">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P70">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
