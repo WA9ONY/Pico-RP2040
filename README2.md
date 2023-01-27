@@ -1748,10 +1748,13 @@ Qwiic cable connection to Raspberry Pi Pico microcontroller development board.
 + Pin 2 I2C0 SCL - Yellow: serial clock - SCK      
     
 <p align="center">
-<img width="600" height="326" src="/Images/QWIIC600.png">  
+<img width="600" height="464" src="/Images/I2CPico600.png">  
 </p>
    
- 
+Image credit
+  + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+    + Chapter 10 Digital communication protocols: I2C and SPI    
+    
     
 <A NAME="P67"></A>
 <HR>
@@ -1772,8 +1775,6 @@ Raspberry Pi Pico progarmming the SerLCD
     + Chapter 10 Digital communication protocols: I2C and SPI
       + Sparkfun SerLCD I2C and SPI code examples
     
-    
-
     
 <A NAME="P68"></A>
 <HR>
