@@ -1781,6 +1781,7 @@ Sparkfun SerLCD features
 Sparkfun
   + [SparkFun 16x2 SerLCD - RGB Text (Qwiic)](https://www.sparkfun.com/products/16397) 
   + [Amazon](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details)  
+  + YouTube [Sparkfun SerLCD](https://www.youtube.com/results?search_query=Sparkfun+SerLCD)
     
 Raspberry Pi Pico progarmming the SerLCD
   + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
