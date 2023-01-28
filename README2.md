@@ -1961,6 +1961,8 @@ Program credit
 </p>
     
 
+Above images are the 96 prinable [ASCII characters](https://en.wikipedia.org/wiki/ASCII) 32 to 127.    
+
 MicroPython program    
     
 <PRE>
