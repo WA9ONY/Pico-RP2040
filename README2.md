@@ -1962,7 +1962,8 @@ Program credit
     
 
 Above images are the 96 prinable [ASCII characters](https://en.wikipedia.org/wiki/ASCII) 32 to 127.    
-
+The following ASCII characters are missing: /, |, }, ~   
+    
 MicroPython program    
     
 <PRE>
