@@ -1910,7 +1910,7 @@ Program credit
    
 <A NAME="P70"></A>
 <HR>
-<P align="center"><A HREF="#P69">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P69">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P71">--&gt;</A></P>  
     
 # Project 70: Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"
    
@@ -1948,12 +1948,50 @@ Program credit
   + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
     + Chapter 10 Digital communication protocols: I2C and SPI
       + I2C temperature code examples
-        
+
+    
+<A NAME="P71"></A>
+<HR>
+<P align="center"><A HREF="#P70">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 71: Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test
+   
+<p align="center">
+<img width="618" height="847" src="/Images/SerLEDchrs618.png">  
+</p>
+    
+
+MicroPython program    
+    
+<PRE>
+
+import machine
+import utime
+sda=machine.Pin(0)
+scl=machine.Pin(1)
+i2c=machine.I2C(0,sda=sda, scl=scl, freq=100000)
+i2c.writeto(114, '\x7C')
+i2c.writeto(114, '\x2D')
+
+for i in range( 32, 128) :
+    c = chr(i)
+    i2c.writeto(114, c)
+    utime.sleep(1)
+    
+</PRE>    
+
+Program credit
+  + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+    + Chapter 10 Digital communication protocols: I2C and SPI
+      + I2C code examples
+    
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P70">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P71">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
