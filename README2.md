@@ -1600,7 +1600,7 @@ Fritzing Videos
 Videos
 + [The Arduino Simulator you’ve been looking for!](https://youtu.be/6uz1sCA9joc)   
 + YouTube Tinkercad Arduino [list](https://www.youtube.com/results?search_query=tinkercad+arduino)    
-
++ Arduino UNO Tutorial #1 - Intro to Arduino w/TinkerCAD Circuits [video](https://youtu.be/3kDMYomFw5o)
     
 <A NAME="P62"></A>
 <HR>
@@ -1658,8 +1658,6 @@ Reference
     
 Videos
 + YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
-
-    
 
     
 <A NAME="P64"></A>
@@ -2013,8 +2011,8 @@ Program credit
 + CircuitPython tutorial.
 + RPi Bookshelf.
 + Photo/image for each project
-
-  
++ #372 How to use the two Cores of the Pi Pico? And how fast are Interrupts? [video](https://youtu.be/9vvobRfFOwk)
++ Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14) 
   
   
 
