@@ -473,6 +473,7 @@ Ham radio microcontroller books table 1.1.
 + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
   + The best Pico book to start with.
   + Also found in MagPi [books](https://magpi.raspberrypi.com/books)
+  + Raspberry Pi Pico MicroPython {play list](https://www.youtube.com/watch?v=IgUupJIRKrk&list=PLKAB78-HH7CZDVrBwvS81cbCVF6rQuwA3)
 + Get Started With Arduino, 180 pages [PDF](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)   
 
 ## Raspberry Pi
