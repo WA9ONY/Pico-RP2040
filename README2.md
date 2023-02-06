@@ -1953,7 +1953,7 @@ Program credit
     
 <A NAME="P71"></A>
 <HR>
-<P align="center"><A HREF="#P70">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P70">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P72">--&gt;</A></P>  
     
 # Project 71: Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test
    
@@ -1988,8 +1988,16 @@ Program credit
     + Chapter 10 Digital communication protocols: I2C and SPI
       + I2C code examples
     
+
     
+<A NAME="P72"></A>
+<HR>
+<P align="center"><A HREF="#P71">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 72: Raspberry Pi Pic I2C MicroPython
+    
+Videos
++ Raspberry Pi PICO | Starting With MicroPython + Examples | I2C OLED, ADC, PWM [video](https://youtu.be/zlKJ5hvfs6s)    
     
 <A NAME="FUTURE"></A>
 <HR>
