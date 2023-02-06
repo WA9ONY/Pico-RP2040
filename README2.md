@@ -1009,6 +1009,9 @@ YouTube [Arduino IoT Cloud 2021 - Getting Started with Arduino & ESP32](https://
    + Monitor was very helpful showing the LED 
    + No connect to mqtts-sa.iot.arduino.cc:8883 
    + Added a green blinking LED on OPLA #4 RGB LED to show that the OPLA was working. 
+
+Arduino Cloud for Education [video](https://arduino-cc.zoom.us/rec/play/pd16AKovW77poi8aN4jEgvSFMIGQeTaQRdFdfEZS06wvnzl4oZsFFvJcvte6EJzVm0yTbvP85OfuEkGp.nR5g_e1d2-eDO04i?continueMode=true&_x_zm_rtaid=LD8wiF_7QiulbkKV5Amgrw.1675621796125.34037e0ced17b8fd9846df376c31be23&_x_zm_rhtaid=310)    
+    
 <PRE>
 Sd card not detected
 WiFi.status(): 0
