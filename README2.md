@@ -1995,8 +1995,13 @@ Program credit
 <P align="center"><A HREF="#P71">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 72: Raspberry Pi Pic I2C MicroPython
+<p align="center">
+<img width="1162" height="621" src="/Images/I2Cscan.png">  
+</p>
     
-
+The above image shows a Raspberry Pi Pico MicroPython I2C program scanning the I2C bus for I2C devices.  A I2C device was found at I2C address 114.
+The IDE is Thonny on a Raspberry Pi 400. 
+    
 I2C MicroPython Hello World
 
 <PRE>
