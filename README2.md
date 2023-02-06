@@ -1996,8 +1996,60 @@ Program credit
     
 # Project 72: Raspberry Pi Pic I2C MicroPython
     
+
+I2C MicroPython Hello World
+
+<PRE>
+
+import machine
+sda=machine.Pin(0)
+scl=machine.Pin(1)
+i2c=machine.I2C(0,sda=sda, scl=scl, freq=200000)
+i2c.writeto(114, '\x7C')
+i2c.writeto(114, '\x2D')
+i2c.writeto(114, "hello world     I2C 200kHz")
+      
+</PRE>    
+ 
+I2C MicroPython Temp
+
+<PRE>
+
+import machine
+import utime
+sda=machine.Pin(0)
+scl=machine.Pin(1)
+i2c=machine.I2C(0,sda=sda, scl=scl, freq=200000)
+adc = machine.ADC(4)
+conversion_factor = 3.3 / (65535)
+while True:
+ reading = adc.read_u16() * conversion_factor
+ temperature = 25 - (reading - 0.706)/0.001721
+ i2c.writeto(114, '\x7C')
+ i2c.writeto(114, '\x2D')
+ out_string = "Temp: " + str(temperature)
+ i2c.writeto(114, out_string)
+ utime.sleep(2)
+      
+</PRE>    
+     
+
+I2C MicroPython Error
+
+<PRE>
+
+Traceback (most recent call last):
+  File "<stdin>", line 12, in <module>
+OSError: [Errno 5] EIO
+      
+</PRE>    
+     
+    
 Videos
 + Raspberry Pi PICO | Starting With MicroPython + Examples | I2C OLED, ADC, PWM [video](https://youtu.be/zlKJ5hvfs6s)    
+    
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
