@@ -2001,6 +2001,18 @@ Program credit
     
 The above image shows a Raspberry Pi Pico MicroPython I2C program scanning the I2C bus for I2C devices.  A I2C device was found at I2C address 114.
 The IDE is Thonny on a Raspberry Pi 400. 
+
+<p align="center">
+<img width="600" height="464" src="/Images/I2CPico600.png">  
+</p>
+   
+Image credit
+  + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
+    + Chapter 10 Digital communication protocols: I2C and SPI    
+
+The Raspberry Pi Pico has two I2C controllers (0 & 1) which can be assigned to various pairs of pins. The I2C controller used is 0 on pins 1 and 2 (GP0 & GP1).   
+  
+MicroPython Raspberry Pi Pico [functions](https://docs.micropython.org/en/latest/rp2/quickref.html)    
     
 I2C MicroPython Hello World
 
