@@ -2053,6 +2053,8 @@ while True:
 
 I2C MicroPython Error
 
+The below error message occured when useing I2C frequency of 200000 or greater.  I use I2C frequency of 100000.   
+    
 <PRE>
 
 Traceback (most recent call last):
