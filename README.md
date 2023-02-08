@@ -119,7 +119,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 69: <A HREF="README2.md#P69">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "hello"</A>
 + Project 70: <A HREF="README2.md#P70">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"</A>
 + Project 71: <A HREF="README2.md#P71">Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test</A>
-+ Project 72: <A HREF="README2.md#P72">Raspberry Pi Pic I2C MicroPython</A> 
++ Project 72: <A HREF="README2.md#P72">Raspberry Pi Pic I2C MicroPython</A>
++ Project 73: <A HREF="README2.md#P73">Adafruit STEMMA & STEMMA QT</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
