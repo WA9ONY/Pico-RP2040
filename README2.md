@@ -1710,15 +1710,15 @@ Videos
 <HR>
 <P align="center"><A HREF="#P65">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P67">--&gt;</A></P>  
     
-# Project 66: Sparkfun QWIIC
+# Project 66: Sparkfun Qwiic
   
 <p align="center">
 <img width="600" height="326" src="/Images/QWIIC600.png">  
 </p>
    
-Sparkfun QWIIC is a small I2C 4-pin JST connector, 1mm pitch: 3.3 V power, ground, I2C data and I2C clock.  
+Sparkfun Qwiic is a small I2C 4-pin JST connector, 1mm pitch: 3.3 V power, ground, I2C data and I2C clock.  
     
-The above image is a QWIIC connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
+The above image is a Qwiic connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 No soldering [Qwiic cable](https://www.sparkfun.com/products/17912) between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.    
 
 Sparkfun Qwiic benfits
@@ -1731,7 +1731,7 @@ Sparkfun Qwiic benfits
 + Input voltage: 3.3V-9V (3.3V only via Qwiic connector and "+" pin)    
     
 Tutorials    
-+ SparkFun (OVERVIEW | PRODUCTS | FAQS | RESOURCES  ) [QWIIC](https://www.sparkfun.com/qwiic)     
++ SparkFun (OVERVIEW | PRODUCTS | FAQS | RESOURCES  ) [Qwiic](https://www.sparkfun.com/qwiic)     
     
 Videos
 + YouTube [QWIIC list](https://www.youtube.com/results?search_query=QWIIC)    
@@ -2074,11 +2074,23 @@ Videos
 <P align="center"><A HREF="#P72">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 73: Adafruit STEMMA & STEMMA QT
- 
-Adafruit STEMMA QT is compatible with the Sparkfun Qwiic I2C connector.
-    
-Adafruit  STEMMA & STEMMA QT products [list](https://www.adafruit.com/category/1005)   
 
+STEMMA QT is an easy way to connect micorcontroller development boards to sensor boards, IC boards, motor controller boards, and all kinds of boards without soldering. STEMMA QT can be connected in a dasiy chain with some STEMMA QT boards with two STEMMA QT commectors.   
+STEMMA QT is a very small 4 pin connector that is popular for I2C communications plus power and ground.
+    
+Adafruit STEMMA QT is compatible with the <A HREF="README2.md#P66">Sparkfun Qwiic</A> I2C connector.
+Adafruit STEMMA QT is compatible with the Seeed Grove via simple adapter.
+    
+Adafruit STEMMA & STEMMA QT products [list](https://www.adafruit.com/category/1005)   
+   
+Video
++ What is Stemma QT? [YouTube short](https://youtube.com/shorts/6GXRRuFuFy0?feature=share)  
++ Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14)
++ Raspberry Pi School - Using STEMMA QT on a Raspberry Pi [video](https://youtu.be/-d0rOHjntAo)    
+    
+STEMMA QT logo
+    
+    
     
     
 <A NAME="FUTURE"></A>
