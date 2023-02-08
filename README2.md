@@ -1648,20 +1648,42 @@ LED kit
 # Project 63: I2C: Inter-Integrated Circuit
 
 I2C is a serial communication bus for two inter-intergrated circuits to communicate with each other.
-Most microcontroller support the I2C bus.    
-
+Most microcontroller support the I2C bus. 
+    
+I2C speeds
++ 100 kHz
++ 400 kHz    
++ 1 MHz Fm+: Fast mode, fastest speed for bidirectional 
++ 3.4 MHz    
++ 5 MHz UFm: Ultra Fast-mode
+    
 Tutorials    
 + SparkFun I2C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
 + TronicsBench  I2C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
 + Arduino [I2C](https://docs.arduino.cc/learn/communication/wire)
 + Adafruit [I2C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
     
-Reference    
-+ [Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C)   
+Reference PDFs   
++ NXP I2C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
++ UM10204 I2C-bus specification and user manual [Rev. 7.0 — 1 October 2021, 62 pages](https://www.pololu.com/file/0J435/UM10204.pdf)    
++ UM10204 I2C-bus specification and user manual [Rev. 03 — 19 June 2007, 50 pages](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/NXP-I2C-Specification.pdf) 
++ THE I2C-BUS SPECIFICATION VERSION 2.1 [JANUARY 2000, 46 pages](https://www.csd.uoc.gr/~hy428/reading/i2c_spec.pdf)
+
+Analog Devices
++ I2C Primer: What is I2C? ([Part 1](https://www.analog.com/en/technical-articles/i2c-primer-what-is-i2c-part-1.html))     
++ I2C Timing: Definition and Specification Guide ([Part 2](https://www.analog.com/en/technical-articles/i2c-timing-definition-and-specification-guide-part-2.html))
+
+Texas Instruments    
++ Understanding the I2C Bus ([Application ReportSLVA704–June 2015, 8 pages](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1675791944920&ref_url=https%253A%252F%252Fwww.google.com%252F))     
+ 
+Reference URLs   
++ [I2C-Bus](https://www.i2c-bus.org/)
++ [I2C Info](https://i2c.info/i2c-bus-specification)    
++ [Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C)
     
 Videos
 + YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
-+ NXP [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
++ NXP 5 MHz UFm [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
     
 <A NAME="P64"></A>
 <HR>
