@@ -1542,8 +1542,7 @@ Over-the-Air Updates Requirements
 + [Circuit simulation](https://blog.fritzing.org/2022/06/27/Simulating-Circuits-with-Fritzing)
 + Circuit board design
 + Order circuit board    
-
-    
+ 
 <p align="center">
 <img width="624" height="566" src="/Images/FritzingUNOsch.png">  
 </p>    
@@ -1646,7 +1645,13 @@ LED kit
 <P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
     
 # Project 63: I2C: Inter-Integrated Circuit
+ 
+<p align="center">
+<img width="210" height="231" src="/Images/I2Clogo.png">  
+</p>    
 
+Above image credit:     
+    
 I2C is a serial communication bus for two inter-intergrated circuits to communicate with each other.
 Most microcontroller support the I2C bus. 
     
