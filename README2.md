@@ -1716,7 +1716,7 @@ Videos
 <img width="600" height="326" src="/Images/QWIIC600.png">  
 </p>
    
-Sparkfun Qwiic is a small I2C 4-pin JST connector, 1mm pitch: 3.3 V power, ground, I2C data and I2C clock.  
+[Sparkfun](https://www.sparkfun.com/) Qwiic is a small I2C 4-pin JST connector, 1mm pitch: 3.3 V power, ground, I2C data and I2C clock.  
     
 The above image is a Qwiic connection on an [OLED display](https://www.amazon.com/dp/B08H9PY88T?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 No soldering [Qwiic cable](https://www.sparkfun.com/products/17912) between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.    
@@ -1736,6 +1736,8 @@ Tutorials
 Videos
 + YouTube [QWIIC list](https://www.youtube.com/results?search_query=QWIIC)    
 
+Sparkfun Qwiic product [list](https://www.sparkfun.com/qwiic#products)    
+    
 SparkFun Qwiic Cable Kit    
 + [Amamzon](https://www.amazon.com/gp/product/B07RB2LRH5/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
 
