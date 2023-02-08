@@ -1661,7 +1661,7 @@ Reference
     
 Videos
 + YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
-
++ NXP [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
     
 <A NAME="P64"></A>
 <HR>
