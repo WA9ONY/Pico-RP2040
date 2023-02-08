@@ -1650,10 +1650,12 @@ LED kit
 <img width="210" height="231" src="/Images/I2Clogo.png">  
 </p>    
 
-Above image credit:     
+Above image credit: [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf)    
     
 I2C is a serial communication bus for two inter-intergrated circuits to communicate with each other.
 Most microcontroller support the I2C bus. 
+
+I2C is a serial half-duplex protocl using two open collector wires for data and clock.     
     
 I2C speeds
 + 100 kHz
