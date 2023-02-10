@@ -2134,6 +2134,12 @@ STEMMA QT logo
 <img width="960" height="540" src="/Images/TDSSerLED1_960.png">  
 </p>
 
+In the above image is
++ At the top center is a Tektrinix TDS 784C Oscilloscope to measure the I2C SDA and SCL waveforms.
+  + Below the the TDS 784C is a HDMI display showing the DS 784C display.  
++ To the right is a Raspberry Pi P 400 IDE runining Thonny with MicroPython.
++ Lower center on the white bread board is the Raspberry Pi Pico connected to Sparkfun SerLED 16 x 2 disply with Qwiic cable.
+    
     
     
     
