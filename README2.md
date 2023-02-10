@@ -2140,6 +2140,9 @@ In the above image is
 + To the right is a Raspberry Pi P 400 IDE runining Thonny with MicroPython.
 + Lower center on the white bread board is the Raspberry Pi Pico connected to Sparkfun SerLED 16 x 2 disply with Qwiic cable.
     
+<p align="center">
+<img width="600" height="476" src="/Images/PicoSerLED600.png">  
+</p>
     
     
     
