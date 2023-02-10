@@ -121,6 +121,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 71: <A HREF="README2.md#P71">Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test</A>
 + Project 72: <A HREF="README2.md#P72">Raspberry Pi Pic I2C MicroPython</A>
 + Project 73: <A HREF="README2.md#P73">Adafruit STEMMA & STEMMA QT</A>
++ Project 74: <A HREF="README2.md#P74">I2C Waveforms</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
