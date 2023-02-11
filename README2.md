@@ -1669,6 +1669,13 @@ Tutorials
 + TronicsBench  I2C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
 + Arduino [I2C](https://docs.arduino.cc/learn/communication/wire)
 + Adafruit [I2C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
+
+<p align="right">
+<img width="315" height="415" src="/Images/I2Cbook.png">  
+</p>    
+    
+Book
++  The Book of I²C: A Guide for Adventurers, October 11, 2022, [440 pages](https://www.amazon.com/Book-I%C2%B2C-Guide-Adventurers/dp/171850246X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676149298&sr=1-1)    
     
 Reference PDFs   
 + NXP I2C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
@@ -1681,8 +1688,13 @@ Analog Devices
 + I2C Timing: Definition and Specification Guide ([Part 2](https://www.analog.com/en/technical-articles/i2c-timing-definition-and-specification-guide-part-2.html))
 
 Texas Instruments    
-+ Understanding the I2C Bus ([Application ReportSLVA704–June 2015, 8 pages](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1675791944920&ref_url=https%253A%252F%252Fwww.google.com%252F))     
- 
++ Understanding the I2C Bus ([Application Report SLVA704–June 2015, 8 pages](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1675791944920&ref_url=https%253A%252F%252Fwww.google.com%252F)) 
++ Choosing the Correct I
+2C Device for New Designs ([Application Report SLVA787–September 2016, 12 pages](https://www.ti.com/lit/an/slva787/slva787.pdf?ts=1676148312755&ref_url=https%253A%252F%252Fwww.google.com%252F))     
+
+NXP
++  I2C-bus Components Selection Guide, 31 page [PDF](https://www.mouser.com/datasheet/2/302/75017443-260510.pdf)   
+    
 Reference URLs   
 + [I2C-Bus](https://www.i2c-bus.org/)
 + [I2C Info](https://i2c.info/i2c-bus-specification)    
@@ -1691,6 +1703,14 @@ Reference URLs
 Videos
 + YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
 + NXP 5 MHz UFm [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
+ 
+##  I2C Product Lists
++ Amazon I2C [list](https://www.amazon.com/s?k=I2C&crid=NLQX11HKFOC2&sprefix=i2c%2Caps%2C155&ref=nb_sb_noss_1) 
++ Adafruit I2C [list](https://www.adafruit.com/?q=I2C&sort=BestMatch)     
++ Adafruit I2C Address [list](https://learn.adafruit.com/i2c-addresses/the-list)     
++ Sparkfun I2C [list](https://www.sparkfun.com/search/results?term=I2C)
++ I2C Device [list](https://i2cdevices.org/devices)    
++ Seeed Studio I2C address [list](https://wiki.seeedstudio.com/I2C_And_I2C_Address_of_Seeed_Product/)    
     
 <A NAME="P64"></A>
 <HR>
