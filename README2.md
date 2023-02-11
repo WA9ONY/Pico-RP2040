@@ -2150,7 +2150,17 @@ In the above image is
 <img width="960" height="540" src="/Images/I2Cnak960.png">  
 </p>
     
-       
++ Both the Raspberry Pi Pico development board and the Sparkfun SerLED are 3.3 V devices.  Therefore, the two I2C lines SDA and SCL have pull up resistors to 3.3 V.  
++ Oscilloscope channel 2 (blue) is attached to the I2C SDA line.  The oscilloscope measures SDA high to be 2.24 V which is close to the 3.3 V..
++ Oscilloscope channel 3 (yellow) is attached to the I2C SCL line.  The oscilloscope measures SCL high to be 2.20 V which is close to the 3.3 V.
+I2C start is when the SDA goes low when the SCL is high.  The oscilloscope first cursor is position at the first vertical division.
++ This I2C packet is composed of nine SCL pulses. SDA changes when SCL is low.  SDA is stable and is read when SCL is high. 
++ The first seven SCL are for the seven bit I2C address (0 to 127).
++ Sparkfun I2C address is 114, x32, b1110010.  MSB (most significant bit) is sent first.    
++ The eight SCL after the I2C address is the read/write bit. 
++ The ninth SCL bit is for the Sparkfun SerLED to acknowledge the I2C master Raspberry Pi Pico controller.  Nak (not acknowledge) is when the SDA is high as shown in the above the screen shot.  
++ The end of the I2C packet is at 6.5 division, cursor #2.  The end is when the SDA rises when SCL is high.
+    
     
 <A NAME="FUTURE"></A>
 <HR>
