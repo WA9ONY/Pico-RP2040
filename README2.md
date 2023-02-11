@@ -2147,8 +2147,8 @@ In the above image is
 Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The Qwiix color pinout is 
 + Red: 3.3 Vdc to Pico 3V3(out) pin 36
 + Black: ground to Pico GND pin 38
-+ Blue: serial data - SDA to Pico I2C0 SDA pin 1
-+ Yellow: serial clock - SCK  to Pico I2C0 SCL pin 2 
++ Blue: serial data - SDA to Pico I2C0 SDA pin 1,  oscilloscope channel 2 green waveform
++ Yellow: serial clock - SCK  to Pico I2C0 SCL pin 2, oscilloscope channel 3 yellow waveform
    
 ## I2C Address 114, write & Nak from the slave    
 <p align="center">
