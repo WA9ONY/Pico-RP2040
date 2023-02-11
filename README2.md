@@ -2145,7 +2145,12 @@ In the above image is
 </p>
     
     
+## I2C Address 114, write & Nak from the slave    
+<p align="center">
+<img width="960" height="540" src="/Images/I2Cnak960.png">  
+</p>
     
+       
     
 <A NAME="FUTURE"></A>
 <HR>
