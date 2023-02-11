@@ -2149,6 +2149,8 @@ In the above image is
 <p align="center">
 <img width="960" height="540" src="/Images/I2Cnak960.png">  
 </p>
+
+The above screen shot shows the Raspberry Pi Pico I2C controller is requesting to write to the Sparkfun SerLED I2C slave at address 114.  The Sparkfun SerLED responded with a not acknowledge.  If the  Sparkfun SerLED I2C slave did not understand the request an automatic not acknowledge is the default response if the slave does nothing.      
     
 + Both the Raspberry Pi Pico development board and the Sparkfun SerLED are 3.3 V devices.  Therefore, the two I2C lines SDA and SCL have pull up resistors to 3.3 V.  
 + Oscilloscope channel 2 (blue) is attached to the I2C SDA line.  The oscilloscope measures SDA high to be 2.24 V which is close to the 3.3 V..
