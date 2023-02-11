@@ -617,7 +617,7 @@ For example, a microcontroller with a temperature sensor can be used as a remote
 #  Project 7: RP2040 Microcontroller Introduction
 
 <p align="center">
-<img width="308" height="308" src="/Images/RP2040.png">  
+<img width="600" height="286" src="/Images/RP2040chip600.png">  
 </p> 
     
 Rasperry Pi Pico boards area  new popular low cost, powerful [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) that was created for education, makers, hobbyiest, etc. in January 2021. In less than two years over 2 million have been sold.  The RP2040 is the microcontroller IC used in the Pico boards.  The RP2040 is sold for $1 and is used by many other companies to create boards that include the RP2040.
