@@ -1652,7 +1652,7 @@ LED kit
 
 Above image credit: [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf)    
     
-I2C is a serial communication bus for two inter-intergrated circuits to communicate with each other.
+I2C is a two wire (SDA & SCL) serial communication bus for a master and slave to communicate with each other.
 Most microcontroller support the I2C bus. 
 
 I2C is a serial half-duplex protocl using two open collector wires for data and clock.     
@@ -1676,6 +1676,9 @@ Tutorials
     
 Book
 +  The Book of I²C: A Guide for Adventurers, October 11, 2022, [440 pages](https://www.amazon.com/Book-I%C2%B2C-Guide-Adventurers/dp/171850246X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676149298&sr=1-1)    
+  + Randall Hyde [webesite](https://www.randallhyde.com)
+    
+    
     
 Reference PDFs   
 + NXP I2C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
