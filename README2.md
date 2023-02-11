@@ -1670,9 +1670,9 @@ Tutorials
 + Arduino [I2C](https://docs.arduino.cc/learn/communication/wire)
 + Adafruit [I2C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
 
-<p align="right">
-<img width="315" height="415" src="/Images/I2Cbook.png">  
-</p>    
+ 
+<img align="right" width="315" height="415" src="/Images/I2Cbook.png">  
+    
     
 Book
 +  The Book of I²C: A Guide for Adventurers, October 11, 2022, [440 pages](https://www.amazon.com/Book-I%C2%B2C-Guide-Adventurers/dp/171850246X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676149298&sr=1-1)    
@@ -1709,8 +1709,10 @@ Videos
 + Adafruit I2C [list](https://www.adafruit.com/?q=I2C&sort=BestMatch)     
 + Adafruit I2C Address [list](https://learn.adafruit.com/i2c-addresses/the-list)     
 + Sparkfun I2C [list](https://www.sparkfun.com/search/results?term=I2C)
-+ I2C Device [list](https://i2cdevices.org/devices)    
 + Seeed Studio I2C address [list](https://wiki.seeedstudio.com/I2C_And_I2C_Address_of_Seeed_Product/)    
++ I2C Device [list](https://i2cdevices.org/devices)  
+    
+    
     
 <A NAME="P64"></A>
 <HR>
