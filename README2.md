@@ -1669,18 +1669,17 @@ Tutorials
 + TronicsBench  I2C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
 + Arduino [I2C](https://docs.arduino.cc/learn/communication/wire)
 + Adafruit [I2C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
-
  
 <img align="right" width="315" height="415" src="/Images/I2Cbook.png">  
     
-    
 Book
-+  The Book of I²C: A Guide for Adventurers, October 11, 2022, [440 pages](https://www.amazon.com/Book-I%C2%B2C-Guide-Adventurers/dp/171850246X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676149298&sr=1-1)    
-  + The Book of I2C [webesite](https://bookofi2c.randallhyde.com/)
-  + Book [GitHub](https://github.com/ttribelli/TheBookofI2C/releases)
-  + TheBookofI2C [GitHub](https://github.com/ttribelli/TheBookofI2C)
-  + Book [forum](https://forums.randallhyde.com/viewforum.php?f=8&sid=06935a8f005937ab47ecb0973fd93711)  
-  + Randall Hyde [webesite](https://www.randallhyde.com)
++  The Book of I²C: A Guide for Adventurers, October 11, 2022, [440 pages](https://www.amazon.com/Book-I%C2%B2C-Guide-Adventurers/dp/171850246X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676149298&sr=1-1) 
+    + The Book of I2C [On-line Chapters](https://bookofi2c.randallhyde.com/I2COnline/I2COnline.html) 
+    + The Book of I2C [webesite](https://bookofi2c.randallhyde.com/)
+    + Book [GitHub](https://github.com/ttribelli/TheBookofI2C/releases)
+    + TheBookofI2C [GitHub](https://github.com/ttribelli/TheBookofI2C)
+    + Book [forum](https://forums.randallhyde.com/viewforum.php?f=8&sid=06935a8f005937ab47ecb0973fd93711)  
+    + Randall Hyde [webesite](https://www.randallhyde.com)
     
 Reference PDFs   
 + NXP I2C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
