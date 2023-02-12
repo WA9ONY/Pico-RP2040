@@ -110,7 +110,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 60: <A HREF="README2.md#P60">Fritzing</A>
 + Project 61: <A HREF="README2.md#P61">Tinkercad Arduino Simulator</A>
 + Project 62: <A HREF="README2.md#P62">LED: Light-emitting Diode</A>
-+ Project 63: <A HREF="README2.md#P63">I2C: Inter-Integrated Circuit</A>
++ Project 63: <A HREF="README2.md#P63">I²C: Inter-Integrated Circuit</A>
 + Project 64: <A HREF="README2.md#P64">SPI: Serial Peripheral Interface</A>
 + Project 65: <A HREF="README2.md#P65">OLED: Organic Light-Emitting Diode</A>
 + Project 66: <A HREF="README2.md#P66">Sparkfun Qwiic</A>
@@ -119,9 +119,10 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 69: <A HREF="README2.md#P69">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "hello"</A>
 + Project 70: <A HREF="README2.md#P70">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"</A>
 + Project 71: <A HREF="README2.md#P71">Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test</A>
-+ Project 72: <A HREF="README2.md#P72">Raspberry Pi Pic I2C MicroPython</A>
++ Project 72: <A HREF="README2.md#P72">Raspberry Pi Pic I²C MicroPython</A>
 + Project 73: <A HREF="README2.md#P73">Adafruit STEMMA & STEMMA QT</A>
-+ Project 74: <A HREF="README2.md#P74">I2C Waveforms</A>
++ Project 74: <A HREF="README2.md#P74">I²C Waveforms</A>
++ Project 75: <A HREF="README2.md#P75">Tennsy 4.1 Microcontroller Board</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
