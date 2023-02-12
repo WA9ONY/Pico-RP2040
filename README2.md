@@ -2048,12 +2048,12 @@ Program credit
 <HR>
 <P align="center"><A HREF="#P71">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P73">--&gt;</A></P>  
     
-# Project 72: Raspberry Pi Pic I2C MicroPython
+# Project 72: Raspberry Pi Pic I²C MicroPython
 <p align="center">
 <img width="1162" height="621" src="/Images/I2Cscan.png">  
 </p>
     
-The above image shows a Raspberry Pi Pico MicroPython I2C program scanning the I2C bus for I2C devices.  A I2C device was found at I2C address 114.
+The above image shows a Raspberry Pi Pico MicroPython I²C program scanning the I²C bus for I²C devices.  A I²C device was found at I²C address 114.
 The IDE is Thonny on a Raspberry Pi 400. 
 
 <p align="center">
@@ -2064,11 +2064,11 @@ Image credit
   + Get Started with MicroPython on Raspberry Pi Pico, 139 pages [PDF](https://hackspace.raspberrypi.com/books/micropython-pico) 
     + Chapter 10 Digital communication protocols: I2C and SPI    
 
-The Raspberry Pi Pico has two I2C controllers (0 & 1) which can be assigned to various pairs of pins. The I2C controller used is 0 on pins 1 and 2 (GP0 & GP1).   
+The Raspberry Pi Pico has two I²C controllers (0 & 1) which can be assigned to various pairs of pins. The I²C controller used is 0 on pins 1 and 2 (GP0 & GP1).   
   
 MicroPython Raspberry Pi Pico [functions](https://docs.micropython.org/en/latest/rp2/quickref.html)    
     
-I2C MicroPython Hello World
+I²C MicroPython Hello World
 
 <PRE>
 
@@ -2105,7 +2105,7 @@ while True:
 </PRE>    
      
 
-I2C MicroPython Error
+I²C MicroPython Error
 
 The below error message occured when useing I2C frequency of 200000 or greater.  I use I2C frequency of 100000.   
     
