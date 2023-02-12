@@ -1644,7 +1644,7 @@ LED kit
 <HR>
 <P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
     
-# Project 63: I2C: Inter-Integrated Circuit
+# Project 63: I²C: Inter-Integrated Circuit
  
 <p align="center">
 <img width="210" height="231" src="/Images/I2Clogo.png">  
@@ -1652,12 +1652,12 @@ LED kit
 
 Above image credit: [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf)    
     
-I2C is a two wire (SDA & SCL) serial communication bus for a master and slave to communicate with each other.
-Most microcontroller support the I2C bus. 
+I²C is a two wire (SDA & SCL) serial communication bus for a master and slave to communicate with each other.
+Most microcontroller support the I²C bus. 
 
-I2C is a serial half-duplex protocl using two open collector wires for data and clock.     
+I²C is a serial half-duplex protocl using two open collector wires for data and clock.     
     
-I2C speeds
+I²C speeds
 + 100 kHz
 + 400 kHz    
 + 1 MHz Fm+: Fast mode, fastest speed for bidirectional 
@@ -1665,57 +1665,55 @@ I2C speeds
 + 5 MHz UFm: Ultra Fast-mode
     
 Tutorials    
-+ SparkFun I2C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
-+ TronicsBench  I2C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
-+ Arduino [I2C](https://docs.arduino.cc/learn/communication/wire)
-+ Adafruit [I2C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
++ SparkFun I²C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
++ TronicsBench  I²C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
++ Arduino [I²C](https://docs.arduino.cc/learn/communication/wire)
++ Adafruit [I²C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
  
 <img align="right" width="315" height="415" src="/Images/I2Cbook.png">  
     
 Book
 +  The Book of I²C: A Guide for Adventurers, October 11, 2022, [440 pages](https://www.amazon.com/Book-I%C2%B2C-Guide-Adventurers/dp/171850246X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1676149298&sr=1-1) 
-    + The Book of I2C [On-line Chapters](https://bookofi2c.randallhyde.com/I2COnline/I2COnline.html) 
-    + The Book of I2C [webesite](https://bookofi2c.randallhyde.com/)
+    + The Book of I²C [On-line Chapters](https://bookofi2c.randallhyde.com/I2COnline/I2COnline.html) 
+    + The Book of I²C [webesite](https://bookofi2c.randallhyde.com/)
     + Book [GitHub](https://github.com/ttribelli/TheBookofI2C/releases)
-    + TheBookofI2C [GitHub](https://github.com/ttribelli/TheBookofI2C)
+    + TheBookofI²C [GitHub](https://github.com/ttribelli/TheBookofI2C)
     + Book [forum](https://forums.randallhyde.com/viewforum.php?f=8&sid=06935a8f005937ab47ecb0973fd93711)  
     + Randall Hyde [webesite](https://www.randallhyde.com)
     
 Reference PDFs   
-+ NXP I2C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
-+ UM10204 I2C-bus specification and user manual [Rev. 7.0 — 1 October 2021, 62 pages](https://www.pololu.com/file/0J435/UM10204.pdf)    
-+ UM10204 I2C-bus specification and user manual [Rev. 03 — 19 June 2007, 50 pages](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/NXP-I2C-Specification.pdf) 
++ NXP I²C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
++ UM10204 I²C-bus specification and user manual [Rev. 7.0 — 1 October 2021, 62 pages](https://www.pololu.com/file/0J435/UM10204.pdf)    
++ UM10204 I²C-bus specification and user manual [Rev. 03 — 19 June 2007, 50 pages](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/NXP-I2C-Specification.pdf) 
 + THE I2C-BUS SPECIFICATION VERSION 2.1 [JANUARY 2000, 46 pages](https://www.csd.uoc.gr/~hy428/reading/i2c_spec.pdf)
 
 Analog Devices
-+ I2C Primer: What is I2C? ([Part 1](https://www.analog.com/en/technical-articles/i2c-primer-what-is-i2c-part-1.html))     
-+ I2C Timing: Definition and Specification Guide ([Part 2](https://www.analog.com/en/technical-articles/i2c-timing-definition-and-specification-guide-part-2.html))
++ I²C Primer: What is I2C? ([Part 1](https://www.analog.com/en/technical-articles/i2c-primer-what-is-i2c-part-1.html))     
++ I²C Timing: Definition and Specification Guide ([Part 2](https://www.analog.com/en/technical-articles/i2c-timing-definition-and-specification-guide-part-2.html))
 
 Texas Instruments    
-+ Understanding the I2C Bus ([Application Report SLVA704–June 2015, 8 pages](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1675791944920&ref_url=https%253A%252F%252Fwww.google.com%252F)) 
-+ Choosing the Correct I
-2C Device for New Designs ([Application Report SLVA787–September 2016, 12 pages](https://www.ti.com/lit/an/slva787/slva787.pdf?ts=1676148312755&ref_url=https%253A%252F%252Fwww.google.com%252F))     
++ Understanding the I²C Bus ([Application Report SLVA704–June 2015, 8 pages](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1675791944920&ref_url=https%253A%252F%252Fwww.google.com%252F)) 
++ Choosing the Correct I²C Device for New Designs ([Application Report SLVA787–September 2016, 12 pages](https://www.ti.com/lit/an/slva787/slva787.pdf?ts=1676148312755&ref_url=https%253A%252F%252Fwww.google.com%252F))     
 
 NXP
-+  I2C-bus Components Selection Guide, 31 page [PDF](https://www.mouser.com/datasheet/2/302/75017443-260510.pdf)   
++  I²C-bus Components Selection Guide, 31 page [PDF](https://www.mouser.com/datasheet/2/302/75017443-260510.pdf)   
     
 Reference URLs   
-+ [I2C-Bus](https://www.i2c-bus.org/)
-+ [I2C Info](https://i2c.info/i2c-bus-specification)    
++ [I²C-Bus](https://www.i2c-bus.org/)
++ [I²C Info](https://i2c.info/i2c-bus-specification)    
 + [Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C)
     
 Videos
-+ YouTube [I2C list](https://www.youtube.com/results?search_query=I2C)    
++ YouTube [I²C list](https://www.youtube.com/results?search_query=I2C)    
 + NXP 5 MHz UFm [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
  
-##  I2C Product Lists
-+ Amazon I2C [list](https://www.amazon.com/s?k=I2C&crid=NLQX11HKFOC2&sprefix=i2c%2Caps%2C155&ref=nb_sb_noss_1) 
-+ Adafruit I2C [list](https://www.adafruit.com/?q=I2C&sort=BestMatch)     
-+ Adafruit I2C Address [list](https://learn.adafruit.com/i2c-addresses/the-list)     
-+ Sparkfun I2C [list](https://www.sparkfun.com/search/results?term=I2C)
-+ Seeed Studio I2C address [list](https://wiki.seeedstudio.com/I2C_And_I2C_Address_of_Seeed_Product/)    
-+ I2C Device [list](https://i2cdevices.org/devices)  
-    
+##  I²C Product Lists
++ Amazon I²C [list](https://www.amazon.com/s?k=I2C&crid=NLQX11HKFOC2&sprefix=i2c%2Caps%2C155&ref=nb_sb_noss_1) 
++ Adafruit I²C [list](https://www.adafruit.com/?q=I2C&sort=BestMatch)     
++ Adafruit I²C Address [list](https://learn.adafruit.com/i2c-addresses/the-list)     
++ Sparkfun I²C [list](https://www.sparkfun.com/search/results?term=I2C)
++ Seeed Studio I²C address [list](https://wiki.seeedstudio.com/I2C_And_I2C_Address_of_Seeed_Product/)    
++ I²C Device [list](https://i2cdevices.org/devices)  
     
     
 <A NAME="P64"></A>
