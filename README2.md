@@ -1685,7 +1685,7 @@ Reference PDFs
 + NXP I²C Manual [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf) 
 + UM10204 I²C-bus specification and user manual [Rev. 7.0 — 1 October 2021, 62 pages](https://www.pololu.com/file/0J435/UM10204.pdf)    
 + UM10204 I²C-bus specification and user manual [Rev. 03 — 19 June 2007, 50 pages](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs373/NXP-I2C-Specification.pdf) 
-+ THE I2C-BUS SPECIFICATION VERSION 2.1 [JANUARY 2000, 46 pages](https://www.csd.uoc.gr/~hy428/reading/i2c_spec.pdf)
++ THE I²C-BUS SPECIFICATION VERSION 2.1 [JANUARY 2000, 46 pages](https://www.csd.uoc.gr/~hy428/reading/i2c_spec.pdf)
 
 Analog Devices
 + I²C Primer: What is I2C? ([Part 1](https://www.analog.com/en/technical-articles/i2c-primer-what-is-i2c-part-1.html))     
@@ -2144,13 +2144,11 @@ Video
 + Raspberry Pi School - Using STEMMA QT on a Raspberry Pi [video](https://youtu.be/-d0rOHjntAo)    
     
 STEMMA QT logo
-    
-    
-    
+        
     
 <A NAME="P74"></A>
 <HR>
-<P align="center"><A HREF="#P73">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P73">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P75">--&gt;</A></P>  
     
 # Project 74: I2C Waveforms
 
@@ -2191,12 +2189,29 @@ I2C start is when the SDA goes low when the SCL is high.  The oscilloscope first
 + The eight SCL after the I2C address is the read/write bit. 
 + The ninth SCL bit is for the Sparkfun SerLED to acknowledge the I2C master Raspberry Pi Pico controller.  Nak (not acknowledge) is when the SDA is high as shown in the above the screen shot.  
 + The end of the I2C packet is at 6.5 division, cursor #2.  The end is when the SDA rises when SCL is high.
+        
+    
+<A NAME="P75"></A>
+<HR>
+<P align="center"><A HREF="#P74">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 75: Tennsy 4.1 Microcontroller Board
+    
+The Teensy® 4.1 microcontroller development board is a high performance small microcontroller.
+    
+ PJRCD
+    + [Teensy® 4.1 Development Board](https://www.pjrc.com/store/teensy41.html) 
+ 
+ Other store
+    + Adafruit [Teensy® 4.1](https://www.adafruit.com/product/4622)
+    + Amazon [Teensy® 4.1 list](https://www.amazon.com/s?k=teensy+4.1&crid=2XYX0KYR8OWUQ&sprefix=Teensy%C2%AE+4.1%2Caps%2C155&ref=nb_sb_ss_ts-doa-p_1_10)
+    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P74">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P75">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
