@@ -1900,14 +1900,14 @@ SerLCD commands from SerLCD.h
 <HR>
 <P align="center"><A HREF="#P67">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P69">--&gt;</A></P>  
     
-# Project 68: Raspberry Pi Pico I2C Scan
+# Project 68: Raspberry Pi Pico I²C Scan
      
 <p align="center">
 <img width="600" height="304" src="/Images/SerLCDScan600.png">  
 </p>
     
-The above image shows the Raspberry Pi Pico scanning I2C addresses and finding a I2C device at 114 decimal (x72 hex).  
-The I2C device is the Sparkfun SerLCD.
+The above image shows the Raspberry Pi Pico scanning I²C addresses and finding a I²C device at 114 decimal (x72 hex).  
+The I²C device is the Sparkfun SerLCD.
 No soldering [Qwiic cable](https://www.sparkfun.com/products/17912) between the Sparkfun SerLCD Qwiic connector to the Raspberry Pi Pico breadboard with the Qwiic cable pins.
     
 MicroPython program
@@ -2150,14 +2150,14 @@ STEMMA QT logo
 <HR>
 <P align="center"><A HREF="#P73">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P75">--&gt;</A></P>  
     
-# Project 74: I2C Waveforms
+# Project 74: I²C Waveforms
 
 <p align="center">
 <img width="960" height="540" src="/Images/TDSSerLED1_960.png">  
 </p>
 
 In the above image is
-+ At the top center is a Tektrinix TDS 784C Oscilloscope to measure the I2C SDA and SCL waveforms.
++ At the top center is a Tektrinix TDS 784C Oscilloscope to measure the I²C SDA and SCL waveforms.
   + Below the the TDS 784C is a HDMI display showing the TDS 784C display.  
 + To the right is a Raspberry Pi P 400 IDE runining Thonny with MicroPython.
 + Lower center on the white bread board is the Raspberry Pi Pico connected to Sparkfun SerLED 16 x 2 disply with Qwiic cable.
@@ -2172,23 +2172,23 @@ Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The
 + Blue: serial data - SDA to Pico I2C0 SDA pin 1,  oscilloscope channel 2 green waveform
 + Yellow: serial clock - SCK  to Pico I2C0 SCL pin 2, oscilloscope channel 3 yellow waveform
    
-## I2C Address 114, write & Nak from the slave    
+## I²C Address 114, write & Nak from the slave    
 <p align="center">
 <img width="960" height="540" src="/Images/I2Cnak960.png">  
 </p>
 
-The above screen shot shows the Raspberry Pi Pico I2C controller is requesting to write to the Sparkfun SerLED I2C slave at address 114.  The Sparkfun SerLED responded with a not acknowledge.  If the  Sparkfun SerLED I2C slave did not understand the request an automatic not acknowledge is the default response if the slave does nothing.      
+The above screen shot shows the Raspberry Pi Pico I2C controller is requesting to write to the Sparkfun SerLED I²C slave at address 114.  The Sparkfun SerLED responded with a not acknowledge.  If the  Sparkfun SerLED I²C slave did not understand the request an automatic not acknowledge is the default response if the slave does nothing.      
     
 + Both the Raspberry Pi Pico development board and the Sparkfun SerLED are 3.3 V devices.  Therefore, the two I2C lines SDA and SCL have pull up resistors to 3.3 V.  
-+ Oscilloscope channel 2 (blue) is attached to the I2C SDA line.  The oscilloscope measures SDA high to be 2.24 V which is close to the 3.3 V..
-+ Oscilloscope channel 3 (yellow) is attached to the I2C SCL line.  The oscilloscope measures SCL high to be 2.20 V which is close to the 3.3 V.
-I2C start is when the SDA goes low when the SCL is high.  The oscilloscope first cursor is position at the first vertical division.
-+ This I2C packet is composed of nine SCL pulses. SDA changes when SCL is low.  SDA is stable and is read when SCL is high. 
++ Oscilloscope channel 2 (blue) is attached to the I²C SDA line.  The oscilloscope measures SDA high to be 2.24 V which is close to the 3.3 V..
++ Oscilloscope channel 3 (yellow) is attached to the I²C SCL line.  The oscilloscope measures SCL high to be 2.20 V which is close to the 3.3 V.
+I²C start is when the SDA goes low when the SCL is high.  The oscilloscope first cursor is position at the first vertical division.
++ This I²C packet is composed of nine SCL pulses. SDA changes when SCL is low.  SDA is stable and is read when SCL is high. 
 + The first seven SCL are for the seven bit I2C address (0 to 127).
-+ Sparkfun I2C address is 114, x32, b1110010.  MSB (most significant bit) is sent first.    
-+ The eight SCL after the I2C address is the read/write bit. 
-+ The ninth SCL bit is for the Sparkfun SerLED to acknowledge the I2C master Raspberry Pi Pico controller.  Nak (not acknowledge) is when the SDA is high as shown in the above the screen shot.  
-+ The end of the I2C packet is at 6.5 division, cursor #2.  The end is when the SDA rises when SCL is high.
++ Sparkfun I²C address is 114, x32, b1110010.  MSB (most significant bit) is sent first.    
++ The eight SCL after the I²C address is the read/write bit. 
++ The ninth SCL bit is for the Sparkfun SerLED to acknowledge the I²C master Raspberry Pi Pico controller.  Nak (not acknowledge) is when the SDA is high as shown in the above the screen shot.  
++ The end of the I²C packet is at 6.5 division, cursor #2.  The end is when the SDA rises when SCL is high.
         
     
 <A NAME="P75"></A>
