@@ -2199,12 +2199,12 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
     
 The Teensy® 4.1 microcontroller development board is a high performance small microcontroller.
     
- PJRCD
-    + [Teensy® 4.1 Development Board](https://www.pjrc.com/store/teensy41.html) 
+PJRCD
+  + [Teensy® 4.1 Development Board](https://www.pjrc.com/store/teensy41.html) 
  
- Other store
-    + Adafruit [Teensy® 4.1](https://www.adafruit.com/product/4622)
-    + Amazon [Teensy® 4.1 list](https://www.amazon.com/s?k=teensy+4.1&crid=2XYX0KYR8OWUQ&sprefix=Teensy%C2%AE+4.1%2Caps%2C155&ref=nb_sb_ss_ts-doa-p_1_10)
+Other store
+ + Adafruit [Teensy® 4.1](https://www.adafruit.com/product/4622)
+ + Amazon [Teensy® 4.1 list](https://www.amazon.com/s?k=teensy+4.1&crid=2XYX0KYR8OWUQ&sprefix=Teensy%C2%AE+4.1%2Caps%2C155&ref=nb_sb_ss_ts-doa-p_1_10)
     
     
     
