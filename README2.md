@@ -2166,6 +2166,11 @@ In the above image is
 <img width="600" height="476" src="/Images/PicoSerLED600.png">  
 </p>
   
+ <p align="center">
+<img width="600" height="338" src="/Images/I2Cboard600.png">  
+</p>
+    
+    
 Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The Qwiix color pinout is 
 + Red: 3.3 Vdc to Pico 3V3(out) pin 36
 + Black: ground to Pico GND pin 38
