@@ -2204,7 +2204,13 @@ PJRCD
  
 Other store
  + Adafruit [Teensy® 4.1](https://www.adafruit.com/product/4622)
+ + Sparkfun  [Teensy® 4.1](https://www.sparkfun.com/products/16771)  
  + Amazon [Teensy® 4.1 list](https://www.amazon.com/s?k=teensy+4.1&crid=2XYX0KYR8OWUQ&sprefix=Teensy%C2%AE+4.1%2Caps%2C155&ref=nb_sb_ss_ts-doa-p_1_10)
+    
+Videos
+ + Sparkfun  [Teensy® 4.1](https://youtu.be/jDihQXEuhzI)
+ + Adafruit [Teensy® 4.1](https://www.youtube.com/watch?v=5nnlxpkdxTQ&t=334s)   
+ + YouTube Tennsy 4.1 [list](https://www.youtube.com/results?search_query=Tennsy+4.1)
     
     
     
