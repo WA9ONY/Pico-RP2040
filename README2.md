@@ -1652,24 +1652,23 @@ LED kit
 
 Above image credit: [AN10216-01, 51 pages](https://www.nxp.com/docs/en/application-note/AN10216.pdf)    
     
-I²C-bus is a two wire (SDA & SCL) serial communication bus for a master and slave to communicate with each other.
-Most microcontroller support the I²C bus. 
+I²C-bus is a two wire (SDA & SCL) serial communication bus for a controller and a target to communicate with each other.
+Most microcontroller support the I²C-bus and a wide varity of senors use the I²C-bus. For example, there can be [over ten sesnors](https://www.electronicproducts.com/the-venerable-i2c-bus/) in a cell phone use the I²C-bus.
 
-I²C-bus is a serial half-duplex protocl using two open collector wires for data and clock.     
+I²C-bus is a serial half-duplex protocl using two open collector/open drain wires for data and clock. 
     
-I²C-bus speeds
-+ 100 kHz
-+ 400 kHz    
-+ 1 MHz Fm+: Fast mode, fastest speed for bidirectional 
+Seven bit address is the most common, there is a specification for 10-bit addressing with is not commonly used.    
+
+Controller (master) controls the bus, target (slave or peripheral) waits for the controller.    
+    
+I²C-bus speed [history](https://www.electronicproducts.com/the-venerable-i2c-bus/)
++ 1982: 100 kHz, I²C-bus can go slower.
++ 1992: 400 kHz, High Speed mode    
++ 2007: 1 MHz Fm+, Fast-mode Plus, fastest speed for bidirectional 
 + 3.4 MHz    
-+ 5 MHz UFm: Ultra Fast-mode
++ 2012: 5 MHz UFm, Ultra Fast-mode
     
-Tutorials    
-+ SparkFun I²C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
-+ TronicsBench  I²C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
-+ Arduino [I²C](https://docs.arduino.cc/learn/communication/wire)
-+ Adafruit [I²C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
- 
+
 <img align="right" width="315" height="415" src="/Images/I2Cbook.png">  
     
 Book
@@ -1706,7 +1705,13 @@ Reference URLs
 Videos
 + YouTube [I²C-bus list](https://www.youtube.com/results?search_query=I2C)    
 + NXP 5 MHz UFm [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
- 
+
+Tutorials    
++ SparkFun I²C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
++ TronicsBench  I²C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
++ Arduino [I²C](https://docs.arduino.cc/learn/communication/wire)
++ Adafruit [I²C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
+  
 ##  I²C Product Lists
 In 1998 the I²C-bus [specification](https://www.csd.uoc.gr/~hy428/reading/i2c_spec.pdf) reported "The I2C-bus has become a de facto world standard that is now implemented in over 1000 different ICs and licensed to more than 50 companies."    
     
