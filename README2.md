@@ -1707,11 +1707,26 @@ Videos
 + NXP 5 MHz UFm [video](https://www.nxp.com/video/i2c-ultra-fast-mode-ufm-debuts-on-nxp-devices:I2C-ULTRA-FASTMODE-UFM)
 
 Tutorials    
++ Adafruit [I²C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)
++ Arduino [I²C](https://docs.arduino.cc/learn/communication/wire)
++ Seeed Studio [I2C Communication Protocol and How It Works](https://www.seeedstudio.com/blog/2022/09/02/i2c-communication-protocol-and-how-it-works/)
 + SparkFun I²C [tutorial](https://learn.sparkfun.com/tutorials/i2c/all)    
 + TronicsBench  I²C [tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)   
-+ Arduino [I²C](https://docs.arduino.cc/learn/communication/wire)
-+ Adafruit [I²C](https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices)    
-  
++ Circuit Basics: [BASICS OF THE I2C COMMUNICATION PROTOCOL](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/)    
++ All About Circuits: [Introduction to the I2C Bus](https://www.allaboutcircuits.com/technical-articles/introduction-to-the-i2c-bus/)
++ Circuits Crush: [All About I2C](https://www.circuitcrush.com/i2c-tutorial/)    
++ How To Mechatronics: [How I2C Communication Works? Arduino and I2C Tutorial](https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/)   
++ Robot Electronics: [Using the I2C Bus](https://www.robot-electronics.co.uk/i2c-tutorial)
++ The Geek Pub: [HOW I2C WORKS (I2C EXPLAINED SIMPLY)](https://www.thegeekpub.com/18351/how-i2c-works-i2c-explained-simply/)
+    
+Digi-Key
++ [Issues with the I²C (Inter-IC) Bus and How to Solve Them](https://www.digikey.com/en/articles/issues-with-the-i2c-bus-and-how-to-solve-them)   
++ I²C [list](https://www.digikey.com/en/content-search?t=i2C)    
+ 
+Hackaday
++ [WHAT COULD GO WRONG? I2C EDITION](https://hackaday.com/2016/07/19/what-could-go-wrong-i2c-edition/)    
++ [List](https://hackaday.com/blog/?s=I2C)    
+    
 ##  I²C Product Lists
 In 1998 the I²C-bus [specification](https://www.csd.uoc.gr/~hy428/reading/i2c_spec.pdf) reported "The I2C-bus has become a de facto world standard that is now implemented in over 1000 different ICs and licensed to more than 50 companies."    
     
