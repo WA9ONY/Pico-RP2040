@@ -123,6 +123,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 73: <A HREF="README2.md#P73">Adafruit STEMMA & STEMMA QT</A>
 + Project 74: <A HREF="README2.md#P74">I²C Waveforms</A>
 + Project 75: <A HREF="README2.md#P75">Tennsy 4.1 Microcontroller Board</A>
++ Project 76: <A HREF="README2.md#P76">I²C-bus: 7-bit Address Table</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
