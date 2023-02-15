@@ -110,7 +110,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 60: <A HREF="README2.md#P60">Fritzing</A>
 + Project 61: <A HREF="README2.md#P61">Tinkercad Arduino Simulator</A>
 + Project 62: <A HREF="README2.md#P62">LED: Light-emitting Diode</A>
-+ Project 63: <A HREF="README2.md#P63">I²C: Inter-Integrated Circuit</A>
++ Project 63: <A HREF="README2.md#P63">I²C-bus: Inter-Integrated Circuit Bus</A>
 + Project 64: <A HREF="README2.md#P64">SPI: Serial Peripheral Interface</A>
 + Project 65: <A HREF="README2.md#P65">OLED: Organic Light-Emitting Diode</A>
 + Project 66: <A HREF="README2.md#P66">Sparkfun Qwiic</A>
