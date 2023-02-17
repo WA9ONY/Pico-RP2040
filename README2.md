@@ -2278,10 +2278,10 @@ URLs
       uC
     </B></P></TD>
     <TD><P><B>
-      #-bits
+      uC bits
     </B></P></TD>
     <TD><P><B>
-      Speed
+      uC MHz
     </B></P></TD>
     <TD><P><B>
       RAM
@@ -2314,7 +2314,7 @@ URLs
       32
     </TD>
     <TD>
-      600 MHz
+      600
     </TD>
     <TD>
       1024K
@@ -2347,7 +2347,7 @@ URLs
       32
     </TD>
     <TD>
-      133 MHz
+      133
     </TD>
     <TD>
       264K
