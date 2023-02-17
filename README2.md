@@ -2388,6 +2388,8 @@ Dec, hex, binary, octal
 126 0x7e 0b1111110 0o176
 127 0x7f 0b1111111 0o177
 
+</PRE>     
+    
 2C Address Table
 Dec, hex, binary, octal
 0 0x0 0b0 0o0
@@ -2520,7 +2522,7 @@ Dec, hex, binary, octal
 127 0x7f 0b1111111 0o177
     
     
-</PRE>    
+   
     
     
 <A NAME="FUTURE"></A>
