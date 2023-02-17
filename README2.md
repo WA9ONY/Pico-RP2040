@@ -2365,6 +2365,41 @@ URLs
       $4.00
     </TD>
    </TR>
+    
+ 
+  <TR>
+    <TD> 
+      Arduino
+    </TD>
+    <TD>
+      <A HREF="https://www.elektor.com/books](http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">UNO R3</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.elektor.com/books](http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf">ATmega328P</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      20
+    </TD>
+    <TD>
+      2K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      Arduino
+    </TD>
+    <TD>
+      $27.60
+    </TD>
+   </TR>
+    
 </TABLE>  
    
     
