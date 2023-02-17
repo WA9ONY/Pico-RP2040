@@ -2332,6 +2332,39 @@ URLs
       $31.50
     </TD>
    </TR>
+ 
+  <TR>
+    <TD> 
+      Raspberry Pi
+    </TD>
+    <TD>
+      Pico
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+ 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133 MHz
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      2MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      MicroPython, C++, Arduino
+    </TD>
+    <TD>
+      $4.00
+    </TD>
+   </TR>
 </TABLE>  
    
     
