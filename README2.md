@@ -2298,6 +2298,9 @@ URLs
     <TD><P><B>
       Price
     </B></P></TD>
+    <TD><P><B>
+      Notes
+    </B></P></TD>
   </TR>
     
   <TR>
@@ -2330,6 +2333,9 @@ URLs
     </TD>
     <TD>
       <A HREF="https://www.pjrc.com/store/teensy41.html">$31.50</A>
+    </TD>
+    <TD>
+      Good high performance/$  
     </TD>
    </TR>
  
@@ -2364,7 +2370,10 @@ URLs
     <TD>
       <A HREF="https://www.adafruit.com/product/4864">$4.00</A>
     </TD>
-   </TR>
+    <TD>
+      Best performance/$, good ecosystem  
+    </TD>   
+  </TR>
  
   <TR>
     <TD> 
@@ -2397,6 +2406,9 @@ URLs
     <TD>
       <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">$30.60</A>
     </TD>
+    <TD>
+      Max RP2040 Flash, good ecosystem  
+    </TD> 
    </TR>
     
     
@@ -2431,6 +2443,9 @@ URLs
     <TD>
        <A HREF="https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us">$48.40</A>
     </TD>
+    <TD>
+      Second most popular, good ecosystem  
+    </TD> 
    </TR>
     
  
@@ -2465,6 +2480,9 @@ URLs
     <TD>
       <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">$27.60</A>
     </TD>
+    <TD>
+      Most popular, best ecosystem  
+    </TD>    
    </TR>
     
 </TABLE>  
