@@ -2253,7 +2253,7 @@ URLs
     
 # Project 76: I²C-bus: 7-bit Address Table
     
-<p align="center">
+<p align="left">
 <img width="291" height="1814" src="/Images/I2Ctable.png">  
 </p> 
 
