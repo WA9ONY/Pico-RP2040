@@ -2484,7 +2484,47 @@ URLs
       Most popular, best ecosystem  
     </TD>    
    </TR>
-    
+ 
+     
+
+  <TR>
+    <TD> 
+      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets">Elegoo</A
+    </TD>
+    <TD>
+      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-uno-r3-board">UNO R3</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf">ATmega328P</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      20
+    </TD>
+    <TD>
+      2K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-uno-r3-board">$12.98</A>
+    </TD>
+    <TD>
+      Low cost UNO R3 clone with <A HREF="https://www.elegoo.com/collections/arduino-learning-sets">STEM kits</A>  
+    </TD>    
+   </TR>
+            
+        
+        
 </TABLE>  
    
     
