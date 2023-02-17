@@ -2249,25 +2249,100 @@ URLs
     
 <A NAME="P76"></A>
 <HR>
-<P align="center"><A HREF="#P74">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P75">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P77">--&gt;</A></P>  
     
 # Project 76: I²C-bus: 7-bit Address Table
     
 <p align="left">
 <img width="291" height="1814" src="/Images/I2Ctable.png">  
 </p> 
-
+     
+    
+<A NAME="P77"></A>
+<HR>
+<P align="center"><A HREF="#P76">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 77: Microcontroller Boards Table
     
     
     
-</PRE>    
+<TABLE>
+  <TR>
+    <TD><P><B>
+      Mfg
+      </B></P></TD>
+    <TD><P><B>
+      Model
+    </B></P></TD>
+    <TD><P><B>
+      uC
+    </B></P></TD>
+    <TD><P><B>
+      #-bits
+    </B></P></TD>
+    <TD><P><B>
+      Speed
+    </B></P></TD>
+    <TD><P><B>
+      RAM
+    </B></P></TD>
+    <TD><P><B>
+      Flash
+    </B></P></TD>
+    <TD><P><B>
+      EEPROM
+    </B></P></TD>
+    <TD><P><B>
+      IDE
+    </B></P></TD>
+    <TD><P><B>
+      Price
+    </B></P></TD>
+    <TD><P><B>
+       
+    </B></P></TD>
+  </TR>
+    
+  <TR>
+    <TD> 
+      PJRCD
+    </TD>
+    <TD>
+      Tennsy 4.1
+    </TD>
+    <TD>
+      ARM Cortex-M7 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      600 MHz
+    </TD>
+    <TD>
+      1024K
+    </TD>
+    <TD>    
+      7936K
+    </TD>    
+    <TD>
+      4K  
+    </TD>
+    <TD>
+      Arduino
+    </TD>
+    <TD>
+      $31.50
+    </TD>
+   </TR>
+</TABLE>  
    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P76">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P77">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
