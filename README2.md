@@ -2298,9 +2298,6 @@ URLs
     <TD><P><B>
       Price
     </B></P></TD>
-    <TD><P><B>
-       
-    </B></P></TD>
   </TR>
     
   <TR>
