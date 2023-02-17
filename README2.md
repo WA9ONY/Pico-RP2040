@@ -2302,13 +2302,13 @@ URLs
     
   <TR>
     <TD> 
-      PJRCD
+      <A HREF="https://www.pjrc.com/store/teensy41.html">PJRCD</A>
     </TD>
     <TD>
-      Tennsy 4.1
+      <A HREF="https://www.pjrc.com/store/teensy41.html">Tennsy 4.1</A>
     </TD>
     <TD>
-      ARM Cortex-M7 
+      <A HREF="[https://www.pjrc.com/store/teensy41.html](https://www.pjrc.com/store/teensy41.html#processor)">ARM Cortex-M7</A> 
     </TD>    
     <TD>
       32
@@ -2326,22 +2326,22 @@ URLs
       4K  
     </TD>
     <TD>
-      Arduino
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>, <A HREF="https://www.pjrc.com/store/teensy41.html#software">CircuitPython, etc.</A>
     </TD>
     <TD>
-      $31.50
+      <A HREF="https://www.pjrc.com/store/teensy41.html">$31.50</A>
     </TD>
    </TR>
  
   <TR>
     <TD> 
-      Raspberry Pi
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Raspberry Pi</A>
     </TD>
     <TD>
-      Pico
+      <A HREF="https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf">Pico</A>
     </TD>
     <TD>
-      Dual ARM Cortex-M0+ 
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
     </TD>    
     <TD>
       32
@@ -2359,17 +2359,84 @@ URLs
       None  
     </TD>
     <TD>
-      MicroPython, C++, Arduino
+      MicroPython, C++, <A HREF="https://www.arduino.cc/en/software">Arduino</A>
     </TD>
     <TD>
-      $4.00
+      <A HREF="https://www.adafruit.com/product/4864">$4.00</A>
+    </TD>
+   </TR>
+ 
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">Nano RP2040 Connect</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> & Nina W102 uBlox module 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      16MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">$30.60</A>
+    </TD>
+   </TR>
+    
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us">Mega 2560 Rev3</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf">ATmega2560</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      8K
+    </TD>
+    <TD>    
+      256KB
+    </TD>    
+    <TD>
+      4 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us">$48.40</A>
     </TD>
    </TR>
     
  
   <TR>
     <TD> 
-      Arduino
+      <A HREF="https://www.arduino.cc/">Arduino</A
     </TD>
     <TD>
       <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">UNO R3</A>
@@ -2393,10 +2460,10 @@ URLs
       1 KB  
     </TD>
     <TD>
-      Arduino
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
     </TD>
     <TD>
-      $27.60
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">$27.60</A>
     </TD>
    </TR>
     
