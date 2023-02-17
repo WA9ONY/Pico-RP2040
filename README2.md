@@ -2414,7 +2414,7 @@ URLs
     
   <TR>
     <TD> 
-      <A HREF="https://www.arduino.cc/">Arduino</A
+        <A HREF="https://www.arduino.cc/">Arduino</A>
     </TD>
     <TD>
       <A HREF="https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us">Mega 2560 Rev3</A>
@@ -2445,6 +2445,43 @@ URLs
     </TD>
     <TD>
       Second most popular, good ecosystem  
+    </TD> 
+   </TR>
+    
+   
+  <TR>
+    <TD> 
+      <A HREF="https://www.elegoo.com/">Elegoo</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-r3-board">Mega 2560 Rev3</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf">ATmega2560</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      8K
+    </TD>
+    <TD>    
+      256KB
+    </TD>    
+    <TD>
+      4 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-r3-board">$15.99</A>
+    </TD>
+    <TD>
+      Clone 
     </TD> 
    </TR>
     
@@ -2489,7 +2526,7 @@ URLs
 
   <TR>
     <TD> 
-      <A HREF="https://www.elegoo.com/">Elegoo</A
+        <A HREF="https://www.elegoo.com/">Elegoo</A>
     </TD>
     <TD>
       <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-uno-r3-board">UNO R3</A>
