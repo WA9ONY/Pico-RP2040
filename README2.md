@@ -2581,11 +2581,17 @@ KiCAD is installed on Linux computer, NUC8i7HVK Ubuntu 22.04.1 LTS.
 
 My focus is to use KiCAD for electronic circuit simulation.  KiCAD functions also include PCB laytout.
 
-KiCAD version
+[KiCAD](https://www.kicad.org/) version
   + Version: 6.0.10-86aedd382b~118~ubuntu22.04.1, release build
     
 Videos
   + KiCAD 5.0 Changes and New Features [video]()  
+    
+Books
+  + Amazon KiCAD 6 [list](https://www.amazon.com/s?k=kicad+6&crid=3KKIJUIOJ6QK0&sprefix=kiCAD%2Caps%2C153&ref=nb_sb_ss_ts-doa-p_3_5)  
+
+    
+    
     
     
 <A NAME="FUTURE"></A>
