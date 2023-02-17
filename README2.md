@@ -2489,7 +2489,7 @@ URLs
 
   <TR>
     <TD> 
-      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets">Elegoo</A
+      <A HREF="https://www.elegoo.com/">Elegoo</A
     </TD>
     <TD>
       <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-uno-r3-board">UNO R3</A>
