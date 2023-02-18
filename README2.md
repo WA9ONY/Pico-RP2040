@@ -2571,25 +2571,25 @@ URLs
 <HR>
 <P align="center"><A HREF="#P77">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 78: KiCAD Circuit Simulation
+# Project 78: KiCad Circuit Simulation
         
 <p align="center">
 <img width="444" height="124" src="/Images/KiCADicons.png">  
 </p>
 
-KiCAD is installed on Linux computer, NUC8i7HVK Ubuntu 22.04.1 LTS.    
+KiCad is installed on Linux computer, NUC8i7HVK Ubuntu 22.04.1 LTS.    
 
 My focus is to use KiCAD for electronic circuit simulation.  KiCAD functions also include PCB laytout.
 
-[KiCAD](https://www.kicad.org/) version
+[KiCad](https://www.kicad.org/) version
   + Version: 6.0.10-86aedd382b~118~ubuntu22.04.1, release build
     
 Videos
-  + YouTube KiCAD 6 [video](https://www.youtube.com/results?search_query=kiCAD+6)
-  + KiCAD 5.0 Changes and New Features [video](https://www.youtube.com/playlist?list=PLEBQazB0HUyQmF4Vf0WEeGAGDH0th3wYf)  
+  + YouTube KiCad 6 [video](https://www.youtube.com/results?search_query=kiCAD+6)
+  + KiCad 5.0 Changes and New Features [video](https://www.youtube.com/playlist?list=PLEBQazB0HUyQmF4Vf0WEeGAGDH0th3wYf)  
     
 Books
-  + Amazon KiCAD 6 [list](https://www.amazon.com/s?k=kicad+6&crid=3KKIJUIOJ6QK0&sprefix=kiCAD%2Caps%2C153&ref=nb_sb_ss_ts-doa-p_3_5)  
+  + Amazon KiCad 6 [list](https://www.amazon.com/s?k=kicad+6&crid=3KKIJUIOJ6QK0&sprefix=kiCAD%2Caps%2C153&ref=nb_sb_ss_ts-doa-p_3_5)  
 
 <p align="center">
 <img width="431" height="708" src="/Images/KiCADrp2040b.png">  
