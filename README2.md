@@ -2591,6 +2591,9 @@ Videos
 Books
   + Amazon KiCad 6 [list](https://www.amazon.com/s?k=kicad+6&crid=3KKIJUIOJ6QK0&sprefix=kiCAD%2Caps%2C153&ref=nb_sb_ss_ts-doa-p_3_5)  
 
+Groups.io
+  + Kicad Users [kicad-users@groups.io](https://groups.io/g/kicad-users)
+       
 <p align="center">
 <img width="431" height="708" src="/Images/KiCADrp2040b.png">  
 </p>
