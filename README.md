@@ -715,6 +715,9 @@ Wikipedia
 + [Raspberry Pi Pico](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi_Pico)
 + [RP2040](https://en.wikipedia.org/wiki/RP2040)
 
+[Assembly](https://www.elektormagazine.com/articles/assembly-language-on-the-pi-pico?utm_source=Elektor+International+%28English%29&utm_campaign=b25d197646-EMAIL_CAMPAIGN_2_16_2023_10_4&utm_medium=email&utm_term=0_23bd160f48-b25d197646-%5BLIST_EMAIL_ID%5D&mc_cid=b25d197646&mc_eid=1bc428feb9) Language on the Raspberry Pi Pico
+ 
+ 
   
 <A NAME="P11"></A>
 <HR>
