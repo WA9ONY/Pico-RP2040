@@ -2344,6 +2344,42 @@ URLs
       <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Raspberry Pi</A>
     </TD>
     <TD>
+      <A HREF="https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf">Pico W</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      2MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      MicroPython, C++, <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4864">$6.00</A>
+    </TD>
+    <TD>
+      WiFy chip, best performance/$, good ecosystem  
+    </TD>   
+  </TR>
+ 
+  <TR>
+    <TD> 
+      <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Raspberry Pi</A>
+    </TD>
+    <TD>
       <A HREF="https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf">Pico</A>
     </TD>
     <TD>
@@ -2631,7 +2667,7 @@ Some Adafruit items are available on Amazon.
 <HR>
 <P align="center"><A HREF="#P79">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 80: Qucs: Quite Wniversal Circuit Simulator
+# Project 80: Qucs: Quite Universal Circuit Simulator
         
 <p align="center">
 <img align="center" width="137" height="138" src="/Images/QucsIcon.png">  
