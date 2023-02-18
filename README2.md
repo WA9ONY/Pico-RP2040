@@ -2585,6 +2585,7 @@ My focus is to use KiCAD for electronic circuit simulation.  KiCAD functions als
   + Version: 6.0.10-86aedd382b~118~ubuntu22.04.1, release build
     
 Videos
+  + YouTube KiCAD 6 [video](https://www.youtube.com/results?search_query=kiCAD+6)
   + KiCAD 5.0 Changes and New Features [video](https://www.youtube.com/playlist?list=PLEBQazB0HUyQmF4Vf0WEeGAGDH0th3wYf)  
     
 Books
