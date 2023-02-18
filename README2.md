@@ -2603,7 +2603,7 @@ Above is the RP2040 in KiCAD.
       
 <A NAME="P79"></A>
 <HR>
-<P align="center"><A HREF="#P78">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P78">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P80">--&gt;</A></P>  
     
 # Project 79: Adafruit 2FA: Two-Factor Authentication
         
@@ -2626,11 +2626,31 @@ If you fail to log in to the 2FA, you cannot login to Adafruit.
 Some Adafruit items are available on Amazon.
     
     
+      
+<A NAME="P80"></A>
+<HR>
+<P align="center"><A HREF="#P79">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 80: Qucs: Quite Wniversal Circuit Simulator
+        
+<p align="center">
+<img width="195" height="177" src="/Images/GAicon.png">  
+</p>
+
+[Qucs](https://qucs.sourceforge.net/index.html) v 0.0.19 running on NUC8i7HVK Ubuntu 22.04.1 LTS.  
+  + [User manual](https://qucs.sourceforge.net/docs.html)
+  + [Rreference manual](http://qucs.github.io/qucs-manual/0.0.19/html-en/index.html) 
+    
+Videos
+  + YouTube Qucs [list](https://www.youtube.com/results?search_query=qucs+simulation)
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P79">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P80">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
