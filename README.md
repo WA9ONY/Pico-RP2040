@@ -127,7 +127,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 77: <A HREF="README2.md#P77">Microcontroller Boards Table</A>
 + Project 78: <A HREF="README2.md#P78">KiCad Circuit Simulation</A>
 + Project 79: <A HREF="README2.md#P79">Adafruit 2FA: Two-Factor Authentication</A>
-+ Project 80: <A HREF="README2.md#P80">Qucs: Quite Wniversal Circuit Simulator</A>
++ Project 80: <A HREF="README2.md#P80">Qucs: Quite Universal Circuit Simulator</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
