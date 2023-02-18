@@ -2284,7 +2284,7 @@ Table notes
       Model
     </B></P></TD>
     <TD><P><B>
-      [MCU](https://en.wikipedia.org/wiki/Microcontroller)
+      <A HREF="https://en.wikipedia.org/wiki/Microcontroller">MCU</A>
     </B></P></TD>
     <TD><P><B>
       MCU bus
