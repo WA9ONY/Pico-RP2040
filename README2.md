@@ -2344,7 +2344,7 @@ Table notes
       <A HREF="https://www.pjrc.com/store/teensy41.html">$31.50</A>
     </TD>
     <TD>
-      Good high performance/$  
+      Good high performance/price  
     </TD>
    </TR>
  
@@ -2380,7 +2380,7 @@ Table notes
       <A HREF="https://www.adafruit.com/product/4864">$6.00</A>
     </TD>
     <TD>
-      Wify, great performance/$, good ecosystem  
+      Wify, great performance/price, good ecosystem  
     </TD>   
   </TR>
  
@@ -2416,7 +2416,7 @@ Table notes
       <A HREF="https://www.adafruit.com/product/4864">$4.00</A>
     </TD>
     <TD>
-      Low $, Best performance/$, good ecosystem  
+      Low price, Best performance/price, good ecosystem  
     </TD>   
   </TR>
  
@@ -2560,7 +2560,7 @@ Table notes
       <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">$27.60</A>
     </TD>
     <TD>
-      Most popular, best ecosystem  
+      Most popular, > 10 M sold, best ecosystem  
     </TD>    
    </TR>
  
