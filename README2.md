@@ -2344,7 +2344,7 @@ URLs
       <A HREF="https://www.raspberrypi.com/products/raspberry-pi-pico/">Raspberry Pi</A>
     </TD>
     <TD>
-      <A HREF="https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf">Pico W</A>
+      <A HREF="https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf">Pico W</A>
     </TD>
     <TD>
       Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
@@ -2371,7 +2371,7 @@ URLs
       <A HREF="https://www.adafruit.com/product/4864">$6.00</A>
     </TD>
     <TD>
-      WiFy chip, best performance/$, good ecosystem  
+      Wify, great performance/$, good ecosystem  
     </TD>   
   </TR>
  
@@ -2407,7 +2407,7 @@ URLs
       <A HREF="https://www.adafruit.com/product/4864">$4.00</A>
     </TD>
     <TD>
-      Best performance/$, good ecosystem  
+      Low $, Best performance/$, good ecosystem  
     </TD>   
   </TR>
  
@@ -2446,8 +2446,7 @@ URLs
       Max RP2040 Flash, good ecosystem  
     </TD> 
    </TR>
-    
-    
+      
   <TR>
     <TD> 
         <A HREF="https://www.arduino.cc/">Arduino</A>
@@ -2483,8 +2482,7 @@ URLs
       Second most popular, good ecosystem  
     </TD> 
    </TR>
-    
-   
+      
   <TR>
     <TD> 
       <A HREF="https://www.elegoo.com/">Elegoo</A>
@@ -2520,8 +2518,7 @@ URLs
       Clone 
     </TD> 
    </TR>
-    
- 
+     
   <TR>
     <TD> 
       <A HREF="https://www.arduino.cc/">Arduino</A
@@ -2558,8 +2555,6 @@ URLs
     </TD>    
    </TR>
  
-     
-
   <TR>
     <TD> 
         <A HREF="https://www.elegoo.com/">Elegoo</A>
@@ -2595,9 +2590,7 @@ URLs
       Low cost UNO R3 clone with <A HREF="https://www.elegoo.com/collections/arduino-learning-sets">STEM kits</A>  
     </TD>    
    </TR>
-            
-        
-        
+                 
 </TABLE>  
    
     
