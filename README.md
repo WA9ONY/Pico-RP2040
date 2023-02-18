@@ -125,7 +125,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 75: <A HREF="README2.md#P75">Tennsy 4.1 Microcontroller Board</A>
 + Project 76: <A HREF="README2.md#P76">I²C-bus: 7-bit Address Table</A>
 + Project 77: <A HREF="README2.md#P77">Microcontroller Boards Table</A>
-+ Project 78: <A HREF="README2.md#P78">KiCAD Circuit Simulation</A>
++ Project 78: <A HREF="README2.md#P78">KiCad Circuit Simulation</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
