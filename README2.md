@@ -2380,7 +2380,7 @@ Table notes
       <A HREF="https://www.adafruit.com/product/4864">$6.00</A>
     </TD>
     <TD>
-      Wify, great performance/price, good ecosystem  
+      <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A>, great performance/price, good ecosystem  
     </TD>   
   </TR>
  
@@ -2452,7 +2452,7 @@ Table notes
       <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">$30.60</A>
     </TD>
     <TD>
-      Wify, Max RP2040 Flash, good ecosystem  
+      <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A>, Max RP2040 Flash, good ecosystem  
     </TD> 
    </TR>
       
