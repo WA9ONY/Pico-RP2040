@@ -2264,6 +2264,15 @@ URLs
     
 # Project 77: Microcontroller Boards Table
     
+Table notes
+  + Mfg: manufacturer
+  + MCU: microcontroller
+  + MCU bus: 8-bits, 32-bits, higher is better.
+  + MCU MHz: microcontroller fastest clock frequency, higher is better.  
+  + SRAM: Static Random Access Memory, memory contents is lost when not power.
+  + Flash memory: memory containing the program, memory contents is retained with no power.
+  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power.    
+  + IDE: Integrated Development Environment:  Work station to develop microcontroller software
     
     
 <TABLE>
@@ -2275,25 +2284,25 @@ URLs
       Model
     </B></P></TD>
     <TD><P><B>
-      uC
+      [MCU](https://en.wikipedia.org/wiki/Microcontroller)
     </B></P></TD>
     <TD><P><B>
-      uC bits
+      MCU bus
     </B></P></TD>
     <TD><P><B>
-      uC MHz
+      MCU MHz
     </B></P></TD>
     <TD><P><B>
-      RAM
+      [SRAM](https://en.wikipedia.org/wiki/Static_random-access_memory)
     </B></P></TD>
     <TD><P><B>
-      Flash
+      [Flash Memory](https://en.wikipedia.org/wiki/Flash_memory)
     </B></P></TD>
     <TD><P><B>
-      EEPROM
+      [EEPROM](https://en.wikipedia.org/wiki/EEPROM)
     </B></P></TD>
     <TD><P><B>
-      IDE
+      [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)
     </B></P></TD>
     <TD><P><B>
       Price
