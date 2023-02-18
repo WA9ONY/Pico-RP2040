@@ -2265,15 +2265,15 @@ URLs
 # Project 77: Microcontroller Boards Table
     
 Table notes
-  + Mfg: manufacturer
-  + MCU: microcontroller
-  + MCU bus: 8-bits, 32-bits, higher is better.
-  + MCU MHz: microcontroller fastest clock frequency, higher is better.  
-  + SRAM: Static Random Access Memory, memory contents is lost when not power.
-  + Flash memory: memory containing the program, memory contents is retained with no power.
-  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power.    
+  + Mfg: microcontroll development board manufacturer
+  + MCU: microcontroller model
+  + MCU bus: 8-bits, 32-bits, more bits is better.
+  + MCU MHz: microcontroller board fastest MCU clock frequency, higher is better.  
+  + SRAM: Static Random Access Memory, memory contents is lost when not power, program run time memory: stacks, variables, arrays, etc.
+  + Flash memory: memory containing the program, memory contents is retained with no power, program memory for C object code, Python, assembly code, etc.
+  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power, program data memory: program constants, data tables, images, etc.   
   + IDE: Integrated Development Environment:  Work station to develop microcontroller software
-    
+  + Notes: FPU - Floating Point Unit  
     
 <TABLE>
   <TR>
@@ -2344,7 +2344,7 @@ Table notes
       <A HREF="https://www.pjrc.com/store/teensy41.html">$31.50</A>
     </TD>
     <TD>
-      Good high performance/price  
+      <A HREF="https://en.wikipedia.org/wiki/Floating-point_unit">FPU</A>, Good high performance/price  
     </TD>
    </TR>
  
@@ -2428,7 +2428,7 @@ Table notes
       <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">Nano RP2040 Connect</A>
     </TD>
     <TD>
-      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> & Nina W102 uBlox module 
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> & <A HREF="https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf">Nina W102 uBlox module</A> 
     </TD>    
     <TD>
       32
@@ -2452,7 +2452,7 @@ Table notes
       <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">$30.60</A>
     </TD>
     <TD>
-      Max RP2040 Flash, good ecosystem  
+      Wify, Max RP2040 Flash, good ecosystem  
     </TD> 
    </TR>
       
