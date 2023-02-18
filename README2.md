@@ -2293,16 +2293,16 @@ Table notes
       MCU MHz
     </B></P></TD>
     <TD><P><B>
-      [SRAM](https://en.wikipedia.org/wiki/Static_random-access_memory)
+       <A HREF="https://en.wikipedia.org/wiki/Static_random-access_memory">SRAM</A>
     </B></P></TD>
     <TD><P><B>
-      [Flash Memory](https://en.wikipedia.org/wiki/Flash_memory)
+      <A HREF="https://en.wikipedia.org/wiki/Flash_memory">Flash Memory</A>
     </B></P></TD>
     <TD><P><B>
-      [EEPROM](https://en.wikipedia.org/wiki/EEPROM)
+      <A HREF="https://en.wikipedia.org/wiki/EEPROM">EEPROM</A>
     </B></P></TD>
     <TD><P><B>
-      [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)
+      <A HREF="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</A>
     </B></P></TD>
     <TD><P><B>
       Price
