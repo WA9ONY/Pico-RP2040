@@ -2613,6 +2613,7 @@ Table notes
         
 <p align="center">
 <img width="444" height="124" src="/Images/KiCADicons.png">  
+<img align="right" width="108" height="121" src="/Images/UbuntuSWicon.png">  
 </p>
 
 KiCad is installed on Linux computer, NUC8i7HVK Ubuntu 22.04.1 LTS.    
