@@ -2634,7 +2634,7 @@ Some Adafruit items are available on Amazon.
 # Project 80: Qucs: Quite Wniversal Circuit Simulator
         
 <p align="center">
-<img align="left" width="137" height="138" src="/Images/QucsIcon.png">  
+<img align="center" width="137" height="138" src="/Images/QucsIcon.png">  
 <img align="right" width="108" height="121" src="/Images/UbuntuSWicon.png">  
 </p>
 
