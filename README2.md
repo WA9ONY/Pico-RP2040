@@ -2634,7 +2634,8 @@ Some Adafruit items are available on Amazon.
 # Project 80: Qucs: Quite Wniversal Circuit Simulator
         
 <p align="center">
-<img width="195" height="177" src="/Images/GAicon.png">  
+<img align="left" width="137" height="138" src="/Images/QucsIcon.png">  
+<img align="right" width="108" height="121" src="/Images/UbuntuSWicon.png">  
 </p>
 
 [Qucs](https://qucs.sourceforge.net/index.html) v 0.0.19 running on NUC8i7HVK Ubuntu 22.04.1 LTS.  
