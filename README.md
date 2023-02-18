@@ -126,6 +126,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 76: <A HREF="README2.md#P76">I²C-bus: 7-bit Address Table</A>
 + Project 77: <A HREF="README2.md#P77">Microcontroller Boards Table</A>
 + Project 78: <A HREF="README2.md#P78">KiCad Circuit Simulation</A>
++ Project 79: <A HREF="README2.md#P79">Adafruit 2FA: Two-Factor Authentication</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
