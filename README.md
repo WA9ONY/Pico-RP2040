@@ -113,14 +113,14 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 63: <A HREF="README2.md#P63">I²C-bus: Inter-Integrated Circuit Bus</A>
 + Project 64: <A HREF="README2.md#P64">SPI: Serial Peripheral Interface</A>
 + Project 65: <A HREF="README2.md#P65">OLED: Organic Light-Emitting Diode</A>
-+ Project 66: <A HREF="README2.md#P66">Sparkfun Qwiic</A>
++ Project 66: <A HREF="README2.md#P66">I²C-bus: Sparkfun Qwiic</A>
 + Project 67: <A HREF="README2.md#P67">SparkFun 16x2 SerLCD - RGB Text (QWIIC)</A>
 + Project 68: <A HREF="README2.md#P68">Raspberry Pi Pico I²C Scan</A>
 + Project 69: <A HREF="README2.md#P69">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "hello"</A>
 + Project 70: <A HREF="README2.md#P70">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"</A>
 + Project 71: <A HREF="README2.md#P71">Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test</A>
 + Project 72: <A HREF="README2.md#P72">Raspberry Pi Pic I²C MicroPython</A>
-+ Project 73: <A HREF="README2.md#P73">Adafruit STEMMA & STEMMA QT</A>
++ Project 73: <A HREF="README2.md#P73">I²C-bus: Adafruit STEMMA & STEMMA QT</A>
 + Project 74: <A HREF="README2.md#P74">I²C Waveforms</A>
 + Project 75: <A HREF="README2.md#P75">Tennsy 4.1 Microcontroller Board</A>
 + Project 76: <A HREF="README2.md#P76">I²C-bus: 7-bit Address Table</A>
@@ -128,6 +128,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 78: <A HREF="README2.md#P78">KiCad Circuit Simulation</A>
 + Project 79: <A HREF="README2.md#P79">Adafruit 2FA: Two-Factor Authentication</A>
 + Project 80: <A HREF="README2.md#P80">Qucs: Quite Universal Circuit Simulator</A>
++ Project 81: <A HREF="README2.md#P81">I²C-bus: Seeed Studio Grove System</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
