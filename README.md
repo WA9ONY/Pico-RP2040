@@ -769,7 +769,7 @@ Above photo left to right:
 <img width="600" height="326" src="/Images/AdaP5302_600.png"> 
 </p>    
   
-+ [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302.png) with STEMMA QT
++ [Adafruit P5302 KB2040 - RP2040 Kee Boar Driver](https://www.adafruit.com/product/5302) with STEMMA QT
   + [New RP2040 Board from Adafruit – KB2040 Review!](https://youtu.be/BWsNLsmMKpY)
  
 Some Adafriut product are available on Amazon.
