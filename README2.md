@@ -2448,13 +2448,13 @@ Table notes
       None  
     </TD>
     <TD>
-      CircuitPython, MicroPython, C++, <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+      <A HREF="https://circuitpython.org/">CircuitPython</A>, <A HREF="https://micropython.org/">MicroPython</A>, C++, <A HREF="https://www.arduino.cc/en/software">Arduino</A>
     </TD>
     <TD>
       <A HREF="https://www.adafruit.com/product/4884">$11.95</A>
     </TD>
     <TD>
-      STEMMA QT  
+      <A HREF="https://learn.adafruit.com/introducing-adafruit-stemma-qt">STEMMA QT</A>  
     </TD>   
   </TR>
 
