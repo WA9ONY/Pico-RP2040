@@ -1785,7 +1785,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P65">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P67">--&gt;</A></P>  
     
-# Project 66: Sparkfun Qwiic
+# Project 66: I²C-bus: Sparkfun Qwiic
   
 <p align="center">
 <img width="600" height="326" src="/Images/QWIIC600.png">  
@@ -2150,7 +2150,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P72">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P74">--&gt;</A></P>  
     
-# Project 73: Adafruit STEMMA & STEMMA QT
+# Project 73: I²C-bus: Adafruit STEMMA & STEMMA QT
 
 STEMMA QT is an easy way to connect micorcontroller development boards to sensor boards, IC boards, motor controller boards, and all kinds of boards without soldering. STEMMA QT can be connected in a dasiy chain with some STEMMA QT boards with two STEMMA QT commectors.   
 STEMMA QT is a very small 4 pin connector that is popular for I2C communications plus power and ground.
