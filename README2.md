@@ -2419,7 +2419,48 @@ Table notes
       Low price, Best performance/price, good ecosystem  
     </TD>   
   </TR>
+
+    
  
+  <TR>
+    <TD> 
+      <A HREF="https://www.adafruit.com/">Adafruit</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4884">Feather RP2040</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      125
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      8MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      CircuitPython, MicroPython, C++, <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4884">$11.95</A>
+    </TD>
+    <TD>
+      STEMMA QT  
+    </TD>   
+  </TR>
+
+    
+    
+    
   <TR>
     <TD> 
       <A HREF="https://www.arduino.cc/">Arduino</A>
@@ -2491,43 +2532,7 @@ Table notes
       Second most popular, good ecosystem  
     </TD> 
    </TR>
-      
-  <TR>
-    <TD> 
-      <A HREF="https://www.elegoo.com/">Elegoo</A>
-    </TD>
-    <TD>
-      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-r3-board">Mega 2560 Rev3</A>
-    </TD>
-    <TD>
-      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf">ATmega2560</A> 
-    </TD>    
-    <TD>
-      8
-    </TD>
-    <TD>
-      16
-    </TD>
-    <TD>
-      8K
-    </TD>
-    <TD>    
-      256KB
-    </TD>    
-    <TD>
-      4 KB  
-    </TD>
-    <TD>
-      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
-    </TD>
-    <TD>
-       <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-r3-board">$15.99</A>
-    </TD>
-    <TD>
-      Clone 
-    </TD> 
-   </TR>
-     
+   
   <TR>
     <TD> 
       <A HREF="https://www.arduino.cc/">Arduino</A
@@ -2563,7 +2568,43 @@ Table notes
       Most popular, > 10 M sold, best ecosystem  
     </TD>    
    </TR>
- 
+     
+  <TR>
+    <TD> 
+      <A HREF="https://www.elegoo.com/">Elegoo</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-r3-board">Mega 2560 Rev3</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega640-1280-1281-2560-2561-Datasheet-DS40002211A.pdf">ATmega2560</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      8K
+    </TD>
+    <TD>    
+      256KB
+    </TD>    
+    <TD>
+      4 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://www.elegoo.com/collections/arduino-learning-sets/products/elegoo-mega-2560-r3-board">$15.99</A>
+    </TD>
+    <TD>
+      Clone 
+    </TD> 
+   </TR>
+            
   <TR>
     <TD> 
         <A HREF="https://www.elegoo.com/">Elegoo</A>
