@@ -2601,6 +2601,42 @@ Table notes
 
   <TR>
     <TD> 
+      <A HREF="https://www.seeedstudio.com">Seeed Studio</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=7ed441843e0b7946433bca4170396d69&objectID=5026&indexName=bazaar_retailer_products">XIAO RP2040</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      2MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://circuitpython.org/">CircuitPython</A>, <A HREF="https://micropython.org/">MicroPython</A>, C++, 
+    </TD>
+    <TD>
+      <A HREF="https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=7ed441843e0b7946433bca4170396d69&objectID=5026&indexName=bazaar_retailer_products">$5.40</A>
+    </TD>
+    <TD>
+      XIAO series  
+    </TD>   
+  </TR>
+    
+  <TR>
+    <TD> 
       <A HREF="https://www.arduino.cc/">Arduino</A>
     </TD>
     <TD>
