@@ -2631,7 +2631,7 @@ Table notes
       <A HREF="https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?queryID=7ed441843e0b7946433bca4170396d69&objectID=5026&indexName=bazaar_retailer_products">$5.40</A>
     </TD>
     <TD>
-      XIAO series  
+      <A HREF="https://www.seeedstudio.com/XIAO-c-1964.html">XIAO series</A>  
     </TD>   
   </TR>
     
@@ -2816,9 +2816,7 @@ Table notes
    </TR>
                  
 </TABLE>  
-   
-    
-     
+        
     
 <A NAME="P78"></A>
 <HR>
@@ -2883,7 +2881,7 @@ Some Adafruit items are available on Amazon.
       
 <A NAME="P80"></A>
 <HR>
-<P align="center"><A HREF="#P79">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P79">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P81">--&gt;</A></P>  
     
 # Project 80: Qucs: Quite Universal Circuit Simulator
         
@@ -2897,15 +2895,45 @@ Some Adafruit items are available on Amazon.
   + [Rreference manual](http://qucs.github.io/qucs-manual/0.0.19/html-en/index.html) 
     
 Videos
-  + YouTube Qucs [list](https://www.youtube.com/results?search_query=qucs+simulation)
+  + YouTube Qucs [list](https://www.youtube.com/results?search_query=qucs+simulation)  
 
     
+<A NAME="P81"></A>
+<HR>
+<P align="center"><A HREF="#P80">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 81: I²C-bus: Seeed Studio Grove System
+        
+[Seeed Studio](https://www.seeedstudio.com/) Grove system is a four wire connector system with four different interfaces (I2C, digital, analog & UART) to make it easier to connect microcontroller boards to various devices (displays, sesnors, A/D, D/A, etc.).  The Grove system was launched in 2010.
+    
+Seeed Studio Grove System   
+  + Grove [System](https://wiki.seeedstudio.com/Grove_System/)
+  + Product [list, ~380](https://www.seeedstudio.com/XIAO-c-1964.html?)  
+    
+Video
+  + 2020 [Grove 10th Anniversary Documentary](https://youtu.be/r-W0XYhVdTk)
+  + Grove - Starter Kit for Arduino - Unboxing & Getting Started [video](https://youtu.be/1Rc_OiebDPo)
+  + YouTube Grove [list](https://www.youtube.com/results?search_query=seeed+studio+grove)    
+    
+Four types of Grove interfaces
+  + Grove I2C
+  + Grove Digital
+  + Grove Analog
+  + Grove UART  
+    
+Grove I²C connector & cable colors
+  + Pin 1: I²C-bus SCL, yellow
+  + Pin 2: I²C-bus SDA, white
+  + Pin 3: Vcc 5V/3.3V, red
+  + Pin 4: GND, black  
+    
+
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P80">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P81">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
