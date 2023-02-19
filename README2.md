@@ -2420,8 +2420,6 @@ Table notes
     </TD>   
   </TR>
 
-    
- 
   <TR>
     <TD> 
       <A HREF="https://www.adafruit.com/">Adafruit</A>
@@ -2458,9 +2456,149 @@ Table notes
     </TD>   
   </TR>
 
-    
-    
-    
+  <TR>
+    <TD> 
+      <A HREF="https://www.adafruit.com/">Adafruit</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4888">ItsyBitsy RP2040</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      125
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      8MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://circuitpython.org/">CircuitPython</A>, <A HREF="https://micropython.org/">MicroPython</A>, C++
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4888">$9.95</A>
+    </TD>
+    <TD>       
+    </TD>   
+  </TR>
+
+  <TR>
+    <TD> 
+      <A HREF="https://www.adafruit.com/">Adafruit</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4900">QT Py RP2040</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      125
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      8MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://circuitpython.org/">CircuitPython</A>, <A HREF="https://micropython.org/">MicroPython</A>, C++, <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/4900">$9.95</A>
+    </TD>
+    <TD>
+      <A HREF="https://learn.adafruit.com/introducing-adafruit-stemma-qt">STEMMA QT</A>, small  
+    </TD>   
+  </TR>
+
+  <TR>
+    <TD> 
+      <A HREF="https://www.adafruit.com/">Adafruit</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5056">Trinkey QT2040</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      ~125
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      8MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://circuitpython.org/">CircuitPython</A>, <A HREF="https://micropython.org/">MicroPython</A>, C++
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5056">$7.95</A>
+    </TD>
+    <TD>
+      <A HREF="https://learn.adafruit.com/introducing-adafruit-stemma-qt">STEMMA QT</A>, USB Key  
+    </TD>   
+  </TR>
+
+  <TR>
+    <TD> 
+      <A HREF="https://www.adafruit.com/">Adafruit</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5302">KB2040</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      ~125
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      8MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://circuitpython.org/">CircuitPython</A>, <A HREF="https://micropython.org/">MicroPython</A>, C++, 
+    </TD>
+    <TD>
+      <A HREF="https://www.adafruit.com/product/5302">$8.95</A>
+    </TD>
+    <TD>
+      <A HREF="https://learn.adafruit.com/introducing-adafruit-stemma-qt">STEMMA QT</A>  
+    </TD>   
+  </TR>
+
   <TR>
     <TD> 
       <A HREF="https://www.arduino.cc/">Arduino</A>
