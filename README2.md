@@ -2670,7 +2670,48 @@ Table notes
       <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A>, Max RP2040 Flash, good ecosystem  
     </TD> 
    </TR>
-      
+  
+    
+     
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/pro/hardware-product-portenta-h7/">Portenta H7</A>
+    </TD>
+    <TD>
+      Dual-core STM32H747 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      Cortex® M7 at 480, Cortex® M4 at 240
+    </TD>
+    <TD>
+      8MB
+    </TD>
+    <TD>    
+      16MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>, MicroPython, JavaScript 
+    </TD>
+    <TD>
+      <A HREF="https://www.amazon.com/dp/B088KPDM8S?psc=1&ref=ppx_yo2ov_dt_b_product_details">$120.00</A>
+    </TD>
+    <TD>
+      <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A> 
+    </TD> 
+   </TR>
+  
+    
+    
+    
   <TR>
     <TD> 
         <A HREF="https://www.arduino.cc/">Arduino</A>
