@@ -2271,7 +2271,7 @@ Table notes
   + MCU MHz: microcontroller board fastest MCU clock frequency, higher is better.  
   + SRAM: Static Random Access Memory, memory contents is lost when not power, program run time memory: stacks, variables, arrays, etc.
   + Flash memory: memory containing the program, memory contents is retained with no power, program memory for C object code, Python, assembly code, etc.
-  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power, program data memory: program constants, data tables, images, etc.   
+  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power, non volatile program data memory: program constants, data tables, images, etc.   
   + IDE: Integrated Development Environment:  Work station to develop microcontroller software
   + Notes: FPU - Floating Point Unit  
     
@@ -2896,6 +2896,13 @@ Some Adafruit items are available on Amazon.
     
 Videos
   + YouTube Qucs [list](https://www.youtube.com/results?search_query=qucs+simulation)  
+
+    
+Circuit Simulation Software    
+  + [10 Best Circuit Simulation Software- 2022(Free and Paid)](https://www.etechnophiles.com/best-circuit-simulation-software/)
+  + [TOP 10 ONLINE CIRCUIT SIMULATORS](https://www.electronics-lab.com/top-ten-online-circuit-simulators/)  
+  + [Top 10 Electronic Circuit Simulation Software](https://www.techyv.com/tips/top-10-electronic-circuit-simulation-software/)
+  + [Best free analog circuit simulators](https://www.designworldonline.com/best-free-analog-circuit-simulators/)    
 
     
 <A NAME="P81"></A>
