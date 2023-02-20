@@ -1322,6 +1322,8 @@ README.md file
  Webinar
  + [Arduino Cloud Explained](https://www.crowdcast.io/e/arduino-cloud-explained)
    + Thu, Jan 12, 2023 8:00 AM PST
+ + [Arduino Cloud for Education](https://arduino-cc.zoom.us/webinar/register/WN_2VO0jFXFSbWy29bsHT3_-Q)
+   + Q & A [pdf](https://maildoc.io/file/d55ecc8d3ba124bb32fb8b6f834377a1c9b2dcae3a1d7bd85bfbe1a57b389e28?u=9312464&hash=a2847c0d8d911d2a4a55eda6ef168f0aa6d27410&iti=ead01cdc-af8f-4a91-aeda-ed95ac450cf8&w=V0E5T05ZQGdtYWlsLmNvbQ)
  
  Links
  + [Arduino Cloud How it Works](https://cloud.arduino.cc/how-it-works/)
