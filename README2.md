@@ -2266,15 +2266,24 @@ URLs
     
 Table notes
   + Mfg: microcontroll development board manufacturer
+    + Adafruit, Aideepen, Arduino, Elegoo, Lafvin, PJRCD, Raspberry Pi, Seeed Studio & Waveshare
   + MCU: microcontroller model
-  + MCU bus: 8-bits, 32-bits, more bits is better.
-  + MCU MHz: microcontroller board fastest MCU clock frequency, higher is better.  
+  + MCU bus: 
+    + 8-bits or 32-bits (better)
+  + MCU MHz: 
+    + 16 MHz to 600 MHz (better)  
   + SRAM: Static Random Access Memory, memory contents is lost when not power, program run time memory: stacks, variables, arrays, etc.
+    + 2KB to 8MB (better)
   + Flash memory: memory containing the program, memory contents is retained with no power, program memory for C object code, Python, assembly code, etc.
-  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power, non volatile program data memory: program constants, data tables, images, etc.   
+    + 2 KB to 8 MB (better)
+  + EEPROM: Electrically Erasable Programmable Read-Only Memory, memory contents is retained with no power, non volatile program data memory: program constants, data tables, images, etc.
+    + None to 4 KB (better)
   + IDE: Integrated Development Environment:  Work station to develop microcontroller software
-  + Notes: FPU - Floating Point Unit  
-    
+    + Arduino, CircuitPython, MicroPython & C/C++
+  + Notes: 
+    + FPU - Floating Point Unit  
+    + USB A, micro, C
+
 <TABLE>
   <TR>
     <TD><P><B>
