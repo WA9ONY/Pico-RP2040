@@ -2263,9 +2263,11 @@ URLs
 <P align="center"><A HREF="#P76">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P78">--&gt;</A></P>  
     
 # Project 77: Microcontroller Boards Table
-    
+
+Table contains 28 microcontroller boards.    
+       
 Table notes
-  + Mfg: microcontroll development board manufacturer
+  + Mfg: 9 microcontroll development board manufacturer
     + Adafruit, Aideepen, Arduino, Elegoo, Lafvin, PJRCD, Raspberry Pi, Seeed Studio & Waveshare
   + MCU: microcontroller model
   + MCU bus: 
@@ -3285,7 +3287,10 @@ Table notes
     <TD>
        <A HREF="https://lafvintech.com/products/nano-3-0-atmega328p-controller-board-ch340-usb-driver-with-cable-for-arduino?pr_prod_strat=copurchase_transfer_learning&pr_rec_id=e40316a41&pr_rec_pid=7384142053564&pr_ref_pid=7384142151868&pr_seq=uniform">3 at $10.50</A>
     </TD>
-    <TD>
+    <TD>  
+      Clone
+    </TD>
+ </TR> 
      
  <TR>
     <TD> 
@@ -3319,7 +3324,9 @@ Table notes
        <A HREF="https://www.aideepen.com/products/nano-mini-usb-with-bootloader-compatible-nano-3-0-controller-board-for-arduino-ch340-usb-driver-16mhz-nano-v3-0-atmega328p">$2.99</A>
     </TD>
     <TD>  
-                 
+      Clone
+    </TD>
+  </TR>   
 </TABLE>  
         
     
