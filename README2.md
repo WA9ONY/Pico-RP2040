@@ -2813,11 +2813,7 @@ Table notes
     <TD>
       WiFi  
     </TD> 
-   </TR>
-     
-     
-    
-    
+   </TR>   
     
  <TR>
     <TD> 
@@ -2932,6 +2928,42 @@ Table notes
       <A HREF="https://www.arduino.cc/">Arduino</A
     </TD>
     <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3-smd">UNO Rev3 SMD</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf">ATmega328P</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      20
+    </TD>
+    <TD>
+      2K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3-smd">$26.30</A>
+    </TD>
+    <TD>
+      Most popular, > 10 M sold, best ecosystem, SMD MCU  
+    </TD>    
+   </TR>
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A
+    </TD>
+    <TD>
       <A HREF="https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us">UNO R3</A>
     </TD>
     <TD>
@@ -2962,7 +2994,7 @@ Table notes
       Most popular, > 10 M sold, best ecosystem  
     </TD>    
    </TR>
-     
+      
   <TR>
     <TD> 
       <A HREF="https://www.elegoo.com/">Elegoo</A>
