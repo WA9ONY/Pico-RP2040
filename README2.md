@@ -3274,7 +3274,7 @@ Table notes
       <A HREF="https://www.arduino.cc/en/software">Arduino</A>
     </TD>
     <TD>
-       <A HREF="https://lafvintech.com/products/nano-3-0-atmega328p-controller-board-ch340-usb-driver-with-cable-for-arduino?pr_prod_strat=copurchase_transfer_learning&pr_rec_id=e40316a41&pr_rec_pid=7384142053564&pr_ref_pid=7384142151868&pr_seq=uniform">3 at $10.50/A>
+       <A HREF="https://lafvintech.com/products/nano-3-0-atmega328p-controller-board-ch340-usb-driver-with-cable-for-arduino?pr_prod_strat=copurchase_transfer_learning&pr_rec_id=e40316a41&pr_rec_pid=7384142053564&pr_ref_pid=7384142151868&pr_seq=uniform">3 at $10.50</A>
     </TD>
     <TD>
      
