@@ -2640,44 +2640,6 @@ Table notes
       <A HREF="https://www.arduino.cc/">Arduino</A>
     </TD>
     <TD>
-      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">Nano RP2040 Connect</A>
-    </TD>
-    <TD>
-      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> & <A HREF="https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf">Nina W102 uBlox module</A> 
-    </TD>    
-    <TD>
-      32
-    </TD>
-    <TD>
-      133
-    </TD>
-    <TD>
-      264K
-    </TD>
-    <TD>    
-      16MB
-    </TD>    
-    <TD>
-      None  
-    </TD>
-    <TD>
-      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
-    </TD>
-    <TD>
-      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">$30.60</A>
-    </TD>
-    <TD>
-      <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A>, Max RP2040 Flash, good ecosystem  
-    </TD> 
-   </TR>
-  
-    
-     
-  <TR>
-    <TD> 
-      <A HREF="https://www.arduino.cc/">Arduino</A>
-    </TD>
-    <TD>
       <A HREF="https://www.arduino.cc/pro/hardware-product-portenta-h7/">Portenta H7</A>
     </TD>
     <TD>
@@ -2708,10 +2670,191 @@ Table notes
       <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A> 
     </TD> 
    </TR>
+     
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">Nano RP2040 Connect</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> & <A HREF="https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf">Nina W102 uBlox module</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      16MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers?selectedStore=us">$30.60</A>
+    </TD>
+    <TD>
+      <A HREF="https://en.wikipedia.org/wiki/Wi-Fi">Wifi</A>, Max RP2040 Flash, good ecosystem  
+    </TD> 
+   </TR>
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-33-ble?selectedStore=us">NANO 33 BLE</A>
+    </TD>
+    <TD>
+      <A HREF="[https://en.wikipedia.org/wiki/RP2040](https://content.arduino.cc/assets/Nano_BLE_MCU-nRF52840_PS_v1.1.pdf)">nRF52840 (ARM® Cortex®-M4)</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      64
+    </TD>
+    <TD>
+      256K
+    </TD>
+    <TD>    
+      1MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano-33-ble?selectedStore=us">$26.30</A>
+    </TD>
+    <TD>
+      Bluetooth, 9 axis inertial sensor  
+    </TD> 
+   </TR>
   
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-mkr-wifi-1010?selectedStore=us">MKR1010 WiFi</A>
+    </TD>
+    <TD>
+      <A HREF="https://content.arduino.cc/assets/mkr-microchip_samd21_family_full_datasheet-ds40001882d.pdf">SAMD21 (Cortex®-M0+)</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      48
+    </TD>
+    <TD>
+      32 KB
+    </TD>
+    <TD>    
+      256K
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-mkr-wifi-1010?selectedStore=us">$38.60</A>
+    </TD>
+    <TD>
+      WiFi  
+    </TD> 
+   </TR>
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://docs.arduino.cc/hardware/mkr-1000-wifi">MKR1000 WiFi</A>
+    </TD>
+    <TD>
+      <A HREF="https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/Atmel-42181-SAM-D21_Datasheet.pdf)">ATSAMD21 (Cortex®-M0+)</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      48
+    </TD>
+    <TD>
+      256K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.amazon.com/dp/B071LRYYHH?psc=1&ref=ppx_yo2ov_dt_b_product_details">$44.00</A>
+    </TD>
+    <TD>
+      WiFi  
+    </TD> 
+   </TR>
+     
+     
     
     
     
+ <TR>
+    <TD> 
+        <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-micro?selectedStore=us">Micro</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf">ATmega32U4</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      2.5K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://store-usa.arduino.cc/products/arduino-micro?selectedStore=us">$24.90</A>
+    </TD>
+    <TD>
+        
+    </TD> 
+   </TR>
+     
   <TR>
     <TD> 
         <A HREF="https://www.arduino.cc/">Arduino</A>
@@ -2747,7 +2890,43 @@ Table notes
       Second most popular, good ecosystem  
     </TD> 
    </TR>
-   
+ 
+  <TR>
+    <TD> 
+      <A HREF="https://www.arduino.cc/">Arduino</A
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-wifi-rev2?selectedStore=us">UNO WiFi REV2</A>
+    </TD>
+    <TD>
+      <A HREF="http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega4808-4809-Data-Sheet-DS40002173A.pdf">ATmega4809</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      6,144 
+    </TD>
+    <TD>    
+      48 KB
+    </TD>    
+    <TD>
+      256  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-uno-wifi-rev2?selectedStore=us">$53.80</A>
+    </TD>
+    <TD>
+      WiFi  
+    </TD>    
+   </TR>
+     
   <TR>
     <TD> 
       <A HREF="https://www.arduino.cc/">Arduino</A
