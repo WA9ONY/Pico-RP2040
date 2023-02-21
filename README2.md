@@ -2282,9 +2282,11 @@ Table notes
     + None to 4 KB (better)
   + IDE: Integrated Development Environment:  Work station to develop microcontroller software
     + Arduino, CircuitPython, MicroPython & C/C++
+  + Price
+    + $ 2.99 (better) to $ 120.00
   + Notes: 
     + FPU - Floating Point Unit  
-    + USB A, micro, C
+    + USB interface: A, micro, C & A Plug
 
 <TABLE>
   <TR>
@@ -2570,7 +2572,7 @@ Table notes
       <A HREF="https://www.adafruit.com/product/5056">$7.95</A>
     </TD>
     <TD>
-      <A HREF="https://learn.adafruit.com/introducing-adafruit-stemma-qt">STEMMA QT</A>, USB Key  
+      <A HREF="https://learn.adafruit.com/introducing-adafruit-stemma-qt">STEMMA QT</A>, USB A Plug  
     </TD>   
   </TR>
 
