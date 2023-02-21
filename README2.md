@@ -3025,7 +3025,7 @@ Table notes
        <A HREF="https://store-usa.arduino.cc/products/arduino-micro?selectedStore=us">$24.90</A>
     </TD>
     <TD>
-                
+     &nbsp;           
     </TD> 
    </TR>
      
