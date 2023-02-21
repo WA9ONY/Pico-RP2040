@@ -2634,6 +2634,151 @@ Table notes
       <A HREF="https://www.seeedstudio.com/XIAO-c-1964.html">XIAO series</A>  
     </TD>   
   </TR>
+
+  <TR>
+    <TD> 
+      <A HREF="https://www.waveshare.com/">Waveshare</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-zero.htm">RP2040-Zero</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      2MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://micropython.org/">MicroPython</A>, C++
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-zero.htm?sku=20187">$4.49</A>
+    </TD>
+    <TD>
+      Small, USB-C 
+    </TD>   
+  </TR>
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.waveshare.com/">Waveshare</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-one.htm">RP2040-One</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      4MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://micropython.org/">MicroPython</A>, C++
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-one.htm">$4.49</A>
+    </TD>
+    <TD>
+      Small, USB-A Plug 
+    </TD>   
+  </TR>
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.waveshare.com/">Waveshare</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-plus.htm">RP2040-Plus</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      4MB/16MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://micropython.org/">MicroPython</A>, C++
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-plus.htm">$8.89</A>
+    </TD>
+    <TD>
+      USB-C, higher current DC-DC chip, Lithium battery recharging
+    </TD>   
+  </TR>
+    
+    
+  <TR>
+    <TD> 
+      <A HREF="https://www.waveshare.com/">Waveshare</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-lcd-0.96.htm">RP2040-LCD-0.96</A>
+    </TD>
+    <TD>
+      Dual ARM Cortex-M0+, <A HREF="https://en.wikipedia.org/wiki/RP2040">RP2040</A> 
+    </TD>    
+    <TD>
+      32
+    </TD>
+    <TD>
+      133
+    </TD>
+    <TD>
+      264K
+    </TD>
+    <TD>    
+      2MB
+    </TD>    
+    <TD>
+      None  
+    </TD>
+    <TD>
+      <A HREF="https://micropython.org/">MicroPython</A>, C++
+    </TD>
+    <TD>
+      <A HREF="https://www.waveshare.com/rp2040-lcd-0.96.htm">$11.99</A>
+    </TD>
+    <TD>
+      0.96" 160×80 pixels IPS display, USB-C, higher current DC-DC chip, Lithium battery recharging
+    </TD>   
+  </TR>
     
   <TR>
     <TD> 
@@ -2820,6 +2965,39 @@ Table notes
         <A HREF="https://www.arduino.cc/">Arduino</A>
     </TD>
     <TD>
+      <A HREF="https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us">Nano 3.x</A>
+    </TD>
+    <TD>
+      <A HREF="https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf">ATmega328</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      2K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us">$24.90</A>
+    </TD>
+    <TD>
+    
+ <TR>
+    <TD> 
+        <A HREF="https://www.arduino.cc/">Arduino</A>
+    </TD>
+    <TD>
       <A HREF="https://store-usa.arduino.cc/products/arduino-micro?selectedStore=us">Micro</A>
     </TD>
     <TD>
@@ -2847,7 +3025,7 @@ Table notes
        <A HREF="https://store-usa.arduino.cc/products/arduino-micro?selectedStore=us">$24.90</A>
     </TD>
     <TD>
-        
+                
     </TD> 
    </TR>
      
@@ -3066,6 +3244,72 @@ Table notes
       Low cost UNO R3 clone with <A HREF="https://www.elegoo.com/collections/arduino-learning-sets">STEM kits</A>  
     </TD>    
    </TR>
+    
+ <TR>
+    <TD> 
+        <A HREF="https://lafvintech.com/">Lafvin</A>
+    </TD>
+    <TD>
+      <A HREF="https://lafvintech.com/products/nano-3-0-atmega328p-controller-board-ch340-usb-driver-with-cable-for-arduino?pr_prod_strat=copurchase_transfer_learning&pr_rec_id=e40316a41&pr_rec_pid=7384142053564&pr_ref_pid=7384142151868&pr_seq=uniform">Nano 3.0</A>
+    </TD>
+    <TD>
+      <A HREF="https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf">ATmega328</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      2K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://lafvintech.com/products/nano-3-0-atmega328p-controller-board-ch340-usb-driver-with-cable-for-arduino?pr_prod_strat=copurchase_transfer_learning&pr_rec_id=e40316a41&pr_rec_pid=7384142053564&pr_ref_pid=7384142151868&pr_seq=uniform">3 at $10.50/A>
+    </TD>
+    <TD>
+     
+ <TR>
+    <TD> 
+        <A HREF="https://www.aideepen.com/">Aideepen</A>
+    </TD>
+    <TD>
+      <A HREF="https://www.aideepen.com/products/nano-mini-usb-with-bootloader-compatible-nano-3-0-controller-board-for-arduino-ch340-usb-driver-16mhz-nano-v3-0-atmega328p">Nano 3.0</A>
+    </TD>
+    <TD>
+      <A HREF="https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf">ATmega328</A> 
+    </TD>    
+    <TD>
+      8
+    </TD>
+    <TD>
+      16
+    </TD>
+    <TD>
+      2K
+    </TD>
+    <TD>    
+      32KB
+    </TD>    
+    <TD>
+      1 KB  
+    </TD>
+    <TD>
+      <A HREF="https://www.arduino.cc/en/software">Arduino</A>
+    </TD>
+    <TD>
+       <A HREF="https://www.aideepen.com/products/nano-mini-usb-with-bootloader-compatible-nano-3-0-controller-board-for-arduino-ch340-usb-driver-16mhz-nano-v3-0-atmega328p">$2.99</A>
+    </TD>
+    <TD>  
                  
 </TABLE>  
         
