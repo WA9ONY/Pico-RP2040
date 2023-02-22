@@ -2213,7 +2213,7 @@ Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The
     + The oscilloscope measures SCL high to be 3.16 V which is close to the 3.3 V.
       
     
-## I²C-bus Address 114, write & Nak from the slave    
+## I²C-bus Pico controller sending Address 114, write & SerLED slave Nack   
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm0b-600.png">  
 </p>
@@ -2238,7 +2238,8 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
 
 + The oscilloscope two vertical cursors (vertical solid and dash lines) bracket the eight data clock pulses and the ninth nack/ack clock pulse.    
 + Data is valid when clock is high.
-+ Nack/ack is valid when clock is high. Ack is a low.   
++ Nack/ack is valid when clock is high. 
++ Ack is held low by the SerLED indicating it is ready for data from the Pico controller.   
           
 ## I²C-bus Pico Controller Writing x7C hex (b01111100) data to the SerLED slave with Ack
 <p align="center">
@@ -2247,8 +2248,9 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
 
 + The oscilloscope two vertical cursors (vertical solid and dash lines) bracket the eight data clock pulses and the ninth nack/ack clock pulse.    
 + Data is valid when clock is high.
-+ Nack/ack is valid when clock is high. Ack is a low.    
-          
++ Nack/ack is valid when ninth clock bit is high. Ack is a low.    
++ Ack is held low by the SerLED indicating it received the x7C hex data from the Pico controller.
+    
 ## I²C-bus Pico controller sending Address 114, write & SerLED slave Ack
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm3-600.png">  
@@ -2256,7 +2258,7 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
 
 + The oscilloscope two vertical cursors (vertical solid and dash lines) bracket the eight data clock pulses and the ninth nack/ack clock pulse.    
 + Data is valid when clock is high.
-+ Nack/ack is valid when clock is high. Ack is a low.    
++ Nack/ack is valid when ninth clock bit is high. Ack is a low.    
     
     
 ## I²C-bus Pico Controller Writing x2D hex (b00101101) data to the SerLED slave with Ack
@@ -2266,8 +2268,8 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
 
 + The oscilloscope two vertical cursors (vertical solid and dash lines) bracket the eight data clock pulses and the ninth nack/ack clock pulse.    
 + Data is valid when clock is high.
-+ Nack/ack is valid when clock is high. Ack is a low.    
-    
++ Nack/ack is valid when ninth clock bit is high. Ack is a low.    
++ Ack is held low by the SerLED indicating it received the x2D hex data from the Pico controller    
     
 <A NAME="P75"></A>
 <HR>
