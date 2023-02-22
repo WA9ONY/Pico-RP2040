@@ -2200,11 +2200,14 @@ Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The
 + Yellow: serial clock - SCK  to Pico I2C0 SCL pin 2, oscilloscope channel 3 yellow waveform
 
     
-## I²C-bus No Activity
+## I²C-bus No Activity, Pico & SerLED
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm0-600.png">  
 </p>
     
++ Both the Raspberry Pi Pico development board and the Sparkfun SerLED are 3.3 V devices.  Therefore, the two I2C lines SDA and SCL have pull up resistors to ~3.3 V.  
++ Oscilloscope channel 2 (blue) is attached to the I²C SDA line.  The oscilloscope measures SDA high to be 2.24 V which is close to the 3.3 V..
++ Oscilloscope channel 3 (yellow) is attached to the I²C SCL line.  The oscilloscope measures SCL high to be 2.20 V which is close to the 3.3 V.
       
     
 ## I²C-bus Address 114, write & Nak from the slave    
@@ -2214,9 +2217,9 @@ Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The
 
 The above screen shot shows the Raspberry Pi Pico I2C controller is requesting to write to the Sparkfun SerLED I²C slave at address 114.  The Sparkfun SerLED responded with a not acknowledge.  If the  Sparkfun SerLED I²C slave did not understand the request an automatic not acknowledge is the default response if the slave does nothing.      
     
-+ Both the Raspberry Pi Pico development board and the Sparkfun SerLED are 3.3 V devices.  Therefore, the two I2C lines SDA and SCL have pull up resistors to 3.3 V.  
-+ Oscilloscope channel 2 (blue) is attached to the I²C SDA line.  The oscilloscope measures SDA high to be 2.24 V which is close to the 3.3 V..
-+ Oscilloscope channel 3 (yellow) is attached to the I²C SCL line.  The oscilloscope measures SCL high to be 2.20 V which is close to the 3.3 V.
++ Both the Raspberry Pi Pico development board and the Sparkfun SerLED are 3.3 V devices.  Therefore, the two I2C lines SDA and SCL have pull up resistors to ~3.3 V.  
++ Oscilloscope channel 2 (blue) is attached to the I²C SDA line.  The oscilloscope measures SDA high to be 3.24 V which is close to the 3.3 V..
++ Oscilloscope channel 3 (yellow) is attached to the I²C SCL line.  The oscilloscope measures SCL high to be 3.20 V which is close to the 3.3 V.
 I²C start is when the SDA goes low when the SCL is high.  The oscilloscope first cursor is position at the first vertical division.
 + This I²C packet is composed of nine SCL pulses. SDA changes when SCL is low.  SDA is stable and is read when SCL is high. 
 + The first seven SCL are for the seven bit I2C address (0 to 127).
@@ -2225,28 +2228,26 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
 + The ninth SCL bit is for the Sparkfun SerLED to acknowledge the I²C master Raspberry Pi Pico controller.  Nak (not acknowledge) is when the SDA is high as shown in the above the screen shot.  
 + The end of the I²C packet is at 6.5 division, cursor #2.  The end is when the SDA rises when SCL is high.
         
-## I²C-bus Address 114, write & Ack from the slave
+## I²C-bus Pico controller sending Address 114, write & SerLED slave Ack
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm1-600.png">  
 </p>
     
-## I²C-bus Controller Writing x7C hex (b01111100) to the slave
+## I²C-bus Pico Controller Writing x7C hex (b01111100) data to the SerLED slave with Ack
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm2-600.png">  
 </p>
     
-## I²C-bus Address 114, write & Ack from the slave
+## I²C-bus Pico controller sending Address 114, write & SerLED slave Ack
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm3-600.png">  
 </p>
 
-## I²C-bus Controller Writing x2D hex (b00101101) to the slave
+## I²C-bus Pico Controller Writing x2D hex (b00101101) data to the SerLED slave with Ack
 <p align="center">
 <img width="600" height="338" src="/Images/I2Cwfm4-600.png">  
 </p>
-    
 
-     
     
 <A NAME="P75"></A>
 <HR>
