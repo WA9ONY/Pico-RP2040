@@ -2202,7 +2202,7 @@ Sparkfun QWIIC cable connects the Sparkfun SerLED to the Raspberry Pi Pico.  The
     
 ## I²C-bus No Activity
 <p align="center">
-<img width="600" height="338" src="/Images/I2Cwfm0.png">  
+<img width="600" height="338" src="/Images/I2Cwfm0-600.png">  
 </p>
     
       
@@ -2227,22 +2227,22 @@ I²C start is when the SDA goes low when the SCL is high.  The oscilloscope firs
         
 ## I²C-bus Address 114, write & Ack from the slave
 <p align="center">
-<img width="600" height="338" src="/Images/I2Cwfm1.png">  
+<img width="600" height="338" src="/Images/I2Cwfm1-600.png">  
 </p>
     
 ## I²C-bus Controller Writing x7C hex (b01111100) to the slave
 <p align="center">
-<img width="600" height="338" src="/Images/I2Cwfm2.png">  
+<img width="600" height="338" src="/Images/I2Cwfm2-600.png">  
 </p>
     
 ## I²C-bus Address 114, write & Ack from the slave
 <p align="center">
-<img width="600" height="338" src="/Images/I2Cwfm3.png">  
+<img width="600" height="338" src="/Images/I2Cwfm3-600.png">  
 </p>
 
 ## I²C-bus Controller Writing x2D hex (b00101101) to the slave
 <p align="center">
-<img width="600" height="338" src="/Images/I2Cwfm4.png">  
+<img width="600" height="338" src="/Images/I2Cwfm4-600.png">  
 </p>
     
 
