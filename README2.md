@@ -3575,6 +3575,12 @@ Qwiic is a four wire connector system with I²C-bus SDA & SCL and 3.3 V power & 
 In the top photos the twisted cable is a SparkFun Qwiic cable and the flat cable on the other side of the MultiPort is Adafruit STEMM QT cable.
 STEMM QT cable works on Qwiic but STEMM QT may have 5V or 3.3V on the Vcc wire.  5V is not compatible with Qwiic. Qwiic is only 3.3V.
 Therefore, you can mix and match 3.3 V STEMM QT devices with 3.3 v Qwiic devices.    
+
++ Qwiic cable wires are small and have a max current of about [226mA](https://learn.sparkfun.com/tutorials/qwiic-multiport-hookup-guide#note1)   
++ Maximum I²C-bus capacitance is 400 pf.
++ the faster the  I²C-bus clock frequency, The lower the pull up resistance.    
++ I²C-bus pull up resistors range 1K to 4.7 K.
+    
     
 Video
   + SparkFun Qwiic [video](https://youtu.be/x0RDEHqFIF8)
