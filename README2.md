@@ -3603,12 +3603,8 @@ URLs
 <img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
 </p>
     
-[Tinkercad](https://www.tinkercad.com/) [Circuits community gallery](https://www.tinkercad.com/things?type=circuits).    
-
-    
- 
-
-    
+[Tinkercad](https://www.tinkercad.com/) [Circuits](https://www.tinkercad.com/circuits) [community gallery](https://www.tinkercad.com/things?type=circuits).    
+   
         
 <A NAME="P86"></A>
 <HR>
@@ -3619,7 +3615,7 @@ URLs
 <img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
 </p>
     
-[Tinkercad](https://www.tinkercad.com/) [Codeblocks community gallery](https://www.tinkercad.com/things?type=blocks).   
+[Tinkercad](https://www.tinkercad.com/) [Codeblocks](https://www.tinkercad.com/codeblocks) [community gallery](https://www.tinkercad.com/things?type=blocks).   
     
     
     
