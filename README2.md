@@ -3565,9 +3565,9 @@ Programming the Pico
 
 Qwiic MultiPort is a good way to connect additional I²C-bus devices to the microcontroller.    
  
-I²C-bus is a two wire open collector/drain bus: SDA data and SCL clock.    
+<A HREF="README2.md#P63">I²C-bus: Inter-Integrated Circuit Bus</A> is a two wire open collector/drain bus: SDA data and SCL clock.    
     
-[SparkFun]() [Qwiic MultiPort](https://www.sparkfun.com/products/18012)
+[SparkFun](https://www.sparkfun.com/) [Qwiic MultiPort](https://www.sparkfun.com/products/18012)
 +  [Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-multiport-hookup-guide)    
 
 Qwiic is a four wire connector system with I²C-bus SDA & SCL and 3.3 V power & GND.
@@ -3577,12 +3577,13 @@ STEMM QT cable works on Qwiic but STEMM QT may have 5V or 3.3V on the Vcc wire. 
 Therefore, you can mix and match 3.3 V STEMM QT devices with 3.3 v Qwiic devices.    
     
 Video
+  + SparkFun Qwiic [video](https://youtu.be/x0RDEHqFIF8)
   + Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14)
     
 URLs
- + Qwiic [cable list](https://www.sparkfun.com/search/results?term=Qwiic+Cable)
- + STEMMA QT [cable list](https://www.adafruit.com/?q=Stemma+qt+cable&sort=BestMatch) 
- + [What is STEMMA QT?](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma-qt)
+ + SparkFun Qwiic [cable list](https://www.sparkfun.com/search/results?term=Qwiic+Cable)
+ + Adafruit STEMMA QT [cable list](https://www.adafruit.com/?q=Stemma+qt+cable&sort=BestMatch) 
+ + Adafruit [What is STEMMA QT?](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma-qt)
  
 
     
