@@ -132,6 +132,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 82: <A HREF="README2.md#P82">MicroPython Pico Function</A>
 + Project 83: <A HREF="README2.md#P83">Book: Programming the Pico, Dr.Simon Monk</A>
 + Project 84: <A HREF="README2.md#P84">I²C-bus: SparkFun Qwiic MultiPort</A>
++ Project 85: <A HREF="README2.md#P85">Tinkercad Circuits</A>
++ Project 86: <A HREF="README2.md#P86">Tinkercad Codeblocks</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
