@@ -131,6 +131,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 81: <A HREF="README2.md#P81">I²C-bus: Seeed Studio Grove System</A>
 + Project 82: <A HREF="README2.md#P82">MicroPython Pico Function</A>
 + Project 83: <A HREF="README2.md#P83">Book: Programming the Pico, Dr.Simon Monk</A>
++ Project 84: <A HREF="README2.md#P84">I²C-bus: SparkFun Qwiic MultiPort</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
