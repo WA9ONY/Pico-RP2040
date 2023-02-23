@@ -3600,7 +3600,7 @@ URLs
     
 # Project 85: Tinkercad Circuits
 <p align="center">
-<img align="center" width="182" height="48" src="/Images/tinkercad-lockup-white.svg">     
+<img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
 </p>
     
 [Tinkercad](https://www.tinkercad.com/) [Circuits community gallery](https://www.tinkercad.com/things?type=circuits).    
@@ -3616,7 +3616,7 @@ URLs
     
 # Project 86: Tinkercad Codeblocks
 <p align="center">
-<img align="center" width="600" height="338" src="/Images/MultiportTop600.png">     
+<img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
 </p>
     
 [Tinkercad](https://www.tinkercad.com/) [Codeblocks community gallery](https://www.tinkercad.com/things?type=blocks).   
