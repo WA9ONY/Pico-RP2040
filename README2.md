@@ -3579,6 +3579,7 @@ Therefore, you can mix and match 3.3 V STEMM QT devices with 3.3 v Qwiic devices
 Video
   + SparkFun Qwiic [video](https://youtu.be/x0RDEHqFIF8)
   + Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14)
+  + Product Showcase: SparkFun Qwiic MultiStar [MultiPort](https://youtu.be/rZdpmfQWeIg)
     
 URLs
  + SparkFun Qwiic [cable list](https://www.sparkfun.com/search/results?term=Qwiic+Cable)
