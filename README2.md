@@ -3572,7 +3572,18 @@ I²C-bus is a two wire open collector/drain bus: SDA data and SCL clock.
 
 Qwiic is a four wire connector with I²C-bus SDA & SCL, and 3.3 V power & GND.
     
+In the top photos the twisted cable is a SparkFun Qwiic cable and the flat cable is Adafruit STEMM QT cable.
+STEMM QT cable works on Qwiic but STEMM QT may have 5V or 3.3V on the Vcc wire.  5V is not compatible with Qwiic. Qwiic is only 3.3V.
     
+Video
+  + Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14)
+    
+URLs
+ + Qwiic [cable list](https://www.sparkfun.com/search/results?term=Qwiic+Cable)
+ + STEMMA QT [cable list](https://www.adafruit.com/?q=Stemma+qt+cable&sort=BestMatch) 
+ + [What is STEMMA QT?](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma-qt)
+ 
+
     
 <A NAME="FUTURE"></A>
 <HR>
