@@ -2299,6 +2299,9 @@ Videos
 URLs
 + Forum [Is there a Teensy 4.1 Reference Book ?](https://forum.pjrc.com/threads/71287-Is-there-a-Teensy-4-1-Reference-Book?s=cdc5792e526fda920336a39827568fd5)    
         
+MicroPython [functions](https://docs.micropython.org/en/latest/mimxrt/quickref.html#) for the Tennsy 4.1.    
+    
+    
     
 <A NAME="P76"></A>
 <HR>
@@ -3504,17 +3507,56 @@ Grove I²C connector & cable colors
     
 <A NAME="P82"></A>
 <HR>
-<P align="center"><A HREF="#P81">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P81">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P83">--&gt;</A></P>  
     
 # Project 82: MicroPython Pico Functions
+<p align="center">
+<img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">    
+</p>
         
+[MicroPython](https://micropython.org/) is on of the [Raspberry Pi](https://www.raspberrypi.com/) support programming languages for the [Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/).  The free Get Started with MicroPython on Raspberry Pi Pico  [139 pages PDF](https://hackspace.raspberrypi.com/books/micropython-pico) uses MicroPython.
+    
+ MicroPython [Quick reference](https://docs.micropython.org/en/latest/rp2/quickref.html) for the RP2   
+ 
+ MicroPython Pico modules   
+ + [machine module](https://docs.micropython.org/en/latest/library/machine.html#module-machine)   
+ + [rp2 module](https://docs.micropython.org/en/latest/library/rp2.html#module-rp2)
+ + [time module](https://docs.micropython.org/en/latest/library/time.html#module-time)
+ + [neopixel module](https://docs.micropython.org/en/latest/rp2/quickref.html) at the bottom of the web page.
+ + [apa106 module](https://docs.micropython.org/en/latest/rp2/quickref.html) at the bottom of the web page.    
+    
+ Books
+ + Amazon Raspberry Pi Pico MicroPython in books [lsit](https://www.amazon.com/s?k=raspberry+Pi+Pico+micropython+in+books&crid=3A0WGYH5NH3LY&sprefix=raspberry+pi+pico+micropython+in+book%2Caps%2C168&ref=nb_sb_noss_2)   
 
+    
+    
+    
+<A NAME="P83"></A>
+<HR>
+<P align="center"><A HREF="#P82">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 83: Book: Programming the Pico, Dr.Simon Monk
+<p align="center">
+<img align="center" width="233" height="348" src="/Images/PrgmPico.png">   
+</p>
+   
+I enjoy [Dr.Simon Monk]() writting style and I seek out his books.    
+
+Programming the Pico    
++ MicroPython and IDE Thonny
++ 2022    
++ 146 pages
++ 12 chapters 
++ Photo are black and white.    
++ Contents see Amazon [lock inside](https://www.amazon.com/Programming-Pico-Coding-Electronics-Raspberry/dp/B09HG2JYS9/ref=sr_1_13?crid=3A0WGYH5NH3LY&keywords=raspberry+Pi+Pico+micropython+in+books&qid=1677112425&sprefix=raspberry+pi+pico+micropython+in+book%2Caps%2C168&sr=8-13)    
++ Book [errors](http://simonmonk.org/prog_pico/)
++ Pico book [kit](https://www.monkmakes.com/pico_kit1.html)    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P82">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P83">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
@@ -3536,7 +3578,7 @@ Grove I²C connector & cable colors
 + Photo/image for each project
 + #372 How to use the two Cores of the Pi Pico? And how fast are Interrupts? [video](https://youtu.be/9vvobRfFOwk)
 + Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14) 
-  
++ Pico W vs. Zero 2 W  
   
 
 73 David Haworth WA9ONY
