@@ -3568,12 +3568,13 @@ Qwiic MultiPort is a good way to connect additional I²C-bus devices to the micr
 I²C-bus is a two wire open collector/drain bus: SDA data and SCL clock.    
     
 [SparkFun]() [Qwiic MultiPort](https://www.sparkfun.com/products/18012)
-+  [Hookup Guide]([https://www.sparkfun.com/products/18012](https://learn.sparkfun.com/tutorials/qwiic-multiport-hookup-guide))    
++  [Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-multiport-hookup-guide)    
 
-Qwiic is a four wire connector with I²C-bus SDA & SCL, and 3.3 V power & GND.
+Qwiic is a four wire connector system with I²C-bus SDA & SCL and 3.3 V power & GND.
     
-In the top photos the twisted cable is a SparkFun Qwiic cable and the flat cable is Adafruit STEMM QT cable.
+In the top photos the twisted cable is a SparkFun Qwiic cable and the flat cable on the other side of the MultiPort is Adafruit STEMM QT cable.
 STEMM QT cable works on Qwiic but STEMM QT may have 5V or 3.3V on the Vcc wire.  5V is not compatible with Qwiic. Qwiic is only 3.3V.
+Therefore, you can mix and match 3.3 V STEMM QT devices with 3.3 v Qwiic devices.    
     
 Video
   + Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14)
