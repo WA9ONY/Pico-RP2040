@@ -3528,12 +3528,10 @@ Grove I²C connector & cable colors
  Books
  + Amazon Raspberry Pi Pico MicroPython in books [lsit](https://www.amazon.com/s?k=raspberry+Pi+Pico+micropython+in+books&crid=3A0WGYH5NH3LY&sprefix=raspberry+pi+pico+micropython+in+book%2Caps%2C168&ref=nb_sb_noss_2)   
 
-    
-    
-    
+         
 <A NAME="P83"></A>
 <HR>
-<P align="center"><A HREF="#P82">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P82">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P84">--&gt;</A></P>  
     
 # Project 83: Book: Programming the Pico, Dr.Simon Monk
 <p align="center">
@@ -3551,6 +3549,29 @@ Programming the Pico
 + Contents see Amazon [lock inside](https://www.amazon.com/Programming-Pico-Coding-Electronics-Raspberry/dp/B09HG2JYS9/ref=sr_1_13?crid=3A0WGYH5NH3LY&keywords=raspberry+Pi+Pico+micropython+in+books&qid=1677112425&sprefix=raspberry+pi+pico+micropython+in+book%2Caps%2C168&sr=8-13)    
 + Book [errors](http://simonmonk.org/prog_pico/)
 + Pico book [kit](https://www.monkmakes.com/pico_kit1.html)    
+    
+
+         
+<A NAME="P84"></A>
+<HR>
+<P align="center"><A HREF="#P83">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 84: I²C-bus: SparkFun Qwiic MultiPort
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/MultiportTop600.png">   
+<img align="center" width="600" height="338" src="/Images/MultiportConn600.png">   
+<img align="center" width="600" height="338" src="/Images/MultiportBot600.png">   
+</p>
+
+Qwiic MultiPort is a good way to connect additional I²C-bus devices to the microcontroller.    
+ 
+I²C-bus is a two wire open collector/drain bus: SDA data and SCL clock.    
+    
+[SparkFun]() [Qwiic MultiPort](https://www.sparkfun.com/products/18012)
++  [Hookup Guide]([https://www.sparkfun.com/products/18012](https://learn.sparkfun.com/tutorials/qwiic-multiport-hookup-guide))    
+
+Qwiic is a four wire connector with I²C-bus SDA & SCL, and 3.3 V power & GND.
+    
     
     
 <A NAME="FUTURE"></A>
