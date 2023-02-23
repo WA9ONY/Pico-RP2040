@@ -3550,11 +3550,10 @@ Programming the Pico
 + Book [errors](http://simonmonk.org/prog_pico/)
 + Pico book [kit](https://www.monkmakes.com/pico_kit1.html)    
     
-
-         
+        
 <A NAME="P84"></A>
 <HR>
-<P align="center"><A HREF="#P83">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P83">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P85">--&gt;</A></P>  
     
 # Project 84: I²C-bus: SparkFun Qwiic MultiPort
 <p align="center">
@@ -3580,7 +3579,7 @@ Therefore, you can mix and match 3.3 V STEMM QT devices with 3.3 v Qwiic devices
 + Maximum I²C-bus capacitance is 400 pf.
 + the faster the  I²C-bus clock frequency, The lower the pull up resistance.    
 + I²C-bus pull up resistors range 1K to 4.7 K.
-    
++ I²C-bus at the [Hardware Level](https://learn.sparkfun.com/tutorials/i2c/all#i2c-at-the-hardware-level)
     
 Video
   + SparkFun Qwiic [video](https://youtu.be/x0RDEHqFIF8)
@@ -3594,10 +3593,40 @@ URLs
  
 
     
+        
+<A NAME="P85"></A>
+<HR>
+<P align="center"><A HREF="#P84">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P86">--&gt;</A></P>  
+    
+# Project 85: Tinkercad Circuits
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/MultiportTop600.png">     
+</p>
+    
+[Tinkercad](https://www.tinkercad.com/) [Circuits community gallery](https://www.tinkercad.com/things?type=circuits).    
+
+    
+ 
+
+    
+        
+<A NAME="P86"></A>
+<HR>
+<P align="center"><A HREF="#P85">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 86: Tinkercad Codeblocks
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/MultiportTop600.png">     
+</p>
+    
+[Tinkercad](https://www.tinkercad.com/) [Codeblocks community gallery](https://www.tinkercad.com/things?type=blocks).   
+    
+    
+    
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P83">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
