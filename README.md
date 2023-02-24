@@ -134,6 +134,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 84: <A HREF="README2.md#P84">I²C-bus: SparkFun Qwiic MultiPort</A>
 + Project 85: <A HREF="README2.md#P85">Tinkercad Circuits</A>
 + Project 86: <A HREF="README2.md#P86">Tinkercad Codeblocks</A>
++ Project 87: <A HREF="README2.md#P87">Tinkercad 3D Design</A>
++ Project 88: <A HREF="README2.md#P88">Diode I-V Characteristics Curve</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
