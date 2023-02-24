@@ -3697,10 +3697,10 @@ It is important that the two oscilloscope probes grounds are at the same point. 
 <img align="center" width="600" height="439" src="/Images/1N34AH200mvV100mv.png">     
 </p>
   
- Videos
-    + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
-    + I-V Characteristics [video list](https://www.youtube.com/results?search_query=i-v+characteristics)
-    + I-V characteristics of diode [video list](https://www.youtube.com/results?search_query=i-v+characteristics+of+diode)
+Videos
+  + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
+  + I-V Characteristics [video list](https://www.youtube.com/results?search_query=i-v+characteristics)
+  + I-V characteristics of diode [video list](https://www.youtube.com/results?search_query=i-v+characteristics+of+diode)
 
     
     
