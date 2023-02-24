@@ -3649,15 +3649,15 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
 
 I-V  characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).
     
-The above image shows a oscilloscope with a diode VI characteristics curve on its display.
-The oscilloscope two probes are attached to a series circuit of a diode, AC voltage source and a resistor.
-Channel 1 probe measures the voltage across the diode, horziontal axis.
-Channel 2 probe measures the voltage across the resistor which provide the current measurement after using Ohms law, vertical axis.    
-Therefore, oscilloscope disply is the diode I-V  characteristics curve. 
-The red auto transformer with the big black knob varyies the AC voltage.
-Plugged into the auto transformer is a 120 Vac to 6 Vac transformer which is the voltage source for the curve plot.    
-The red circuit board has various 5 W and 2 W resistors to be used to measure the current.
-The diode is connected to a red mini clip and black mini clip on the desk above the resistor circuit board.    
+The above image shows a oscilloscope with a diode I-V characteristics curve on its display.
++ The oscilloscope two probes are attached to a series circuit of a diode, AC voltage source and a resistor.
++ Channel 1 probe measures the voltage across the diode, horziontal axis.
++ Channel 2 probe measures the voltage across the resistor which provide the current measurement after using Ohms law, vertical axis.    
++ Therefore, oscilloscope disply is the diode I-V  characteristics curve. 
++ The red auto transformer with the big black knob varyies the AC voltage.
++ Plugged into the auto transformer is a 120 Vac to 6 Vac transformer which is the voltage source for the curve plot.    
++ The red circuit board has various 5 W and 2 W resistors to be used to measure the current.
++ The diode is connected to a red mini clip and black mini clip on the desk above the resistor circuit board.    
     
 A two channel oscilloscope with XY capability and invert channel 2 plots XY of channel 1 volts and channel 2 volts.
 Use channel 2 to measure the voltage across a resistor in series with the device under test.
@@ -3673,7 +3673,7 @@ Summary
     + The results in the vertical axis being upside down, but this is fixed by using the channel 2 invert function.
     + The results is a I-V characteristics curve test for two terminal devices.
     
-## I-V  Characteristics 0 Volts, 0 Current
+## I-V Characteristics Curve: 0 Volts, 0 Current
     
 <p align="center">
 <img align="center" width="600" height="457" src="/Images/V0I0.png">     
@@ -3684,7 +3684,7 @@ Summary
 + In XY mode the vertical axis is channel 2 voltage.
 + When both channels have 0 volts there is dot in the center of the display as shown in the above image.    
     
-## I-V  Characteristics Open Circuit -/+ 800 mVolts, 0 Current
+## I-V Characteristics Curve: Open Circuit -/+ 800 mVolts, 0 Current
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/VIopen.png">     
@@ -3708,41 +3708,61 @@ Summary
     
     
     
-## I-V  Characteristics Short Circuit 0 Volts, -/+  3 ma Current
+## I-V Characteristics Curve: Short Circuit 0 Volts, -/+  3 ma Current
        
 <p align="center">
 <img align="center" width="600" height="443" src="/Images/VIshort.png">     
 </p>
-## VI Characteristics 1 KOhm Resistor  -/+ 3 Volts, -/+  0.3 ma Current       
+
+## VI Characteristics 1 KOhm Resistor  -/+ 3 Volts, -/+  3 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="447" src="/Images/1k3V.png">     
 </p>
 
-## I-V  Characteristics 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
+This is a test of the I-V     
+    
+## I-V Characteristics Curve: 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/1N4001V1div200mv.png">     
 </p>
 
-## I-V  Characteristics 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
+Data sheets
+    + [1](https://www.vishay.com/docs/88503/1n4001.pdf)
+    + [2](https://www.onsemi.com/pdf/datasheet/1n4001-d.pdf)    
+
+## I-V Characteristics Curve: 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/1N4148H200mvV100mv.png">     
 </p>
 
-## I-V  Characteristics 1N5817 Schottky Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
+Data sheets
+    + [1](https://www.vishay.com/docs/81857/1n4148.pdf)
+    + [2](https://www.diodes.com/assets/Datasheets/ds12019.pdf)    
+
+## I-V Characteristics Curve: 1N5817 Schottky Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="441" src="/Images/1N5817div200mv.png">     
 </p>
 
-## I-V Characteristics 1N34A Germanium Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
+Data sheets
+    + [1](https://www.onsemi.com/pdf/datasheet/1n5817-d.pdf)
+    + [2](https://www.vishay.com/docs/88525/1n5817.pdf)    
+    
+    
+## I-V Characteristic Curve: 1N34A Germanium Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="439" src="/Images/1N34AH200mvV100mv.png">     
 </p>
-  
+ 
+Data sheets
+    + [1](https://www.tme.eu/Document/0a9524ad7e11ca40773ed52e579d7546/1N34A.pdf)
+    + [2](https://www.circuitspecialists.com/content/223351/1n34a.pdf)    
+    
 Videos
   + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
   + I-V Characteristics [video list](https://www.youtube.com/results?search_query=i-v+characteristics)
