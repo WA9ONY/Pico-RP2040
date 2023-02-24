@@ -3647,28 +3647,68 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
 <img align="center" width="600" height="575" src="/Images/VIequip.png">     
 </p>
 
-I-V characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).   
+I-V  characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).
+    
+The above image shows a oscilloscope with a diode VI characteristics curve on its display.
+The oscilloscope two probes are attached to a series circuit of a diode, AC voltage source and a resistor.
+Channel 1 probe measures the voltage across the diode, horziontal axis.
+Channel 2 probe measures the voltage across the resistor which provide the current measurement after using Ohms law, vertical axis.    
+Therefore, oscilloscope disply is the diode I-V  characteristics curve. 
+The red auto transformer with the big black knob varyies the AC voltage.
+Plugged into the auto transformer is a 120 Vac to 6 Vac transformer which is the voltage source for the curve plot.    
+The red circuit board has various 5 W and 2 W resistors to be used to measure the current.
+The diode is connected to a red mini clip and black mini clip on the desk above the resistor circuit board.    
+    
 A two channel oscilloscope with XY capability and invert channel 2 plots XY of channel 1 volts and channel 2 volts.
 Use channel 2 to measure the voltage across a resistor in series with the device under test.
 It is important that the two oscilloscope probes grounds are at the same point. If not, a short circuit will occur and damage may occur.    
       
 + Oscilloscope channel 1 measures the voltage across the device under test.
-+ Oscilloscope channel 2 measures the voltage across a 1 KOhm resistor in series with the device under test. Channel 2 indirectly measures the current through the device under test. V = I * R Channel 2 scale is 100mV,  Current is 100mV/div / 1KOhom, which is 0.1 ma/div.
++ Oscilloscope channel 2 measures the voltage across a 100 Ohm resistor in series with the device under test. Channel 2 indirectly measures the current through the device under test. V = I * R Channel 2 scale is 100mV,  Current is 100mV/div / 100Ohom, which is 1 ma/div.
+ 
+Summary
+    + Oscilloscope XY provides horziontal voltage and vertical voltage.
+    + Vertical voltage is across a resisor which provides the current in the curcuit after using Ohms law.
+    + Both probes grounds need to be attached to the smae point.
+    + The results in the vertical axis being upside down, but this is fixed by using the channel 2 invert function.
+    + The results is a I-V characteristics curve test for two terminal devices.
     
-    
-## VI Characteristics 0 Volts, 0 Current
+## I-V  Characteristics 0 Volts, 0 Current
     
 <p align="center">
 <img align="center" width="600" height="457" src="/Images/V0I0.png">     
 </p>
 
-## VI Characteristics Open Circuit -/+ 800 mVolts, 0 Current
++ This is the disply of the Tektronix 2465A 350 MHz Oscilloscope. The 2465A is an analog oscilloscope.
++ The 2465A has XY display where the horzional time axis is replaced by the channel 1 voltage.
++ In XY mode the vertical axis is channel 2 voltage.
++ When both channels have 0 volts there is dot in the center of the display as shown in the above image.    
+    
+## I-V  Characteristics Open Circuit -/+ 800 mVolts, 0 Current
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/VIopen.png">     
 </p>
 
-## VI Characteristics Short Circuit 0 Volts, -/+  0.3 ma Current
++ The device under test is an open circuit and the current is 0.
++ Channel 2 measures the voltage across the resistor. With 0 current there is no voltage across the resistor and channel 2 is 0.
++ Channel 1 measures the open circut voltage.  The AC voltage source is at 60 Hz and its amplitude is set by the auto transformer.
++ In the above image the auto transformer has set the voltage swing from -800 mV to +800 mV.
++ Oscilloscope bottom display
+    + 200mV is the voltage per division for the x axis.
+    + A division is the black lines creating black squares.
+    + There is 10 horziontal divisions.
+      + Each horziontal divison is 200mV with 0 in the center.
+      + This is the voltage across the device under test measured by channel 1. 
+         + The device under test is a open circuit.
+    + There is 8 vertical divisions.
+      + Each vertical division is 100mV with the down arrow indicating the dispaly is inverted for channel 2.
+      + Channel 2 is the voltage across the series resistor.
+      + To change the vertical axis to current, I = V/R, 100mv/100 Ohms = 1 mA per division.
+    
+    
+    
+## I-V  Characteristics Short Circuit 0 Volts, -/+  3 ma Current
        
 <p align="center">
 <img align="center" width="600" height="443" src="/Images/VIshort.png">     
@@ -3679,25 +3719,25 @@ It is important that the two oscilloscope probes grounds are at the same point. 
 <img align="center" width="600" height="447" src="/Images/1k3V.png">     
 </p>
 
-## VI Characteristics 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
+## I-V  Characteristics 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/1N4001V1div200mv.png">     
 </p>
 
-## VI Characteristics 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
+## I-V  Characteristics 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/1N4148H200mvV100mv.png">     
 </p>
 
-## VI Characteristics 1N5817 Schottky Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
+## I-V  Characteristics 1N5817 Schottky Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="441" src="/Images/1N5817div200mv.png">     
 </p>
 
-## VI Characteristics 1N34A Germanium Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
+## I-V Characteristics 1N34A Germanium Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
     
 <p align="center">
 <img align="center" width="600" height="439" src="/Images/1N34AH200mvV100mv.png">     
