@@ -3827,6 +3827,22 @@ Issues
   + Current waveform is completely out of sync. When the diode is forward bias the current waveform should be a negative voltage peak. Enstead it is zero volts.
     
     
+<A NAME="P90"></A>
+<HR>
+<P align="center"><A HREF="#P89">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 90: I-V Characteristics Curve Tester in Qucs
+
+<p align="center">
+<img align="center" width="137" height="138" src="/Images/QucsIcon.png">  
+</p>    
+    
+<p align="center">
+<img align="center" width="476" height="274" src="/Images/Qucs1.png">     
+</p>
+
+    
+    
 <A NAME="FUTURE"></A>
 <HR>
 
