@@ -3638,7 +3638,7 @@ URLs
 # Project 88: Diode I-V Characteristics Curve
 
 <p align="center">
-<img align="center" width="600" height="457" src="/Images/.png">     
+<img align="center" width="600" height="575" src="/Images/VIequip.png">     
 </p>
 
 ## VI Characteristics 0 Volts, 0 Current
