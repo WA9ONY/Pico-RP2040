@@ -135,7 +135,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 85: <A HREF="README2.md#P85">Tinkercad Circuits</A>
 + Project 86: <A HREF="README2.md#P86">Tinkercad Codeblocks</A>
 + Project 87: <A HREF="README2.md#P87">Tinkercad 3D Design</A>
-+ Project 88: <A HREF="README2.md#P88">Diode I-V Characteristics Curve</A> 
++ Project 88: <A HREF="README2.md#P88">Diode I-V Characteristics Curve</A>
++ Project 89: <A HREF="README2.md#P89">I-V Characteristics Curve Tester in Tinkercad</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
