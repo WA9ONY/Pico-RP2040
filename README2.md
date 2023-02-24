@@ -3793,7 +3793,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 89: I-V Characteristics Curve Schmatic in Tinkercad
+# Project 89: I-V Characteristics Curve Tester in Tinkercad
 
 <p align="center">
 <img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
@@ -3806,12 +3806,25 @@ Videos
 <img align="center" width="1104" height="764" src="/Images/IVtester.png">     
 </p>
 
+Issues
+  + AC transformer is represented by the function generator.
+  + Current oscilloscope connections is reverse of the actual tester circuit. 
+  + No two channel oscilloscope with XY mode. 
+  + Function generator maximum voltage is 10 V.  
+  
+Notes
+  + Oscilloscope negative terminals are isolated from each other.
+  + All waveforms are correct.  
        
 <p align="center">
 <img align="center" width="1115" height="799" src="/Images/IVtest2.png">     
 </p>
 
+Current oscilloscope is the same as the tester.  The volts oscilloscope and current oscilloscope grounds are connected togeather.    
     
+Issues
+  + Volts wavefrom is slightly out of sync with the source waveform.
+  + Current waveform is completely out of sync. When the diode is forward bias the current waveform should be a negative voltage peak. Enstead it is zero volts.
     
     
 <A NAME="FUTURE"></A>
