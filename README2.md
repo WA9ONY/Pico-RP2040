@@ -3591,9 +3591,7 @@ URLs
  + Adafruit STEMMA QT [cable list](https://www.adafruit.com/?q=Stemma+qt+cable&sort=BestMatch) 
  + Adafruit [What is STEMMA QT?](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma-qt)
  
-
-    
-        
+       
 <A NAME="P85"></A>
 <HR>
 <P align="center"><A HREF="#P84">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P86">--&gt;</A></P>  
@@ -3604,8 +3602,15 @@ URLs
 </p>
     
 [Tinkercad](https://www.tinkercad.com/) [Circuits](https://www.tinkercad.com/circuits) [community gallery](https://www.tinkercad.com/things?type=circuits).    
-   
-        
+ 
+What is great
+    + Anduino microcontrollers is in the library.
+    
+Limitations
+    + No transform in the library.
+    + No AC power sources.
+
+    
 <A NAME="P86"></A>
 <HR>
 <P align="center"><A HREF="#P85">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P87">--&gt;</A></P>  
@@ -3617,7 +3622,6 @@ URLs
     
 [Tinkercad](https://www.tinkercad.com/) [Codeblocks](https://www.tinkercad.com/codeblocks) [community gallery](https://www.tinkercad.com/things?type=blocks).   
     
-   
         
 <A NAME="P87"></A>
 <HR>
@@ -3630,7 +3634,9 @@ URLs
     
 [Tinkercad](https://www.tinkercad.com/) [3D Design](https://www.tinkercad.com/3d-design) [community gallery](https://www.tinkercad.com/things?type=designs).   
      
-        
+Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/wiki/3D_printing)
+    
+    
 <A NAME="P88"></A>
 <HR>
 <P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
