@@ -3639,7 +3639,7 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
     
 <A NAME="P88"></A>
 <HR>
-<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P89">--&gt;</A></P>  
     
 # Project 88: Diode I-V Characteristics Curve
 
@@ -3787,6 +3787,31 @@ Videos
     + The 
   + The 0 to 6 Vac voltage is connected to the device under test with a series resistor.
     + The series resistor is used to in directly measure the current through the device unter test.
+    
+    
+<A NAME="P89"></A>
+<HR>
+<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 89: I-V Characteristics Curve Schmatic in Tinkercad
+
+<p align="center">
+<img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
+</p>
+
++ Tinkercad has no trasformers.
++ The oscilloscope waveforms are not correct in both of the below circuit configurations.
+  
+<p align="center">
+<img align="center" width="1104" height="764" src="/Images/IVtester.png">     
+</p>
+
+       
+<p align="center">
+<img align="center" width="1115" height="799" src="/Images/IVtest2.png">     
+</p>
+
+    
     
     
 <A NAME="FUTURE"></A>
