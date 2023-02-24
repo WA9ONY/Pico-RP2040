@@ -3760,6 +3760,8 @@ Data sheets
 Data sheets
   + [Nte](https://www.tme.eu/Document/0a9524ad7e11ca40773ed52e579d7546/1N34A.pdf)
   + [Circuit Specialists](https://www.circuitspecialists.com/content/223351/1n34a.pdf)    
+
+## I-V Characteristics Refence    
     
 Videos
   + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
