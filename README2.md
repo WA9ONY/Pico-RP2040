@@ -3641,6 +3641,15 @@ URLs
 <img align="center" width="600" height="575" src="/Images/VIequip.png">     
 </p>
 
+I-V characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).   
+A two channel oscilloscope with XY capability and invert channel 2 plots XY of channel 1 volts and channel 2 volts.
+Use channel 2 to measure the voltage across a resistor in series with the device under test.
+It is important that the two oscilloscope probes grounds are at the same point. If not, a short circuit will occur and damage may occur.    
+      
++ Oscilloscope channel 1 measures the voltage across the device under test.
++ Oscilloscope channel 2 measures the voltage across a 1 KOhm resistor in series with the device under test. Channel 2 indirectly measures the current through the device under test. V = I * R Channel 2 scale is 100mV,  Current is 100mV/div / 1KOhom, which is 0.1 ma/div.
+    
+    
 ## VI Characteristics 0 Volts, 0 Current
     
 <p align="center">
@@ -3658,15 +3667,6 @@ URLs
 <p align="center">
 <img align="center" width="600" height="443" src="/Images/VIshort.png">     
 </p>
-
-I-V characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).   
-A two channel oscilloscope with XY capability and invert channel 2 plots XY of channel 1 volts and channel 2 volts.
-Use channel 2 to measure the voltage across a resistor in series with the device under test.
-It is important that the two oscilloscope probes grounds are at the same point. If not, a short circuit will occur and damage may occur.    
-      
-+ Oscilloscope channel 1 measures the voltage across the device under test.
-+ Oscilloscope channel 2 measures the voltage across a 1 KOhm resistor in series with the device under test. Channel 2 indirectly measures the current through the device under test. V = I * R Channel 2 scale is 100mV,  Current is 100mV/div / 1KOhom, which is 0.1 ma/div.
-      
 ## VI Characteristics 1 KOhm Resistor  -/+ 3 Volts, -/+  0.3 ma Current       
     
 <p align="center">
