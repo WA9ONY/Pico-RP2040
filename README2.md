@@ -3703,6 +3703,25 @@ Videos
   + I-V characteristics of diode [video list](https://www.youtube.com/results?search_query=i-v+characteristics+of+diode)
 
     
+Videos
+  + Red YaeCCC Auto Voltage Transformer AC Variable Voltage Converter Transformer 110VAC Input, 0-130VAC (500W)[Amazon](https://www.amazon.com/gp/product/B076Y2XHRS/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
+    + YouTube Auto Voltage Transformer [video](https://youtu.be/orPbnOJi1bk)
+    + Autotransformer [Wikipedia](https://en.wikipedia.org/wiki/Autotransformer)
+  + 120 Vac to 6 Vac 1 Amp wall wart pluged into the Auto Voltage Transformer (used at Goodwill)
+    + Wall wart [Wikipedia](https://en.wikipedia.org/wiki/AC_adapter)
+    + Other used VAC wall warts from Goodwill
+      + 8 Vac 300 mA (11.2 Vp)
+      + 9 Vac 1300 mA (12.6 Vp)
+      + 12 Vac 1680 mA (16.8 Vp)
+      + 18 Vac 280 mA (25.2 Vp)
+      + 20 Vac 3000 mA (28 Vp)
+      + 21 Vac 100 mA (29.4 Vp)
+  + The 0 to 6 Vac is the stimul voltage for the VI Characteristics.
+    + 6 Vac * 1.4 = 8.4 Vp, Maxiumu stimulas voltage -8.4 to +8.4.
+    + The 
+  + The 0 to 6 Vac voltage is connected to the device under test with a series resistor.
+    + The series resistor is used to in directly measure the current through the device unter test.
+    
     
 <A NAME="FUTURE"></A>
 <HR>
