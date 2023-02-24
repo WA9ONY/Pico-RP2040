@@ -3647,7 +3647,7 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
 <img align="center" width="600" height="575" src="/Images/VIequip.png">     
 </p>
 
-I-V  characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).
+[Current-voltage (I-V) characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).
     
 The above image shows a oscilloscope with a diode I-V characteristics curve on its display.
 + The oscilloscope two probes are attached to a series circuit of a diode, AC voltage source and a resistor.
