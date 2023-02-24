@@ -3608,7 +3608,7 @@ URLs
         
 <A NAME="P86"></A>
 <HR>
-<P align="center"><A HREF="#P85">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P85">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P87">--&gt;</A></P>  
     
 # Project 86: Tinkercad Codeblocks
 <p align="center">
@@ -3617,12 +3617,97 @@ URLs
     
 [Tinkercad](https://www.tinkercad.com/) [Codeblocks](https://www.tinkercad.com/codeblocks) [community gallery](https://www.tinkercad.com/things?type=blocks).   
     
+   
+        
+<A NAME="P87"></A>
+<HR>
+<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P68">--&gt;</A></P>  
+    
+# Project 87: Tinkercad 3D Design
+<p align="center">
+<img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
+</p>
+    
+[Tinkercad](https://www.tinkercad.com/) [3D Design](https://www.tinkercad.com/3d-design) [community gallery](https://www.tinkercad.com/things?type=designs).   
+     
+        
+<A NAME="P88"></A>
+<HR>
+<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 88: Diode I-V Characteristics Curve
+
+<p align="center">
+<img align="center" width="600" height="457" src="/Images/.png">     
+</p>
+
+## VI Characteristics 0 Volts, 0 Current
+    
+<p align="center">
+<img align="center" width="600" height="457" src="/Images/V0I0.png">     
+</p>
+
+## VI Characteristics Open Circuit -/+ 800 mVolts, 0 Current
+    
+<p align="center">
+<img align="center" width="600" height="442" src="/Images/VIopen.png">     
+</p>
+
+## VI Characteristics Short Circuit 0 Volts, -/+  0.3 ma Current
+       
+<p align="center">
+<img align="center" width="600" height="443" src="/Images/VIshort.png">     
+</p>
+
+I-V characteristics curve is a plot of voltage on the x axis (horziontal) and the current on the y axis (vertical).   
+A two channel oscilloscope with XY capability and invert channel 2 plots XY of channel 1 volts and channel 2 volts.
+Use channel 2 to measure the voltage across a resistor in series with the device under test.
+It is important that the two oscilloscope probes grounds are at the same point. If not, a short circuit will occur and damage may occur.    
+      
++ Oscilloscope channel 1 measures the voltage across the device under test.
++ Oscilloscope channel 2 measures the voltage across a 1 KOhm resistor in series with the device under test. Channel 2 indirectly measures the current through the device under test. V = I * R Channel 2 scale is 100mV,  Current is 100mV/div / 1KOhom, which is 0.1 ma/div.
+      
+## VI Characteristics 1 KOhm Resistor  -/+ 3 Volts, -/+  0.3 ma Current       
+    
+<p align="center">
+<img align="center" width="600" height="447" src="/Images/1k3V.png">     
+</p>
+
+## VI Characteristics 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
+    
+<p align="center">
+<img align="center" width="600" height="442" src="/Images/1N4001V1div200mv.png">     
+</p>
+
+## VI Characteristics 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
+    
+<p align="center">
+<img align="center" width="600" height="442" src="/Images/1N4148H200mvV100mv.png">     
+</p>
+
+## VI Characteristics 1N5817 Schottky Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
+    
+<p align="center">
+<img align="center" width="600" height="441" src="/Images/1N5817div200mv.png">     
+</p>
+
+## VI Characteristics 1N34A Germanium Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
+    
+<p align="center">
+<img align="center" width="600" height="439" src="/Images/1N34AH200mvV100mv.png">     
+</p>
+  
+ Videos
+    + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
+    + I-V Characteristics [video list](https://www.youtube.com/results?search_query=i-v+characteristics)
+    + I-V characteristics of diode [video list](https://www.youtube.com/results?search_query=i-v+characteristics+of+diode)
+
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P88">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
