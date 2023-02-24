@@ -3729,8 +3729,8 @@ This is a test of the I-V
 </p>
 
 Data sheets
-    + [1](https://www.vishay.com/docs/88503/1n4001.pdf)
-    + [2](https://www.onsemi.com/pdf/datasheet/1n4001-d.pdf)    
+  + [1](https://www.vishay.com/docs/88503/1n4001.pdf)
+  + [2](https://www.onsemi.com/pdf/datasheet/1n4001-d.pdf)    
 
 ## I-V Characteristics Curve: 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
     
@@ -3739,8 +3739,8 @@ Data sheets
 </p>
 
 Data sheets
-    + [1](https://www.vishay.com/docs/81857/1n4148.pdf)
-    + [2](https://www.diodes.com/assets/Datasheets/ds12019.pdf)    
+  + [1](https://www.vishay.com/docs/81857/1n4148.pdf)
+  + [2](https://www.diodes.com/assets/Datasheets/ds12019.pdf)    
 
 ## I-V Characteristics Curve: 1N5817 Schottky Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
     
@@ -3760,8 +3760,8 @@ Data sheets
 </p>
  
 Data sheets
-    + [1](https://www.tme.eu/Document/0a9524ad7e11ca40773ed52e579d7546/1N34A.pdf)
-    + [2](https://www.circuitspecialists.com/content/223351/1n34a.pdf)    
+  + [1](https://www.tme.eu/Document/0a9524ad7e11ca40773ed52e579d7546/1N34A.pdf)
+  + [2](https://www.circuitspecialists.com/content/223351/1n34a.pdf)    
     
 Videos
   + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
