@@ -3851,7 +3851,7 @@ Issues
 # Project 91: I-V Characteristics Curve Tester Theory of Operation
 
 <p align="center">
-<img align="center" width="600" height="338" src="/Images/IVresistor3.png">     
+<img align="center" width="600" height="338" src="/Images/IVtester3.png">     
 </p>
     
 <p align="center">
@@ -3871,6 +3871,10 @@ The test is basicly a series circuit of three components.
     
 ## Auto Transformer    
 
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVtester3.png">     
+</p>
+    
 The  auto transformer manually slowly increases the voltage from 0 to the below transformer secondary voltage.  
     
 ## Transformer     
@@ -3902,6 +3906,10 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
 
 ## Resistor    
 
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVresistor3.png">     
+</p>
+    
 + By measuring the voltage across the resistor the current can be calculated.
    + Using a 100 Ohm resistor, divide the resistor voltage by 100. 
 + The resistor provide a safty minimum load if the device under test shorts.
