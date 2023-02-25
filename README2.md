@@ -3938,12 +3938,26 @@ The 3 Vac transformer with a shorted DUT  produces -48 mA to +48 mA which is lim
 In the above image the three large resistors on the left side are 5 W.  The five resistors on the right side are 2 W.
 The 100 Ohm 2 W resistor is being used as the scope channel 2 probe is attached across it.
 The three black clips leads are attached to the top of the 100 Ohm 2 W resistor and is the ground reference.
-    
+
     
 + By measuring the voltage across the resistor the current can be calculated.
    + Using a 100 Ohm resistor, divide the resistor voltage by 100. 
 + The resistor provide a safty minimum load if the device under test shorts.
-     
+
+## Resistor Values Left to Right    
+5 W resistore
+  + 10 Ohms  
+  + 100 Ohms      
+  + 1 KOhms     
+
+2 W resistore
+  + 100 Ohms This resistor is being used in the image.
+  + 220 Ohms      
+  + 470 Ohms 
+  + 1 KOhms 
+  + 10 KOhms     
+    
+    
 ## Two Channel Oscilloscope       
 
 <p align="center">
