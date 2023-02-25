@@ -3915,6 +3915,8 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
 <img align="center" width="600" height="338" src="/Images/IV3vopen3.png">     
 </p>
     
+The 3 Vac transformer with no load produces -4.8 V to +4.8 V.  
+    
 
 ### 3 Vac Transformer Tests Maximum Current
     
@@ -3922,14 +3924,19 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
 <img align="center" width="600" height="338" src="/Images/IV3Vshort3b.png">     
 </p>
     
-    
+The 3 Vac transformer with a DUT of a short produces -48 mA to +48 mA which is limited by the current measuring resistor (1100 Ohms).  
     
     
 ## Resistor    
 
 <p align="center">
-<img align="center" width="600" height="338" src="/Images/IVscope3.png">     
+<img align="center" width="600" height="338" src="/Images/IVresistor3.png">     
 </p>
+
+In the above image the three large resistors on the left side are 5 W.  The five resistors on the right side are 2 W.
+The 100 Ohm 2 W resistor is being used as the scope channel 2 probe is attached across it.
+The three black clips leads are attached to the top of the 100 Ohm 2 W resistor and is the ground reference.
+    
     
 + By measuring the voltage across the resistor the current can be calculated.
    + Using a 100 Ohm resistor, divide the resistor voltage by 100. 
@@ -3988,12 +3995,14 @@ Scope Cursors
 <p align="center">
 <img align="center" width="600" height="338" src="/Images/IVtdsC3b.png">     
 </p>
- 
+
+Horzintal cursors measuring the vertical axis (current).  100 mV / 100 Ohms = 1 mA.    
 
 <p align="center">
 <img align="center" width="600" height="338" src="/Images/IVtdsC3a.png">     
 </p>
  
+Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -3 mA.    
     
 
 ## DUT: Device Under Test    
