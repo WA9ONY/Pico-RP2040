@@ -3875,7 +3875,9 @@ The test is basicly a series circuit of three components.
 <img align="center" width="600" height="338" src="/Images/IVautoTrans3.png">     
 </p>
     
-The  auto transformer manually slowly increases the voltage from 0 to the below transformer secondary voltage.  
+The auto transformer provide a way to control the tester voltage from 0 V to the maximum voltage of the transformer connected to it.  The transformer is the white box on the front of the red auto transformer.
+
+The auto transformer is not isolated from the 120 V mains.  The small transformer provides isolation and steps down the voltage. It also provide finer voltage control.  
     
 ## Transformer     
 
@@ -3921,10 +3923,10 @@ The 3 Vac transformer with no load produces -4.8 V to +4.8 V.
 ### 3 Vac Transformer Tests Maximum Current
     
 <p align="center">
-<img align="center" width="600" height="338" src="/Images/IV3Vshort3b.png">     
+<img align="center" width="600" height="338" src="/Images/IV3VshortMax3.png">     
 </p>
     
-The 3 Vac transformer with a DUT of a short produces -48 mA to +48 mA which is limited by the current measuring resistor (1100 Ohms).  
+The 3 Vac transformer with a shorted DUT  produces -48 mA to +48 mA which is limited by the current measuring resistor of  1100 Ohms.  
     
     
 ## Resistor    
