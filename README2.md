@@ -3851,6 +3851,10 @@ Issues
 # Project 91: I-V Characteristics Curve Tester Theory of Operation
 
 <p align="center">
+<img align="center" width="600" height="338" src="/Images/IVresistor3.png">     
+</p>
+    
+<p align="center">
 <img align="center" width="476" height="274" src="/Images/Qucs1.png">     
 </p>
 
