@@ -3872,13 +3872,17 @@ The test is basicly a series circuit of three components.
 ## Auto Transformer    
 
 <p align="center">
-<img align="center" width="600" height="338" src="/Images/IVtester3.png">     
+<img align="center" width="600" height="338" src="/Images/IVautoTrans3.png">     
 </p>
     
 The  auto transformer manually slowly increases the voltage from 0 to the below transformer secondary voltage.  
     
 ## Transformer     
 
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVtrans3.png">     
+</p>
+    
 The transformer provides the voltage and current to test the device.
 All the transformers primary are 120 Vac and are  pluged into the auto voltage transformer. 
 + This provies a smooth voltage control from 0 V to the transformer secondary voltage.
@@ -3904,10 +3908,27 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
 + To get higher than 22 Vac two transformers of the same Vac can be connected with their secondaries to obtain 120 Vac.
     + For example, take the two 6 Vac 1000 mA transformers, connect the 6 Vac secondaries together. One primary goes to the auto transformer and the other primary goes to the tester.  Now we have 0 to 120 Vac (169.7 Vp, 339.4 Vpp) source.
 
+## 3 Vac Transformer Tests
+    
+### 3 Vac Transformer Tests Maximum Voltage
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IV3vopen3.png">     
+</p>
+    
+
+### 3 Vac Transformer Tests Maximum Current
+    
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IV3Vshort3b.png">     
+</p>
+    
+    
+    
+    
 ## Resistor    
 
 <p align="center">
-<img align="center" width="600" height="338" src="/Images/IVresistor3.png">     
+<img align="center" width="600" height="338" src="/Images/IVscope3.png">     
 </p>
     
 + By measuring the voltage across the resistor the current can be calculated.
@@ -3916,6 +3937,10 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
      
 ## Two Channel Oscilloscope       
 
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVscope3.png">     
+</p>
+    
 + The Tektroix 2465A Oscilloscope (manufactured ~1986) is used to measure the  device under test and display the results as I-V curve using XY mode.    
 + Channel 1 is used to measured the device under test voltage on the x axis (horziontal).    
 + Channel 2 is used to measured the resistor voltage on the y axis (vertical).
@@ -3957,6 +3982,32 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
       + 100 Ohms
       + The scope has 8 vertical dividsons. 4 dividions above and below the center.
       + 20 mA to -20 mA when using 0.02 mA/div
+
+Scope Cursors    
+
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVtdsC3b.png">     
+</p>
+ 
+
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVtdsC3a.png">     
+</p>
+ 
+    
+
+## DUT: Device Under Test    
+
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IVdut3.png">     
+</p>
+ 
+ 
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/IV1K3.png">     
+</p>
+ 
+   
     
     
 <A NAME="FUTURE"></A>
