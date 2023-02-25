@@ -3945,12 +3945,12 @@ The three black clips leads are attached to the top of the 100 Ohm 2 W resistor 
 + The resistor provide a safty minimum load if the device under test shorts.
 
 ## Resistor Values Left to Right    
-5 W resistore
+5 W resistores
   + 10 Ohms  
   + 100 Ohms      
   + 1 KOhms     
 
-2 W resistore
+2 W resistores
   + 100 Ohms This resistor is being used in the image.
   + 220 Ohms      
   + 470 Ohms 
