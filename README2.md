@@ -3829,7 +3829,7 @@ Issues
     
 <A NAME="P90"></A>
 <HR>
-<P align="center"><A HREF="#P89">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P89">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P91">--&gt;</A></P>  
     
 # Project 90: I-V Characteristics Curve Tester in Qucs
 
@@ -3841,12 +3841,116 @@ Issues
 <img align="center" width="476" height="274" src="/Images/Qucs1.png">     
 </p>
 
+
+    
+    
+<A NAME="P91"></A>
+<HR>
+<P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 91: I-V Characteristics Curve Tester Theory of Operation
+
+<p align="center">
+<img align="center" width="476" height="274" src="/Images/Qucs1.png">     
+</p>
+
+The purpose of the I-V characteristics curve tester is to create a plot of the current versus voltage (I-V characteristics curve) of electrical parts with two leads.
+    
+The above circuit is close to the  I-V Characteristics Curve Tester.
+  + Auto transformer between the AC source and the transformer is missing. No Auto transformer in the library.
+  + Replace the volt meters with a two channel oscilloscope.
+
+The test is basicly a series circuit of three components.
+  + AC voltage source.
+  + Resistor to measure the current and to provide a saft load.
+  + Device under test, a diode in this example.  
+    
+## Auto Transformer    
+
+The  auto transformer manually slowly increases the voltage from 0 to the below transformer secondary voltage.  
+    
+## Transformer     
+
+The transformer provides the voltage and current to test the device.
+All the transformers primary are 120 Vac and are  pluged into the auto voltage transformer. 
++ This provies a smooth voltage control from 0 V to the transformer secondary voltage.
++ Below is the list of used Vac transformer wall warts from Goodwill.
+    + 3 Vac 100 mA (4.2 Vp)
+    + 6 Vac 800 mA (8.5 Vp)
+    + 6 Vac 1000 mA (8.5 Vp)
+    + 6 Vac 1000 mA (8.5 Vp)
+    + 8 Vac 300 mA (11.2 Vp)
+    + 9 Vac 200 mA (12.6 Vp)
+    + 9 Vac 1300 mA (12.6 Vp)
+    + 12 Vac 580 mA (16.8 Vp)
+    + 12 Vac 1100 mA (16.8 Vp)
+    + 12 Vac 1670 mA (16.8 Vp)
+    + 12 Vac 1680 mA (16.8 Vp)
+    + 18 Vac 280 mA (25.2 Vp)
+    + 20 Vac 3000 mA (28 Vp)
+    + 21 Vac 100 mA (29.4 Vp)
+    + 22 Vac 10 VA (31. Vp)
++ Transformer ratings are in Vrms (Vac).  
+    + Vpeak (Vp) is Vrms * 1.41. 
+    + Vpeak-to-peak (Vpp) is Vrms * 2.82.    
++ To get higher than 22 Vac two transformers of the same Vac can be connected with their secondaries to obtain 120 Vac.
+    + For example, take the two 6 Vac 1000 mA transformers, connect the 6 Vac secondaries together. One primary goes to the auto transformer and the other primary goes to the tester.  Now we have 0 to 120 Vac (169.7 Vp, 339.4 Vpp) source.
+
+## Resistor    
+
++ By measuring the voltage across the resistor the current can be calculated.
+   + Using a 100 Ohm resistor, divide the resistor voltage by 100. 
++ The resistor provide a safty minimum load if the device under test shorts.
+     
+## Two Channel Oscilloscope       
+
++ The Tektroix 2465A Oscilloscope (manufactured ~1986) is used to measure the  device under test and display the results as I-V curve using XY mode.    
++ Channel 1 is used to measured the device under test voltage on the x axis (horziontal).    
++ Channel 2 is used to measured the resistor voltage on the y axis (vertical).
++ The y axis changed to current by dividing the measurement value by the resistor value.
+    + Using 100 Ohms makes this calculation simple, divide by 100.
++ The probe grounds have to be connected to the same point in the circuit. If not they will short the circuit.    
++ This results in the y axis being upside down. This is easly fixed by using the channel 2 invert function. Now the I-V curve looks normal.
+
++ The first number of the scope bottom display is the channel 1 vertical scale settings.    
++ The x axis voltage span 
+   + 10 divisions at 5 V/div = 50 Vpp using 1 x probe.
+   + 10 divisions at 50 V/div = 500 Vpp using 10 x probe.    
+   + 10 divisions at 500 V/div = 5000 Vpp using 100 x probe.
+
++ The second number of the scope bottom display is the channel 2 vertical scale settings. 
+    + A down arror indicates the channel 2 invert function is on.
++ The y axis measurement depends upon the scope vertical scale setting, probe used (1X, 10x or 100x) and the resistor used.
+   + For example, 0.02 mA/div for
+      + Vertical scale 2 mV/div
+      + 1X probe
+      + 100 Ohms
+      + The scope has 8 vertical dividsons. 4 dividions above and below the center.
+      + 0.08 mA to -0.08 mA when using 0.02 mA/div
+   + For example, 1 mA/div for
+      + Vertical scale 100 mV/div
+      + 1X probe
+      + 100 Ohms
+      + The scope has 8 vertical dividsons. 4 dividions above and below the center.
+      + 4 mA to -4 mA when using 0.02 mA/div
+   + For example, 2 mA/div for
+      + Vertical scale 200 mV/div
+      + 1X probe
+      + 100 Ohms
+      + The scope has 8 vertical dividsons. 4 dividions above and below the center.
+      + 8 mA to -8 mA when using 0.02 mA/div
+   + For example, 5 mA/div for
+      + Vertical scale 500 mV/div
+      + 1X probe
+      + 100 Ohms
+      + The scope has 8 vertical dividsons. 4 dividions above and below the center.
+      + 20 mA to -20 mA when using 0.02 mA/div
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P91">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
