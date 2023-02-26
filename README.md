@@ -139,6 +139,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 89: <A HREF="README2.md#P89">I-V Characteristics Curve Tester in Tinkercad</A>
 + Project 90: <A HREF="README2.md#P90">I-V Characteristics Curve Tester in Qucs</A>
 + Project 91: <A HREF="README2.md#P91">I-V Characteristics Curve Tester Theory of Operation</A>
++ Project 92: <A HREF="README2.md#P92">LED I-V Characteristics Curve</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
