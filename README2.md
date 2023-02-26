@@ -4043,8 +4043,12 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
 
 I-V Characteristics Curve
 + Transformer: 3 Vac 100 mA (4.2 Vp)
+  + No load voltage:  -4.8 V to +4.8 V.
+  + Short current:  -48 mA to +48 mA 
 + Scope: Tek 2465A
 + Scope Probes: 1X
+  + X axis maximum voltage: -25 V to +25 V
+  + Y axis maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W 
     
 ## Red LED Specifications Vf 1.9 V to 2.1 V, 20 ma maximum
