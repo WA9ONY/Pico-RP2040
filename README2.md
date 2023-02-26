@@ -4042,11 +4042,51 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
 # Project 92: LED I-V Characteristics Curve
 
 <p align="center">
-<img align="center" width="600" height="575" src="/Images/VIequip.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed20ma.png">     
 </p>
 
     
-    
+
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed15ma.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed10ma.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed5ma.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed2_5ma.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed2ma.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed1ma.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRedSpec.png">     
+</p>
+
+ 
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDsSpecs.png">     
+</p>
+
+     
 <A NAME="FUTURE"></A>
 <HR>
 
