@@ -4041,7 +4041,12 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
     
 # Project 92: LED I-V Characteristics Curve
 
-
+I-V Characteristics Curve
++ Transformer: 3 Vac 100 mA (4.2 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
++ Current resistor: 100 Ohms 2 W 
+    
 ## Red LED Specifications Vf 1.9 V to 2.1 V, 20 ma maximum
     
 <p align="center">
