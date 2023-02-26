@@ -4050,6 +4050,10 @@ I-V Characteristics Curve
   + X axis maximum voltage: -25 V to +25 V
   + Y axis maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W 
+
+ 
+Videos
+  + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
     
 ## Red LED Specifications Vf 1.9 V to 2.1 V, 20 ma maximum
     
@@ -4113,9 +4117,6 @@ I-V Characteristics Curve
 </p>
 
  
- 
-Videos
-  + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
    
     
 <A NAME="FUTURE"></A>
