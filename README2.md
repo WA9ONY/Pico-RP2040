@@ -4053,7 +4053,7 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
 
  
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRed10ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRd10ma.png">     
 </p>
 
  
@@ -4086,7 +4086,12 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
 <img align="center" width="640" height="360" src="/Images/LEDsSpecs.png">     
 </p>
 
-     
+ 
+ 
+Videos
+  + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
+   
+    
 <A NAME="FUTURE"></A>
 <HR>
 
