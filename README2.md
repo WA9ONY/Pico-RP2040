@@ -4131,7 +4131,7 @@ Videos
 <img align="center" width="640" height="360" src="/Images/LEDRed3ma.png">     
 </p>
 
-## Red LED at Vf 1.95 V,4 ma , LED is bright enought to use.    
+## Red LED at Vf 1.95 V, 4 ma , LED is bright enought to use.    
   
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed4ma.png">     
