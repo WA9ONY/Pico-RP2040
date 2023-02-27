@@ -3713,6 +3713,10 @@ Summary
 </p>
 
 ## VI Characteristics 1 KOhm Resistor  -/+ 3 Volts, -/+  3 ma Current       
+
+<p align="center">
+<img align="center" width="157" height="84" src="/Images/Qucs1K.png">     
+</p>   
     
 <p align="center">
 <img align="center" width="600" height="447" src="/Images/1k3V.png">     
@@ -3721,6 +3725,10 @@ Summary
 This is a test of the I-V     
     
 ## I-V Characteristics Curve: 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
+
+<p align="center">
+<img align="center" width="133" height="93" src="/Images/QucsLED.png">     
+</p>   
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/1N4001V1div200mv.png">     
@@ -3750,7 +3758,6 @@ Data sheets
     + [Onsemi](https://www.onsemi.com/pdf/datasheet/1n5817-d.pdf)
     + [Vishay](https://www.vishay.com/docs/88525/1n5817.pdf)    
     
-    
 ## I-V Characteristic Curve: 1N34A Germanium Diode  -600 mV to +240 mV Volts, 0 to +.4 ma Current       
     
 <p align="center">
@@ -3767,8 +3774,7 @@ Videos
   + I-V Characteristics in Forward and Reverse Bias - Semiconductor - Engineering Physics 1 [video](https://youtu.be/kM19T1nedNM)
   + I-V Characteristics [video list](https://www.youtube.com/results?search_query=i-v+characteristics)
   + I-V characteristics of diode [video list](https://www.youtube.com/results?search_query=i-v+characteristics+of+diode)
-
-    
+   
 Videos
   + Red YaeCCC Auto Voltage Transformer AC Variable Voltage Converter Transformer 110VAC Input, 0-130VAC (500W)[Amazon](https://www.amazon.com/gp/product/B076Y2XHRS/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
     + YouTube Auto Voltage Transformer [video](https://youtu.be/orPbnOJi1bk)
@@ -4031,6 +4037,10 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
     
 # Project 92: Color LEDs I-V Characteristics Curve
 
+<p align="center">
+<img align="center" width="133" height="93" src="/Images/QucsLED.png">     
+</p>   
+
 The LED Vf value is needed in orde to calculate the current limiting resistor to be used with the microcontroller.
 The I-V Characteristics Curve Tester is used to test the Vf against the specifications.
     
@@ -4089,6 +4099,10 @@ Videos
 <P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P94">--&gt;</A></P>  
     
 # Project 93: Red LED Turn On I-V Characteristics Curve
+
+<p align="center">
+<img align="center" width="133" height="93" src="/Images/QucsLED.png">     
+</p>   
 
 I-V Characteristics Curve Tester Configuration
 + Transformer: 3 Vac 100 mA (4.2 Vp)
@@ -4205,8 +4219,7 @@ Videos
 <img align="center" width="640" height="360" src="/Images/Zener5_1.png">     
 </p> 
     
-    
-    
+        
 <A NAME="P95"></A>
 <HR>
 <P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
@@ -4224,8 +4237,7 @@ Using two series zener diodes BZX55C5V1 signals less than -6 V and greater than 
 In Project 94 the Vf is ~0.9 V and the Vzener is 5.1 V.
     
 Zeners in series back-to-back Vf + Vzener = Vclipping.   
-    
-    
+     
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
