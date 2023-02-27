@@ -141,6 +141,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 91: <A HREF="README2.md#P91">I-V Characteristics Curve Tester Theory of Operation</A>
 + Project 92: <A HREF="README2.md#P92">Color LEDs I-V Characteristics Curve</A>
 + Project 93: <A HREF="README2.md#P93">Red LED Turn On  I-V Characteristics Curve</A>
++ Project 94: <A HREF="README2.md#P94">Zener Diode I-V Characteristics Curve</A> 
++ Project 95: <A HREF="README2.md#P95">Two Series Zener Diodes I-V Characteristics Curve</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
