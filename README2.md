@@ -4056,6 +4056,10 @@ Videos
     
 ## Red LED Specifications Specifications Vf 1.9 V to 2.1 V, 20 ma
    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRedD.png">     
+</p>
+
     
     
 <A NAME="P93"></A>
