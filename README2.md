@@ -4061,6 +4061,34 @@ Videos
 </p>
 
     
+## Green LED Specifications Specifications Vf 3.0 V to 3.2 V, 20 ma
+   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDGreenD.png">     
+</p>
+
+    
+## Blue LED Specifications Specifications Vf 3.0 V to 3.2 V, 20 ma
+   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDBlueD.png">     
+</p>
+
+    
+## Yellow LED Specifications Specifications Vf 1.9 V to 2.1 V, 20 ma
+   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDYellowD.png">     
+</p>
+
+    
+## Orange LED Specifications Specifications Vf 1.9 V to 2.1 V, 20 ma
+   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDOrangeD.png">     
+</p>
+
+    
     
 <A NAME="P93"></A>
 <HR>
