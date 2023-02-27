@@ -4214,7 +4214,9 @@ Zener BZX55C5V1 data sheets
    
 Videos
   + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
-
+  + YouTube zener diode characteristics  [list](https://www.youtube.com/results?search_query=zener+diode+characteristics)
+  + YouTube two zener diodes [list](https://www.youtube.com/results?search_query=two+zener+diodes)
+    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/Zener5_1.png">     
 </p> 
@@ -4246,11 +4248,11 @@ I-V Characteristics Curve Tester Configuration
     + 2 V/div
     + maximum voltage: -10 V to +10 V
   + Y axis 
-    + 2 mV/div, 20 mA/div
+    + 2 V/div, 20 mA/div
     + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W, 141 mA 
    
-+ Wikipedia [Waveform clipper](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
++ Wikipedia [two series zeners waveform clipper](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
     
 Zener BZX55C5V1 data sheets
   + 0.5 W 5.1 V
@@ -4260,6 +4262,8 @@ Zener BZX55C5V1 data sheets
 
 Videos
   + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
+  + YouTube zener diode characteristics  [list](https://www.youtube.com/results?search_query=zener+diode+characteristics)
+  + YouTube two zener diodes [list](https://www.youtube.com/results?search_query=two+zener+diodes)
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/Zener2.png">     
