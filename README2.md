@@ -3841,9 +3841,7 @@ Issues
 <img align="center" width="476" height="274" src="/Images/Qucs1.png">     
 </p>
 
-
-    
-    
+   
 <A NAME="P91"></A>
 <HR>
 <P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P92">--&gt;</A></P>  
@@ -3919,7 +3917,6 @@ All the transformers primary are 120 Vac and are  pluged into the auto voltage t
     
 The 3 Vac transformer with no load produces -4.8 V to +4.8 V.  
     
-
 ### 3 Vac Transformer Tests Maximum Current
     
 <p align="center">
@@ -3927,8 +3924,7 @@ The 3 Vac transformer with no load produces -4.8 V to +4.8 V.
 </p>
     
 The 3 Vac transformer with a shorted DUT  produces -48 mA to +48 mA which is limited by the current measuring resistor of  1100 Ohms.  
-    
-    
+       
 ## Resistor    
 
 <p align="center">
@@ -3938,7 +3934,6 @@ The 3 Vac transformer with a shorted DUT  produces -48 mA to +48 mA which is lim
 In the above image the three large resistors on the left side are 5 W.  The five resistors on the right side are 2 W.
 The 100 Ohm 2 W resistor is being used as the scope channel 2 probe is attached across it.
 The three black clips leads are attached to the top of the 100 Ohm 2 W resistor and is the ground reference.
-
     
 + By measuring the voltage across the resistor the current can be calculated.
    + Using a 100 Ohm resistor, divide the resistor voltage by 100. 
@@ -3946,18 +3941,17 @@ The three black clips leads are attached to the top of the 100 Ohm 2 W resistor 
 
 ## Resistor Values Left to Right    
 5 W resistores
-  + 10 Ohms  
-  + 100 Ohms      
-  + 1 KOhms     
-
+  + 10 Ohms, maximum 707 mA  
+  + 100 Ohms, maximum 223 mA      
+  + 1 KOhms, maximum 71 mA      
++ Current resistor: 100 Ohms 2 W, 141 mA 
 2 W resistores
-  + 100 Ohms This resistor is being used in the image.
-  + 220 Ohms      
-  + 470 Ohms 
-  + 1 KOhms 
-  + 10 KOhms     
-    
-    
+  + 100 Ohms, maximum 141 mA,  This resistor is being used in the image.
+  + 220 Ohms, maximum 95 mA      
+  + 470 Ohms, maximum 65 mA 
+  + 1 KOhms, maximum 44 mA 
+  + 10 KOhms, maximum 14 mA     
+       
 ## Two Channel Oscilloscope       
 
 <p align="center">
@@ -4020,21 +4014,17 @@ Horzintal cursors measuring the vertical axis (current).  100 mV / 100 Ohms = 1 
  
 Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -3 mA.    
     
-
 ## DUT: Device Under Test    
 
 <p align="center">
 <img align="center" width="600" height="338" src="/Images/IVdut3.png">     
 </p>
  
- 
 <p align="center">
 <img align="center" width="600" height="338" src="/Images/IV1K3.png">     
 </p>
  
-
-    
-    
+ 
 <A NAME="P92"></A>
 <HR>
 <P align="center"><A HREF="#P91">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P93">--&gt;</A></P>  
@@ -4054,7 +4044,7 @@ I-V Characteristics Curve Tester Configuration
   + Y axis 
     + 500 mV/div, 5 mA/div
     + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
-+ Current resistor: 100 Ohms 2 W 
++ Current resistor: 100 Ohms 2 W, 141 mA 
 
 Vf is forward voltage
    + LEDs red, yellow and orange  are the same, Vf 1.9 V to 2.1 V
@@ -4108,7 +4098,7 @@ I-V Characteristics Curve Tester Configuration
 + Scope Probes: 1X
   + X axis maximum voltage: -25 V to +25 V
   + Y axis maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
-+ Current resistor: 100 Ohms 2 W 
++ Current resistor: 100 Ohms 2 W, 141 mA 
  
 Videos
   + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
@@ -4173,8 +4163,6 @@ Videos
 <img align="center" width="640" height="360" src="/Images/LEDsSpecs.png">     
 </p>
 
- 
-
        
 <A NAME="P94"></A>
 <HR>
@@ -4182,17 +4170,25 @@ Videos
     
 # Project 94: Zener Diode I-V Characteristics Curve
 
+<p align="center">
+<img align="center" width="91" height="97" src="/Images/QucsZener.png">     
+</p>   
+    
+A zener diodes are normally used for its reverse breakdown voltage called the zener voltage.
+    
+Zener diodes come in a wide varity of zener voltages. The zener voltage in this project is 5.1 V.  
+    
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
 + Scope Probes: 1X
   + X axis 
-    + 1 V/div
-    + maximum voltage: -25 V to +25 V
+    + 2 V/div
+    + maximum voltage: -10 V to +10 V
   + Y axis 
-    + 500 mV/div, 5 mA/div
-    + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
-+ Current resistor: 100 Ohms 2 W 
+    + 2 mV/div, 20 mA/div
+    + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W, 141 mA  
  
 + Wikipedia [zerer diode](https://en.wikipedia.org/wiki/Zener_diode) 
     
@@ -4201,8 +4197,7 @@ Zener BZX55C5V1 data sheets
   + [Vishay](https://www.vishay.com/docs/85604/bzx55.pdf)
   + [Semtech Electronics](https://datasheetspdf.com/pdf-file/1019842/SEMTECH/BZX55C5V1/1)  
   + [Suntan](https://www.suntan.com.hk/pdf/Rectifier-Diode/BZX55C.pdf)  
-
-    
+   
 Videos
   + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
 
@@ -4218,22 +4213,30 @@ Videos
     
 # Project 95: Two Series Zener Diodes I-V Characteristics Curve
 
+<p align="center">
+<img align="center" width="117" height="158" src="/Images/QucsZener2.png">     
+</p>   
     
 Two series zener diode is used to [waveforms clipper](https://en.wikipedia.org/wiki/Clipper_(electronics)).
  
-Using two series zener diodes BZX55C5V1 signals less than -5.1 V and greater than +5.1 V  are clipped.
+Using two series zener diodes BZX55C5V1 signals less than -6 V and greater than +6 V  are clipped.
+
+In Project 94 the Vf is ~0.9 V and the Vzener is 5.1 V.
+    
+Zeners in series back-to-back Vf + Vzener = Vclipping.   
+    
     
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
 + Scope Probes: 1X
   + X axis 
-    + 1 V/div
-    + maximum voltage: -25 V to +25 V
+    + 2 V/div
+    + maximum voltage: -10 V to +10 V
   + Y axis 
-    + 500 mV/div, 5 mA/div
-    + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
-+ Current resistor: 100 Ohms 2 W 
+    + 2 mV/div, 20 mA/div
+    + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W, 141 mA 
    
 + Wikipedia [Waveform clipper](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
     
@@ -4246,7 +4249,6 @@ Zener BZX55C5V1 data sheets
 Videos
   + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
     
-
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/Zener2.png">     
 </p> 
