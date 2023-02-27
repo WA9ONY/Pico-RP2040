@@ -4113,7 +4113,7 @@ I-V Characteristics Curve Tester Configuration
 Videos
   + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
     
-## Red LED at Vf 1.9 V, 1 ma, LED just turns on.
+## Red [LED](https://www.amazon.com/gp/product/B093GL1FFH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) at Vf 1.9 V, 1 ma, LED just turns on.
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed1ma.png">     
@@ -4175,7 +4175,7 @@ Videos
 
     
     
-## Other LED Specifications
+## [LED](https://www.amazon.com/gp/product/B093GL1FFH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) Specifications
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDsSpecs.png">     
