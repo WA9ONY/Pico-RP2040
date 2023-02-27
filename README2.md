@@ -4116,7 +4116,7 @@ Videos
 ## Red LED Specifications Vf 1.9 V to 2.1 V, 20 ma maximum
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRedSpec.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed1ma.png">     
 </p>
 
 ## Red LED at Vf 1.9 V, 1 ma, LED just turns on.
