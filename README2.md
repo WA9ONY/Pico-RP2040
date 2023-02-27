@@ -4041,16 +4041,25 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
     
 # Project 92: Color LEDs I-V Characteristics Curve
 
-
+The LED Vf value is needed in orde to calculate the current limiting resistor to be used with the microcontroller.
+The I-V Characteristics Curve Tester is used to test the Vf against the specifications.
+    
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
 + Scope Probes: 1X
-  + X axis maximum voltage: -25 V to +25 V
-  + Y axis maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
+  + X axis 
+    + 1 V/div
+    + maximum voltage: -25 V to +25 V
+  + Y axis 
+    + 500 mV/div, 5 mA/div
+    + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W 
 
- 
+Vf is forward voltage
+   + LEDs red, yellow and orange  are the same, Vf 1.9 V to 2.1 V
+   + LEDs green and blue are the same, Vf 3.0 V to 3.2 V  
+
 Videos
   + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
     
@@ -4059,28 +4068,24 @@ Videos
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRedD.png">     
 </p>
-
     
 ## Green LED Specifications Specifications Vf 3.0 V to 3.2 V, 20 ma
    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDGreenD.png">     
 </p>
-
     
 ## Blue LED Specifications Specifications Vf 3.0 V to 3.2 V, 20 ma
    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDBlueD.png">     
 </p>
-
     
 ## Yellow LED Specifications Specifications Vf 1.9 V to 2.1 V, 20 ma
    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDYellowD.png">     
 </p>
-
     
 ## Orange LED Specifications Specifications Vf 1.9 V to 2.1 V, 20 ma
    
@@ -4088,8 +4093,7 @@ Videos
 <img align="center" width="640" height="360" src="/Images/LEDOrangeD.png">     
 </p>
 
-    
-    
+       
 <A NAME="P93"></A>
 <HR>
 <P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
@@ -4105,7 +4109,6 @@ I-V Characteristics Curve Tester Configuration
   + X axis maximum voltage: -25 V to +25 V
   + Y axis maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W 
-
  
 Videos
   + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
@@ -4133,8 +4136,7 @@ Videos
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed2_5ma.png">     
 </p>
-       
-     
+           
 ## Red LED at Vf 2.0. V, 5 ma, LED is almost bright.    
 
 <p align="center">
