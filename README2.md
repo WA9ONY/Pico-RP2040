@@ -4032,16 +4032,39 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
 <img align="center" width="600" height="338" src="/Images/IV1K3.png">     
 </p>
  
-   
+
     
     
 <A NAME="P92"></A>
 <HR>
+<P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P93">--&gt;</A></P>  
+    
+# Project 92: Color LEDs I-V Characteristics Curve
+
+
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis maximum voltage: -25 V to +25 V
+  + Y axis maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W 
+
+ 
+Videos
+  + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
+    
+## Red LED Specifications Specifications Vf 1.9 V to 2.1 V, 20 ma
+   
+    
+    
+<A NAME="P93"></A>
+<HR>
 <P align="center"><A HREF="#P91">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 92: LED I-V Characteristics Curve
+# Project 93: LED I-V Characteristics Curve
 
-I-V Characteristics Curve
+I-V Characteristics Curve Tester Configuration
 + Transformer: 3 Vac 100 mA (4.2 Vp)
   + No load voltage:  -4.8 V to +4.8 V.
   + Short current:  -48 mA to +48 mA 
@@ -4122,7 +4145,7 @@ Videos
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P93">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
