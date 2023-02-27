@@ -4194,6 +4194,15 @@ I-V Characteristics Curve Tester Configuration
     + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W 
  
++ Wikipedia [zerer diode](https://en.wikipedia.org/wiki/Zener_diode) 
+    
+Zener BZX55C5V1 data sheets
+  + 0.5 W 5.1 V
+  + [Vishay](https://www.vishay.com/docs/85604/bzx55.pdf)
+  + [Semtech Electronics](https://datasheetspdf.com/pdf-file/1019842/SEMTECH/BZX55C5V1/1)  
+  + [Suntan](https://www.suntan.com.hk/pdf/Rectifier-Diode/BZX55C.pdf)  
+
+    
 Videos
   + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
 
@@ -4209,6 +4218,11 @@ Videos
     
 # Project 95: Two Series Zener Diodes I-V Characteristics Curve
 
+    
+Two series zener diode is used to [waveforms clipper](https://en.wikipedia.org/wiki/Clipper_(electronics)).
+ 
+Using two series zener diodes BZX55C5V1 signals less than -5.1 V and greater than +5.1 V  are clipped.
+    
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
@@ -4220,10 +4234,18 @@ I-V Characteristics Curve Tester Configuration
     + 500 mV/div, 5 mA/div
     + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W 
- 
+   
++ Wikipedia [Waveform clipper](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
+    
+Zener BZX55C5V1 data sheets
+  + 0.5 W 5.1 V
+  + [Vishay](https://www.vishay.com/docs/85604/bzx55.pdf)
+  + [Semtech Electronics](https://datasheetspdf.com/pdf-file/1019842/SEMTECH/BZX55C5V1/1)  
+  + [Suntan](https://www.suntan.com.hk/pdf/Rectifier-Diode/BZX55C.pdf)  
+
 Videos
   + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
-
+    
 
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/Zener2.png">     
