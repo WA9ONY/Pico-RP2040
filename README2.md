@@ -4122,25 +4122,25 @@ Videos
 ## Red LED at Vf 1.9 V, 1 ma, LED just turns on.
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRed1ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed2ma.png">     
 </p>
 
 ## Red LED at Vf 1.95 V, 2 ma , LED is dim.    
  
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRed2ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed3ma.png">     
 </p>
 
 ## Red LED at Vf 1.95 V, 2.5 ma , LED is bright enought to use.    
   
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRed2_5ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed4ma.png">     
 </p>
            
 ## Red LED at Vf 2.0. V, 5 ma, LED is almost bright.    
 
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRed5ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed6ma.png">     
 </p>
 
 
@@ -4148,17 +4148,24 @@ Videos
 ## Red LED at Vf 2,15 V, 10 ma, LED is bright.  
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRd10ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed8ma.png">     
 </p>
 
      
 ## Red LED at Vf 2.1 V, 15 ma, LED is very bright.  
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/LEDRed15ma.png">     
+<img align="center" width="640" height="360" src="/Images/LEDRed10ma.png">     
 </p>
 
   
+## Red LED at Vf 2.2 V, 20 ma, LED is supper bright.  
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/LEDRed15ma.png">     
+</p>
+
+
 ## Red LED at Vf 2.2 V, 20 ma, LED is supper bright.  
     
 <p align="center">
@@ -4166,6 +4173,7 @@ Videos
 </p>
 
 
+    
     
 ## Other LED Specifications
     
