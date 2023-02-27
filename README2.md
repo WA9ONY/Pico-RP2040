@@ -4096,7 +4096,7 @@ Videos
        
 <A NAME="P93"></A>
 <HR>
-<P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P94">--&gt;</A></P>  
     
 # Project 93: Red LED Turn On I-V Characteristics Curve
 
@@ -4142,38 +4142,30 @@ Videos
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed6ma.png">     
 </p>
-
-
     
 ## Red LED at Vf 2,15 V, 8 ma, LED is bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed8ma.png">     
 </p>
-
-     
+   
 ## Red LED at Vf 2.1 V, 10 ma, LED is very bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed10ma.png">     
 </p>
 
-  
 ## Red LED at Vf 2.2 V, 15 ma, LED is very bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed15ma.png">     
 </p>
 
-
 ## Red LED at Vf 2.2 V, 20 ma, LED is supper bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed20ma.png">     
-</p>
-
-
-    
+</p> 
     
 ## [LED](https://www.amazon.com/gp/product/B093GL1FFH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) Specifications
     
@@ -4182,12 +4174,69 @@ Videos
 </p>
 
  
-   
+
+       
+<A NAME="P94"></A>
+<HR>
+<P align="center"><A HREF="#P93">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P95">--&gt;</A></P>  
+    
+# Project 94: Zener Diode I-V Characteristics Curve
+
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis 
+    + 1 V/div
+    + maximum voltage: -25 V to +25 V
+  + Y axis 
+    + 500 mV/div, 5 mA/div
+    + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W 
+ 
+Videos
+  + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
+
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Zener5_1.png">     
+</p> 
+    
+    
+    
+<A NAME="P95"></A>
+<HR>
+<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 95: Two Series Zener Diodes I-V Characteristics Curve
+
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis 
+    + 1 V/div
+    + maximum voltage: -25 V to +25 V
+  + Y axis 
+    + 500 mV/div, 5 mA/div
+    + maximum voltage/current: -20 V to +20 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W 
+ 
+Videos
+  + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
+
+
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Zener2.png">     
+</p> 
+    
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P93">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
