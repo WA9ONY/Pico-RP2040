@@ -4113,31 +4113,31 @@ I-V Characteristics Curve Tester Configuration
 Videos
   + YouTube LED tutorial [list](https://www.youtube.com/results?search_query=led+tutorial)
     
-## Red LED Specifications Vf 1.9 V to 2.1 V, 20 ma maximum
+## Red LED at Vf 1.9 V, 1 ma, LED just turns on.
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed1ma.png">     
 </p>
 
-## Red LED at Vf 1.9 V, 1 ma, LED just turns on.
+## Red LED at Vf 1.9 V, 2 ma, LED is dim.
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed2ma.png">     
 </p>
 
-## Red LED at Vf 1.95 V, 2 ma , LED is dim.    
+## Red LED at Vf 1.95 V, 3 ma , LED is dim.    
  
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed3ma.png">     
 </p>
 
-## Red LED at Vf 1.95 V, 2.5 ma , LED is bright enought to use.    
+## Red LED at Vf 1.95 V,4 ma , LED is bright enought to use.    
   
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed4ma.png">     
 </p>
            
-## Red LED at Vf 2.0. V, 5 ma, LED is almost bright.    
+## Red LED at Vf 2.0. V, 6 ma, LED is almost bright.    
 
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed6ma.png">     
@@ -4145,21 +4145,21 @@ Videos
 
 
     
-## Red LED at Vf 2,15 V, 10 ma, LED is bright.  
+## Red LED at Vf 2,15 V, 8 ma, LED is bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed8ma.png">     
 </p>
 
      
-## Red LED at Vf 2.1 V, 15 ma, LED is very bright.  
+## Red LED at Vf 2.1 V, 10 ma, LED is very bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed10ma.png">     
 </p>
 
   
-## Red LED at Vf 2.2 V, 20 ma, LED is supper bright.  
+## Red LED at Vf 2.2 V, 15 ma, LED is very bright.  
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/LEDRed15ma.png">     
