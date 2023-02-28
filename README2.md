@@ -4534,15 +4534,26 @@ Videos
 <HR>
 <P align="center"><A HREF="#P99">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 100: 2N3055 NPN Transistor I-V Characteristics Curve
+# Project 100: 2N3055 NPN Transistor BE I-V Characteristics Curve
 
 <p align="center">
 <img align="center" width="160" height="90" src="/Images/Qucs2N3055.png">     
 </p>   
 
-The 2N3055 NPN transistor base emmitter acts as a diode and has the same IV curve with Vf of 0.6 to 0.7 V as shown below .  
-                       
-## I-V Characteristic Curve: 2N3055 NPN transistor.    
+The 2N3055 NPN transistor base emmitter acts as a diode and has the same IV curve with Vf of 0.5 to 0.7 V as shown below .  
+The x axis (horziontal) is the voltage acros the transistor base emmitter.
+The x axis scale is 1 V/div
+Zero V is the vertical center line.    
+The curve start up at 0.5 V and increases slightly as the current go up.
+The negative voltage applied to the base emmitter is -2.6 V.
+    
+The y axis (vertical) is the indirectly the current through the base emmitter.  
+A current resistor voltage is measured at 500 mV/div.  
+Current scale is 500 mV/div / 100 Ohms = 5 mA/div.
+The IV curve stops at 4 vertical divisions at the top of the plot, 4 div * 5 mA/div = 20 ma.    
+
+    
+## I-V Characteristic Curve: 2N3055 NPN transistor base emmitter.    
                    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/2N3055IVbe.png">     
@@ -4560,11 +4571,24 @@ I-V Characteristics Curve Tester Configuration
     + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W, 141 mA 
    
-+ Wikipedia [transformer](https://en.wikipedia.org/wiki/Transformer) 
++ Wikipedia [2N3055](https://en.wikipedia.org/wiki/2N3055) 
     
 Videos
   + YouTube 2N3055 [list](https://www.youtube.com/results?search_query=2N3055)
-    
+  + YouTube 2N3055 transistor projects [list](https://www.youtube.com/results?search_query=2n3055+transistor+projects+)
+   
+Data sheets
+  + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
+  + [ST](https://www.st.com/resource/en/datasheet/cd00000895.pdf)    
+  + [Central Semiconductor Corp.](https://www.mouser.com/datasheet/2/68/2n3055-1108522.pdf)    
+  + [ON Semiconductor](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)    
+
+Application
+  + [2N3055 Transistor : Pin Configuration & Its Applications](https://www.elprocus.com/2n3055-transistor/)
+  + [2N3055 Datasheet, Pinout, Application Circuits](https://www.homemade-circuits.com/2n3055-datasheet-pinout-application/)    
+  + [2N3055 Transistor: How to Use it, Features, And More!](https://www.wellpcb.com/2n3055-transistor.html)    
+  + Google 2N3055 Application [images](https://www.google.com/search?sxsrf=AJOqlzUXGlKH2ZtoF0j6pcvh1umfpiv1qg:1677622762322&q=2n3055+applications&tbm=isch&source=univ&fir=DQJdJ__zXlbwgM%252CN3usnGZRYXmdzM%252C_%253B89RUBOkxM6B8QM%252CGhdjXFIdwTbrYM%252C_%253BOq_Ui3dOK8GzqM%252Ca5MdthiUEYt-OM%252C_%253BuLp5zb8YFTRqWM%252CYwtKf4l9DRisEM%252C_%253BD37gAX5VziReDM%252Cd3qVEQ_tccGdRM%252C_%253B_vYbcA2m0W84TM%252Cl8Z1C0NRBVmlxM%252C_%253BpvZaaSjksE1lNM%252CBKUTBu4VXAeksM%252C_%253BkWmWTRIEdjViFM%252Cd3qVEQ_tccGdRM%252C_%253BXW10cKKufOv2WM%252CvKtwfoVfhVDN2M%252C_%253BP463N3Zf9bEKVM%252CickKnDsxlAAtZM%252C_&usg=AI4_-kRHBSkQX3xhroTQ0Bfl7HV20qoadA&sa=X&ved=2ahUKEwjTvcLmn7n9AhVzIX0KHTZFAtYQjJkEegQIORAC&biw=1670&bih=856&dpr=1)    
+
     
     
 <A NAME="FUTURE"></A>
