@@ -4489,20 +4489,37 @@ Videos
 ## I-V Characteristic Curve: Vooltage-Time (VT) display of transformer V and current indirectly.    
 I-V Characteristics Curve tester operater at 60 Hz (16.6 mS).
 
+The tallest waveform is the voltage across the transformer.
+Scale is 50 mV/div.    
+The waveform starts at zero volts, the center of the display.
+    
+The second waveform is the voltage across the current resistor.
+Scale is 10 mV/div.    
+Dividing this voltage by 100 Ohams provide the current through the transformer.
+0.1 mA/div
+    
+The voltage starts at 0 V.
+The current starts at -0.23 mA    
+
 Inductor current lags its voltage by 90 degrees.    
-        
+    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIVfreq.png">     
 </p> 
                                                         
 ## I-V Characteristic Curve: Audio Transformer Primary Voltage 165 mVpeak.    
-                   
+
+Using the scope horziontal cursors to measure the peak voltage across the transformer on channel 1.
+    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV165mV.png">     
 </p> 
                                                        
 ## I-V Characteristic Curve: Audio Transformer Primary Current 23.2mVpeak (.232mApeak).    
-                   
+
+Using the scope horziontal cursors to measure the peak voltage across the current resistor on channel 2.
+23.2mVpeak / 100 Ohms = 0.232 mApeak.
+    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV23mV.png">     
 </p>   
@@ -4535,7 +4552,8 @@ Videos
 <img align="center" width="160" height="90" src="/Images/Qucs2N3055.png">     
 </p>   
 
-The 2N3055 [NPN transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor#Function) base emmitter acts as a diode and has the same IV curve with Vf of 0.5 to 0.7 V as shown below .  
+The 2N3055 [NPN transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor#Function) base emmitter acts as a 
+[diode](https://en.wikipedia.org/wiki/Diode) and has the same IV curve with Vf of 0.5 to 0.7 V as shown below .  
 The [scope](https://en.wikipedia.org/wiki/Oscilloscope) x axis (horziontal) is the voltage acros the transistor base emmitter.
 The x axis scale is 1 V/div
 Zero V is the vertical center line.    
@@ -4547,6 +4565,7 @@ A current resistor voltage is measured at 500 mV/div.
 Current scale is 500 mV/div / 100 Ohms = 5 mA/div.
 The IV curve stops at 4 vertical divisions at the top of the plot, 4 div * 5 mA/div = 20 ma.    
 The 2N3055 maximum continuous base current rating is 7.0 A.
+The tester 20 mA is far from the basse current maximum 7.0 A rating.
     
 ## I-V Characteristic Curve: 2N3055 NPN transistor base emmitter.    
                    
