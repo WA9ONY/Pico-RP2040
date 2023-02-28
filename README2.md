@@ -4274,12 +4274,10 @@ Videos
 <img align="center" width="640" height="360" src="/Images/Zener2.png">     
 </p> 
     
-
-    
         
 <A NAME="P96"></A>
 <HR>
-<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P97">--&gt;</A></P>  
     
 # Project 96: Series Circuit (2 Zener Diodes & 100 Ohms Resistor) I-V Characteristics Curve
 
@@ -4334,11 +4332,58 @@ Videos
   + YouTube zener diode characteristics  [list](https://www.youtube.com/results?search_query=zener+diode+characteristics)
   + YouTube two zener diodes [list](https://www.youtube.com/results?search_query=two+zener+diodes)
     
+        
+<A NAME="P97"></A>
+<HR>
+<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 97: Resistors I-V Characteristics Curve
+
+<p align="center">
+<img align="center" width="622" height="295" src="/Images/QucsResIV.png">     
+</p>   
+
+I-V characteristic curve for 50 Ohms, 100 Ohms & 200 Ohms using two 100 Ohms resistors.  
+        
+## I-V Characteristic Curve: 50 Ohms resistor (two 100 Ohms resistors in parallel)    
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Resistor50.png">     
+</p> 
+            
+## I-V Characteristic Curve: 100 Ohms resistor    
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Resistor100.png">     
+</p>   
+    
+## I-V Characteristic Curve: 200 Ohms resistor (two 100 Ohms resistors in series)    
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Resistor200.png">     
+</p> 
+       
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis 
+    + 2 V/div
+    + maximum voltage: -10 V to +10 V
+  + Y axis 
+    + 2 V/div, 20 mA/div
+    + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W, 141 mA 
+   
++ Wikipedia [resistor](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
+    
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P96">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
