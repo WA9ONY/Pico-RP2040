@@ -4228,7 +4228,8 @@ Videos
         
 <A NAME="P95"></A>
 <HR>
-<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P96
+    ">--&gt;</A></P>  
     
 # Project 95: Two Series Zener Diodes I-V Characteristics Curve
 
@@ -4278,7 +4279,7 @@ Videos
         
 <A NAME="P96"></A>
 <HR>
-<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 96: Series Circuit (2 Zener Diodes & 100 Ohms Resistor) I-V Characteristics Curve
 
@@ -4307,13 +4308,37 @@ Below -6 V and above + 6 V the current is controllered by the 100 Ohms resistor 
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/Zener2Res100Ohms.png">     
 </p> 
+        
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis 
+    + 2 V/div
+    + maximum voltage: -10 V to +10 V
+  + Y axis 
+    + 2 V/div, 20 mA/div
+    + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W, 141 mA 
+   
++ Wikipedia [two series zeners waveform clipper](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
     
+Zener BZX55C5V1 data sheets
+  + 0.5 W 5.1 V
+  + [Vishay](https://www.vishay.com/docs/85604/bzx55.pdf)
+  + [Semtech Electronics](https://datasheetspdf.com/pdf-file/1019842/SEMTECH/BZX55C5V1/1)  
+  + [Suntan](https://www.suntan.com.hk/pdf/Rectifier-Diode/BZX55C.pdf)  
+
+Videos
+  + YouTube zener diode tutorial [list](https://www.youtube.com/results?search_query=zener+diode+tutorial+)
+  + YouTube zener diode characteristics  [list](https://www.youtube.com/results?search_query=zener+diode+characteristics)
+  + YouTube two zener diodes [list](https://www.youtube.com/results?search_query=two+zener+diodes)
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P96">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
