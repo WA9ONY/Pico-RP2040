@@ -4537,33 +4537,33 @@ Videos
 # Project 100: 2N3055 NPN Transistor I-V Characteristics Curve
 
 <p align="center">
-<img align="center" width="95" height="135" src="/Images/QucsTransformer.png">     
+<img align="center" width="160" height="90" src="/Images/Qucs2N3055.png">     
 </p>   
 
+The 2N3055 NPN transistor base emmitter acts as a diode and has the same IV curve with Vf of 0.6 to 0.7 V as shown below .  
                        
-## I-V Characteristic Curve: Audio Transformer Primary.    
+## I-V Characteristic Curve: 2N3055 NPN transistor.    
                    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/2N3055IVbe.png">     
 </p> 
-    
-                                                                  
+                                                                     
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
 + Scope Probes: 1X
   + X axis 
-    + 50 mV/div
+    + 1 V/div
     + maximum voltage: -10 V to +10 V
   + Y axis 
-    + 10 mV/div, 0.1 mA/div
+    + 500 mV/div, 5 mA/div
     + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W, 141 mA 
    
 + Wikipedia [transformer](https://en.wikipedia.org/wiki/Transformer) 
     
 Videos
-  + YouTube transformer [list](https://www.youtube.com/results?search_query=transformer+tutorial)
+  + YouTube 2N3055 [list](https://www.youtube.com/results?search_query=2N3055)
     
     
     
