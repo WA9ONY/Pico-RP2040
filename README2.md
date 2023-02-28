@@ -3727,7 +3727,7 @@ This is a test of the I-V
 ## I-V Characteristics Curve: 1N4001 Rectifier Diode  - 1V to +0.68 V Volts, - 0 to +.035 ma Current       
 
 <p align="center">
-<img align="center" width="133" height="93" src="/Images/QucsLED.png">     
+<img align="center" width="144" height="105" src="/Images/Qucs1N4001.png">     
 </p>   
     
 <p align="center">
