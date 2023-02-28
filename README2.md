@@ -4401,6 +4401,10 @@ Videos
 <img align="center" width="134" height="99" src="/Images/QucsC10uf.png">     
 </p>   
 
+This is a very exciting IV curve because there is activity in all four quardants of the IV plot.
+The reason is the capacitor takes energy for the transformer, stores it in the electric feild, and than the enegry is returned.    
+    
+    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
 </p> 
