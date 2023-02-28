@@ -4343,8 +4343,16 @@ Videos
 <img align="center" width="622" height="295" src="/Images/QucsResIV.png">     
 </p>   
 
-I-V characteristic curve for 50 Ohms, 100 Ohms & 200 Ohms using two 100 Ohms resistors.  
-        
+I-V characteristic curve for 50 Ohms (two 100 Ohms resistors in parallel), 100 Ohms & 200 Ohms (two 100 Ohms resistors in series).  
+
+Take 1 V on the x axis. 
+The center of the display is 0 V on the x axis (horziontal axis) and 0 mA on the y axis (vertical axis).
+One division to the right of center is 1 V.
+The first plot is 2 V vertical, 2 V/ 100 Ohms current resistor = 20 mA.
+The second plot is 1 V vertical, 1 V/ 100 Ohms current resistor = 10 mA.
+The third plot is 0.5 V vertical, 0.5 V/ 100 Ohms current resistor = 5 mA.
+    
+    
 ## I-V Characteristic Curve: 50 Ohms resistor (two 100 Ohms resistors in parallel)    
     
 <p align="center">
@@ -4368,15 +4376,18 @@ I-V Characteristics Curve Tester Configuration
 + Scope: Tek 2465A
 + Scope Probes: 1X
   + X axis 
-    + 2 V/div
+    + 1 V/div
     + maximum voltage: -10 V to +10 V
   + Y axis 
-    + 2 V/div, 20 mA/div
+    + 1 V/div, 10 mA/div
     + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
 + Current resistor: 100 Ohms 2 W, 141 mA 
    
-+ Wikipedia [resistor](https://en.wikipedia.org/wiki/Zener_diode#Waveform_clipper) 
++ Wikipedia [resistor](https://en.wikipedia.org/wiki/Resistor) 
     
+Videos
+  + YouTube resistor VI [list](https://www.youtube.com/results?search_query=resistor+VI)
+  + YouTube resistor [list](https://www.youtube.com/results?search_query=resistor)
     
     
     
