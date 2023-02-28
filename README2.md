@@ -4408,6 +4408,40 @@ Vpeak = 280 mV
 Ipeak = 100 mV/100 Ohms = 1.0 mA
 
 X = - (1/2*pi*frequency*Capacitce)    
+            
+## I-V Characteristic Curve: 5uF Capacitor (two 10 uF in series)    
+        
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap5uf.png">     
+</p> 
+                        
+## I-V Characteristic Curve: 10uF Capacitor    
+        
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+</p> 
+                        
+## I-V Characteristic Curve: 20uF Capacitor (two 10 uF capacitors in parrallel)    
+       
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap20uf.png">     
+</p> 
+            
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+</p> 
+            
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+</p> 
+            
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+</p> 
+            
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
