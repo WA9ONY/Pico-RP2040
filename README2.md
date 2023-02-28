@@ -4428,7 +4428,9 @@ X = - (1/2*pi*frequency*Capacitce)
 </p> 
             
 ## I-V Characteristic Curve: Scope in Voltage-Time (VT) showing the capacitor voltage and current versus time.    
-           
+
+Capacitor current leads its voltage by 90 degrees.    
+    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/IVCap10ufVT.png">     
 </p> 
@@ -4442,7 +4444,7 @@ X = - (1/2*pi*frequency*Capacitce)
 ## I-V Characteristic Curve: Scope in Voltage-Time measuring channel 1 voltage peak (280 mV).    
                    
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/IVCap10ufV280.png">     
+<img align="center" width="640" height="360" src="/Images/IVCap10ufV280mV.png">     
 </p> 
                                  
 ## I-V Characteristic Curve: Scope in Voltage-Time measuring channel 2 voltage peak (100 mV).    
