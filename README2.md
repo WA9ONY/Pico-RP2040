@@ -3641,7 +3641,7 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
 <HR>
 <P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P89">--&gt;</A></P>  
     
-# Project 88: Diode I-V Characteristics Curve
+# Project 88: Diode [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="600" height="575" src="/Images/VIequip.png">     
@@ -3803,7 +3803,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P88">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P90">--&gt;</A></P>  
     
-# Project 89: I-V Characteristics Curve Tester in Tinkercad
+# Project 89: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester in Tinkercad
 
 <p align="center">
 <img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
@@ -3841,7 +3841,7 @@ Issues
 <HR>
 <P align="center"><A HREF="#P89">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P91">--&gt;</A></P>  
     
-# Project 90: I-V Characteristics Curve Tester in Qucs
+# Project 90: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester in Qucs
 
 <p align="center">
 <img align="center" width="137" height="138" src="/Images/QucsIcon.png">  
@@ -3856,7 +3856,7 @@ Issues
 <HR>
 <P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P92">--&gt;</A></P>  
     
-# Project 91: I-V Characteristics Curve Tester Theory of Operation
+# Project 91: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester Theory of Operation
 
 <p align="center">
 <img align="center" width="600" height="338" src="/Images/IVtester3.png">     
@@ -4039,7 +4039,7 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
 <HR>
 <P align="center"><A HREF="#P91">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P93">--&gt;</A></P>  
     
-# Project 92: Color LEDs I-V Characteristics Curve
+# Project 92: Color LEDs [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="133" height="93" src="/Images/QucsLED.png">     
@@ -4102,7 +4102,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P94">--&gt;</A></P>  
     
-# Project 93: Red LED Turn On I-V Characteristics Curve
+# Project 93: Red LED Turn On [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="133" height="93" src="/Images/QucsLED.png">     
@@ -4186,7 +4186,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P93">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P95">--&gt;</A></P>  
     
-# Project 94: Zener Diode I-V Characteristics Curve
+# Project 94: Zener Diode [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="91" height="97" src="/Images/QucsZener.png">     
@@ -4231,7 +4231,7 @@ Videos
 <P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P96
     ">--&gt;</A></P>  
     
-# Project 95: Two Series Zener Diodes I-V Characteristics Curve
+# Project 95: Two Series Zener Diodes [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="117" height="158" src="/Images/QucsZener2.png">     
@@ -4279,7 +4279,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P97">--&gt;</A></P>  
     
-# Project 96: Series Circuit (2 Zener Diodes & 100 Ohms Resistor) I-V Characteristics Curve
+# Project 96: Series Circuit (2 Zener Diodes & 100 Ohms Resistor) [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="174" height="218" src="/Images/QucsZZR.png">     
@@ -4337,7 +4337,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P96">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P98">--&gt;</A></P>  
     
-# Project 97: Resistors I-V Characteristics Curve
+# Project 97: Resistors [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="622" height="295" src="/Images/QucsResIV.png">     
@@ -4351,8 +4351,7 @@ One division to the right of center is 1 V.
 The first plot is 2 V vertical, 2 V/ 100 Ohms current resistor = 20 mA.
 The second plot is 1 V vertical, 1 V/ 100 Ohms current resistor = 10 mA.
 The third plot is 0.5 V vertical, 0.5 V/ 100 Ohms current resistor = 5 mA.
-    
-    
+       
 ## I-V Characteristic Curve: 50 Ohms resistor (two 100 Ohms resistors in parallel)    
     
 <p align="center">
@@ -4389,13 +4388,12 @@ Videos
   + YouTube resistor VI [list](https://www.youtube.com/results?search_query=resistor+VI)
   + YouTube resistor [list](https://www.youtube.com/results?search_query=resistor)
     
-     
-        
+          
 <A NAME="P98"></A>
 <HR>
 <P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P99">--&gt;</A></P>  
     
-# Project 98: Capacitor I-V Characteristics Curve
+# Project 98: Capacitor [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="484" height="181" src="/Images/Caps3.png">     
@@ -4476,13 +4474,12 @@ Videos
 <HR>
 <P align="center"><A HREF="#P98">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P100">--&gt;</A></P>  
     
-# Project 99: Transformer I-V Characteristics Curve
+# Project 99: Transformer [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="95" height="135" src="/Images/QucsTransformer.png">     
 </p>   
-
-                       
+                     
 ## I-V Characteristic Curve: Audio Transformer Primary.    
                    
 <p align="center">
