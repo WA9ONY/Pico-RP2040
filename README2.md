@@ -4275,6 +4275,35 @@ Videos
     
 
     
+        
+<A NAME="P96"></A>
+<HR>
+<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 96: Series Circuit (2 Zener Diodes & 100 Ohms Resistor) I-V Characteristics Curve
+
+<p align="center">
+<img align="center" width="174" height="218" src="/Images/QucsZZR.png">     
+</p>   
+
+## I-V Characteristic Curve: 100 Ohms resistor       
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Resistor100Ohms.png">     
+</p> 
+
+## I-V Characteristic Curve: Two back-to-back zeners    
+
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Zener2.png">     
+</p> 
+
+## I-V Characteristic Curve: 100 Ohms resistor and two back-to-back zeners    
+    
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/Zener2Res100Ohms.png">     
+</p> 
+    
     
     
 <A NAME="FUTURE"></A>
