@@ -4286,6 +4286,10 @@ Videos
 <img align="center" width="174" height="218" src="/Images/QucsZZR.png">     
 </p>   
 
+No current flows for voltages -6 V to +6 V because of the two back-to-back zeners (see Project 95).
+    
+Below -6 V and above + 6 V the current is controllered by the 100 Ohms resistor but effectly starting at 0 V even thou the voltage is -6 V or +6V.   
+    
 ## I-V Characteristic Curve: 100 Ohms resistor       
     
 <p align="center">
