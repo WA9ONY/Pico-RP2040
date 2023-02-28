@@ -4454,7 +4454,24 @@ Channel 2 is the voltaage across the 100 Ohm resistor. 100 mV/ 100 Ohms = 1 ma.
 <img align="center" width="640" height="360" src="/Images/IVCap10ufI1mA.png">     
 </p> 
             
-         
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis 
+    + 1 V/div
+    + maximum voltage: -10 V to +10 V
+  + Y axis 
+    + 1 V/div, 10 mA/div
+    + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W, 141 mA 
+   
++ Wikipedia [resistor](https://en.wikipedia.org/wiki/Resistor) 
+    
+Videos
+  + YouTube capacitor [list](https://www.youtube.com/results?search_query=Capacitor+tutorial)
+
+    
 <A NAME="P99"></A>
 <HR>
 <P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
@@ -4464,7 +4481,46 @@ Channel 2 is the voltaage across the 100 Ohm resistor. 100 mV/ 100 Ohms = 1 ma.
 <p align="center">
 <img align="center" width="95" height="135" src="/Images/QucsTransformer.png">     
 </p>   
+                      
+## I-V Characteristic Curve: Vooltage-Time (VT) display of transformer V and current indirectly.    
+I-V Characteristics Curve tester operater at 60 Hz (16.6 mS).
 
+Inductor current lags its voltage by 90 degrees.    
+        
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/TransformerIVfreq.png">     
+</p> 
+                                                        
+## I-V Characteristic Curve: Audio Transformer Primary 165 mVpeak.    
+                   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/TransformerIV165mV.png">     
+</p> 
+                                                       
+## I-V Characteristic Curve: Audio Transformer Primary current 23.2mV (.232mV) .    
+                   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/TransformerIV23mV.png">     
+</p> 
+                                 
+I-V Characteristics Curve Tester Configuration
++ Transformer: 6 Vac 1000 mA (8.5 Vp)
++ Scope: Tek 2465A
++ Scope Probes: 1X
+  + X axis 
+    + 50 mV/div
+    + maximum voltage: -10 V to +10 V
+  + Y axis 
+    + 10 mV/div, 0.1 mA/div
+    + maximum voltage/current: -80 V to +80 V, -200 mA to +200 mA  
++ Current resistor: 100 Ohms 2 W, 141 mA 
+   
++ Wikipedia [transformer](https://en.wikipedia.org/wiki/Transformer) 
+    
+Videos
+  + YouTube transformer [list]()
+
+    
     
                        
 ## I-V Characteristic Curve: Audio Transformer Primary.    
@@ -4473,6 +4529,7 @@ Channel 2 is the voltaage across the 100 Ohm resistor. 100 mV/ 100 Ohms = 1 ma.
 <img align="center" width="640" height="360" src="/Images/TransformerIV.png">     
 </p> 
                                  
+    
     
     
     
