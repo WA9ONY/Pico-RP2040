@@ -4481,7 +4481,14 @@ Videos
 <p align="center">
 <img align="center" width="95" height="135" src="/Images/QucsTransformer.png">     
 </p>   
-                      
+
+                       
+## I-V Characteristic Curve: Audio Transformer Primary.    
+                   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/TransformerIV.png">     
+</p> 
+    
 ## I-V Characteristic Curve: Vooltage-Time (VT) display of transformer V and current indirectly.    
 I-V Characteristics Curve tester operater at 60 Hz (16.6 mS).
 
@@ -4502,12 +4509,6 @@ Inductor current lags its voltage by 90 degrees.
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV23mV.png">     
 </p>   
-                       
-## I-V Characteristic Curve: Audio Transformer Primary.    
-                   
-<p align="center">
-<img align="center" width="640" height="360" src="/Images/TransformerIV.png">     
-</p> 
                                                                   
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
