@@ -4348,19 +4348,19 @@ I-V characteristic curve for 50 Ohms, 100 Ohms & 200 Ohms using two 100 Ohms res
 ## I-V Characteristic Curve: 50 Ohms resistor (two 100 Ohms resistors in parallel)    
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/Resistor50.png">     
+<img align="center" width="640" height="360" src="/Images/Resistor50Ohms.png">     
 </p> 
             
 ## I-V Characteristic Curve: 100 Ohms resistor    
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/Resistor100.png">     
+<img align="center" width="640" height="360" src="/Images/Resistor100Ohms.png">     
 </p>   
     
 ## I-V Characteristic Curve: 200 Ohms resistor (two 100 Ohms resistors in series)    
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/Resistor200.png">     
+<img align="center" width="640" height="360" src="/Images/Resistor200Ohms.png">     
 </p> 
        
 I-V Characteristics Curve Tester Configuration
