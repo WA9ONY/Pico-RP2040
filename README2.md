@@ -4335,7 +4335,7 @@ Videos
         
 <A NAME="P97"></A>
 <HR>
-<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P96">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P98">--&gt;</A></P>  
     
 # Project 97: Resistors I-V Characteristics Curve
 
@@ -4389,7 +4389,23 @@ Videos
   + YouTube resistor VI [list](https://www.youtube.com/results?search_query=resistor+VI)
   + YouTube resistor [list](https://www.youtube.com/results?search_query=resistor)
     
+     
+        
+<A NAME="P98"></A>
+<HR>
+<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 98: Capacitive I-V Characteristics Curve
+
+<p align="center">
+<img align="center" width="134" height="99" src="/Images/QucsC10uf.png">     
+</p>   
+
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+</p> 
+            
+   
     
 <A NAME="FUTURE"></A>
 <HR>
