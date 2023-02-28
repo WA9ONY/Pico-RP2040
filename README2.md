@@ -4527,27 +4527,25 @@ I-V Characteristics Curve Tester Configuration
 Videos
   + YouTube transformer [list](https://www.youtube.com/results?search_query=transformer+tutorial)
 
-  
-
     
 <A NAME="P100"></A>
 <HR>
 <P align="center"><A HREF="#P99">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 100: 2N3055 NPN Transistor BE I-V Characteristics Curve
+# Project 100: 2N3055 NPN Transistor BE [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
 <p align="center">
 <img align="center" width="160" height="90" src="/Images/Qucs2N3055.png">     
 </p>   
 
 The 2N3055 [NPN transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor#Function) base emmitter acts as a diode and has the same IV curve with Vf of 0.5 to 0.7 V as shown below .  
-The x axis (horziontal) is the voltage acros the transistor base emmitter.
+The [scope](https://en.wikipedia.org/wiki/Oscilloscope) x axis (horziontal) is the voltage acros the transistor base emmitter.
 The x axis scale is 1 V/div
 Zero V is the vertical center line.    
 The curve start up at 0.5 V and increases slightly as the current go up.
 The negative voltage applied to the base emmitter is -2.6 V.
     
-The y axis (vertical) is the indirectly the current through the base emmitter.  
+The scope y axis (vertical) is the indirectly the current through the base emmitter.  
 A current resistor voltage is measured at 500 mV/div.  
 Current scale is 500 mV/div / 100 Ohms = 5 mA/div.
 The IV curve stops at 4 vertical divisions at the top of the plot, 4 div * 5 mA/div = 20 ma.    
@@ -4584,13 +4582,15 @@ Data sheets
   + [ON Semiconductor](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)    
 
 Application
+  + Google design a 2N3055 amplifier [search](https://www.google.com/search?q=how+to+design+a+2n3055+amplifier&oq=How+to+design+a+2N3055+a&aqs=chrome.2.69i57j33i160j33i299l3j33i22i29i30.25053j0j15&sourceid=chrome&ie=UTF-8)
   + [2N3055 Transistor : Pin Configuration & Its Applications](https://www.elprocus.com/2n3055-transistor/)
   + [2N3055 Datasheet, Pinout, Application Circuits](https://www.homemade-circuits.com/2n3055-datasheet-pinout-application/)    
   + [2N3055 Transistor: How to Use it, Features, And More!](https://www.wellpcb.com/2n3055-transistor.html)    
   + Google 2N3055 Application [images](https://www.google.com/search?sxsrf=AJOqlzUXGlKH2ZtoF0j6pcvh1umfpiv1qg:1677622762322&q=2n3055+applications&tbm=isch&source=univ&fir=DQJdJ__zXlbwgM%252CN3usnGZRYXmdzM%252C_%253B89RUBOkxM6B8QM%252CGhdjXFIdwTbrYM%252C_%253BOq_Ui3dOK8GzqM%252Ca5MdthiUEYt-OM%252C_%253BuLp5zb8YFTRqWM%252CYwtKf4l9DRisEM%252C_%253BD37gAX5VziReDM%252Cd3qVEQ_tccGdRM%252C_%253B_vYbcA2m0W84TM%252Cl8Z1C0NRBVmlxM%252C_%253BpvZaaSjksE1lNM%252CBKUTBu4VXAeksM%252C_%253BkWmWTRIEdjViFM%252Cd3qVEQ_tccGdRM%252C_%253BXW10cKKufOv2WM%252CvKtwfoVfhVDN2M%252C_%253BP463N3Zf9bEKVM%252CickKnDsxlAAtZM%252C_&usg=AI4_-kRHBSkQX3xhroTQ0Bfl7HV20qoadA&sa=X&ved=2ahUKEwjTvcLmn7n9AhVzIX0KHTZFAtYQjJkEegQIORAC&biw=1670&bih=856&dpr=1)    
+  + [Transistor Amplifier Design and Measurement](https://www.hunter.cuny.edu/physics/courses/physics222/repository/files/pdf/ElectronicsLab15.pdf)
+  + Google how to design a transistor amplifier [search](https://www.google.com/search?q=how+to+design+a+transistor+amplifier&sxsrf=AJOqlzVMuadha3heBB4KAOldhE-TZfL9ww%3A1677623962760&ei=moL-Y5-DLo_n0PEP6YKUyA0&oq=how+to+design+a+transis+amplifier&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgYIABAHEB4yCggAEAgQBxAeEAoyBQgAEIYDMgUIABCGAzIFCAAQhgM6BAgAEEc6CAgAEAgQBxAeSgQIQRgAUPN_WOuPAWCjtQFoAHADeACAAagBiAG_BpIBAzQuM5gBAKABAcgBCMABAQ&sclient=gws-wiz-serp)  
 
-    
-    
+
 <A NAME="FUTURE"></A>
 <HR>
 
