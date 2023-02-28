@@ -4398,7 +4398,7 @@ Videos
 # Project 98: Capacitor I-V Characteristics Curve
 
 <p align="center">
-<img align="center" width="484" height="181" src="/Images/Cap3.png">     
+<img align="center" width="484" height="181" src="/Images/Caps3.png">     
 </p>   
 
 This is a very exciting IV curve because there is activity in all four quardants of the IV plot.
