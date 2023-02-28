@@ -4393,7 +4393,7 @@ Videos
         
 <A NAME="P98"></A>
 <HR>
-<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P99">--&gt;</A></P>  
     
 # Project 98: Capacitor I-V Characteristics Curve
 
@@ -4454,12 +4454,33 @@ Channel 2 is the voltaage across the 100 Ohm resistor. 100 mV/ 100 Ohms = 1 ma.
 <img align="center" width="640" height="360" src="/Images/IVCap10ufI1mA.png">     
 </p> 
             
-   
+         
+<A NAME="P99"></A>
+<HR>
+<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 99: Transformer I-V Characteristics Curve
+
+<p align="center">
+<img align="center" width="95" height="135" src="/Images/QucsTransformer.png">     
+</p>   
+
+    
+                       
+## I-V Characteristic Curve: Audio Transformer Primary.    
+                   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/TransformerIV.png">     
+</p> 
+                                 
+    
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P98">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P99">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
