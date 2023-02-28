@@ -4474,7 +4474,7 @@ Videos
     
 <A NAME="P99"></A>
 <HR>
-<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P98">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 99: Transformer I-V Characteristics Curve
 
@@ -4501,8 +4501,14 @@ Inductor current lags its voltage by 90 degrees.
                    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV23mV.png">     
+</p>   
+                       
+## I-V Characteristic Curve: Audio Transformer Primary.    
+                   
+<p align="center">
+<img align="center" width="640" height="360" src="/Images/TransformerIV.png">     
 </p> 
-                                 
+                                                                  
 I-V Characteristics Curve Tester Configuration
 + Transformer: 6 Vac 1000 mA (8.5 Vp)
 + Scope: Tek 2465A
@@ -4520,17 +4526,7 @@ I-V Characteristics Curve Tester Configuration
 Videos
   + YouTube transformer [list]()
 
-    
-    
-                       
-## I-V Characteristic Curve: Audio Transformer Primary.    
-                   
-<p align="center">
-<img align="center" width="640" height="360" src="/Images/TransformerIV.png">     
-</p> 
-                                 
-    
-    
+  
     
     
     
