@@ -4498,13 +4498,13 @@ Inductor current lags its voltage by 90 degrees.
 <img align="center" width="640" height="360" src="/Images/TransformerIVfreq.png">     
 </p> 
                                                         
-## I-V Characteristic Curve: Audio Transformer Primary 165 mVpeak.    
+## I-V Characteristic Curve: Audio Transformer Primary Voltage 165 mVpeak.    
                    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV165mV.png">     
 </p> 
                                                        
-## I-V Characteristic Curve: Audio Transformer Primary current 23.2mV (.232mV) .    
+## I-V Characteristic Curve: Audio Transformer Primary Current 23.2mVpeak (.232mApeak).    
                    
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV23mV.png">     
@@ -4525,7 +4525,7 @@ I-V Characteristics Curve Tester Configuration
 + Wikipedia [transformer](https://en.wikipedia.org/wiki/Transformer) 
     
 Videos
-  + YouTube transformer [list]()
+  + YouTube transformer [list](https://www.youtube.com/results?search_query=transformer+tutorial)
 
   
     
