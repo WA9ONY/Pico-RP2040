@@ -4540,7 +4540,7 @@ Videos
 <img align="center" width="160" height="90" src="/Images/Qucs2N3055.png">     
 </p>   
 
-The 2N3055 NPN transistor base emmitter acts as a diode and has the same IV curve with Vf of 0.5 to 0.7 V as shown below .  
+The 2N3055 [NPN transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor#Function) base emmitter acts as a diode and has the same IV curve with Vf of 0.5 to 0.7 V as shown below .  
 The x axis (horziontal) is the voltage acros the transistor base emmitter.
 The x axis scale is 1 V/div
 Zero V is the vertical center line.    
@@ -4551,7 +4551,7 @@ The y axis (vertical) is the indirectly the current through the base emmitter.
 A current resistor voltage is measured at 500 mV/div.  
 Current scale is 500 mV/div / 100 Ohms = 5 mA/div.
 The IV curve stops at 4 vertical divisions at the top of the plot, 4 div * 5 mA/div = 20 ma.    
-
+The 2N3055 maximum continuous base current rating is 7.0 A.
     
 ## I-V Characteristic Curve: 2N3055 NPN transistor base emmitter.    
                    
