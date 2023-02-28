@@ -4427,21 +4427,26 @@ X = - (1/2*pi*frequency*Capacitce)
 <img align="center" width="640" height="360" src="/Images/IVCap20uf.png">     
 </p> 
             
-    
+## I-V Characteristic Curve: Scope in Voltage-Time (VT) showing the capacitor voltage and current versus time.    
+           
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+<img align="center" width="640" height="360" src="/Images/IVCap10ufVT.png">     
 </p> 
-            
-    
+                       
+## I-V Characteristic Curve: Scope in Voltage-Time measuring the AC frequency (60 Hz, 16.6 ms).    
+               
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
-</p> 
-            
-    
+<img align="center" width="640" height="360" src="/Images/IVCap10uffreq.png">     
+</p>             
+                       
+## I-V Characteristic Curve: Scope in Voltage-Time measuring channel 1 voltage peak (280 mV).    
+                   
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+<img align="center" width="640" height="360" src="/Images/IVCap10ufV280.png">     
 </p> 
-            
+                                 
+## I-V Characteristic Curve: Scope in Voltage-Time measuring channel 2 voltage peak (100 mV).    
+Channel 2 is the voltaage across the 100 Ohm resistor. 100 mV/ 100 Ohms = 1 ma.
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
