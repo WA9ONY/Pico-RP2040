@@ -4395,7 +4395,7 @@ Videos
 <HR>
 <P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 98: Capacitive I-V Characteristics Curve
+# Project 98: Capacitor I-V Characteristics Curve
 
 <p align="center">
 <img align="center" width="134" height="99" src="/Images/QucsC10uf.png">     
@@ -4404,6 +4404,10 @@ Videos
 This is a very exciting IV curve because there is activity in all four quardants of the IV plot.
 The reason is the capacitor takes energy for the transformer, stores it in the electric feild, and than the enegry is returned.    
     
+Vpeak = 280 mV
+Ipeak = 100 mV/100 Ohms = 1.0 mA
+
+X = - (1/2*pi*frequency*Capacitce)    
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
