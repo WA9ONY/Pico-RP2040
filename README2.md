@@ -4451,7 +4451,7 @@ Capacitor current leads its voltage by 90 degrees.
 Channel 2 is the voltaage across the 100 Ohm resistor. 100 mV/ 100 Ohms = 1 ma.
     
 <p align="center">
-<img align="center" width="640" height="360" src="/Images/IVCap10uf.png">     
+<img align="center" width="640" height="360" src="/Images/IVCap10ufI1mA.png">     
 </p> 
             
    
