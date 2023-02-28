@@ -3739,6 +3739,10 @@ Data sheets
   + [Onsemi](https://www.onsemi.com/pdf/datasheet/1n4001-d.pdf)    
 
 ## I-V Characteristics Curve: 1N4148 Switching Diode  - 1V to +0.68 V Volts, 0 to +.35 ma Current       
+
+<p align="center">
+<img align="center" width="141" height="86" src="/Images/Qucs1N4148.png">     
+</p>    
     
 <p align="center">
 <img align="center" width="600" height="442" src="/Images/1N4148H200mvV100mv.png">     
