@@ -4241,7 +4241,7 @@ Two series zener diode is used to [waveforms clipper](https://en.wikipedia.org/w
  
 Using two series zener diodes BZX55C5V1 signals less than -6 V and greater than +6 V  are clipped.
 
-In [Project 94](README1.md#P94) the Vf is ~0.9 V and the Vzener is 5.1 V.
+In [Project 94](#P94) the Vf is ~0.9 V and the Vzener is 5.1 V.
     
 Zeners in series back-to-back Vf + Vzener = Vclipping.   
      
