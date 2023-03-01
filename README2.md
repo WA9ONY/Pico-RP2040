@@ -4519,6 +4519,16 @@ Using the scope horziontal cursors to measure the peak voltage across the transf
 
 Using the scope horziontal cursors to measure the peak voltage across the current resistor on channel 2.
 23.2mVpeak / 100 Ohms = 0.232 mApeak.
+
+XL = Vpeak/Ipeak =  165 mVpeak/.232mApeak = 711.2
+XL = 2 * pi * frequency * L    
+L in Henry = XL/2 * pi * frequency 
+L in Henry = 711.2/2 * pi * 60 Hz    =  
+L in  =  1.89  [Henry](https://en.wikipedia.org/wiki/Inductor)
+The transformer primary inductance is 1.89  Henry
+
+The inductance needs to be high inorder for the inductor not to appear as a short at 60 Hz.
+This is the limitation of this I-V Characteristic Curve design.    
     
 <p align="center">
 <img align="center" width="640" height="360" src="/Images/TransformerIV23mV.png">     
