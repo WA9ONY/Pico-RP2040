@@ -4601,7 +4601,8 @@ Videos
   + Video include the inside view of the 2N3055 [2N3055 It's More Than A Transistor / Use For Different Purposes / Alternative electronics](https://youtu.be/Mm8a03nMA4M)
   + YouTube 2N3055 [list](https://www.youtube.com/results?search_query=2N3055)
   + YouTube 2N3055 transistor projects [list](https://www.youtube.com/results?search_query=2n3055+transistor+projects+)
-   
+  + YouTube transistor tutorial [list](https://www.youtube.com/results?search_query=transistor+tutorial) 
+    
 Data sheets
   + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
   + [ST](https://www.st.com/resource/en/datasheet/cd00000895.pdf)    
