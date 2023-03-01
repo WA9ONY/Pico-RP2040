@@ -4598,6 +4598,7 @@ I-V Characteristics Curve Tester Configuration
 + Wikipedia [2N3055](https://en.wikipedia.org/wiki/2N3055) 
     
 Videos
+  + Video include the inside view of the 2N3055 [2N3055 It's More Than A Transistor / Use For Different Purposes / Alternative electronics](https://youtu.be/Mm8a03nMA4M)
   + YouTube 2N3055 [list](https://www.youtube.com/results?search_query=2N3055)
   + YouTube 2N3055 transistor projects [list](https://www.youtube.com/results?search_query=2n3055+transistor+projects+)
    
