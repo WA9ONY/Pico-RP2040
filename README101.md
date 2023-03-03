@@ -12,8 +12,8 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
   + Microcontroller manufacturer and store with good ecosystem     
 + [Alex Pettitt](https://www.youtube.com/@AlexPettitt)    
   + Video recording
-+ [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)    
- + SBC, microcontrollers, electronics, etc.        
++ [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
+  + SBC, microcontrollers, electronics, etc.        
 + [Arduino](https://www.youtube.com/@Arduino)
   + Microcontroller manufacturer and store with good ecosystem    
 + [Booth Junkie](https://www.youtube.com/@BoothJunkie)    
