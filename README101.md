@@ -8,18 +8,15 @@
 The first place I look for infomation is YouTube.  Below are the YouTube channels that are gems.
     
     
-[Adafruit Industries](https://www.youtube.com/@adafruit) 
-+ Microcontroller manufacturer and store with good ecosystem     
-
-[Alex Pettitt](https://www.youtube.com/@AlexPettitt)    
-+ Video recording
++ [Adafruit Industries](https://www.youtube.com/@adafruit) 
+  + Microcontroller manufacturer and store with good ecosystem     
++ [Alex Pettitt](https://www.youtube.com/@AlexPettitt)    
+  + Video recording
 
 [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)    
-+ SBC, microcontrollers, electronics, etc.    
-    
++ SBC, microcontrollers, electronics, etc.        
 [Arduino](https://www.youtube.com/@Arduino)
-+ Microcontroller manufacturer and store with good ecosystem 
-    
++ Microcontroller manufacturer and store with good ecosystem    
 [Booth Junkie](https://www.youtube.com/@BoothJunkie)    
 + Audio recording 
 
