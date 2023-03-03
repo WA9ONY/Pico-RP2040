@@ -24,40 +24,40 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
   + Video recording   
 + [DroneBot Workshop](https://dronebotworkshop.com/)    
   + Microcontrollers   
-[EEVblog](https://www.youtube.com/@EEVblog)
++ [EEVblog](https://www.youtube.com/@EEVblog)
   + Test equipment reviews
   + Electronics tutorials    
-[Elektor TV](https://www.youtube.com/@ElektorTV)    
++ [Elektor TV](https://www.youtube.com/@ElektorTV)    
   + Electronics magazine in Europe
-[element14 presents](https://www.youtube.com/@element14presents)    
++ [element14 presents](https://www.youtube.com/@element14presents)    
   + Electronics distributor with good PDFs, forums, etc.       
-[ExplainingComputers](https://www.youtube.com/@ExplainingComputers)    
++ [ExplainingComputers](https://www.youtube.com/@ExplainingComputers)    
   + SBC and PCs 
-[For the Allure of Physics](https://www.youtube.com/@fortheallureofphysics6981)    
++ [For the Allure of Physics](https://www.youtube.com/@fortheallureofphysics6981)    
   + MIT phsyics classes
   + Great physics experiments    
   + [Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/@lecturesbywalterlewin.they9259)
-[Keith Bennett](https://www.youtube.com/@keithbennett5179)
++ [Keith Bennett](https://www.youtube.com/@keithbennett5179)
   + Video recording     
-[Khan Academy](https://www.youtube.com/@khanacademy)
++ [Khan Academy](https://www.youtube.com/@khanacademy)
   + Many classes  
-[MIT OpenCourseWare](https://www.youtube.com/@mitocw)
++ [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
   + MIT classes  
-[Paul Baumgarten](https://www.youtube.com/@pbaumgarten) 
++ [Paul Baumgarten](https://www.youtube.com/@pbaumgarten) 
   + Learn Python  
-[Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
++ [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
   + Arduino tutorials   
-[Periodic Videos](https://www.youtube.com/@periodicvideos)    
++ [Periodic Videos](https://www.youtube.com/@periodicvideos)    
   + The elements  
-[Raspberry Pi](https://www.youtube.com/@raspberrypi)
++ [Raspberry Pi](https://www.youtube.com/@raspberrypi)
   + Pi SBC and Pico microcontroller
-[Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)    
++ [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)    
   + Arduino & STM32 microcontroller manufacturer and store with good ecosystem    
-[Shawn Hymel](https://www.youtube.com/@ShawnHymel)
++ [Shawn Hymel](https://www.youtube.com/@ShawnHymel)
   + Microcontrollers     
-[SparkFun Electronics](https://www.youtube.com/@sparkfun)    
++ [SparkFun Electronics](https://www.youtube.com/@sparkfun)    
   + Microcontroller manufacturer and store with good ecosystem  
-[w2aew](https://www.youtube.com/@w2aew)
++ [w2aew](https://www.youtube.com/@w2aew)
   + Allan Wolke is an Application Engineer at Tektronx and an amateur radio operator    
   + Test equipment and electronics
         
