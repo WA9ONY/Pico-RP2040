@@ -12,71 +12,51 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
   + Microcontroller manufacturer and store with good ecosystem     
 + [Alex Pettitt](https://www.youtube.com/@AlexPettitt)    
   + Video recording
-
-[Andreas Spiess](https://www.youtube.com/@AndreasSpiess)    
-+ SBC, microcontrollers, electronics, etc.        
-[Arduino](https://www.youtube.com/@Arduino)
-+ Microcontroller manufacturer and store with good ecosystem    
-[Booth Junkie](https://www.youtube.com/@BoothJunkie)    
-+ Audio recording 
-
++ [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)    
+ + SBC, microcontrollers, electronics, etc.        
++ [Arduino](https://www.youtube.com/@Arduino)
+  + Microcontroller manufacturer and store with good ecosystem    
++ [Booth Junkie](https://www.youtube.com/@BoothJunkie)    
+  + Audio recording 
 [Digi-Key](https://www.youtube.com/user/digikey)
-+ Electronics store with tutorials    
-    
++ Electronics store with tutorials       
 [Doug Johnson Productions](https://www.youtube.com/@djp_video)    
-+ Video recording
-    
++ Video recording   
 [DroneBot Workshop](https://dronebotworkshop.com/)    
-+ Microcontrollers
-    
++ Microcontrollers   
 [EEVblog](https://www.youtube.com/@EEVblog)
 + Test equipment reviews
-+ Electronics tutorials
-    
++ Electronics tutorials    
 [Elektor TV](https://www.youtube.com/@ElektorTV)    
 + Electronics magazine in Europe
-
 [element14 presents](https://www.youtube.com/@element14presents)    
-+ Electronics distributor with good PDFs, forums, etc.    
-    
++ Electronics distributor with good PDFs, forums, etc.       
 [ExplainingComputers](https://www.youtube.com/@ExplainingComputers)    
-+ SBC and PCs
-    
++ SBC and PCs 
 [For the Allure of Physics](https://www.youtube.com/@fortheallureofphysics6981)    
 + MIT phsyics classes
 + Great physics experiments    
 + [Lectures by Walter Lewin. They will make you ♥ Physics.](https://www.youtube.com/@lecturesbywalterlewin.they9259)
-
 [Keith Bennett](https://www.youtube.com/@keithbennett5179)
-+ Video recording    
-    
++ Video recording     
 [Khan Academy](https://www.youtube.com/@khanacademy)
-+ Many classes
-    
++ Many classes  
 [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
-+ MIT classes
-    
++ MIT classes  
 [Paul Baumgarten](https://www.youtube.com/@pbaumgarten) 
-+ Learn Python
-    
++ Learn Python  
 [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
-+ Arduino tutorials
-    
++ Arduino tutorials   
 [Periodic Videos](https://www.youtube.com/@periodicvideos)    
-+ The elements
-    
++ The elements  
 [Raspberry Pi](https://www.youtube.com/@raspberrypi)
 + Pi SBC and Pico microcontroller
-
 [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)    
 + Arduino & STM32 microcontroller manufacturer and store with good ecosystem    
-
 [Shawn Hymel](https://www.youtube.com/@ShawnHymel)
-+ Microcontrollers    
-    
++ Microcontrollers     
 [SparkFun Electronics](https://www.youtube.com/@sparkfun)    
-+ Microcontroller manufacturer and store with good ecosystem 
-    
++ Microcontroller manufacturer and store with good ecosystem  
 [w2aew](https://www.youtube.com/@w2aew)
 + Allan Wolke is an Application Engineer at Tektronx and an amateur radio operator    
 + Test equipment and electronics
