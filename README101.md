@@ -72,7 +72,8 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
 
 + [ElectroBOOM101](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)  
   + Unique presentation style
-    
++ [New Arduino Tutorials](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
+  + Arduino
     
     
     
