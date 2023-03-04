@@ -70,28 +70,50 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
     
 # Project 102: YouTube Playlist Gems
 
-## Arduino    
-+ [New Arduino Tutorials, 68 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
-+ [Arduino Lessons, 36 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
-+ [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
-+ [Learn Arduino in 90 Minnutes, 8 videos](https://www.youtube.com/playlist?list=PLYutciIGBqC3wBleqH41YCMCqx9V1jLII)
-+ [Arduino Workshop for Beginners, 35 videos](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
+This a list of playlist and over one hour videos.
+    
+## Arduino playlists 
 + [Arduino Course for Beginners - Open-Source Electronics Platform, 4 hours](https://youtu.be/zJ-LqeX_fLU)
++ [Arduino Lessons, 36 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
++ [Arduino Workshop for Beginners, 35 videos](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
++ [Learn Arduino in 90 Minnutes, 8 videos](https://www.youtube.com/playlist?list=PLYutciIGBqC3wBleqH41YCMCqx9V1jLII)
++ [New Arduino Tutorials, 68 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
++ [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
+       
+## Raspberry Pi Pico playlists
++ [A journey with Raspberry Pi Pico beginner to Advance Level, 19 vidoes](https://www.youtube.com/playlist?list=PLOYsAys6a6mk6Aq24_7ZbBE7rsiWtzqB4)
++ [Free Raspberry Pi Tutorials for Absolute Beginnerss, 67 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
++ [HackadayU: Raspberry Pi Pico and RP2040 - The Deep Dive, 6 videos](https://www.youtube.com/playlist?list=PL_tws4AXg7auiZHZsL-qfrXoMiUONBB0U)
++ [Intro to Raspberry Pi Pico and RP2040, 11 videos](https://www.youtube.com/playlist?list=PLEBQazB0HUyQO6rJxKr2umPCgmfAU-cqR)
++ [MicroPython - Raspberry Pi Pico Tutorials (Sensors/Modules), 16 videos](https://www.youtube.com/playlist?list=PLS8HiXWI22cxXhCTl4nq7FULYE60WsEHS)
++ [Showing off the Power of the Raspberry Pi Pico/RP2040 & PIO, 16 videos](https://www.youtube.com/playlist?list=PL-_wCtHUfdDOvB9edAA1Jge1ZUbgnf4Tu)
++ [Raspberry Pi Pico & RP2040 - RP2040 microcontroller projects, 6 videos](https://www.youtube.com/playlist?list=PLWNDWPAClRVoo0Z-QtCkXuM15jdb2Q54N)
++ [Raspberry Pi Pico (RP2040) Student Projects, 39 videos](https://www.youtube.com/playlist?list=PLDqMkB5cbBA6AwYC_DElkDStUdOsTuIL7)
++ [Raspberry Pi Pico for Beginners, 37 videos](https://www.youtube.com/playlist?list=PLU9tksFlQRipG1Lql5Gs3sYnMDEvRySa-)
++ [Raspberry Pi Pico Lectures, 28 videos](https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ)
++ [Raspberry Pi Pico PIO, 20 videos](https://www.youtube.com/playlist?list=PLiRALtgGsxmZs_LXGkh09Zr2NUmk_mtEI)
++ [Raspberry Pi Pico using C/C++, 6 videos](https://www.youtube.com/playlist?list=PLUwmiNOPP-7hAXx4AmiWiWTyBqumqbIKT)
++ [Raspberry Pi Pico using MicroPython, 6 videos](https://www.youtube.com/playlist?list=PLUwmiNOPP-7h9B5LB3iMBIyfKgj5bZFpG)
++ [Raspberry Pi Pico W Lessons for Absolute Beginners, 13 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5)
++ [Raspberry Pi Pico, 27 videos](https://www.youtube.com/playlist?list=PLZ77QYmqJkKvOHuEFgP63xKJphqzjs4RD)
++ [Raspberry Pi Pico, 11 videos](https://www.youtube.com/playlist?list=PLWzI9--TMWEyBrZXitloH5UPn-P7cBVUK)
++ [Raspberry Pi Pico, 10 videos](https://www.youtube.com/playlist?list=PLc7W4b0WHTAV6EYRVayb9c9dEsq-NeXAt)
++ [Raspberry Pi Pico, 10 videos](https://www.youtube.com/playlist?list=PLFCgd2W4GPjmOmfQ-ZlXZAPvNf5tHpSMp)
++ [Raspberry Pi Pico, 9 videos](https://www.youtube.com/playlist?list=PLvOT6zBnJyYFavcPtSEYU1l0rBoQixcPg)
++ [Raspberry Pi Pico, 8 videos](https://www.youtube.com/playlist?list=PLwF0yC5nSNDNOu0kT8FhLgBgNuMdeaDEe)
++ [Raspberry Pi Pico, 7 videos](https://www.youtube.com/playlist?list=PLGhvWnPsCr594OZQG0GE2X-jsXl83K2gg)
++ [Raspberry Pi Pico, 6 videos](https://www.youtube.com/playlist?list=PL2m2YvnrOYxImbuCEE14DQquBSUu9SUgU)
 
-## CircuitPython
+## CircuitPython playlists
 + [Circuit Python Tutorials, 74 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
 + [CircuitPython & Circuit Playground Express Tutorials, 16 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPRo77roCKMzIh4q4Mu2dCBU)
-       
-## Electronics    
-+ [Electronic Circuits, 108 videos](https://www.youtube.com/playlist?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL)
+
+## Electronics playlists   
 + [BJT: Bipolar Junction Transistor, 30 videos](https://www.youtube.com/playlist?list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq)
++ [Electronic Circuits, 108 videos](https://www.youtube.com/playlist?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL)
 + [ElectroBOOM101, 12 videos](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)  
   + Unique presentation style, basic electrity to transistors.
-
-    
-    
-    
-    
+  
     
 <A NAME="FUTURE"></A>
 <HR>
