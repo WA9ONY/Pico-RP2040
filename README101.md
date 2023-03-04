@@ -85,7 +85,7 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
 ## Electronics    
 + [Electronic Circuits, 108 videos](https://www.youtube.com/playlist?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL)
 + [BJT: Bipolar Junction Transistor, 30 videos](https://www.youtube.com/playlist?list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq)
-+ [ElectroBOOM101. videos](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)  
++ [ElectroBOOM101, 12 videos](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)  
   + Unique presentation style, basic electrity to transistors.
 
     
