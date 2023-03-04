@@ -74,8 +74,8 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
 + [New Arduino Tutorials, 68 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 + [Arduino Lessons, 36 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
 + [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
-+ [Learn Arduino in 90 Minnutes 8 videos](https://www.youtube.com/playlist?list=PLYutciIGBqC3wBleqH41YCMCqx9V1jLII)
-+ [Arduino Workshop for Beginners, 36 videos](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
++ [Learn Arduino in 90 Minnutes, 8 videos](https://www.youtube.com/playlist?list=PLYutciIGBqC3wBleqH41YCMCqx9V1jLII)
++ [Arduino Workshop for Beginners, 35 videos](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
 + [Arduino Course for Beginners - Open-Source Electronics Platform, 4 hours](https://youtu.be/zJ-LqeX_fLU)
 
 ## CircuitPython
