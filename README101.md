@@ -79,7 +79,8 @@ This a list of playlist and over one hour videos.
 + [Learn Arduino in 90 Minnutes, 8 videos](https://www.youtube.com/playlist?list=PLYutciIGBqC3wBleqH41YCMCqx9V1jLII)
 + [New Arduino Tutorials, 68 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 + [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
-       
++ Google YouTube search for [Arduino, >35 million videos](https://www.google.com/search?q=youtube+arduino&sxsrf=AJOqlzUYz3XRCX44F4QeODVf3ajzwJ9fMA%3A1677997243248&ei=uzQEZKrpDoTB9AOPm7H4DQ&ved=0ahUKEwjqsvjsksT9AhWEIH0KHY9NDN8Q4dUDCBA&uact=5&oq=youtube+arduino&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBQgAEJECMgcIABANEIAEMgcIABANEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOggIABAIEB4QCjoFCAAQhgM6BQgAEIAEOgkIABAHEB4Q8QQ6BggAEAcQHjoICAAQBxAeEAo6CAgAEAgQBxAeOgYIABAIEB46CgghEKABEMMEEAo6CAghEKABEMMEOgYIABAeEA06BQgAEKIESgQIQRgAUIASWKy0AWCvzwFoA3ACeACAAXWIAeIKkgEEMTYuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp)
+    
 ## Raspberry Pi Pico playlists
 + [A journey with Raspberry Pi Pico beginner to Advance Level, 19 vidoes](https://www.youtube.com/playlist?list=PLOYsAys6a6mk6Aq24_7ZbBE7rsiWtzqB4)
 + [En iyi Raspberry Pi Pico Projeleri, 23 videos](https://www.youtube.com/playlist?list=PLK2SeKwythXiUcLgUnZJn5elohD2pgoA1)
