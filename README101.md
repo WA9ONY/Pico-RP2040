@@ -166,6 +166,9 @@ This a list of playlist and over one hour videos.
     
 # Project 103: 2N3055 Testing with the Peak Atlas DCA Pro
 <p align="center">
+<img width="776" height="1077" src="/Images/DCA75.png">  
+</p>
+<p align="center">
 <img width="1086" height="361" src="/Images/2N3055IcVcTitle.png">  
 </p>
 ## Peak Atlas DCA Pro Semiconductor Analyzer
