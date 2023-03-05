@@ -4,6 +4,9 @@
 <P align="center"><A HREF="README2.md#P100">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
     
 # Project 101: YouTube Channel Gems
+<p align="center">
+<img  width="256" height="57" src="/Images/YouTube_LogoS.png">
+</p>
 
 The first place I look for infomation is YouTube.  Below are the YouTube channels that are gems.
     
@@ -69,6 +72,9 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
 <P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
     
 # Project 102: List of YouTube Playlists
+<p align="center">
+<img  width="256" height="57" src="/Images/YouTube_LogoS.png">
+</p>
 
 This a list of playlist and over one hour videos.
     
