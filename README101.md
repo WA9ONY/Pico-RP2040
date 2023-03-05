@@ -168,10 +168,12 @@ This a list of playlist and over one hour videos.
 <p align="center">
 <img width="776" height="1077" src="/Images/DCA75.png">  
 </p>
+    
+The 2N3055 [hFE](https://www.electronics-notes.com/articles/electronic_components/transistor/current-gain-hfe-beta.php) is 54.    
 <p align="center">
 <img width="1086" height="361" src="/Images/2N3055IcVcTitle.png">  
-</p>
-
+</p>    
+    
 ## Peak Atlas DCA Pro Semiconductor Analyzer
 [Peak Atlas DCA Pro](https://www.peakelec.co.uk/acatalog/dca75-dca-pro-semiconductor-analyser.html) is a semiconductor analyzer. 
 
