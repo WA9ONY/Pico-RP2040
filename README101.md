@@ -162,7 +162,7 @@ This a list of playlist and over one hour videos.
 <p align="center">
 <img width="1086" height="361" src="/Images/2N3055IcVcTitle.png">  
 </p>
-
+## Peak Atlas DCA Pro Semiconductor Analyzer
 [Peak Atlas DCA Pro](https://www.peakelec.co.uk/acatalog/dca75-dca-pro-semiconductor-analyser.html) is a semiconductor analyzer. 
 
 Video
@@ -172,12 +172,43 @@ Video
     
 Store
 + [Amazon](https://www.amazon.com/gp/product/B00O0BMNX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
-  
-2N3355 Data sheets
+
+## 2N3055 BJT: [Bipolar Junction Transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor)     
+
+2N3055 BJT Data sheets
   + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
   + [ST](https://www.st.com/resource/en/datasheet/cd00000895.pdf)    
   + [Central Semiconductor Corp.](https://www.mouser.com/datasheet/2/68/2n3055-1108522.pdf)    
   + [ON Semiconductor](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)    
+    
+BJT Videos
+  + YouTube transistor curves explained [list](https://www.youtube.com/results?search_query=transistor+curves+explained+)  
+
+BJT Presentations
+  + Chapter 5 Bipolar Junction Transistors (BJTs), 152 slides [PDF](file:///home/david/Downloads/Bipolar%20Junction%20Transistors%20(BJTs)%20(%20PDFDrive%20).pdf)
+  + EEE 531: Semiconductor Device Theory I, 35 slides [PDF](https://nanohub.org/resources/5084/download/bjt_description.pdf)  
+  + Bipolar Junction Transistors (BJT), 18 slides {PDF](https://www.site.uottawa.ca/~rhabash/ELG3331L3.pdf)
+  + Chapter Three: Bipolar junction transistor (BJT), 17 slides [PDF](http://ndl.ethernet.edu.et/bitstream/123456789/78718/7/Electronics%20I%20lecture%20note%20-%20Chapter%203.pdf)
+
+Tutorials
+  + Zen [How to use a Transistor](http://thezanshow.com/electronics-tutorials/electronics-theory/tutorial-1)
+  + [Transistors](https://www.electronics-tutorials.ws/category/transistor)  
+  + [Basic Electronics - Transistors](https://www.tutorialspoint.com/basic_electronics/basic_electronics_transistors.htm)
+  + SparkFun [Transistor](https://learn.sparkfun.com/tutorials/transistors/all)  
+  + Digi-Key Transistor Basics: NPN & PNP Using 2N3904, 2N3906, 2N2222, and 2N2907 {URL](https://www.digikey.com/en/articles/transistor-basics)
+  + Adafruit [Transistors 101](https://learn.adafruit.com/transistors-101)
+    
+BJT Chapters & Articles
+  + Unit-II BIPOLAR JUNCTION TRANSISTOR, 39 pages [PDF](https://www.sathyabama.ac.in/sites/default/files/course-material/2020-10/UNIT-2_5.pdf)  
+  + Bipolar Transistor, 34 pages [PDF](https://www.chu.berkeley.edu/wp-content/uploads/2020/01/Chenming-Hu_ch8-2.pdf)    
+  + Bipolar Transistor Basics, 33 [PDF](https://sites.pitt.edu/~qiw4/Academic/ME2082/Transistor%20Basics.pdf)  + The Bipolar Junction Transistor, 33 pages [PDF](https://wiki.dcae.pub.ro/images/e/ec/The_Bipolar_Junction_Transistor.pdf)  
+  + Chapter 4 Introduction to Bipolar Junction Transistors (BJTs), 31 pages [PDF](https://feng.stafpu.bu.edu.eg/Electrical%20Engineering/833/crs-14354/Files/Tutorial%20on%20BJT%20-%20Part%20(1).pdf)
+  + Bipolar Junction Transistors, 15 pages [PDF](http://www.ee.ic.ac.uk/pcheung/teaching/aero2_signals&systems/transistor%20circuit%20notes.pdf)  
+  + Bipolar Junction Transistors, 13 pages [PDF](https://learnabout-electronics.org/Downloads/Semiconductors_module_03.pdf)  
+  + Chapter 4: Bipolar Junction Transistors (BJTs), 10 pages [PDF](https://www.uobabylon.edu.iq/eprints/publication_12_4449_82.pdf)
+
+Books    
+    + Topics: 4 - Bipolar Junction Transistors, [URL](https://instrumentationtools.com/textbook/bipolar-junction-transistors/#)
     
 ## 2N3055 Identify 
 <p align="center">
