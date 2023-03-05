@@ -161,6 +161,17 @@ This a list of playlist and over one hour videos.
 # Project 103: 2N3055 Testing with the Peak Atlas DCA Pro
 
 [Peak Atlas DCA Pro](https://www.peakelec.co.uk/acatalog/dca75-dca-pro-semiconductor-analyser.html) is a semiconductor analyzer. 
+  
+Data sheets
+  + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
+  + [ST](https://www.st.com/resource/en/datasheet/cd00000895.pdf)    
+  + [Central Semiconductor Corp.](https://www.mouser.com/datasheet/2/68/2n3055-1108522.pdf)    
+  + [ON Semiconductor](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)    
+
+Video
+  + YouTube Peak Atlas DCA Pro [list](https://www.youtube.com/results?search_query=Peak+Atlas+DCA+Pro)  
+  + YouTube Peak Atlas DCA Pro [software](https://www.youtube.com/watch?v=PZ28ZhBbLi4)  
+  + YouTube [Peak Atlas DCA Pro](https://www.youtube.com/@PeakAtlas)  
     
 Store
 + [Amazon](https://www.amazon.com/gp/product/B00O0BMNX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
@@ -174,7 +185,34 @@ Store
 <p align="center">
 <img width="1116" height="574" src="/Images/2N3055IcVc.png">  
 </p>
+    
+## 2N3055 BJT hFE/Vce 
+<p align="center">
+<img width="1116" height="574" src="/Images/2N3055HfeVc.png">  
+</p>
 
+## 2N3055 BJT hFE/Ic 
+<p align="center">
+<img width="1116" height="574" src="/Images/2N3055HfeIc.png">  
+</p>
+   
+## 2N3055 BJT Ic/Vbe 
+<p align="center">
+<img width="1116" height="574" src="/Images/2N3055IcIb.png">  
+</p>
+   
+## 2N3055 BJT Ic/Ib 
+<p align="center">
+<img width="1116" height="574" src="/Images/2N3055IcVbe.png">  
+</p>
+
+
+## Peak Atlas DCA Pro
+<p align="center">
+<img width="321" height="198" src="/Images/DCAProHelp.png">  
+</p>
+
+    
     
 <A NAME="FUTURE"></A>
 <HR>
