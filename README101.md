@@ -153,6 +153,28 @@ This a list of playlist and over one hour videos.
 + [ElectroBOOM101, 12 videos](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)  
   + Unique presentation style, basic electrity to transistors.
   
+       
+<A NAME="P103"></A>
+<HR>
+<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 103: 2N3055 Testing with the Peak Atlas DCA Pro
+
+[Peak Atlas DCA Pro](https://www.peakelec.co.uk/acatalog/dca75-dca-pro-semiconductor-analyser.html) is a semiconductor analyzer. 
+    
+Store
++ [Amazon](https://www.amazon.com/gp/product/B00O0BMNX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
+    
+## 2N3055 Identify 
+<p align="center">
+<img width="1116" height="574" src="/Images/2N3055Data.png">  
+</p>
+
+## 2N3055 BJT Ic/Vce 
+<p align="center">
+<img width="1116" height="574" src="/Images/2N3055IcVc.png">  
+</p>
+
     
 <A NAME="FUTURE"></A>
 <HR>
