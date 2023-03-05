@@ -66,7 +66,7 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
     
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
     
 # Project 102: List of YouTube Playlists
 
@@ -156,17 +156,11 @@ This a list of playlist and over one hour videos.
        
 <A NAME="P103"></A>
 <HR>
-<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 103: 2N3055 Testing with the Peak Atlas DCA Pro
 
 [Peak Atlas DCA Pro](https://www.peakelec.co.uk/acatalog/dca75-dca-pro-semiconductor-analyser.html) is a semiconductor analyzer. 
-  
-Data sheets
-  + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
-  + [ST](https://www.st.com/resource/en/datasheet/cd00000895.pdf)    
-  + [Central Semiconductor Corp.](https://www.mouser.com/datasheet/2/68/2n3055-1108522.pdf)    
-  + [ON Semiconductor](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)    
 
 Video
   + YouTube Peak Atlas DCA Pro [list](https://www.youtube.com/results?search_query=Peak+Atlas+DCA+Pro)  
@@ -175,6 +169,12 @@ Video
     
 Store
 + [Amazon](https://www.amazon.com/gp/product/B00O0BMNX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
+  
+2N3355 Data sheets
+  + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
+  + [ST](https://www.st.com/resource/en/datasheet/cd00000895.pdf)    
+  + [Central Semiconductor Corp.](https://www.mouser.com/datasheet/2/68/2n3055-1108522.pdf)    
+  + [ON Semiconductor](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)    
     
 ## 2N3055 Identify 
 <p align="center">
@@ -198,14 +198,13 @@ Store
    
 ## 2N3055 BJT Ic/Vbe 
 <p align="center">
-<img width="1116" height="574" src="/Images/2N3055IcIb.png">  
+<img width="1116" height="574" src="/Images/2N3055IcVbe.png">  
 </p>
    
 ## 2N3055 BJT Ic/Ib 
 <p align="center">
-<img width="1116" height="574" src="/Images/2N3055IcVbe.png">  
+<img width="1116" height="574" src="/Images/2N3055IcIb.png">  
 </p>
-
 
 ## Peak Atlas DCA Pro
 <p align="center">
@@ -217,7 +216,7 @@ Store
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
