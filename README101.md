@@ -159,6 +159,9 @@ This a list of playlist and over one hour videos.
 <P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 103: 2N3055 Testing with the Peak Atlas DCA Pro
+<p align="center">
+<img width="1086" height="361" src="/Images/2N3055IcVcTitle.png">  
+</p>
 
 [Peak Atlas DCA Pro](https://www.peakelec.co.uk/acatalog/dca75-dca-pro-semiconductor-analyser.html) is a semiconductor analyzer. 
 
