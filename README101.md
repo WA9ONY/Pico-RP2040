@@ -68,7 +68,7 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
 <HR>
 <P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 102: YouTube Playlist Gems
+# Project 102: List of YouTube Playlists
 
 This a list of playlist and over one hour videos.
     
@@ -82,11 +82,12 @@ This a list of playlist and over one hour videos.
        
 ## Raspberry Pi Pico playlists
 + [A journey with Raspberry Pi Pico beginner to Advance Level, 19 vidoes](https://www.youtube.com/playlist?list=PLOYsAys6a6mk6Aq24_7ZbBE7rsiWtzqB4)
++ [En iyi Raspberry Pi Pico Projeleri, 23 videos](https://www.youtube.com/playlist?list=PLK2SeKwythXiUcLgUnZJn5elohD2pgoA1)
 + [Free Raspberry Pi Tutorials for Absolute Beginnerss, 67 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
 + [Getting Started with Raspberry pi PICO, 17 videos](https://www.youtube.com/playlist?list=PLevbm8D2ENuhjgNFEWW2VlIwDylPSEH_A)
++ [Getting Started With Raspberry Pi Pico, 6 videos](https://www.youtube.com/playlist?list=PLhUAJCBA66XJhmafJLEbS1oEylKKqkKak)
 + [HackadayU: Raspberry Pi Pico and RP2040 - The Deep Dive, 6 videos](https://www.youtube.com/playlist?list=PL_tws4AXg7auiZHZsL-qfrXoMiUONBB0U)
 + [Intro to Raspberry Pi Pico and RP2040, 11 videos](https://www.youtube.com/playlist?list=PLEBQazB0HUyQO6rJxKr2umPCgmfAU-cqR)
-+ [MicroPython - Raspberry Pi Pico Tutorials (Sensors/Modules), 16 videos](https://www.youtube.com/playlist?list=PLS8HiXWI22cxXhCTl4nq7FULYE60WsEHS)
 + [Physical Computing with Raspberry Pi Pico & Micropython, 28 videos](https://www.youtube.com/playlist?list=PLrJp3bvNEFaWtttqk0eVx2NZ97cG8Y8-x)
 + [Pico Learning Kit for Raspberry Pi, 13 videos](https://www.youtube.com/playlist?list=PLvCUFipQZCUveZEy05Sh2x2gdqpOZJ72y)
 + [Raspberry Pi and Python Tutorials, 8 videos](https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv)
@@ -95,6 +96,7 @@ This a list of playlist and over one hour videos.
 + [Raspberry Pi Pico (2022) - Microncontroller, 17 videos](https://www.youtube.com/playlist?list=PLd8uNPGNmEMfk124qRFPhhkkZr52dY7xm)
 + [Raspberry Pi Pico (RP2040) Experiments, 22 videos](https://www.youtube.com/playlist?list=PLDqMkB5cbBA4W8_FkjXW4WdzXWH0-Xyny)
 + [Raspberry Pi Pico (RP2040) Student Projects, 39 videos](https://www.youtube.com/playlist?list=PLDqMkB5cbBA6AwYC_DElkDStUdOsTuIL7)
++ [Raspberry Pi PICO - RP2040, 49 videos](https://www.youtube.com/playlist?list=PL-EErZRpDPIU8H2tSqPeXFPj6lbTWOwb6)
 + [Raspberry Pi Pico, CNC, Electronics, Sensors, Arduino, Raspberry PI, Python, 87 videos](https://www.youtube.com/playlist?list=PL-ur-Ff6MS1KKPZHBH3Inp67_HWgeiTJ4)
 + [Raspberry pi pico DDS VFO design and installation start to finish, 8 videos](https://www.youtube.com/playlist?list=PLnuAK5K1WFOr5alu7r2Wke1lXrASDerE6)
 + [Raspberry Pi Pico DIY Workshop, 12 videos](https://www.youtube.com/playlist?list=PLeLcvrwLe1876p8VSnAcjQHILdgOsZaNQ)
@@ -116,6 +118,7 @@ This a list of playlist and over one hour videos.
 + [Raspberry Pi Pico W Lessons for Absolute Beginners, 13 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5)
 + [raspberry pi pico ws2812b, 8 videos](https://www.youtube.com/playlist?list=PLcCKmeWXkrzRoul43A6f0xf8baJPggiu0)
 + [Raspberry Pi Pico, 232 videos](https://www.youtube.com/playlist?list=PLnmqCNHsjnLFo54JEJmcEcaTvuB28tOwP)
++ [Raspberry pi Pico, 60 videos](https://www.youtube.com/playlist?list=PLm2hvFSkZCPHc6ySNxmzdh4zmoAac2g-G)
 + [Raspberry Pi Pico, 32 videos](https://www.youtube.com/playlist?list=PLlM9OOPrciP4C4EB4RK-9aCrnq5PM7mT6)
 + [Raspberry Pi Pico, 27 videos](https://www.youtube.com/playlist?list=PLZ77QYmqJkKvOHuEFgP63xKJphqzjs4RD)
 + [raspberry pi pico, 26 videos](https://www.youtube.com/playlist?list=PLPWVx-vIgYRfn4igL4xks4TiWPVHdktXi)
@@ -123,6 +126,7 @@ This a list of playlist and over one hour videos.
 + [Raspberry Pi Pico, 11 videos](https://www.youtube.com/playlist?list=PLWzI9--TMWEyBrZXitloH5UPn-P7cBVUK)
 + [Raspberry Pi Pico, 15 videos](https://www.youtube.com/playlist?list=PLzYOzhIctkyUNe-9KHacF7sCp2zaxFNJM)
 + [Raspberry Pi Pico, 14 videos](https://www.youtube.com/playlist?list=PLagGm6SEKe6wmlJf6CSxMnxbWMsqZ0Zxz)
++ [Raspberry Pi Pico, 14 videos](https://www.youtube.com/playlist?list=PLXxP0FUTG0FlgTQOCfGbDUw1x9vBOGkZ9)
 + [Raspberry Pi Pico, 13 videos](https://www.youtube.com/playlist?list=PLxGj5QMILu9Hvqp8LAHx_g37gvO9lISWX)
 + [Raspberry Pi Pico, 10 videos](https://www.youtube.com/playlist?list=PLc7W4b0WHTAV6EYRVayb9c9dEsq-NeXAt)
 + [Raspberry Pi Pico, 10 videos](https://www.youtube.com/playlist?list=PLFCgd2W4GPjmOmfQ-ZlXZAPvNf5tHpSMp)
@@ -136,21 +140,8 @@ This a list of playlist and over one hour videos.
 + [Retro Gaming with Raspberry Pi Pico, 6 videos](https://www.youtube.com/playlist?list=PLBbKMWuBNXkBsjkyLOdf-I4Wf2-QZHxXB)
 + [Showing off the Power of the Raspberry Pi Pico/RP2040 & PIO, 16 videos](https://www.youtube.com/playlist?list=PL-_wCtHUfdDOvB9edAA1Jge1ZUbgnf4Tu)
 + [The 12 Days of Codemas - Raspberry Pi Pico Advent Calendar 2022, 13 videos](https://www.youtube.com/playlist?list=PLXxP0FUTG0FnEQz4X2yPWCAsAZEDCnxYG)
-
-+ [raspberry pi pico, 6 videos](https://www.youtube.com/playlist?list=PL2rtAVvB6y_Te4-XHmmDxg3dQKBKjQ4SM)
-+ [raspberry pi pico, 6 videos](https://www.youtube.com/playlist?list=PL2rtAVvB6y_Te4-XHmmDxg3dQKBKjQ4SM)
-+ [raspberry pi pico, 6 videos](https://www.youtube.com/playlist?list=PL2rtAVvB6y_Te4-XHmmDxg3dQKBKjQ4SM)
-+ [raspberry pi pico, 6 videos](https://www.youtube.com/playlist?list=PL2rtAVvB6y_Te4-XHmmDxg3dQKBKjQ4SM)
-
-
++ Google YouTube search for [Raspberry Pi Pico,2.8 Million videos](https://www.google.com/search?q=youtube+raspberry+pi+pico&oq=YouTube+Raspberry+Pi+Pico&aqs=chrome.0.0i512l2j0i22i30j0i390l5j69i64.5101j0j15&sourceid=chrome&ie=UTF-8#ip=1)
     
-    
-    
-    
-    
-    
-    
-
 ## CircuitPython playlists
 + [Circuit Python Tutorials, 74 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
 + [CircuitPython & Circuit Playground Express Tutorials, 16 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPRo77roCKMzIh4q4Mu2dCBU)
