@@ -140,7 +140,7 @@ This a list of playlist and over one hour videos.
 + [Retro Gaming with Raspberry Pi Pico, 6 videos](https://www.youtube.com/playlist?list=PLBbKMWuBNXkBsjkyLOdf-I4Wf2-QZHxXB)
 + [Showing off the Power of the Raspberry Pi Pico/RP2040 & PIO, 16 videos](https://www.youtube.com/playlist?list=PL-_wCtHUfdDOvB9edAA1Jge1ZUbgnf4Tu)
 + [The 12 Days of Codemas - Raspberry Pi Pico Advent Calendar 2022, 13 videos](https://www.youtube.com/playlist?list=PLXxP0FUTG0FnEQz4X2yPWCAsAZEDCnxYG)
-+ Google YouTube search for [Raspberry Pi Pico,2.8 Million videos](https://www.google.com/search?q=youtube+raspberry+pi+pico&oq=YouTube+Raspberry+Pi+Pico&aqs=chrome.0.0i512l2j0i22i30j0i390l5j69i64.5101j0j15&sourceid=chrome&ie=UTF-8#ip=1)
++ Google YouTube search for [Raspberry Pi Pico, >3 million videos](https://www.google.com/search?q=youtube+raspberry+pi+pico&oq=YouTube+Raspberry+Pi+Pico&aqs=chrome.0.0i512l2j0i22i30j0i390l5j69i64.5101j0j15&sourceid=chrome&ie=UTF-8#ip=1)
     
 ## CircuitPython playlists
 + [Circuit Python Tutorials, 74 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
