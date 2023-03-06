@@ -268,14 +268,16 @@ Books
 <img width="600" height="481" src="/Images/IVv2.png">  
 </p>
 
-The purpose of the version two modifications is the get the I-V Characteristics Curve Tester ready for transistor Ic-Vc Ib curvers.   
+The purpose of the version 2 modifications is to do I-V Characteristics Curve Testing of transistor Ic-Vc, Ib curvers.   
     
 Version two
   + Adds a diode to do only positive voltages.
   + Off set the 0 voltage and 0 current point of the scope screen to the lower left corner.
   + Above screen
-    + The vertical line is short curcuit with 0 voltage.
-    + The horziontal line is open curcuit with 0 current.    
+    + The vertical line is short curcuit with 0 voltage. 
+      + The vertical current scale is 500 mV/ 100 ohms = 5 mA/div
+    + The horziontal line is open curcuit with 0 current.
+      + The horziontal voltage scale is 500 mV/div.
 
     
 <A NAME="FUTURE"></A>
