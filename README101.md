@@ -273,6 +273,7 @@ The purpose of the version 2 modifications is to do I-V Characteristics Curve Te
 Version two
   + Adds a diode to do only positive voltages.
   + Off set the 0 voltage and 0 current point of the scope screen to the lower left corner.
+    + In the above image this is where the to white line meet in the lower left corner. 
   + Above screen
     + The vertical line is short curcuit with 0 voltage. 
       + The vertical current scale is 500 mV/ 100 ohms = 5 mA/div
