@@ -162,7 +162,7 @@ This a list of playlist and over one hour videos.
        
 <A NAME="P103"></A>
 <HR>
-<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P104">--&gt;</A></P>  
     
 # Project 103: 2N3055 Testing with the Peak Atlas DCA75 Pro
 <p align="center">
@@ -257,12 +257,31 @@ Books
 <img width="321" height="198" src="/Images/DCAProHelp.png">  
 </p>
 
+  
+       
+<A NAME="P104"></A>
+<HR>
+<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 104: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester Version 2
+<p align="center">
+<img width="600" height="481" src="/Images/IVv2.png">  
+</p>
+
+The purpose of the version two modifications is the get the I-V Characteristics Curve Tester ready for transistor Ic-Vc Ib curvers.   
+    
+Version two
+  + Adds a diode to do only positive voltages.
+  + Off set the 0 voltage and 0 current point of the scope screen to the lower left corner.
+  + Above screen
+    + The vertical line is short curcuit with 0 voltage.
+    + The horziontal line is open curcuit with 0 current.    
+
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
+<P align="center"><A HREF="#P104">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>  
  
 <A NAME="Future"></A> 
     
