@@ -257,8 +257,7 @@ Books
 <img width="321" height="198" src="/Images/DCAProHelp.png">  
 </p>
 
-  
-       
+     
 <A NAME="P104"></A>
 <HR>
 <P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
@@ -271,7 +270,7 @@ Books
 The purpose of the version 2 modifications is to do I-V Characteristics Curve Testing of transistor Ic-Vc, Ib curvers.   
     
 Version two
-  + Adds a diode to do only positive voltages.
+  + Adds a 1N5408 (3A 1000 V) diode to provide only positive voltages.
   + Off set the 0 voltage and 0 current point of the scope screen to the lower left corner.
     + In the above image this is where the to white line meet in the lower left corner. 
   + Above screen
