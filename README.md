@@ -151,6 +151,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 101: <A HREF="README101.md#P101">YouTube Channel Gems</A>
 + Project 102: <A HREF="README101.md#P102">List of YouTube Playlists</A>
 + Project 103: <A HREF="README101.md#P103">2N3055 Testing with the Peak Atlas DCA75 Pro</A>
++ Project 104: <A HREF="README101.md#P104">I-V Characteristics Curve Tester Version 2</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
