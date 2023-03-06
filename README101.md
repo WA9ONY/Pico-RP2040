@@ -289,6 +289,8 @@ Version two
 <img width="600" height="480" src="/Images/2N3055VcIcIb3.png">  
 </p>
 
+The above plots show the 2N3055 Ic collector current is controlled by the Ib base current and the Vce collector emitter voltage has very little effect on the Ic collector current after getting out of the cut off area.    
+    
 Above screen
   + The bright dot in the lower left corner is 0 voltage at 0 current. 
     + The horziontal voltage scale is 500 mV/div.
@@ -305,29 +307,34 @@ Above screen
     + Ib 0.591 mA, Ic  5 mA, hFE  8.46
     + Ib 0 mA,     Ic  0 mA
   + Source power supply 6 Vac 1 A
+
+At these low Ic currents the hFE is below specifications.
+hFE increases with increasing Ic and Ib.   
     
+# Higher Collector Current
 <p align="center">
 <img width="600" height="475" src="/Images/2N3055VcIc20mA.png">  
 </p>
 
 Above screen
   + The bright dot in the lower left corner is 0 voltage at 0 current. 
-    + The horziontal voltage scale is 500 mV/div.
-      + Vc (collertor voltage) ranges for 0 V to 4.5 V.
-    + The vertical current scale is 500 mV/ 100 ohms = 5 mA/div.
-      + Ic (collector current) ranges from 0 A to 35 mA.
+    + The horziontal voltage scale is 1 V/div.
+      + Vc (collertor voltage) ranges for 0 V to 9 V.
+    + The vertical current scale is 2 V/ 100 ohms = 20 mA/div.
+      + Ic (collector current) ranges from 0 A to 140 mA.
   + Each horzional trace is a different Ib (base current) current. Base current starting from the top.
-    + Ib 2.348 mA, Ic 35 mA, hFE 14.9
-    + Ib 2.057 mA, Ic 30 mA, hFE 14.6
-    + Ib 1.808 mA, Ic 25 mA, hFE 13.8
-    + Ib 1.551 mA, Ic 20 mA, hFE 12.9
-    + Ib 1.275 mA, Ic 15 mA, hFE 11.8
-    + Ib 0.969 mA, Ic 10 mA, hFE 10.3
-    + Ib 0.591 mA, Ic  5 mA, hFE  8.46
-    + Ib 0 mA,     Ic  0 mA
-  + Source power supply 6 Vac 1 A
-    
+    + Ib 4.476 mA, Ic 140 mA, hFE 31.3
+    + Ib 4.055 mA, Ic 120 mA, hFE 29.6
+    + Ib 3.630 mA, Ic 100 mA, hFE 27.5
+    + Ib 3.112 mA, Ic  80 mA, hFE 25.7
+    + Ib 2.599 mA, Ic  60 mA, hFE 23.1
+    + Ib 2.037 mA, Ic  40 mA, hFE 19.6
+    + Ib 1.33 mA, Ic   20 mA, hFE 15.0
+    + Ib 0 mA,     Ic   0 mA
+  + Source power supply 12 Vac 1.67 A
 
+At these low Ic currents the hFE is below specifications.
+hFE increases with increasing Ic and Ib.   
     
     
 <A NAME="FUTURE"></A>
