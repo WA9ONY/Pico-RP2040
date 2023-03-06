@@ -307,7 +307,7 @@ Above screen
   + Source power supply 6 Vac 1 A
     
 <p align="center">
-<img width="600" height="475" src="/Images/2N3055VcIcIb20mA.png">  
+<img width="600" height="475" src="/Images/2N3055VcIc20mA.png">  
 </p>
 
 Above screen
