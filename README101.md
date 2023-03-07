@@ -343,12 +343,12 @@ hFE increases with increasing Ic and Ib.
     
 # Project 106: 2N3055 Ic-Vc, Ib LED Test
 
-Projects [103](#P103) nd 105 results do not agree.  This project is to try to resolve the difference with a load test.
-2N3055 collector is connected to a red LED, LED connected to 5 V.
-2N3055 base is connected to a resistor, resistor connected to 3.3 V.
-This configuration is a step towards using the 2N3055 with the Raspberry Pi Pico, a 3.3 V only device.
++ Projects [103](#P103) and [105](#105) results do not agree.  This project is to try to resolve the difference with a load test.
++ 2N3055 collector is connected to a red LED, LED connected to 5 V.
++ 2N3055 base is connected to a resistor, resistor connected to 3.3 V.
++ This configuration is a step towards using the 2N3055 with the Raspberry Pi Pico, a 3.3 V only device.
     
-    
+What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)?    
     
 <A NAME="FUTURE"></A>
 <HR>
