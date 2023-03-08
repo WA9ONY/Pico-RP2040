@@ -364,7 +364,7 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
     
 # Project 107: Elektor Webinars
 <p align="center">
-<img width="381" height="381" src="/Images/2N3055test.png">  
+<img width="267" height="75" src="/Images/ElektorWebinars.png">  
 </p>
 
 [Elektor Webinars](https://elektor.clickmeeting.com/)    
