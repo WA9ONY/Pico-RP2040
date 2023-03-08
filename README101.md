@@ -342,7 +342,12 @@ hFE increases with increasing Ic and Ib.
 <P align="center"><A HREF="#P104">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 106: 2N3055 Ic-Vc, Ib LED Test
+<p align="center">
+<img width="381" height="381" src="/Images/2N3055test.png">  
+</p>
 
+See YouTube Short video [2N3055 Test for Raspberry Pi Pico](https://youtube.com/shorts/1mrKxaumkiY?feature=share)    
+    
 + Projects [103](#P103) and [105](#105) results do not agree.  This project is to try to resolve the difference with a load test.
 + 2N3055 collector is connected to a red LED, LED connected to 5 V.
 + 2N3055 base is connected to a resistor, resistor connected to 3.3 V.
