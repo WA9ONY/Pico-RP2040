@@ -371,7 +371,11 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
 + 2023-03-09 Unlock the Power of MicroPython on Your Arduino: Join Our Live Webinar
 + 2023-04-20 Mastering Communication in Electronic Systems: An In-Depth Look at Serial, I²C, and SPI Protocols
 + 2023-06-15 Maximize Your Visual Output with the Ensemble Graphics Toolkit for Linux    
+    
+[Elektor TV](https://www.youtube.com/@ElektorTV)     
++ [Elektor Webinar about How to Identify Components](https://youtu.be/kYEKqn1jckM)    
 
+    
     
     
 <A NAME="FUTURE"></A>
