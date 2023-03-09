@@ -154,7 +154,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 104: <A HREF="README101.md#P104">I-V Characteristics Curve Tester Version 2</A>
 + Project 105: <A HREF="README101.md#P105">2N3055 Ic-Vc, Ib I-V Characteristics Curve Tester Version 2</A>
 + Project 106: <A HREF="README101.md#P106">2N3055 Ic-Vc, Ib LED Test</A>
-+ Project 107: <A HREF="README101.md#P107">Elektor Webinars</A>
++ Project 107: <A HREF="README101.md#P107">Elektor TV Webinars</A>
++ Project 108: <A HREF="README101.md#P108">Arduino IDE MicroPython</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
