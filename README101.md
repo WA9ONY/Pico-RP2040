@@ -387,11 +387,10 @@ Arduino Docs
       + Portenta H7 Firmware
 
 [Elektor](https://www.elektor.com/)
-  + 2022 Dec, page 14: MicroPython Enters the World of Arduino
+  + 2022 Dec, page 14: MicroPython Enters the World of Arduino [from Arduino](https://blog.arduino.cc/2022/12/11/arduino-has-guest-edited-a-special-edition-of-elektor-magazine-and-were-giving-away-the-digital-copy-for-only-e1-for-a-limited-time/)
     
-[Elektor TV](https://elektor.clickmeeting.com/)    
-+ 2023-03-09 [Unlock the Power of MicroPython on Your Arduino: Join Our Live Webinar](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
-
+[Elektor TV](https://www.youtube.com/@ElektorTV)    
++ 2023-03-09 Unlock the Power of MicroPython on Your Arduino: Join Our Live Webinar
     
     
 <A NAME="FUTURE"></A>
