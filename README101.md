@@ -373,7 +373,7 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
  
 <A NAME="P108"></A>
 <HR>
-<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P109">--&gt;</A></P>  
     
 # Project 108: Arduino IDE MicroPython
 <p align="center">
@@ -396,12 +396,29 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
     
 [Elektor TV](https://www.youtube.com/@ElektorTV)    
 + 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)
+
+    
+
+ 
+<A NAME="P109"></A>
+<HR>
+<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 109: Embedded World Exhibition & Conference
+<p align="center">
+<img align="center" width="581" height="134" src="/Images/EmbeddedWorldIcon.png">        
+</p>
+        
+[Embedded World Exhibition & Conference](https://www.embedded-world.de/en)
++ Global platform for the embedded community
++ 2023-03-14 to 16 
+    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
