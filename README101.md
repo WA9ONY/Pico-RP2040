@@ -433,7 +433,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 + 10% discount at [Elektor store](https://www.elektor.com/)
   + Great selection of [books](https://www.elektor.com/books) in PDF format
     
-Other electronics hoppy magazines in print today.
+Other hoppy magazines in print today.
   + [Make](https://en.wikipedia.org/wiki/Make_(magazine))
   + [Nuts and Volts](https://en.wikipedia.org/wiki/Nuts_and_Volts)
     
