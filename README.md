@@ -157,6 +157,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 107: <A HREF="README101.md#P107">Elektor TV Webinars</A>
 + Project 108: <A HREF="README101.md#P108">Arduino IDE MicroPython</A>
 + Project 109: <A HREF="README101.md#P109">Embedded World Exhibition & Conference</A>
++ Project 110: <A HREF="README101.md#P110">Elektor Digital Green Magazine</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
