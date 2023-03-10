@@ -395,14 +395,12 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
   + 2022 Dec, page 14: MicroPython Enters the World of Arduino [from Arduino](https://blog.arduino.cc/2022/12/11/arduino-has-guest-edited-a-special-edition-of-elektor-magazine-and-were-giving-away-the-digital-copy-for-only-e1-for-a-limited-time/)
     
 [Elektor TV](https://www.youtube.com/@ElektorTV)    
-+ 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)
-
-    
++ 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)  
 
  
 <A NAME="P109"></A>
 <HR>
-<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P110">--&gt;</A></P>  
     
 # Project 109: Embedded World Exhibition & Conference
 <p align="center">
@@ -415,11 +413,36 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 + More than 720 exhibitors from 39 countries
 + More than 18,000 international embedded expert    
     
+
+ 
+<A NAME="P110"></A>
+<HR>
+<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 110: Elektor Digital Green Magazine Subscription
+<p align="center">
+<img align="center" width="581" height="134" src="/Images/EmbeddedWorldIcon.png">        
+</p>
+
+ In the 1960 [Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics) was a great electronic hobby magazine.  It went out of print in the 1980s.  [Elektor](https://en.wikipedia.org/wiki/Elektor) is a electronic hobby magazine from Europe that is a great replacement for Popular Electronics. 
+    
+[Elektor Digital Green Magazine Subscription](https://www.elektormagazine.com/account/subscription/add?utm_source=ENShop&utm_medium=Link&utm_campaign=Become%20Member%20Button)
++ Elektor magazine download PDF
++ Access to the archive issues back to 1975 in PDF
+    2006 to 2023-03, 17 years, ~180 fiels, ~3.8 GB
++ 10% discount at [Elektor store](https://www.elektor.com/)
+  + Great selection of [books](https://www.elektor.com/books) in PDF format
+    
+Other electronics hoppy magazines in print today.
+  + [Nuts and Volts](https://en.wikipedia.org/wiki/Nuts_and_Volts)
+  + [Make](https://en.wikipedia.org/wiki/Make_(magazine))
+    
+
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
