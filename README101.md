@@ -394,7 +394,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
   + 2022 Dec, page 14: MicroPython Enters the World of Arduino [from Arduino](https://blog.arduino.cc/2022/12/11/arduino-has-guest-edited-a-special-edition-of-elektor-magazine-and-were-giving-away-the-digital-copy-for-only-e1-for-a-limited-time/)
     
 [Elektor TV](https://www.youtube.com/@ElektorTV)    
-+ 2023-03-09 Unlock the Power of MicroPython on Your Arduino: Join Our Live Webinar
++ 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)
     
     
 <A NAME="FUTURE"></A>
