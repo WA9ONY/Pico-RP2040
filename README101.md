@@ -421,7 +421,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
     
 # Project 110: Elektor Digital Green Magazine Subscription
 <p align="center">
-<img align="center" width="581" height="134" src="/Images/EmbeddedWorldIcon.png">        
+<img align="center" width="459" height="120" src="/Images/ElektorMagIcon.png">        
 </p>
 
  In the 1960 [Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics) was a great electronic hobby magazine.  It went out of print in the 1980s.  [Elektor](https://en.wikipedia.org/wiki/Elektor) is a electronic hobby magazine from Europe that is a great replacement for Popular Electronics. 
