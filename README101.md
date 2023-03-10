@@ -412,8 +412,8 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 [Embedded World Exhibition & Conference](https://www.embedded-world.de/en)
 + Global platform for the embedded community
 + 2023-03-14 to 16 
-+ >720 exhibitors from 39 countries
-+ >18,000 international embedded expert    
++ More than 720 exhibitors from 39 countries
++ More than 18,000 international embedded expert    
     
     
 <A NAME="FUTURE"></A>
