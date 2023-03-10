@@ -381,14 +381,14 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
 </p>
         
 
-Arduino Docs
-  + [MicroPython with Arduino](https://docs.arduino.cc/micropython/)
-    + Arduino boards supported
-      + Nano BLE Sense Firmware
-      + Nano RP2040 Connect Firmware
-      + GIGA R1 Firmware
-      + Nicla Vision Firmware
-      + Portenta H7 Firmware
+Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards the Arduino IDE and microcontroller board supports MicroPython.
++ [MicroPython with Arduino](https://docs.arduino.cc/micropython/)
++ Arduino boards supported
+    + Nano RP2040 Connect Firmware
+    + GIGA R1 Firmware
+    + Portenta H7 Firmware
+    + Nano BLE Sense Firmware
+    + Nicla Vision Firmware
 
 [Elektor](https://www.elektor.com/)
   + 2022 Dec, page 14: MicroPython Enters the World of Arduino [from Arduino](https://blog.arduino.cc/2022/12/11/arduino-has-guest-edited-a-special-edition-of-elektor-magazine-and-were-giving-away-the-digital-copy-for-only-e1-for-a-limited-time/)
