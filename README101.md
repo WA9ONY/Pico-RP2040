@@ -380,7 +380,6 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
 <img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">    
 </p>
         
-
 Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards the Arduino IDE and microcontroller board supports MicroPython.
 + [MicroPython with Arduino](https://docs.arduino.cc/micropython/)
 + Arduino boards supported
