@@ -419,12 +419,12 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 <HR>
 <P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 110: Elektor Digital Green Magazine Subscription
+# Project 110: Elektor Digital Green Magazine
 <p align="center">
 <img align="center" width="459" height="120" src="/Images/ElektorMagIcon.png">        
 </p>
 
- In the 1960 [Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics) was a great electronic hobby magazine.  It went out of print in the 1980s.  [Elektor](https://en.wikipedia.org/wiki/Elektor) is a electronic hobby magazine from Europe that is a great replacement for Popular Electronics. 
+ In the 1960s [Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics) was a great electronic hobby magazine.  It went out of print in the 1980s.  [Elektor](https://en.wikipedia.org/wiki/Elektor) is a electronic hobby magazine from Europe that is a great replacement for Popular Electronics. 
     
 [Elektor Digital Green Magazine Subscription](https://www.elektormagazine.com/account/subscription/add?utm_source=ENShop&utm_medium=Link&utm_campaign=Become%20Member%20Button)
 + Elektor magazine download PDF
@@ -434,8 +434,8 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
   + Great selection of [books](https://www.elektor.com/books) in PDF format
     
 Other electronics hoppy magazines in print today.
-  + [Nuts and Volts](https://en.wikipedia.org/wiki/Nuts_and_Volts)
   + [Make](https://en.wikipedia.org/wiki/Make_(magazine))
+  + [Nuts and Volts](https://en.wikipedia.org/wiki/Nuts_and_Volts)
     
 
     
