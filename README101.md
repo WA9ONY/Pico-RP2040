@@ -354,30 +354,50 @@ See YouTube Short video [2N3055 Test for Raspberry Pi Pico](https://youtube.com/
 + This configuration is a step towards using the 2N3055 with the Raspberry Pi Pico, a 3.3 V only device.
     
 What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)?    
-
-    
-    
+ 
  
 <A NAME="P107"></A>
 <HR>
-<P align="center"><A HREF="#P106">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P106">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P108">--&gt;</A></P>  
     
-# Project 107: Elektor Webinars
+# Project 107: Elektor TV Webinars
 <p align="center">
 <img width="267" height="75" src="/Images/ElektorWebinars.png">  
 </p>
 
-[Elektor Webinars](https://elektor.clickmeeting.com/)    
+[Elektor TV](https://elektor.clickmeeting.com/)    
 + 2023-03-09 [Unlock the Power of MicroPython on Your Arduino: Join Our Live Webinar](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
 + 2023-04-20 [Mastering Communication in Electronic Systems: An In-Depth Look at Serial, I²C, and SPI Protocols]()
 + 2023-06-15 [Maximize Your Visual Output with the Ensemble Graphics Toolkit for Linux]()    
+
+ 
+<A NAME="P108"></A>
+<HR>
+<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 108: Arduino IDE MicroPython
+
+Arduino Docs
+  + [MicroPython with Arduino](https://docs.arduino.cc/micropython/)
+    + Arduino boards supported
+      + Nano BLE Sense Firmware
+      + Nano RP2040 Connect Firmware
+      + GIGA R1 Firmware
+      + Nicla Vision Firmware
+      + Portenta H7 Firmware
+
+[Elektor](https://www.elektor.com/)
+  + 2022 Dec, page 14: MicroPython Enters the World of Arduino
+    
+[Elektor TV](https://elektor.clickmeeting.com/)    
++ 2023-03-09 [Unlock the Power of MicroPython on Your Arduino: Join Our Live Webinar](https://elektor.clickmeeting.com/arduino-micropython-webinar-with-sebastian-romero/register)
 
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
