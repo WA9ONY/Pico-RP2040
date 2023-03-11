@@ -420,7 +420,7 @@ YouTube
     
 <A NAME="P110"></A>
 <HR>
-<P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P111">--&gt;</A></P>  
     
 # Project 110: Elektor Digital Green Magazine
 <p align="center">
@@ -442,10 +442,68 @@ Other hoppy magazines in print today.
     
 
     
+<A NAME="P11"></A>
+<HR>
+<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 111: Search PDFs for Text
+<p align="center">
+<img align="center" width="459" height="120" src="/Images/ElektorMagIcon.png">        
+</p>
+
+Elektor Digital Green Magazine includes access to the archives.  The goal is be able to search a PDF to find the a key word.  For example, search a magazine issue for Arduino.
+    
+I use a Linux computer, Ubuntu 22.04.2 LTS.  Typically Linux will have many ways to do a task.     
+    
+References
+  +  [How can I grep in PDF files?](https://unix.stackexchange.com/questions/6704/how-can-i-grep-in-pdf-files) 
+
+Elektor Digital Green Magazine 2023 issues (PDFs) are stored in
+/home/david/Documents/Microcontrollers/Elektor/Magazines/2023
+File name for March issue is 2303EL.pdf
+    
+## Method 1
+    
+In the terminal CLI    
+  +  cd /home/david/Documents/Microcontrollers/Elektor/Magazines/2023
+  +  less 2303EL.pdf | grep "Pi Pico" 
+
+The search work Arduion in terminal is high lighted in    
+<PRE>
+david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less 2303EL.pdf | grep "Arduino"
+crystal drift compensation thanks to an integrated temperature sensor.       I used the Arduino IDE to develop the software for Cloc 2.0 with the
+And while we’re on the subject of LEDs, the ESP32-PICO-KIT has a (way        these libraries into libraries subfolder of the Arduino sketchbook folder
+for instance the Serial Monitor built in the Arduino IDE. Point your
+  > Elektor Arduino Electronics Bundle (SKU 19440)
+ [4] IRremote library: https://github.com/Arduino-IRremote/Arduino-IRremote
+One level above, there is ArduinoCore [3], a framework for the Arduino        tion is limited by the realities of real-world implementation constraints.
+Sf(t) = a0/2 Σ [an cos(nωt) + bn sin(nωt)]                                     is that the Arduino’s display API suffers poor performance when it is
+ [3] ArduinoCore-k210: https://github.com/Seeed-Studio/ArduinoCore-k210
+ result as quickly as possible was the main thing that drove                                         the design of my VFD-tube shield for Arduino
+ [1] Ilse Joostens, “VFD Shield for Arduino,” ElektorMag 9-10/2015: https://elektormagazine.com/magazine/elektor-201509/28071
+use an Arduino’s serial interface to send it to your PC,
+                             for integration into your application. For Arduino, a
+ble with an Arduino UNO, pictures in color          color graphics. Thus, IBM offered something
+Figure 7: Binary-weighted DAC with op-amp (source: https://elektor.link/                                       Figure 8: Wiring for VGA output on an Arduino UNO.
+ated monitors are not too demanding in this                                         ATmega microcontrollers, so an Arduino UNO                                  that an Arduino UNO can provide. Since the
+                                                                                    tor, we can get an Arduino UNO to display                                   values quickly enough.
+According to the VGA specification, the                                             ing Arduino library is VGAX [1] and can be                                  The timing for signal generation is solved
+to the maximum brightness. The horizontal                                           If an Arduino UNO is wired as shown in                                      could possibly collide with those for signal
+tors (Figure 7).                                                                    Figure 9: VGA output on a screen connected to the Arduino UNO.
+The VGAXUA library [2] for the Arduino UNO
+and Arduino Mega can output monochrome
+                                                                                              Arduino framework is available on GitHub
+run at exact intervals. For example, the delay() function in Arduino       cycle times). There is exactly one task per cycle time; if several activ-
+
+YDLIDAR OS30A                    Arduino Nano 33 BLE Sense Rev2
+Arduino Student Kit              Home Appliance Hack-and-IoT
+david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ 
+</PRE>    
+    
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P111">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
