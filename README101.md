@@ -698,11 +698,19 @@ Vendor newsletters
 <img align="center" width="185" height="199" src="/Images/InternetArchiveIcon.png">        
 </p>
 
-Internet Archive is like a online library that you can borrow materials to read after you creat a free account.
-  + Search [Arduino](https://archive.org/search?query=Arduino) 
+Internet Archive is like a online library that you can borrow materials to read after you creat a free account.  Also, 3D print files are available.
+  + Search [Arduino](https://archive.org/search?query=Arduino)
+  + Search [Arduino texts, 1,015 results](https://archive.org/search?query=Arduino&and%5B%5D=mediatype%3A%22texts%22)  
+    + [Get Started With Arduino, 180 pages](https://ia801900.us.archive.org/3/items/GetStartedWithArduino/GetStartedArduino.pdf)
+    + [Programming Arduino, 177 pages](https://ia903105.us.archive.org/12/items/ProgrammingArduino/Programming%20Arduino.pdf)
+    + [Arduino Programming Notebook](https://ia803000.us.archive.org/33/items/arduino_notebook/arduino_notebook.pdf)
+    + [Arduino Starter Ket Manual, 101 pages](https://ia800603.us.archive.org/15/items/ArduinoStarterKitManual/Arduino_Beginners_Manual.pdf)
+    + [Practical Arduino, 445 pages](https://ia802305.us.archive.org/12/items/c-58_20211011/C58.pdf)
+    + [Arduino Programming Using MATLAB, 77 pages](https://ia800904.us.archive.org/10/items/ArduinoProgrammingUsingMATLAB/Arduino%20Programming%20using%20MATLAB.pdf)
   + Search [Microcontrollers](https://archive.org/search?query=Microcontrollers)  
   + Search [Raspberry Pi Pico](https://archive.org/search?query=Raspberry+Pi+Pico)     
-
+  + Search [Elektor, 1,245 results](https://archive.org/search?query=Elektor)  
+  + Search [Adafruit, 3,963 results](https://archive.org/search?query=Elektor)  
     
 <A NAME="FUTURE"></A>
 <HR>
