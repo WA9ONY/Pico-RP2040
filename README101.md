@@ -432,7 +432,7 @@ YouTube
 [Elektor Digital Green Magazine Subscription](https://www.elektormagazine.com/account/subscription/add?utm_source=ENShop&utm_medium=Link&utm_campaign=Become%20Member%20Button)
 + Elektor magazine download PDF
 + Access to the archive issues back to 1975 in PDF
-    2006 to 2023-03, 17 years, ~180 fiels, ~3.8 GB
+    2000 to 2023-03, 24 years, ~244 files, ~4.2 GB
 + 10% discount at [Elektor store](https://www.elektor.com/)
   + Great selection of [books](https://www.elektor.com/books) in PDF format
     
@@ -444,7 +444,7 @@ Other hoppy magazines in print today.
     
 <A NAME="P111"></A>
 <HR>
-<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P112">--&gt;</A></P>  
     
 # Project 111: Search PDFs for Text
 <p align="center">
@@ -662,13 +662,37 @@ david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less
 Grep output line number and three lines per text fine.    
   + less 2303EL.pdf | grep -i -n -A 3 "Arduino"
 
+       
+<A NAME="P112"></A>
+<HR>
+<P align="center"><A HREF="#P111">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 112: Newsletters
+<p align="center">
+<img align="center" width="925" height="204" src="/Images/Newsletters.png">        
+</p>
+
+Newsletters are a great way to keep current on new products, webinars, new books, etc.    
+    
+Magazine & website newsletters
+  + [All About Circuits](https://www.allaboutcircuits.com/news/)
+  + [Elektor](https://www.elektormagazine.com/elektor-newsletter)
+  + [Nuts and Volts](https://www.nutsvolts.com/blog/post/nuts_volts_newsletters)
+  + [3D Printing](https://3dprintingindustry.com/newsletter/)  
+    
+Vendor newsletters
+  + [Adafruit](https://www.adafruit.com/newsletter)
+  + [Arduino](https://support.arduino.cc/hc/en-us/articles/4405005271964-Subscribe-or-unsubscribe-from-the-Arduino-newsletter)
+  + [Raspberry Pi](https://www.raspberrypi.com/weekly/)  
+  + [Seeed Studio](https://www.seeedstudio.com/blog/category/news/)
+  + [Sparkfun](https://www.sparkfun.com/subscribe)
+  + [Waveshare](https://www.waveshare.com/)  
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P111">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P112">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
