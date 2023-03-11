@@ -414,8 +414,10 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 + More than 720 exhibitors from 39 countries
 + More than 18,000 international embedded expert    
     
+YouTube
+  + Embedded World Exhibition & Conference [2023](https://www.youtube.com/results?search_query=embedded+world+2023)
 
- 
+    
 <A NAME="P110"></A>
 <HR>
 <P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
