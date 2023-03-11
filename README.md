@@ -159,6 +159,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 109: <A HREF="README101.md#P109">Embedded World Exhibition & Conference</A>
 + Project 110: <A HREF="README101.md#P110">Elektor Digital Green Magazine</A>
 + Project 111: <A HREF="README101.md#P111">Search PDFs for Text</A>
++ Project 112: <A HREF="README101.md#P112">Newsletters</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
