@@ -462,15 +462,22 @@ Elektor Digital Green Magazine 2023 issues (PDFs) are stored in
 /home/david/Documents/Microcontrollers/Elektor/Magazines/2023
 File name for March issue is 2303EL.pdf
     
-## Method 1
+## Method 1 Search for text Arduion in file 2303EL.pdf
     
 In the terminal CLI    
   +  cd /home/david/Documents/Microcontrollers/Elektor/Magazines/2023
-  +  less 2303EL.pdf | grep "Pi Pico" 
-
+  +  less 2303EL.pdf | grep "Arduino" 
+    
+Pros
+  + The search text was fournd and high lighted in red.
+  + No need to install additional software.  
+    
+Cons
+  + No file location for the search text.  
+    
 The search work Arduion in terminal is high lighted in    
 <PRE>
-david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less 2303EL.pdf | grep "Arduino"
+david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less 2303EL.pdf | grep -i "Arduino"
 crystal drift compensation thanks to an integrated temperature sensor.       I used the Arduino IDE to develop the software for Cloc 2.0 with the
 And while we’re on the subject of LEDs, the ESP32-PICO-KIT has a (way        these libraries into libraries subfolder of the Arduino sketchbook folder
 for instance the Serial Monitor built in the Arduino IDE. Point your
@@ -499,6 +506,22 @@ YDLIDAR OS30A                    Arduino Nano 33 BLE Sense Rev2
 Arduino Student Kit              Home Appliance Hack-and-IoT
 david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ 
 </PRE>    
+   
+Find how many search text Arduino are in the file 2303EL.pdf.    
+  +  less 2303EL.pdf | grep -i -c "Arduino"
+
+Use this to check PDF for search text.  If found use a PDF viewer with its search to find the text.    
+    
+<PRE>
+david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less 2303EL.pdf | grep -i -c "Arduino"
+28
+</PRE>    
+ 
+Grep output line number and three lines per text fine.    
+  + less 2303EL.pdf | grep -i -n -A 3 "Arduino"
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
