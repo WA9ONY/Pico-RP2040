@@ -695,7 +695,7 @@ Vendor newsletters
     
 # Project 113: Internet Archive
 <p align="center">
-<img align="center" width="925" height="204" src="/Images/Newsletters.png">        
+<img align="center" width="185" height="199" src="/Images/InternetArchiveIcon.png">        
 </p>
 
 Internet Archive is like a online library that you can borrow materials to read after you creat a free account.
