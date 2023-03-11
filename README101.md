@@ -466,45 +466,187 @@ File name for March issue is 2303EL.pdf
     
 In the terminal CLI    
   +  cd /home/david/Documents/Microcontrollers/Elektor/Magazines/2023
-  +  less 2303EL.pdf | grep "Arduino" 
+  +  less 2303EL.pdf | grep -i -n -A 5 "Arduino"
     
 Pros
   + The search text was fournd and high lighted in red.
   + No need to install additional software.  
     
 Cons
-  + No file location for the search text.  
+  + The PDF formating makes it hard to see the context of the search text.  
     
 The search work Arduion in terminal is high lighted in    
 <PRE>
-david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less 2303EL.pdf | grep -i "Arduino"
-crystal drift compensation thanks to an integrated temperature sensor.       I used the Arduino IDE to develop the software for Cloc 2.0 with the
-And while we’re on the subject of LEDs, the ESP32-PICO-KIT has a (way        these libraries into libraries subfolder of the Arduino sketchbook folder
-for instance the Serial Monitor built in the Arduino IDE. Point your
-  > Elektor Arduino Electronics Bundle (SKU 19440)
- [4] IRremote library: https://github.com/Arduino-IRremote/Arduino-IRremote
-One level above, there is ArduinoCore [3], a framework for the Arduino        tion is limited by the realities of real-world implementation constraints.
-Sf(t) = a0/2 Σ [an cos(nωt) + bn sin(nωt)]                                     is that the Arduino’s display API suffers poor performance when it is
- [3] ArduinoCore-k210: https://github.com/Seeed-Studio/ArduinoCore-k210
- result as quickly as possible was the main thing that drove                                         the design of my VFD-tube shield for Arduino
- [1] Ilse Joostens, “VFD Shield for Arduino,” ElektorMag 9-10/2015: https://elektormagazine.com/magazine/elektor-201509/28071
-use an Arduino’s serial interface to send it to your PC,
-                             for integration into your application. For Arduino, a
-ble with an Arduino UNO, pictures in color          color graphics. Thus, IBM offered something
-Figure 7: Binary-weighted DAC with op-amp (source: https://elektor.link/                                       Figure 8: Wiring for VGA output on an Arduino UNO.
-ated monitors are not too demanding in this                                         ATmega microcontrollers, so an Arduino UNO                                  that an Arduino UNO can provide. Since the
-                                                                                    tor, we can get an Arduino UNO to display                                   values quickly enough.
-According to the VGA specification, the                                             ing Arduino library is VGAX [1] and can be                                  The timing for signal generation is solved
-to the maximum brightness. The horizontal                                           If an Arduino UNO is wired as shown in                                      could possibly collide with those for signal
-tors (Figure 7).                                                                    Figure 9: VGA output on a screen connected to the Arduino UNO.
-The VGAXUA library [2] for the Arduino UNO
-and Arduino Mega can output monochrome
-                                                                                              Arduino framework is available on GitHub
-run at exact intervals. For example, the delay() function in Arduino       cycle times). There is exactly one task per cycle time; if several activ-
 
-YDLIDAR OS30A                    Arduino Nano 33 BLE Sense Rev2
-Arduino Student Kit              Home Appliance Hack-and-IoT
+david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ less 2303EL.pdf | grep -i -n -A 5 "Arduino"
+884:crystal drift compensation thanks to an integrated temperature sensor.       I used the Arduino IDE to develop the software for Cloc 2.0 with the
+885-                                                                             ESP32 boards package added to it. To avoid compilation or memory
+886-The DS3231 RTC module sports an I2C interface and connecting it              management errors, you must select the board ESP32 PICO-D4 with
+887-to K2 requires only four wires: GND, 3.3 V, SDA and SCL. If an RTC           a 240 MHz CPU frequency. For the Partition Scheme choose Default
+888-module is detected, port IO26 becomes the SDA signal while port              (i.e., 4 MB with SPIFFS). If you select the right serial port, then compil-
+889-IO32 takes care of the SCL signal of the I2C bus.                            ing and uploading the program should go smoothly!
+--
+908:And while we’re on the subject of LEDs, the ESP32-PICO-KIT has a (way        these libraries into libraries subfolder of the Arduino sketchbook folder
+909-too) bright red power LED that you probably want to hide or remove.          (you can see where it is by going to the IDE’s Preferences window).
+910-
+911-The printed circuit board (PCB) was designed with this enclosure in          Refer to [2] to learn how to add the ESP32 Sketch Data Upload option
+912-mind. The KiCad6 project can be downloaded from [1]. The board,              to the IDE. You’ll need it to load the clock’s web interface into the ESP32
+913-mounted on four 16 mm studs, fits perfectly inside the enclosure, as         module’s data memory. Don’t forget to upload this data; otherwise the
+--
+1001:for instance the Serial Monitor built in the Arduino IDE. Point your
+1002-remote control to the clock’s IR receiver and press a key to display       I hope that many of you will make this clock. Please don’t hesitate to
+1003-the corresponding code in hexadecimal on the computer. Enter the           contact me on my private email (yb.electronique@orange.fr) if you
+1004-codes in hexadecimal in the Media ON and Media OFF fields of the           encounter any difficulties or if you make any improvements to my
+1005-Settings panel.                                                            favorite alarm clock!
+1006-
+--
+1022:  > Elektor Arduino Electronics Bundle (SKU 19440)
+1023-    www.elektor.com/19440
+1024-
+1025-  > SparkFun Real Time Clock Module – RV-8803 (Qwiic)
+1026-    (SKU 19646)
+1027-    www.elektor.com/19646
+--
+1034: [2] ESP32 SPIFFS data upload: https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
+1035: [3] ESP32 OTA (Over-the-Air) Updates: https://randomnerdtutorials.com/esp32-ota-over-the-air-arduino/
+1036: [4] IRremote library: https://github.com/Arduino-IRremote/Arduino-IRremote
+1037- [5] NTP Server at Elektor Labs: https://www.elektormagazine.com/labs/ntp-server
+1038-
+1039-
+1040-
+1041-
+--
+3516:One level above, there is ArduinoCore [3], a framework for the Arduino        tion is limited by the realities of real-world implementation constraints.
+3517-IDE that can also be used with Platform.IO. Last, but not least, is MaixPy.
+3518-This is a programming environment derived from MicroPython that is            In the next step, we define a group of constants. It is recommended
+3519-intended for all those who have a lot of experience with Python (please       to define the FFT length using a #define statement, allowing us later
+3520-read the text box first!).                                                    to make quick adjustments between accuracy and speed:
+3521-
+--
+3647:Sf(t) = a0/2 Σ [an cos(nωt) + bn sin(nωt)]                                     is that the Arduino’s display API suffers poor performance when it is
+3648-                                                                               passed ‘invalid’ coordinate values:
+3649-shows one of many representations of the basic Fourier series. The use
+3650-of I in our formula shows us that we are working with complex units,                 lcd.setRotation(0);
+3651-but since the FFT is basically only a numerical representation of this               lcd.fillScreen(COLOR_WHITE);
+3652-classical Fourier transform, it must follow the same rules.                          for (int i=0;i<256;i++)
+--
+3742: [3] ArduinoCore-k210: https://github.com/Seeed-Studio/ArduinoCore-k210
+3743- [4] fft_lcd Project: https://github.com/MrJBSwe/fft_lcd/blob/master/main.c
+3744- [5] Teukolsky, Press, Vetterling und Flannery: Numerical Recipes in C: www.numerical.recipes/
+3745- [6] stft_lcd Project: https://github.com/jpiat/stft_lcd
+3746- [7] Albert H. Nuttall: Some Windows with Very Good Sidelobe Behavior: https://bit.ly/3fTkCWb
+3747-
+--
+3902: result as quickly as possible was the main thing that drove                                         the design of my VFD-tube shield for Arduino
+3903-me. Properly finishing a project also often left something to                                        (R1 in the schematic diagram) [1]. The value of
+3904-                                                                                                     that resistor is not especially important, but I
+3905-be desired, since I was perfectly happy if what I built more or                                      quickly became a victim of my own success.
+3906-                          less worked.                                                               The kits sold like hotcakes, and before I knew
+3907-                                                                                                     I had run out of my stock of 510 Ω resistors
+--
+3966: [1] Ilse Joostens, “VFD Shield for Arduino,” ElektorMag 9-10/2015: https://elektormagazine.com/magazine/elektor-201509/28071
+3967- [2] Parallel port: https://en.wikipedia.org/wiki/Parallel_port
+3968- [3] Manuals Library – Centronics 101 Operator’s Manual: https://manualslib.com/manual/1438231/Centronics-101.html
+3969- [4] “VFD-tube Clock with ESP32,” ElektorMag 5-6/2018: https://elektormagazine.com/magazine/elektor-201805/41547
+3970- [5] Bob Pease – “What’s All This Muntzing Stuff, Anyhow?” : – Electronic Design (1992): https://elektor.link/MuntzingStuff
+3971- [6] Documentary – Madman Muntz: https://youtu.be/deFlB2G0mH8
+--
+4975:use an Arduino’s serial interface to send it to your PC,
+4976-then upload it as a text file from there. However, their
+4977-platform is set up to ingest the data directly.
+4978-
+4979-Data — Food for AI
+4980-One tool is the Data Forwarder [2], a command-line                 
+--
+5047:                             for integration into your application. For Arduino, a
+5048-    Figure 4: SlateSafety    library is generated, while for other microcontrollers,    ML in Real Applications
+5049-      used Edge Impulse      you can generate a C++ file. Of course, the performance    Real applications are using this approach to embed ML
+5050-     to provide edge ML      of microcontrollers varies massively. To ensure the best   capability. SlateSafety’s BAND [6] integrates a range
+5051-physiological monitoring
+5052-     and improve BAND
+--
+6530:ble with an Arduino UNO, pictures in color          color graphics. Thus, IBM offered something
+6531-make higher demands. With a few tricks,             new and better for its PCs in 1987 with its VGA
+6532-however, you can convince an ESP32 or even          (Video Graphics Array) interface. Microcon-
+6533-an ATmega to produce color output. In princi-       trollers are also capable of generating these
+6534-ple, however, the picture quality with compos-      analog VGA signals to display a sharp and
+6535-ite video is mediocre. Mainly, sharpness is         colorful image. Some microcontrollers can         Figure 2: VGA socket on a PC (source: Dr. Thomas
+--
+6632:                        (LSB)                                                        (MSB)                                   ARDUINO UNO                                             SDA
+6633-
+6634-                         VA                    VB                      VC             VD                                                                                   AREF
+6635-                                                                                                                                                                                     GND
+6636-                                               4-bit Binary Output
+6637-
+--
+6764:Figure 7: Binary-weighted DAC with op-amp (source: https://elektor.link/                                       Figure 8: Wiring for VGA output on an Arduino UNO.
+6765-BinaryWeightedDAC).
+6766-
+6767-
+6768-
+6769-
+--
+6772:ated monitors are not too demanding in this                                         ATmega microcontrollers, so an Arduino UNO                                  that an Arduino UNO can provide. Since the
+6773-respect and would still synchronize cleanly                                         can be equipped with VGA graphics. With                                     color signals are generated by the GPIO pins,
+6774-even with larger deviations from 60 Hz.                                             four resistors and a 15-pin SUB-D connec-                                   we must be able to supply them with new
+6775:                                                                                    tor, we can get an Arduino UNO to display                                   values quickly enough.
+6776-VGA Signal Levels                                                                   120×60 pixels in four colors. The correspond-
+6777:According to the VGA specification, the                                             ing Arduino library is VGAX [1] and can be                                  The timing for signal generation is solved
+6778-voltage range of the analog RGB image                                               downloaded from the project’s GitHub page.                                  by interrupts in this case. A side effect of
+6779-signals is 0 V to 0.7 V, where 0.7 V corresponds                                                                                                                this is that interrupts of other peripherals
+6780:to the maximum brightness. The horizontal                                           If an Arduino UNO is wired as shown in                                      could possibly collide with those for signal
+6781-and vertical synchronization signals have TTL                                       Figure 8, it is even possible to output graph-                              generation. Timer1 and Timer2 generate the
+6782-levels (0 V and 5 V).
+6783-
+6784-Microcontrollers with operating voltages of
+6785-2.5 V to 5 V can output the signals for verti-
+--
+6801:tors (Figure 7).                                                                    Figure 9: VGA output on a screen connected to the Arduino UNO.
+6802-
+6803-
+6804-
+6805-
+6806-94 March & April 2023 www.elektormagazine.com
+--
+6811:The VGAXUA library [2] for the Arduino UNO
+6812:and Arduino Mega can output monochrome
+6813-images from 192×080 to 200×240 pixels. To
+6814-save computing time, the USART is used
+6815-here to generate the image. Each byte in the
+6816-(image) memory then corresponds to 8 pixels.
+6817-Older solutions for VGA output with AVR chips       Figure 10: ESP32’s I2S controller (source: Espressif — https://elektor.link/ESP32TechMan).
+--
+7120:                                                                                              Arduino framework is available on GitHub
+7121-                                                                                              [9]. But, the ESP32Lib library can do much
+7122-                                                                                              more than just VGA output. It also contains
+7123-                                                                                              functions for sprites [10] and a 3D renderer.
+7124-Figure 14: Pixel output with ESP32.                                                           Furthermore, the FabGL library [11] not only
+7125-
+--
+7654:run at exact intervals. For example, the delay() function in Arduino       cycle times). There is exactly one task per cycle time; if several activ-
+7655-is no longer sufficiently accurate in this case, since it only generates   ities with independent content are to be executed in the same cycle,
+7656-waiting times, but does not take into account the runtimes required        they are to be combined in the same task.
+7657-for processing, which are clearly noticeable with sampling times of
+7658-1 ms or even shorter.                                                      The cycle times are generated as follows:
+7659-
+--
+8738:
+     YDLIDAR OS30A                    Arduino Nano 33 BLE Sense Rev2
+8739-3D Depth Camera                  with Headers
+8740-
+8741-
+8742-
+8743-
+--
+8753:Arduino Student Kit              Home Appliance Hack-and-IoT
+8754-                                 Guidebook           +
+8755-                                                      FREE ESP8266
+8756-                                                         Board
+8757-
+8758-
 david@wa9ony-nuc8i7hvk:~/Documents/Microcontrollers/Elektor/Magazines/2023$ 
+    
+    
 </PRE>    
    
 Find how many search text Arduino are in the file 2303EL.pdf.    
