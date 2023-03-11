@@ -377,8 +377,8 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
     
 # Project 108: Arduino IDE MicroPython
 <p align="center">
-<img align="center" width="158" height="159" src="/Images/ArduinouPy.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-<img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+<img align="center" width="158" height="159" src="/Images/ArduinouPy.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+<img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
 <img align="center" width="189" height="193" src="/Images/MicroPythonIcon.png">    
 </p>
         
