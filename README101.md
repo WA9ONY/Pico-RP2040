@@ -714,6 +714,10 @@ Internet Archive is like a online library that you can borrow materials to read 
   + Search [Make Magazine, 4,426 results](https://archive.org/search?query=Make+Magazine&and%5B%5D=mediatype%3A%22texts%22)  
   + Search [Nuts and Volts, 131 results](https://archive.org/search?query=Nuts+and+Volts)  
 
+  + [Makezine, 78 results](https://archive.org/details/Makezine?&sort=-week&page=2)  
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
