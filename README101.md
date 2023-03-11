@@ -377,13 +377,12 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
     
 # Project 108: Arduino IDE MicroPython
 <p align="center">
-<img align="center" width="158" height="159" src="/Images/ArduinouPy.png">    
-<img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">    
+<img align="center" width="158" height="159" src="/Images/ArduinouPy.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+<img align="center" width="295" height="300" src="/Images/Micropython-logo.svgs50.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
 <img align="center" width="189" height="193" src="/Images/MicroPythonIcon.png">    
 </p>
         
 Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards the Arduino IDE and microcontroller board supports MicroPython.
-+ S. Romero [MicroPython GitHub](https://github.com/sebromero/micropython-intro)
 + [MicroPython with Arduino](https://docs.arduino.cc/micropython/)
 + Arduino boards supported
     + Nano RP2040 Connect Firmware
@@ -394,6 +393,7 @@ Arduino IDEs have been C/C++ based.  But now for a few selected Arduino boards t
 
 [Elektor](https://www.elektor.com/)
   + 2022 Dec, page 14: MicroPython Enters the World of Arduino [from Arduino](https://blog.arduino.cc/2022/12/11/arduino-has-guest-edited-a-special-edition-of-elektor-magazine-and-were-giving-away-the-digital-copy-for-only-e1-for-a-limited-time/)
+    + S. Romero [MicroPython GitHub](https://github.com/sebromero/micropython-intro)
     
 [Elektor TV](https://www.youtube.com/@ElektorTV)    
 + 2023-03-09 Unlock the Power of MicroPython on Your Arduino [YouTube](https://www.youtube.com/live/kP57-IJMQJs?feature=share)  
