@@ -1,0 +1,590 @@
+.
+└── Elektor
+    ├── Articles
+    │   ├── 10BASE-T Ethernet Bit-banged on a Raspberry Pi Pico _ Elektor Magazine.pdf
+    │   ├── CrashCourseIntoThe ArduinoWorld
+    │   │   ├── 10.png
+    │   │   ├── 11.png
+    │   │   ├── 12.png
+    │   │   └── 13.png
+    │   ├── RaspberryPiPicoMakesAn\012MSF-SDR.pdf
+    │   ├── Raspberry Pi Pico W-powered doorbell sends notifications to Telegram _ Elektor Magazine.pdf
+    │   └── The Ultimate Guide to using Arduino _ Elektor Magazine.pdf
+    ├── Books
+    │   ├── arduino-and-co-ebook.pdf
+    │   ├── Contents_Raspberry Pi Pico for Radio Amateurs.pdf
+    │   ├── kicad-6-like-a-pro-fundamentals-and-projects-ebook.pdf
+    │   ├── raspberry-pi-compilation_en_1.pdf
+    │   ├── raspberry-pi-for-radio-amateurs-ebook.pdf
+    │   ├── raspberry-pi-pico-essentials-ebook.pdf
+    │   ├── raspberry-pi-pico-w-ebook.pdf
+    │   ├── ultimate-arduino-mega-2560-hardware-manual-ebook.pdf
+    │   └── ultimate-arduino-uno-hardware-manual-ebook.pdf
+    └── Magazines
+        ├── 1974
+        │   └── 197412EL.pdf
+        ├── 1975
+        │   ├── 197502EL.pdf
+        │   ├── 197504EL.pdf
+        │   ├── 197506EL.pdf
+        │   ├── 197507EL.pdf
+        │   ├── 197509EL.pdf
+        │   ├── 197511EL.pdf
+        │   └── 197512EL.pdf
+        ├── 1976
+        │   ├── 197601EL.pdf
+        │   ├── 197602EL.pdf
+        │   ├── 197603EL.pdf
+        │   ├── 197604EL.pdf
+        │   ├── 197605EL.pdf
+        │   ├── 197606EL.pdf
+        │   ├── 197607EL.pdf
+        │   ├── 197609EL.pdf
+        │   ├── 197610EL.pdf
+        │   ├── 197611EL.pdf
+        │   └── 197612EL.pdf
+        ├── 1977
+        │   ├── 197701EL.pdf
+        │   ├── 197702EL.pdf
+        │   ├── 197703EL.pdf
+        │   ├── 197704EL.pdf
+        │   ├── 197705EL.pdf
+        │   ├── 197706EL.pdf
+        │   ├── 197707EL.pdf
+        │   ├── 197709EL.pdf
+        │   ├── 197710EL.pdf
+        │   ├── 197711EL.pdf
+        │   └── 197712EL.pdf
+        ├── 1978
+        │   ├── 197801EL.pdf
+        │   ├── 197802EL.pdf
+        │   ├── 197803EL.pdf
+        │   ├── 197804EL.pdf
+        │   ├── 197805EL.pdf
+        │   ├── 197806EL.pdf
+        │   ├── 197807EL.pdf
+        │   ├── 197809EL.pdf
+        │   ├── 197810EL.pdf
+        │   ├── 197811EL.pdf
+        │   └── 197812EL.pdf
+        ├── 1979
+        │   ├── 197901EL.pdf
+        │   ├── 197902EL.pdf
+        │   ├── 197903EL.pdf
+        │   ├── 197904EL.pdf
+        │   ├── 197905EL.pdf
+        │   ├── 197906EL.pdf
+        │   ├── 197907EL.pdf
+        │   ├── 197909EL.pdf
+        │   ├── 197910EL.pdf
+        │   ├── 197911EL.pdf
+        │   └── 197912EL.pdf
+        ├── 1980
+        │   ├── 198001EL.pdf
+        │   ├── 198002EL.pdf
+        │   ├── 198003EL.pdf
+        │   ├── 198004EL.pdf
+        │   ├── 198005EL.pdf
+        │   ├── 198006EL.pdf
+        │   ├── 198007EL.pdf
+        │   ├── 198009EL.pdf
+        │   ├── 198010EL.pdf
+        │   ├── 198011EL.pdf
+        │   └── 198012EL.pdf
+        ├── 1981
+        │   ├── 198101EL.pdf
+        │   ├── 198102EL.pdf
+        │   ├── 198103EL.pdf
+        │   ├── 198104EL.pdf
+        │   ├── 198105EL.pdf
+        │   ├── 198106EL.pdf
+        │   ├── 198107EL.pdf
+        │   ├── 198109EL.pdf
+        │   ├── 198110EL.pdf
+        │   ├── 198111EL.pdf
+        │   └── 198112EL.pdf
+        ├── 1982
+        │   ├── 198201EL.pdf
+        │   ├── 198202EL.pdf
+        │   ├── 198203EL.pdf
+        │   ├── 198204EL.pdf
+        │   ├── 198205EL.pdf
+        │   ├── 198206EL.pdf
+        │   ├── 198207EL.pdf
+        │   ├── 198209EL.pdf
+        │   ├── 198210EL.pdf
+        │   ├── 198211EL.pdf
+        │   └── 198212EL.pdf
+        ├── 1983
+        │   ├── 198301EL.pdf
+        │   ├── 198302EL.pdf
+        │   ├── 198303EL.pdf
+        │   ├── 198304EL.pdf
+        │   ├── 198305EL.pdf
+        │   ├── 198306EL.pdf
+        │   ├── 198307EL.pdf
+        │   ├── 198309EL.pdf
+        │   ├── 198310EL.pdf
+        │   ├── 198311EL.pdf
+        │   └── 198312EL.pdf
+        ├── 1984
+        │   ├── 198401EL.pdf
+        │   ├── 198402EL.pdf
+        │   ├── 198403EL.pdf
+        │   ├── 198404EL.pdf
+        │   ├── 198405EL.pdf
+        │   ├── 198406EL.pdf
+        │   ├── 198407EL.pdf
+        │   ├── 198409EL.pdf
+        │   ├── 198410EL.pdf
+        │   ├── 198411EL.pdf
+        │   └── 198412EL.pdf
+        ├── 1985
+        │   ├── 198501EL.pdf
+        │   ├── 198502EL.pdf
+        │   ├── 198503EL.pdf
+        │   ├── 198504EL.pdf
+        │   ├── 198505EL.pdf
+        │   ├── 198506EL.pdf
+        │   ├── 198507EL.pdf
+        │   ├── 198509EL.pdf
+        │   ├── 198510EL.pdf
+        │   ├── 198511EL.pdf
+        │   └── 198512EL.pdf
+        ├── 1986
+        │   ├── 198601EL.pdf
+        │   ├── 198602EL.pdf
+        │   ├── 198603EL.pdf
+        │   ├── 198604EL.pdf
+        │   ├── 198605EL.pdf
+        │   ├── 198606EL.pdf
+        │   ├── 198607EL.pdf
+        │   ├── 198609EL.pdf
+        │   ├── 198610EL.pdf
+        │   ├── 198611EL.pdf
+        │   └── 198612EL.pdf
+        ├── 1987
+        │   ├── 198701EL.pdf
+        │   ├── 198702EL.pdf
+        │   ├── 198703EL.pdf
+        │   ├── 198704EL.pdf
+        │   ├── 198705EL.pdf
+        │   ├── 198706EL.pdf
+        │   ├── 198707EL.pdf
+        │   ├── 198709EL.pdf
+        │   ├── 198710EL.pdf
+        │   ├── 198711EL.pdf
+        │   └── 198712EL.pdf
+        ├── 1988
+        │   ├── 198801EL.pdf
+        │   ├── 198802EL.pdf
+        │   ├── 198803EL.pdf
+        │   ├── 198804EL.pdf
+        │   ├── 198805EL.pdf
+        │   ├── 198806EL.pdf
+        │   ├── 198807EL.pdf
+        │   ├── 198809EL.pdf
+        │   ├── 198810EL.pdf
+        │   ├── 198811EL.pdf
+        │   └── 198812EL.pdf
+        ├── 1989
+        │   ├── 198901EL.pdf
+        │   ├── 198902EL.pdf
+        │   ├── 198903EL.pdf
+        │   ├── 198904EL.pdf
+        │   ├── 198905EL.pdf
+        │   ├── 198906EL.pdf
+        │   ├── 198907EL.pdf
+        │   ├── 198909EL.pdf
+        │   ├── 198910EL.pdf
+        │   ├── 198911EL.pdf
+        │   └── 198912EL.pdf
+        ├── 1990
+        │   ├── 199001EL.pdf
+        │   ├── 199002EL.pdf
+        │   ├── 199003EL.pdf
+        │   ├── 199004EL.pdf
+        │   ├── 199005EL.pdf
+        │   ├── 199006EL.pdf
+        │   ├── 199007EL.pdf
+        │   ├── 199009EL.pdf
+        │   ├── 199010EL.pdf
+        │   ├── 199011EL.pdf
+        │   └── 199012EL.pdf
+        ├── 1991
+        │   ├── 199101EL.pdf
+        │   ├── 199102EL.pdf
+        │   ├── 199103EL.pdf
+        │   ├── 199104EL.pdf
+        │   ├── 199105EL.pdf
+        │   ├── 199106EL.pdf
+        │   ├── 199107EL.pdf
+        │   ├── 199109EL.pdf
+        │   ├── 199110EL.pdf
+        │   ├── 199111EL.pdf
+        │   └── 199112EL.pdf
+        ├── 1992
+        │   ├── 199201EL.pdf
+        │   ├── 199202EL.pdf
+        │   ├── 199203EL.pdf
+        │   ├── 199204EL.pdf
+        │   ├── 199205EL.pdf
+        │   ├── 199206EL.pdf
+        │   ├── 199207EL.pdf
+        │   ├── 199209EL.pdf
+        │   ├── 199210EL.pdf
+        │   ├── 199211EL.pdf
+        │   └── 199212EL.pdf
+        ├── 1993
+        │   ├── 199301EL.pdf
+        │   ├── 199302EL.pdf
+        │   ├── 199303EL.pdf
+        │   ├── 199304EL.pdf
+        │   ├── 199305EL.pdf
+        │   ├── 199306EL.pdf
+        │   ├── 199307EL.pdf
+        │   ├── 199309EL.pdf
+        │   ├── 199310EL.pdf
+        │   ├── 199311EL.pdf
+        │   └── 199312EL.pdf
+        ├── 1994
+        │   ├── 199401EL.pdf
+        │   ├── 199402EL.pdf
+        │   ├── 199403EL.pdf
+        │   ├── 199404EL.pdf
+        │   ├── 199405EL.pdf
+        │   ├── 199406EL.pdf
+        │   ├── 199407EL.pdf
+        │   ├── 199409EL.pdf
+        │   ├── 199410EL.pdf
+        │   ├── 199411EL.pdf
+        │   └── 199412EL.pdf
+        ├── 1995
+        │   ├── 199501EL.pdf
+        │   ├── 199502EL.pdf
+        │   ├── 199503EL.pdf
+        │   ├── 199504EL.pdf
+        │   ├── 199505EL.pdf
+        │   ├── 199506EL.pdf
+        │   ├── 199507EL.pdf
+        │   ├── 199509EL.pdf
+        │   ├── 199510EL.pdf
+        │   ├── 199511EL.pdf
+        │   └── 199512EL.pdf
+        ├── 1996
+        │   ├── 199601EL.pdf
+        │   ├── 199602EL.pdf
+        │   ├── 199603EL.pdf
+        │   ├── 199604EL.pdf
+        │   ├── 199605EL.pdf
+        │   ├── 199606EL.pdf
+        │   ├── 199607EL.pdf
+        │   ├── 199609EL.pdf
+        │   ├── 199610EL.pdf
+        │   ├── 199611EL.pdf
+        │   └── 199612EL.pdf
+        ├── 1997
+        │   ├── 199701EL.pdf
+        │   ├── 199702EL.pdf
+        │   ├── 199703EL.pdf
+        │   ├── 199704EL.pdf
+        │   ├── 199705EL.pdf
+        │   ├── 199706EL.pdf
+        │   ├── 199707EL.pdf
+        │   ├── 199709EL.pdf
+        │   ├── 199710EL.pdf
+        │   ├── 199711EL.pdf
+        │   └── 199712EL.pdf
+        ├── 1998
+        │   ├── 199801EL.pdf
+        │   ├── 199802EL.pdf
+        │   ├── 199803EL.pdf
+        │   ├── 199804EL.pdf
+        │   ├── 199805EL.pdf
+        │   ├── 199806EL.pdf
+        │   ├── 199807EL.pdf
+        │   ├── 199809EL.pdf
+        │   ├── 199810EL.pdf
+        │   ├── 199811EL.pdf
+        │   └── 199812EL.pdf
+        ├── 1999
+        │   ├── 199901EL.pdf
+        │   ├── 199902EL.pdf
+        │   ├── 199903EL.pdf
+        │   ├── 199904EL.pdf
+        │   ├── 199905EL.pdf
+        │   ├── 199906EL.pdf
+        │   ├── 199907EL.pdf
+        │   ├── 199909EL.pdf
+        │   ├── 199910EL.pdf
+        │   ├── 199911EL.pdf
+        │   └── 199912EL.pdf
+        ├── 2000
+        │   ├── 200001EL.pdf
+        │   ├── 200002EL.pdf
+        │   ├── 200003EL.pdf
+        │   ├── 200004EL.pdf
+        │   ├── 200005EL.pdf
+        │   ├── 200006EL.pdf
+        │   ├── 200007EL.pdf
+        │   ├── 200010EL.pdf
+        │   ├── 200011EL.pdf
+        │   └── 200012EL.pdf
+        ├── 2001
+        │   ├── 200101EL.pdf
+        │   ├── 200102EL.pdf
+        │   ├── 200103EL.pdf
+        │   ├── 200104EL.pdf
+        │   ├── 200105EL.pdf
+        │   ├── 200106EL.pdf
+        │   ├── 200107EL.pdf
+        │   ├── 200109EL.pdf
+        │   ├── 200110EL.pdf
+        │   ├── 200111EL.pdf
+        │   └── 200112EL.pdf
+        ├── 2002
+        │   ├── 200201EL.pdf
+        │   ├── 200202EL.pdf
+        │   ├── 200203EL.pdf
+        │   ├── 200204EL.pdf
+        │   ├── 200205EL.pdf
+        │   ├── 200206EL.pdf
+        │   ├── 200207EL.pdf
+        │   ├── 200209EL.pdf
+        │   ├── 200210EL.pdf
+        │   ├── 200211EL.pdf
+        │   └── 200212EL.pdf
+        ├── 2003
+        │   ├── 200301EL.pdf
+        │   ├── 200302EL.pdf
+        │   ├── 200303EL.pdf
+        │   ├── 200304EL.pdf
+        │   ├── 200305EL.pdf
+        │   ├── 200306EL.pdf
+        │   ├── 200307EL.pdf
+        │   ├── 200309EL.pdf
+        │   ├── 200310EL.pdf
+        │   ├── 200311EL.pdf
+        │   └── 200312EL.pdf
+        ├── 2004
+        │   ├── 200401EL.pdf
+        │   ├── 200402EL.pdf
+        │   ├── 200403EL.pdf
+        │   ├── 200404EL.pdf
+        │   ├── 200405EL.pdf
+        │   ├── 200406EL.pdf
+        │   ├── 200407EL.pdf
+        │   ├── 200409EL.pdf
+        │   ├── 200410EL.pdf
+        │   ├── 200411EL.pdf
+        │   └── 200412EL.pdf
+        ├── 2005
+        │   ├── 200501EL.pdf
+        │   ├── 200502EL.pdf
+        │   ├── 200503EL.pdf
+        │   ├── 200504EL.pdf
+        │   ├── 200505EL.pdf
+        │   ├── 200506EL.pdf
+        │   ├── 200507EL.pdf
+        │   ├── 200509EL.pdf
+        │   ├── 200510EL.pdf
+        │   ├── 200511EL.pdf
+        │   └── 200512EL.pdf
+        ├── 2006
+        │   ├── 200601EL.pdf
+        │   ├── 200602EL.pdf
+        │   ├── 200603EL.pdf
+        │   ├── 200604EL.pdf
+        │   ├── 200605EL.pdf
+        │   ├── 200606EL.pdf
+        │   ├── 200607EL.pdf
+        │   ├── 200609EL.pdf
+        │   ├── 200610EL.pdf
+        │   ├── 200611EL.pdf
+        │   └── 200612EL.pdf
+        ├── 2007
+        │   ├── 200701EL.pdf
+        │   ├── 200702EL.pdf
+        │   ├── 200703EL.pdf
+        │   ├── 200704EL.pdf
+        │   ├── 200705EL.pdf
+        │   ├── 200706EL.pdf
+        │   ├── 200707EL.pdf
+        │   ├── 200709EL.pdf
+        │   ├── 200710EL.pdf
+        │   ├── 200711EL.pdf
+        │   └── 200712EL.pdf
+        ├── 2008
+        │   ├── 200801EL.pdf
+        │   ├── 200802EL.pdf
+        │   ├── 200803EL.pdf
+        │   ├── 200804EL.pdf
+        │   ├── 200805EL.pdf
+        │   ├── 200806EL.pdf
+        │   ├── 200807EL.pdf
+        │   ├── 200809EL.pdf
+        │   ├── 200810EL.pdf
+        │   ├── 200811EL.pdf
+        │   └── 200812EL.pdf
+        ├── 2009
+        │   ├── 200901EL.pdf
+        │   ├── 200902EL.pdf
+        │   ├── 200903EL.pdf
+        │   ├── 200904EL.pdf
+        │   ├── 200905EL.pdf
+        │   ├── 200906EL.pdf
+        │   ├── 200907EL.pdf
+        │   ├── 200909EL.pdf
+        │   ├── 200910EL.pdf
+        │   ├── 200911EL.pdf
+        │   └── 200912EL.pdf
+        ├── 2010
+        │   ├── 201001EL.pdf
+        │   ├── 201002EL.pdf
+        │   ├── 201003EL.pdf
+        │   ├── 201004EL.pdf
+        │   ├── 201005EL.pdf
+        │   ├── 201006EL.pdf
+        │   ├── 201007EL.pdf
+        │   ├── 201009EL.pdf
+        │   ├── 201010EL.pdf
+        │   ├── 201011EL.pdf
+        │   └── 201012EL.pdf
+        ├── 2011
+        │   ├── 201101EL.pdf
+        │   ├── 201102EL.pdf
+        │   ├── 201103EL.pdf
+        │   ├── 201104EL.pdf
+        │   ├── 201105EL.pdf
+        │   ├── 201106EL.pdf
+        │   ├── 201107EL.pdf
+        │   ├── 201109EL.pdf
+        │   ├── 201110EL.pdf
+        │   ├── 201111EL.pdf
+        │   └── 201112EL.pdf
+        ├── 2012
+        │   ├── 201201EL.pdf
+        │   ├── 201202EL.pdf
+        │   ├── 201203EL.pdf
+        │   ├── 201204EL.pdf
+        │   ├── 201205EL.pdf
+        │   ├── 201206EL.pdf
+        │   ├── 201207EL.pdf
+        │   ├── 201209EL.pdf
+        │   ├── 201210EL.pdf
+        │   ├── 201211EL.pdf
+        │   └── 201212EL.pdf
+        ├── 2013
+        │   ├── 201301EL.pdf
+        │   ├── 201303EL.pdf
+        │   ├── 201304EL.pdf
+        │   ├── 201305EL.pdf
+        │   ├── 201306EL.pdf
+        │   ├── 201307EL.pdf
+        │   ├── 201309EL.pdf
+        │   ├── 201310EL.pdf
+        │   ├── 201311EL.pdf
+        │   └── 201312EL.pdf
+        ├── 2014
+        │   ├── 201401EL.pdf
+        │   ├── 201403EL.pdf
+        │   ├── 201404EL.pdf
+        │   ├── 201405EL.pdf
+        │   ├── 201406EL.pdf
+        │   ├── 201407EL.pdf
+        │   ├── 201409EL.pdf
+        │   ├── 201410EL.pdf
+        │   ├── 201411EL.pdf
+        │   └── 201412EL.pdf
+        ├── 2015
+        │   ├── 201501EL.pdf
+        │   ├── 201503EL.pdf
+        │   ├── 201505EL.pdf
+        │   ├── 201507EL.pdf
+        │   ├── 201509EL.pdf
+        │   └── 201511EL.pdf
+        ├── 2016
+        │   ├── 201601EL.pdf
+        │   ├── 201602BE.pdf
+        │   ├── 201603EL.pdf
+        │   ├── 201604BE.pdf
+        │   ├── 201605EL.pdf
+        │   ├── 201606BE.pdf
+        │   ├── 201607EL.pdf
+        │   ├── 201609EL.pdf
+        │   ├── 201611BE.pdf
+        │   └── 201611EL.pdf
+        ├── 2017
+        │   ├── 201701BE.pdf
+        │   ├── 201701EL.pdf
+        │   ├── 201702BE.pdf
+        │   ├── 201703BE.pdf
+        │   ├── 201703EL.pdf
+        │   ├── 201704BE.pdf
+        │   ├── 201705BE.pdf
+        │   ├── 201705EL.pdf
+        │   ├── 201706BE.pdf
+        │   ├── 201707EL.pdf
+        │   ├── 201709EL.pdf
+        │   └── 201711EL.pdf
+        ├── 2018
+        │   ├── 201801BE.pdf
+        │   ├── 201801EL.pdf
+        │   ├── 201802BE.pdf
+        │   ├── 201803BE.pdf
+        │   ├── 201803EL.pdf
+        │   ├── 201804BE.pdf
+        │   ├── 201805BE.pdf
+        │   ├── 201805EL.pdf
+        │   ├── 201806IN.pdf
+        │   ├── 201807EL.pdf
+        │   ├── 201809EL.pdf
+        │   └── 201811EL.pdf
+        ├── 2019
+        │   ├── 201901EL.pdf
+        │   ├── 201901IN.pdf
+        │   ├── 201902IN.pdf
+        │   ├── 201903EL.pdf
+        │   ├── 201903IN.pdf
+        │   ├── 201905EL.pdf
+        │   ├── 201907EL.pdf
+        │   ├── 201909EL.pdf
+        │   └── 201911EL.pdf
+        ├── 2020
+        │   ├── 202001EL.pdf
+        │   ├── 202001IN.pdf
+        │   ├── 202003EL.pdf
+        │   ├── 202003IN.pdf
+        │   ├── 202004IN.pdf
+        │   ├── 202005EL.pdf
+        │   ├── 202005IN.pdf
+        │   ├── 202006IN.pdf
+        │   ├── 202007EL.pdf
+        │   ├── 202009EL.pdf
+        │   ├── 202011EL.pdf
+        │   └── 202062IN.pdf
+        ├── 2021
+        │   ├── 202101EL.pdf
+        │   ├── 202102IN.pdf
+        │   ├── 202103EL.pdf
+        │   ├── 202103IN.pdf
+        │   ├── 202105EL.pdf
+        │   ├── 202107EL.pdf
+        │   ├── 202109EL.pdf
+        │   ├── 202111EL.pdf
+        │   └── 202111IN.pdf
+        ├── 2022
+        │   ├── 202201EL.pdf
+        │   ├── 202203EL.pdf
+        │   ├── 202205EL.pdf
+        │   ├── 202207EL.pdf
+        │   ├── 202208EL.pdf
+        │   ├── 202209EL.pdf
+        │   ├── 202211EL.pdf
+        │   ├── 202212DC.pdf
+        │   └── 202212EL.pdf
+        └── 2023
+            ├── 202301EL.pdf
+            └── 202303EL.pdf
+
+55 directories, 532 files
