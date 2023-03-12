@@ -436,11 +436,12 @@ YouTube
 + 10% discount at [Elektor store](https://www.elektor.com/)
   + Great selection of [books](https://www.elektor.com/books) in PDF format
     
-Other hoppy magazines in print today.
+Other hobby magazines in print today.
   + [Make](https://en.wikipedia.org/wiki/Make_(magazine))
   + [Nuts and Volts](https://en.wikipedia.org/wiki/Nuts_and_Volts)
     
-
+Local Elektor Libary
+  + Linux CLI tree command: [ElektorTree20230312.txt](LinuxCLI/ElektorTree20230312.txt)  
     
 <A NAME="P111"></A>
 <HR>
