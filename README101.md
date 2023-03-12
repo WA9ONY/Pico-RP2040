@@ -441,7 +441,9 @@ Other hobby magazines in print today.
   + [Nuts and Volts](https://en.wikipedia.org/wiki/Nuts_and_Volts)
     
 Local Elektor Libary
-  + Linux CLI tree command: [ElektorTree20230312.txt](LinuxCLI/ElektorTree20230312.txt)  
+  + 532 PDF files: articles, books & magazines from 1974 to today.
+    + Linux CLI tree command: [ElektorTree20230312.txt](LinuxCLI/ElektorTree20230312.txt)  
+
     
 <A NAME="P111"></A>
 <HR>
