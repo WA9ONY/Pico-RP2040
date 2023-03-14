@@ -370,6 +370,8 @@ What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.ra
 + 2023-04-20 [Mastering Communication in Electronic Systems: An In-Depth Look at Serial, I²C, and SPI Protocols]()
 + 2023-06-15 [Maximize Your Visual Output with the Ensemble Graphics Toolkit for Linux]()    
 
+[Elektor TV - Industry](https://www.youtube.com/@ElektorIndustry/featured)    
+
  
 <A NAME="P108"></A>
 <HR>
