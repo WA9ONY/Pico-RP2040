@@ -431,6 +431,13 @@ YouTube
 
  In the 1960s [Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics) was a great electronic hobby magazine.  It went out of print in the 1980s.  [Elektor](https://en.wikipedia.org/wiki/Elektor) is a electronic hobby magazine from Europe that is a great replacement for Popular Electronics. 
     
+ Elektor is a leading specialist publisher in the field of electronics.
+    
+Founded in early 1961, Elektor has been providing the electronics community with quality books, magazines, and electronic products for over six decades. Whether you're a business or a professional, you'll find a wide range of topics covered in Elektor's magazines and books, including embedded systems, circuit design, microcontroller programming, and electronic product reviews.
+In addition to its informative printed products, Elektor also offers a range of electronic kits, development boards, and tools to help you bring your projects to life.    
+    
+    
+    
 [Elektor Digital Green Magazine Subscription](https://www.elektormagazine.com/account/subscription/add?utm_source=ENShop&utm_medium=Link&utm_campaign=Become%20Member%20Button)
 + Elektor magazine download PDF
 + Access to the archive issues back to 1975 in PDF
@@ -696,7 +703,7 @@ Vendor newsletters
     
 <A NAME="P113"></A>
 <HR>
-<P align="center"><A HREF="#P112">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P112">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P114">--&gt;</A></P>  
     
 # Project 113: Internet Archive
 <p align="center">
@@ -721,13 +728,24 @@ Internet Archive is like a online library that you can borrow materials to read 
 
   + [Makezine, 78 results](https://archive.org/details/Makezine?&sort=-week&page=2)  
 
+
+     
+    
+<A NAME="P114"></A>
+<HR>
+<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 114: Internet Archive
+   
+ 
+[Digi-Key Electronics](https://www.digikey.com/), headquartered in Thief River Falls, Minnesota, USA, is recognized as both the leader and innovator in the high service distribution of electronic components and automation products worldwide. Digi-Key provides more than 10.8 million components from over 2,300 name-brand manufacturers with an industry-leading amount of product in stock and available for immediate shipment. Beyond the products that drive technology innovation, Digi-Key also supports design engineers and procurement professionals with a variety of digital solutions to make their jobs more efficient.    
     
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
