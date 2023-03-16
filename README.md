@@ -1053,7 +1053,12 @@ Goals
 + Create GitHub account
 + Create RP2040 and Arduino repo. 
 + Use GitHub web interface to create the README.md file.
-    
+ 
+ 
+[GitHub](https://github.com/) is a global home for all developers, GitHub is the complete developer platform to build, scale, and deliver secure software. Over 100 million people, including developers from 90 of the Fortune 100 companies, use GitHub to build amazing things together across 330+ million repositories. With all the collaborative features of GitHub, it’s never been easier for individuals and teams to write faster, better code.
+
+Embedded World 2023 session: DevOps with arm Virtual Hardware enabled GitHub Actions by Clay Nelson
+ 
 GitHub is a great way to document and share RP2040 and Arduino projects.
 + The GitHub home READ.md file provides a place to documenting the projects.
 + The GitHub provides free file storage ([repository](https://en.wikipedia.org/wiki/Repository_(version_control))) and version change control.
