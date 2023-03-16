@@ -728,24 +728,30 @@ Internet Archive is like a online library that you can borrow materials to read 
 
   + [Makezine, 78 results](https://archive.org/details/Makezine?&sort=-week&page=2)  
 
-
-     
-    
+  
 <A NAME="P114"></A>
 <HR>
-<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
     
-# Project 114: Internet Archive
+# Project 114: Digi-Key Electronics
    
- 
 [Digi-Key Electronics](https://www.digikey.com/), headquartered in Thief River Falls, Minnesota, USA, is recognized as both the leader and innovator in the high service distribution of electronic components and automation products worldwide. Digi-Key provides more than 10.8 million components from over 2,300 name-brand manufacturers with an industry-leading amount of product in stock and available for immediate shipment. Beyond the products that drive technology innovation, Digi-Key also supports design engineers and procurement professionals with a variety of digital solutions to make their jobs more efficient.    
     
+  
+<A NAME="P115"></A>
+<HR>
+<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 115: tinyML Foundation
+   
+Tiny machine learning is broadly defined as a fast growing field of machine learning technologies and applications including hardware, algorithms and software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below, and hence enabling a variety of always-on use-cases and targeting battery operated devices.
+
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
