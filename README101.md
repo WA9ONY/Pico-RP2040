@@ -766,7 +766,7 @@ YouTube
     
 <A NAME="P117"></A>
 <HR>
-<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P118">--&gt;</A></P>  
     
 # Project 117: ML (Machine Learning) & tinyML
    
@@ -779,15 +779,45 @@ YouTube
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)   
 
+    
+<A NAME="P118"></A>
+<HR>
+<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 118: Khan Academy
 
+Khan Academy privides free online courses.
+    
+In the future there will be [Khanmigo]()https://www.khanacademy.org/khan-labs#khanmigo, your AI guide.    
+     
+Khan Academy
+  + [Electrical engineering](https://www.khanacademy.org/science/electrical-engineering)
+  + [Computing](https://www.khanacademy.org/computing)
+
+Wikipedia    
+  + [Khan Academy](https://en.wikipedia.org/wiki/Khan_Academy)
+    
+ 
 
     
+<A NAME="P118"></A>
+<HR>
+<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 118: OCW: MIT Open Course Ware
+
+    
+OCW
+  + [Python search list](https://ocw.mit.edu/search/?q=Python)
+  + [C++ search list](https://ocw.mit.edu/search/?q=C%2B%2B)
+  + [AI search list](https://ocw.mit.edu/search/?q=AI)
+  + [Machine Learning search list](https://ocw.mit.edu/search/?q=Machine%20Learning)
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P117">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P118">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
