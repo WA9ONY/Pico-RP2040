@@ -775,8 +775,7 @@ Wikipedia
   + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
   + [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
 
-YouTube
-  + ExplainingComputers Artificial Intelligence 8 videos [playlist](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLbeSRSsN1_Mqc7go0x7CTn)   
+YouTube  
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)   
 
