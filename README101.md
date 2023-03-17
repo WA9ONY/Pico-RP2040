@@ -740,18 +740,55 @@ Internet Archive is like a online library that you can borrow materials to read 
   
 <A NAME="P115"></A>
 <HR>
-<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
     
 # Project 115: tinyML Foundation
    
 Tiny machine learning is broadly defined as a fast growing field of machine learning technologies and applications including hardware, algorithms and software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below, and hence enabling a variety of always-on use-cases and targeting battery operated devices.
 
     
+  
+<A NAME="P116"></A>
+<HR>
+<P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P117">--&gt;</A></P>  
+    
+# Project 116: AI: Artificial Intelligence
+   
+Wikipedia
+  + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+  + [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
+  + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+  + [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
+
+YouTube
+  + ExplainingComputers Artificial Intelligence 8 videos [playlist](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLbeSRSsN1_Mqc7go0x7CTn)   
+
+    
+<A NAME="P117"></A>
+<HR>
+<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 117: ML (Machine Learning) & tinyML
+   
+Wikipedia
+  + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+  + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+  + [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
+
+YouTube
+  + ExplainingComputers Artificial Intelligence 8 videos [playlist](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLbeSRSsN1_Mqc7go0x7CTn)   
+  + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
+  + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)   
+
+
+
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P117">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
