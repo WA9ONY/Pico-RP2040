@@ -796,8 +796,6 @@ Khan Academy
 
 Wikipedia    
   + [Khan Academy](https://en.wikipedia.org/wiki/Khan_Academy)
-    
- 
 
     
 <A NAME="P118"></A>
@@ -807,11 +805,18 @@ Wikipedia
 # Project 118: OCW: MIT Open Course Ware
 
     
-OCW
+OCW Programming Courses
   + [Python search list](https://ocw.mit.edu/search/?q=Python)
   + [C++ search list](https://ocw.mit.edu/search/?q=C%2B%2B)
+OCW AI Courses
   + [AI search list](https://ocw.mit.edu/search/?q=AI)
   + [Machine Learning search list](https://ocw.mit.edu/search/?q=Machine%20Learning)
+OCW Electronics Courses
+  + [Electronics search list](https://ocw.mit.edu/search/?q=electronics)    
+  + [Signals search list](https://ocw.mit.edu/search/?q=signals)   
+    
+    
+    
     
     
 <A NAME="FUTURE"></A>
