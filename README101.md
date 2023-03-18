@@ -805,6 +805,7 @@ Wikipedia
     
 # Project 119: OCW: MIT Open Course Ware
 
+MIT OCW has many courese online.
     
 OCW Programming Courses
   + [Python search list](https://ocw.mit.edu/search/?q=Python)
@@ -812,10 +813,11 @@ OCW Programming Courses
 OCW AI Courses
   + [AI search list](https://ocw.mit.edu/search/?q=AI)
   + [Machine Learning search list](https://ocw.mit.edu/search/?q=Machine%20Learning)
+  + [Artificial neural network search list](https://ocw.mit.edu/search/?q=Artificial%20neural%20network)
 OCW Electronics Courses
   + [Electronics search list](https://ocw.mit.edu/search/?q=electronics)    
   + [Signals search list](https://ocw.mit.edu/search/?q=signals)   
-    
+  + [Transistor search list](https://ocw.mit.edu/search/?q=Transistor)    
     
     
     
