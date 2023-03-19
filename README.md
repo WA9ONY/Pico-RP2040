@@ -165,6 +165,10 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 115: <A HREF="README101.md#P115">tinyML Foundation</A>
 + Project 116: <A HREF="README101.md#P116">AI: Artificial Intelligence/A>
 + Project 117: <A HREF="README101.md#P117">ML (Machine Learning) & tinyML</A>
++ Project 118: <A HREF="README101.md#P118">Khan Academy</A>
++ Project 119: <A HREF="README101.md#P119">OCW: MIT Open Course Ware</A>
++ Project 120: <A HREF="README101.md#P120">TensorFlow</A>
++ Project 121: <A HREF="README101.md#P121">Microcontrollers Machine Learning</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
