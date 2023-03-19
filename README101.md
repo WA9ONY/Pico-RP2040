@@ -784,7 +784,8 @@ Wikipedia
 YouTube  
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
-  + Machine learning [Uwe Aickelin](https://youtu.be/qDbpYUbf3e0) 
+  + Machine learning [Uwe Aickelin](https://youtu.be/qDbpYUbf3e0)
+  + Paul G. Allen School [machine lists](https://www.youtube.com/@uwcse/search?query=machine)
 
 Internet Archive
   + Machine learning [search](https://archive.org/search?query=Machine+Learning)
