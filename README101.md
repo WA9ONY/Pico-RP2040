@@ -761,7 +761,9 @@ Wikipedia
   + [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
   + [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network)
   + [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
+     + YouTube [Tensorflow tutorial for beginners list](tensorflow tutorial for beginners)
   + [Google Colab](https://en.wikipedia.org/wiki/Project_Jupyter#Industry_adoption)
+  + [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
 
 YouTube
   + ExplainingComputers Artificial Intelligence 8 videos [playlist](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLbeSRSsN1_Mqc7go0x7CTn)   
