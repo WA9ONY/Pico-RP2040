@@ -767,7 +767,36 @@ Wikipedia
   + [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
 
 YouTube
-  + ExplainingComputers Artificial Intelligence 8 videos [playlist](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLbeSRSsN1_Mqc7go0x7CTn)   
+  + ExplainingComputers Artificial Intelligence 8 videos [playlist](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLbeSRSsN1_Mqc7go0x7CTn)
+    + Alan Turing test
+    + Three ways to create AI
+      + Rules-baseed AI
+      + Heuristics & evolutionary learning AI
+      + Artificial neural networks (ANNs)
+        + Establish patterns of connections from sampled data
+        + Network of artificial neurons (varables in the computer) 
+        + Deep learning has hidden layers of neurons.
+        + Requires parrallel processing.
+          + Using GPUs
+    + Alphabet DeepMind is ANN-based.
+    + IBM Watson is ANN-based.
+    + Cloud based AI services
+      + Amazon
+      + Google
+        + TPU: Tensor Processing Units
+        + TensorFlow: opwn-source machine learning framework
+      + Microsoft
+      + IBM
+    + Jetson Nano:
+    + DNN: Deep Neural Network
+    + Training phase
+    + Alexa AI on Raspberry Pi
+      + Internet connection
+      + USB microphone
+      + Speaker
+      + githup.con/alexa
+    
+      
 
     
 <A NAME="P117"></A>
