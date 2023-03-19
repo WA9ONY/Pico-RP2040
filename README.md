@@ -572,7 +572,8 @@ Sign up for a account and you can borrow books.
 ## [Make](https://makezine.com/) magazine
 + Volumn 83 contains the 2022 annual Boards Guide (79 boards) on microcontrollers and SBCs. 
 + Back issues are available with a digital subscription.
-
++ Make maganizes are [online](https://archive.org/details/Makezine)
+  + Register and have access to borrow the issue you want.
   
 <A NAME="P4"></A>
 <HR>
