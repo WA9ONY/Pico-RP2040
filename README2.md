@@ -714,7 +714,7 @@ Anateur radio operators on the net with microcontroller projects.
 # Project 51: Learn C++ with Arduino Web Editor & Board 
 
 <p align="center">
-<img width="160" height="320" src="/Images/Ham160.png">  
+<img width="159" height="57" src="/Images/ArduinoWebEditorIcon.png">  
 </p>
 
 All three Arduino IDEs are based on C++.  Learning C++ is done by using the Arduino Web Editor, a Arduino board/clone and C++ training materials (videos, articles, books, etc.
