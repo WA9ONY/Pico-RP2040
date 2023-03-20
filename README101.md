@@ -734,9 +734,15 @@ Internet Archive is like a online library that you can borrow materials to read 
 <P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
     
 # Project 114: Digi-Key Electronics
+<p align="center">
+<img align="center" width="512" height="284" src="/Images/Dig-KeyIcon.png">        
+</p>
    
 [Digi-Key Electronics](https://www.digikey.com/), headquartered in Thief River Falls, Minnesota, USA, is recognized as both the leader and innovator in the high service distribution of electronic components and automation products worldwide. Digi-Key provides more than 10.8 million components from over 2,300 name-brand manufacturers with an industry-leading amount of product in stock and available for immediate shipment. Beyond the products that drive technology innovation, Digi-Key also supports design engineers and procurement professionals with a variety of digital solutions to make their jobs more efficient.    
-    
+
+Digi-Key Electronics
+  + Website [Digi-Key Electronics](https://www.digikey.com/)
+  + YouTube [channel](https://www.youtube.com/@digikey)
   
 <A NAME="P115"></A>
 <HR>
