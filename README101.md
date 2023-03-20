@@ -744,7 +744,7 @@ Internet Archive is like a online library that you can borrow materials to read 
     
 # Project 115: tinyML Foundation
 <p align="center">
-<img align="center" width="202" height="209" src="/Images/tinyMLicon.png">        
+<img align="center" width="202" height="209" src="/Images/tinyMLicon.svg">        
 </p>
 
 tinyML Foundation
