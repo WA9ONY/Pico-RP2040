@@ -850,17 +850,21 @@ Internet Archive
 <P align="center"><A HREF="#P117">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P119">--&gt;</A></P>  
     
 # Project 118: Khan Academy
+<p align="center">
+<img align="center" width="910" height="148" src="/Images/Khan_Academy_logo.svg">        
+</p>
 
 Khan Academy privides free online courses.
     
-In the future there will be [Khanmigo]()https://www.khanacademy.org/khan-labs#khanmigo, your AI guide.    
+In the future there will be [Khanmigo](https://www.khanacademy.org/khan-labs#khanmigo), your AI guide.    
      
-Khan Academy
+Khan Academy Classes of Interst
   + [Electrical engineering](https://www.khanacademy.org/science/electrical-engineering)
   + [Computing](https://www.khanacademy.org/computing)
 
-Wikipedia    
-  + [Khan Academy](https://en.wikipedia.org/wiki/Khan_Academy)
+Khan Academy
+  + [Wikipedia](https://en.wikipedia.org/wiki/Khan_Academy)    
+  + YouTube [channel](https://www.youtube.com/@khanacademy)
 
     
 <A NAME="P119"></A>
