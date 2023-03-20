@@ -753,6 +753,11 @@ Tiny machine learning is broadly defined as a fast growing field of machine lear
 <P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P117">--&gt;</A></P>  
     
 # Project 116: AI: Artificial Intelligence
+<p align="center">
+<img align="center" width="764" height="510" src="/Images/AIimage.png">        
+</p>
+    
+Image credit: [Controversy erupts over prize awarded to AI-generated art](https://www.aljazeera.com/news/2022/9/4/controversy-erupts-over-prize-awarded-to-ai-generated-piece)
    
 Wikipedia
   + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
@@ -796,8 +801,6 @@ YouTube
       + Speaker
       + githup.con/alexa
     
-      
-
     
 <A NAME="P117"></A>
 <HR>
@@ -807,7 +810,9 @@ YouTube
 <p align="center">
 <img align="center" width="848" height="563" src="/Images/MLchart.png">        
 </p>
-   
+    
+Image credit: [100 Days Of ML](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)
+    
 Wikipedia
   + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
   + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
@@ -815,7 +820,7 @@ Wikipedia
     
 Courses  
   + Google machine learning crash course  [YouTube list](https://www.youtube.com/results?search_query=google+machine+learning+crash+course+)   
-  + 100 Days Of M  [YouTube playlist](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)   
+  + 100 Days Of ML  [YouTube playlist](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)   
 
 YouTube  
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
