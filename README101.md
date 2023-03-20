@@ -743,7 +743,14 @@ Internet Archive is like a online library that you can borrow materials to read 
 <P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
     
 # Project 115: tinyML Foundation
-   
+<p align="center">
+<img align="center" width="202" height="209" src="/Images/tinyMLicon.png">        
+</p>
+
+tinyML Foundation
+  + [Website](https://www.tinyml.org/) 
+  + [YouTube](https://www.youtube.com/@tinyML)  
+    
 Tiny machine learning is broadly defined as a fast growing field of machine learning technologies and applications including hardware, algorithms and software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below, and hence enabling a variety of always-on use-cases and targeting battery operated devices.
 
     
