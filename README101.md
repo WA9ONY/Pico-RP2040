@@ -804,6 +804,9 @@ YouTube
 <P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P118">--&gt;</A></P>  
     
 # Project 117: ML (Machine Learning) & tinyML
+<p align="center">
+<img align="center" width="848" height="563" src="/Images/MLchart.png">        
+</p>
    
 Wikipedia
   + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
@@ -812,6 +815,7 @@ Wikipedia
     
 Courses  
   + Google machine learning crash course  [YouTube list](https://www.youtube.com/results?search_query=google+machine+learning+crash+course+)   
+  + 100 Days Of M  [YouTube playlist](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)   
 
 YouTube  
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
