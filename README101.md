@@ -810,6 +810,9 @@ Wikipedia
   + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
   + [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
     
+Courses  
+  + Google machine learning crash course  [YouTube list](https://www.youtube.com/results?search_query=google+machine+learning+crash+course+)   
+
 YouTube  
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
@@ -818,7 +821,6 @@ YouTube
 
 Internet Archive
   + Machine learning [search](https://archive.org/search?query=Machine+Learning)
-    
     
     
 <A NAME="P118"></A>
@@ -880,9 +882,7 @@ YouTube
   
 YouTube
   + [Microcontrollers Machine Learning](https://www.youtube.com/results?search_query=Microcontrollers+Machine+Learning)  
-  + Adafruit Machine Learnging Monday [list](https://www.youtube.com/results?search_query=Adafruit+Machine+Learnging+Monday)  
-
-    
+  + Adafruit Machine Learnging Monday [list](https://www.youtube.com/results?search_query=Adafruit+Machine+Learnging+Monday)
     
 <A NAME="P122"></A>
 <HR>
