@@ -874,7 +874,7 @@ YouTube
     
 <A NAME="P121"></A>
 <HR>
-<P align="center"><A HREF="#P120">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P120">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P122">--&gt;</A></P>  
     
 # Project 121: Microcontrollers Machine Learning
   
@@ -882,6 +882,19 @@ YouTube
   + [Microcontrollers Machine Learning](https://www.youtube.com/results?search_query=Microcontrollers+Machine+Learning)  
   + Adafruit Machine Learnging Monday [list](https://www.youtube.com/results?search_query=Adafruit+Machine+Learnging+Monday)  
 
+    
+    
+<A NAME="P122"></A>
+<HR>
+<P align="center"><A HREF="#P121">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 122: SBC (Single Board Computer) Machine Learning
+  
+YouTube
+  + ExplainingComputers [Jetson Nano: Vision Recognition Neural Network Demo](https://youtu.be/k5pXXmTkPNM)  
+     
+
+    
     
     
 <A NAME="FUTURE"></A>
