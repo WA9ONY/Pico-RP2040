@@ -510,7 +510,7 @@ Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with
       
 <A NAME="P46"></A>
 <HR>
-<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P46">--&gt;</A></P>  
+<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P47">--&gt;</A></P>  
     
 # Project 46: Arduino MEGA 2560 Microcontroller Board 
 
