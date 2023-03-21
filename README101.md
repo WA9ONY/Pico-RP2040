@@ -921,12 +921,15 @@ YouTube
     
 # Project 121: Microcontrollers Machine Learning
 <p align="center">
-<img align="center" width="641" height="438" src="/Images/ArcadaTensorFlow.png">        
+<img align="center" width="491" height="227" src="/Images/SAMD51TensorFlow.png">        
 </p>
-  
+
+Image credit: Adafruit [Tiny Machine Learning on the Edge with TensorFlow Lite Running on SAMD51](https://www.youtube.com/watch?v=cn9PEDX_qLk)    
+    
 YouTube
   + [Microcontrollers Machine Learning](https://www.youtube.com/results?search_query=Microcontrollers+Machine+Learning)  
   + Adafruit Machine Learnging Monday [list](https://www.youtube.com/results?search_query=Adafruit+Machine+Learnging+Monday)
+
     
 <A NAME="P122"></A>
 <HR>
@@ -936,7 +939,9 @@ YouTube
 <p align="center">
 <img align="center" width="644" height="419" src="/Images/JetsonNanoVision.png">        
 </p>
-  
+
+Image credit: ExplainingComputers [Jetson Nano: Vision Recognition Neural Network Demo](https://youtu.be/k5pXXmTkPNM)    
+    
 YouTube
   + ExplainingComputers [Jetson Nano: Vision Recognition Neural Network Demo](https://youtu.be/k5pXXmTkPNM)  
      
