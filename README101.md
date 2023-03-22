@@ -681,7 +681,7 @@ Grep output line number and three lines per text fine.
     
 # Project 112: Newsletters
 <p align="center">
-<img align="center" width="776" height="774" src="/Images/NewsLetters.png">        
+<img align="center" width="776" height="774" src="/Images/NewsLettters.png">        
 </p>
 
 Newsletters are a great way to keep current on new products, webinars, new books, etc.    
