@@ -681,7 +681,7 @@ Grep output line number and three lines per text fine.
     
 # Project 112: Newsletters
 <p align="center">
-<img align="center" width="925" height="204" src="/Images/Newsletters.png">        
+<img align="center" width="776" height="774" src="/Images/Newsletters.png">        
 </p>
 
 Newsletters are a great way to keep current on new products, webinars, new books, etc.    
@@ -759,8 +759,7 @@ tinyML Foundation
     
 Tiny machine learning is broadly defined as a fast growing field of machine learning technologies and applications including hardware, algorithms and software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below, and hence enabling a variety of always-on use-cases and targeting battery operated devices.
 
-    
-  
+     
 <A NAME="P116"></A>
 <HR>
 <P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P117">--&gt;</A></P>  
@@ -928,8 +927,10 @@ Image credit: Adafruit [Tiny Machine Learning on the Edge with TensorFlow Lite R
     
 YouTube
   + [Microcontrollers Machine Learning](https://www.youtube.com/results?search_query=Microcontrollers+Machine+Learning)  
-  + Adafruit Machine Learnging Monday [list](https://www.youtube.com/results?search_query=Adafruit+Machine+Learnging+Monday)
 
+Adafruit Machine Learnging Monday
+  + [Tiny Machine Learning on the Edge with TensorFlow Lite Running on SAMD51](https://www.youtube.com/watch?v=cn9PEDX_qLk) 
+    
     
 <A NAME="P122"></A>
 <HR>
