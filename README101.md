@@ -934,7 +934,7 @@ Adafruit Machine Learnging Monday
     
 <A NAME="P122"></A>
 <HR>
-<P align="center"><A HREF="#P121">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P121">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P123">--&gt;</A></P>  
     
 # Project 122: SBC (Single Board Computer) Machine Learning
 <p align="center">
@@ -946,14 +946,37 @@ Image credit: ExplainingComputers [Jetson Nano: Vision Recognition Neural Networ
 YouTube
   + ExplainingComputers [Jetson Nano: Vision Recognition Neural Network Demo](https://youtu.be/k5pXXmTkPNM)  
      
+   
+<A NAME="P123"></A>
+<HR>
+<P align="center"><A HREF="#P122">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P124">--&gt;</A></P>  
+    
+# Project 123: How to build an ML-powered doorbell notifier
+   
+Hakster
+  + [How to build an ML-powered doorbell notifier](https://www.hackster.io/sandeep-mistry/how-to-build-an-ml-powered-doorbell-notifier-0a781e)  
+    
+SparkFund    
+  + [How to Build an ML-powered Doorbell Notifierr](https://www.sparkfun.com/news/6181)  
 
+     
+<A NAME="P124"></A>
+<HR>
+<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 124: SparkFun Machine Learning
+       
+SparkFund    
+  + Search for [Machine Learning Blog](https://www.sparkfun.com/search/results?term=Machine+Learning#news)  
+  + [Machine Learning Hash Tag](https://www.sparkfun.com/news/tags/machine-learning) 
+ 
     
+ 
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P122">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
