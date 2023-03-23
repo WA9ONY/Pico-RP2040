@@ -170,6 +170,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 120: <A HREF="README101.md#P120">TensorFlow</A>
 + Project 121: <A HREF="README101.md#P121">Microcontrollers Machine Learning</A>
 + Project 122: <A HREF="README101.md#P122">SBC (Single Board Computer) Machine Learning</A>
++ Project 123: <A HREF="README101.md#P123">How to build an ML-powered doorbell notifier</A>
++ Project 124: <A HREF="README101.md#P124">SparkFun Machine Learning</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
