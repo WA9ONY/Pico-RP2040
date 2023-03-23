@@ -962,7 +962,7 @@ SparkFund
      
 <A NAME="P124"></A>
 <HR>
-<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P124">--&gt;</A></P>  
     
 # Project 124: SparkFun Machine Learning
        
@@ -970,13 +970,32 @@ SparkFund
   + Search for [Machine Learning Blog](https://www.sparkfun.com/search/results?term=Machine+Learning#news)  
   + [Machine Learning Hash Tag](https://www.sparkfun.com/news/tags/machine-learning) 
  
+  
+     
+<A NAME="P125"></A>
+<HR>
+<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 125: Google AIY Projects
+       
+Google
+  + Google [AIY](https://aiyprojects.withgoogle.com/) 
+    
+Elektor    
+  + [Experiment with Artificial Intelligence](https://www.elektormagazine.com/news/experiment-with-artificial-intelligence?utm_source=Elektor+International+%28English%29&utm_campaign=54e4ad2408-EMAIL_CAMPAIGN_3_9_2023_17_31&utm_medium=email&utm_term=0_8b7374950c-54e4ad2408-%5BLIST_EMAIL_ID%5D&mc_cid=54e4ad2408&mc_eid=1bc428feb9)  
+  + [Google AIY Vision Kit for Raspberry Pi](https://www.elektor.com/google-aiy-vision-kit-for-raspberry-pi) 
+
+Amazon
+  + Google [AIY Voice Kit](https://www.amazon.com/Google-GOOGLEAIY-V1-AIY-Voice/dp/B075SFLWKX) 
+    
+Hackster
+  + Updates for the Google AIY Projects [Kits](https://www.hackster.io/news/updates-for-the-google-aiy-projects-kits-889c1dffb3f)  
  
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
