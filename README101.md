@@ -962,19 +962,18 @@ SparkFund
      
 <A NAME="P124"></A>
 <HR>
-<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P124">--&gt;</A></P>  
+<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P125">--&gt;</A></P>  
     
 # Project 124: SparkFun Machine Learning
        
 SparkFund    
   + Search for [Machine Learning Blog](https://www.sparkfun.com/search/results?term=Machine+Learning#news)  
   + [Machine Learning Hash Tag](https://www.sparkfun.com/news/tags/machine-learning) 
- 
-  
+   
      
 <A NAME="P125"></A>
 <HR>
-<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P126">--&gt;</A></P>  
     
 # Project 125: Google AIY Projects
        
@@ -990,12 +989,28 @@ Amazon
     
 Hackster
   + Updates for the Google AIY Projects [Kits](https://www.hackster.io/news/updates-for-the-google-aiy-projects-kits-889c1dffb3f)  
+   
+     
+<A NAME="P126"></A>
+<HR>
+<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 126: The Great Courses
+
+The Great Courses go on sale thorugh out the year.  The below courses sale prices: $40 to $60.  The Python and C++ are great if you are just strating to learn programming.    
+    
+The Great Courses
+  + How to Program: Computer Science Concepts and Python Exercises [course](https://www.thegreatcourses.com/courses/how-to-program-computer-science-concepts-and-python-exercises) 
+  + Introduction to C++: Programming Concepts and Applications [course](https://www.thegreatcourses.com/courses/introduction-to-c-plus-plus-programming-concepts-and-applications) 
+  + Introduction to Machine Learning [course](https://www.thegreatcourses.com/courses/introduction-to-machine-learning) 
  
+
+    
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
