@@ -921,7 +921,11 @@ TensorFlow
 YouTube
   + [tensorflow tutorial for beginners](https://www.youtube.com/results?search_query=tensorflow+tutorial+for+beginners)  
   + [tensorflow for microcontrollers](https://www.youtube.com/results?search_query=tensorflow+for+microcontrollers)  
-    
+  + [Introduction to Tensors](https://youtu.be/uaQeXi4E7gA)  
+
+URLs
+  + [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
+
     
 <A NAME="P121"></A>
 <HR>
