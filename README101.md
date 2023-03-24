@@ -826,9 +826,11 @@ YouTube
 Image credit: [100 Days Of ML](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)
     
 Wikipedia
-  + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
   + [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+  + [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network)
   + [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
+  + [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
+  + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
     
 Courses  
   + Google machine learning crash course  [YouTube list](https://www.youtube.com/results?search_query=google+machine+learning+crash+course+)   
@@ -842,6 +844,13 @@ YouTube
 
 Internet Archive
   + Machine learning [search](https://archive.org/search?query=Machine+Learning)
+
+Glossaries
+  + Google [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+  + IBM [AI Glossary](https://www.ibm.com/cloud/architecture/architecture/practices/cognitive-glossary/)
+  + The [AI Glossary](https://appen.com/ai-glossary/)
+  + [50 AI terms every beginner should know](https://www.telusinternational.com/insights/ai-data/article/50-beginner-ai-terms-you-should-know)
+  + Artificial Intelligence (AI) Glossary: TERMS & DEFINITIONS FOR BEGINNERS [PDF 3 pages](https://comptiacdn.azureedge.net/webcontent/docs/default-source/research-reports/ai-glossary.pdf?sfvrsn=dfbd4a2e_0)
     
     
 <A NAME="P118"></A>
@@ -993,7 +1002,7 @@ Hackster
      
 <A NAME="P126"></A>
 <HR>
-<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P127">--&gt;</A></P>  
     
 # Project 126: The Great Courses
 
@@ -1004,13 +1013,25 @@ The Great Courses
   + Introduction to C++: Programming Concepts and Applications [course](https://www.thegreatcourses.com/courses/introduction-to-c-plus-plus-programming-concepts-and-applications) 
   + Introduction to Machine Learning [course](https://www.thegreatcourses.com/courses/introduction-to-machine-learning) 
  
+   
+<A NAME="P127"></A>
+<HR>
+<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 127: Machine Learning Morse Code
 
+Google
+  + [Search](https://www.google.com/search?q=machine+learning+morse+code&sxsrf=APwXEdebn6I1_jkRtH1yONLwC-nmNFVO7A%3A1679617210377&ei=uuwcZIDYFt_j0PEP58a_iA4&oq=machine+learning+mo&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgQIIxAnMgsIABCABBCxAxCDATIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOggIABCKBRCRAjoLCC4QigUQsQMQgwE6CwgAEIoFELEDEIMBOg4ILhCABBCxAxDHARDRAzoHCAAQigUQQzoLCC4QgAQQsQMQgwE6CAguEIAEELEDOg0IABCKBRCxAxCDARBDOhEILhCABBCxAxDHARCvARDUAjoLCC4Q1AIQsQMQgAQ6BQguEIAESgQIQRgAUABYnjRgl0hoAHAAeACAAZoBiAGqDpIBBDEyLjeYAQCgAQHAAQE&sclient=gws-wiz-serp)  
+    
+YouTube
+  + [Searcj](https://www.youtube.com/results?search_query=Machine+Learning+Morse+Code)
+    
     
     
 <A NAME="FUTURE"></A>
 <HR>
 
-<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P127">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
