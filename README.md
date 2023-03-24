@@ -1025,7 +1025,7 @@ CLI history to fix permission denied issue.
 YouTubes
 + [Arduino Cloud Explained](https://youtu.be/uaLrmLCqGnc)
 + [Arduino IDE vs. Arduino IoT Cloud Editor](https://youtu.be/lL1caDBLlhA)
- 
++ Arduino Workshop for Beginners, [35 videos playlist](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
  
   
 <A NAME="P18"></A>
