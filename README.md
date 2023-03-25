@@ -175,6 +175,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 125: <A HREF="README101.md#P125">Google AIY Projects</A>
 + Project 126: <A HREF="README101.md#P126">The Great Courses</A>
 + Project 127: <A HREF="README101.md#P127">Machine Learning Morse Code</A>
++ Project 128: <A HREF="README101.md#P128">Arduino Day 2 PM-CET March 25th 2023</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
