@@ -1037,6 +1037,39 @@ YouTube
     
 # Project 128: Arduino Day 2 PM-CET March 25th 2023
 
+10th year celebrating Arduino Day.
+    
+Arduino 18th year birthday. Events around the world. Large community
+
+Live in Chicago.
+
+Hackaday    
+What to build?
+  + Research
+  +   
+Music projects: drum, gitar, etc.    
+  + Digital audio work station
+  + Multiplex 16 buttons with LEDs  
+
+Discover MicroPython
+  + NANO RP2040 Connect
+  + Arduin Lab for MicroPython
+  + Write code directly on the microcontroller.
+  + Terminal interface on the microcontroller board.  
+  + LED, on, off, toggel  
+  + Download from Labs
+  + Supports all boards that support MicroPython.
+    
+Arduino GIGA R1 WiFi
+  + Machine learnig  
+  + RTOS
+  + Plant project shown
+    
+    
+    
+    
+    
+    
 YouTube
   + [Livestream](https://www.youtube.com/live/mhC_ZFbGEqs?feature=share)
   + Arduino Week 2022 [6 video playlist](https://www.youtube.com/playlist?list=PLT6rF_I5kknNYA1W4d6zEDqRFGFcG5sE_)
@@ -1046,7 +1079,7 @@ YouTube
     
 <A NAME="P129"></A>
 <HR>
-<P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P130">--&gt;</A></P>  
     
 # Project 129: PyTorch
 
@@ -1055,11 +1088,48 @@ YouTube
 YouTube
   + PyTorch [list](https://www.youtube.com/results?search_query=pytorch)
 
+  
+<A NAME="P130"></A>
+<HR>
+<P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P131">--&gt;</A></P>  
+    
+# Project 130: Hackaday
+
+[Hackaday](https://hackaday.com/)
+  + Machine Learning [search](https://hackaday.com/blog/?s=Machine+Learning)
+  + Arduino [search]( https://hackaday.com/blog/?s=Arduino)
+  + Raspberry Pi Pico [search](https://hackaday.com/blog/?s=Raspberry+Pi+Pico)
+  + TensorFlow [search](https://hackaday.com/blog/?s=TensorFlow)
+  + PyTorch [search](https://hackaday.com/blog/?s=PyTorch)
+  + Python [search](https://hackaday.com/blog/?s=+Python)
+  + Handwriting [search](https://hackaday.com/blog/?s=Handwriting)
+    + MACHINE LEARNING LETS MICRO DECODE YOUR HANDWRITING [article](https://hackaday.com/2012/05/03/machine-learning-lets-micro-decode-your-handwriting/)   
    
+
+<A NAME="P131"></A>
+<HR>
+<P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 131: Handwriting Machine Learning
+
+YouTube
+  + Handwriting Machine Learning [search](https://www.youtube.com/results?search_query=handwriting+machine+learning) 
+  + Machine Learning Handwriting [search](https://www.youtube.com/results?search_query=machine+learning+handwriting) 
+  + Python handwriting recognition [search](https://www.youtube.com/results?search_query=Python+handwriting+recognition) 
+  + PyTorch handwriting recognition [search](https://www.youtube.com/results?search_query=PyTorch+handwriting+recognition) 
+  + TensorFlow handwriting recognition [search](https://www.youtube.com/results?search_query=TensorFlow+handwriting+recognition) 
+
+Google
+  + Handwriting Machine Learning [search](https://www.google.com/search?q=handwriting+machine+learning&oq=Handwriting+Machine+Learning&aqs=chrome.0.0i512j0i22i30l8j0i15i22i30.3097j0j15&sourceid=chrome&ie=UTF-8)  
+  + Machine Learning Handwriting [search](https://www.google.com/search?q=Machine+Learning+Handwriting&oq=Machine+Learning+Handwriting&aqs=chrome..69i57j0i512l3j0i22i30l6.968j0j15&sourceid=chrome&ie=UTF-8)  
+  + Machine Learning [search](https://www.google.com/search?q=Machine+Learning&sxsrf=APwXEdetkx-b2MHgfpVgdAQ7JL182aoiAQ%3A1679755897860&ei=eQofZPiPNIOz0PEPlcOhkAw&ved=0ahUKEwi4sOesqvf9AhWDGTQIHZVhCMIQ4dUDCBA&uact=5&oq=Machine+Learning&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIECCMQJzIHCAAQigUQQzINCAAQgAQQFBCHAhCxAzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzINCAAQgAQQFBCHAhCxAzIKCAAQigUQsQMQQzIICAAQgAQQyQM6CggAEEcQ1gQQsAM6CAgAEIAEELEDOggIABCKBRCSAzoLCAAQgAQQsQMQgwFKBAhBGABQ3wpYiQ9grE5oAnABeACAAd0CiAG2A5IBBTEuMy0xmAEAoAEByAEIwAEB&sclient=gws-wiz-serp)  
+  + TensorFlow handwriting recognition [search](https://www.google.com/search?q=TensorFlow+handwriting+recognition&sxsrf=APwXEdcuOLqhF7F7gGt2wBXrezB1ZaCzTA%3A1679756201832&ei=qQsfZN65MuLH9APcwZrIDA&ved=0ahUKEwiesuC9q_f9AhXiI30KHdygBskQ4dUDCBA&uact=5&oq=TensorFlow+handwriting+recognition&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgYIABAWEB46CggAEEcQ1gQQsAM6CggAEIoFELADEENKBAhBGABQ--wDWPvsA2CQ9ANoAXABeACAAViIAViSAQExmAEAoAECoAEByAEJwAEB&sclient=gws-wiz-serp)  
+
+
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
