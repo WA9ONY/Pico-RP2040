@@ -1121,7 +1121,7 @@ YouTube
 ## Arduino Day 2013   
 YouTube
   + Arduino Day 2013 7 playlist [2013](https://www.youtube.com/playlist?list=PLyT2f5rNsMZrMy8J7sm9sYppJaFxWvszV)
-  + Arduino Day 2013 9 playlist [2013](https://www.youtube.com/playlist?list=PL2xif19HYRjzQTSy9b-dhN7p6K8ZkhjKh
+  + Arduino Day 2013 9 playlist [2013](https://www.youtube.com/playlist?list=PL2xif19HYRjzQTSy9b-dhN7p6K8ZkhjKh)
 
     
 <A NAME="P129"></A>
