@@ -1040,6 +1040,7 @@ YouTube
 YouTube
   + [Livestream](https://www.youtube.com/live/mhC_ZFbGEqs?feature=share)
   + Arduino Week 2022 [6 video playlist](https://www.youtube.com/playlist?list=PLT6rF_I5kknNYA1W4d6zEDqRFGFcG5sE_)
+  + Arduino Day 2021 [video](https://www.youtube.com/live/k0HQ776d4Kk?feature=share)
   + [Looking Back at Arduino Day 2022: A Recap for 2023](https://www.youtube.com/watch?v=VtKunD8Xmd8)
  
     
