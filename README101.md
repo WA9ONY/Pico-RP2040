@@ -1029,19 +1029,32 @@ Google
     
 YouTube
   + [Searcj](https://www.youtube.com/results?search_query=Machine+Learning+Morse+Code)
-    
  
-   
-<A NAME="P187"></A>
+    
+<A NAME="P128"></A>
 <HR>
-<P align="center"><A HREF="#P127">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P127">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P128">--&gt;</A></P>  
     
 # Project 128: Arduino Day 2 PM-CET March 25th 2023
 
 YouTube
   + [Livestream](https://www.youtube.com/live/mhC_ZFbGEqs?feature=share)
-
+  + Arduino Week 2022 [6 video playlist](https://www.youtube.com/playlist?list=PLT6rF_I5kknNYA1W4d6zEDqRFGFcG5sE_)
+  + [Looking Back at Arduino Day 2022: A Recap for 2023](https://www.youtube.com/watch?v=VtKunD8Xmd8)
+ 
     
+<A NAME="P129"></A>
+<HR>
+<P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 129: PyTorch
+
+[PyTorch](https://pytorch.org/)
+    
+YouTube
+  + PyTorch [list](https://www.youtube.com/results?search_query=pytorch)
+
+   
     
 <A NAME="FUTURE"></A>
 <HR> 
