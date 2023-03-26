@@ -839,7 +839,8 @@ YouTube
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
   + Machine learning [Uwe Aickelin](https://youtu.be/qDbpYUbf3e0)
   + Paul G. Allen School [machine lists](https://www.youtube.com/@uwcse/search?query=machine)
-
+  + [Machine Learning Methods](https://youtu.be/qDbpYUbf3e0) - Computerphile
+    
 Internet Archive
   + [achine learning](https://archive.org/search?query=Machine+Learning)
 
@@ -852,7 +853,10 @@ Glossaries
   + The [AI Glossary](https://appen.com/ai-glossary/)
   + [50 AI terms every beginner should know](https://www.telusinternational.com/insights/ai-data/article/50-beginner-ai-terms-you-should-know)
   + Artificial Intelligence (AI) Glossary: TERMS & DEFINITIONS FOR BEGINNERS [PDF 3 pages](https://comptiacdn.azureedge.net/webcontent/docs/default-source/research-reports/ai-glossary.pdf?sfvrsn=dfbd4a2e_0)
-    
+
+Internet Archive
+  + Machine Learning [search](https://archive.org/search?query=Machine+Learning)
+        
     
 <A NAME="P118"></A>
 <HR>
@@ -1212,7 +1216,7 @@ Products
 
 <A NAME="P134"></A>
 <HR>
-<P align="center"><A HREF="#P133">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P133">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P135">--&gt;</A></P>  
     
 # Project 134: SPE: Single Pair Ethernet 
 
@@ -1220,10 +1224,26 @@ SPE
   + SparkFun [news](https://www.sparkfun.com/spe_challenge?utm_campaign=SFM-NPI-03172023&utm_medium=email&_hsmi=251542843&_hsenc=p2ANqtz-9WeV8AxRBdmAGfINuuCitWsW1kgXE-v0wVwn4OlIchAXe3SnMcSRA9PxyvjmxSYiolLfsbiUUPEf7_5aMRyhz8kncSmQ&utm_content=251543551&utm_source=hs_email)
   + SparkFun [MicroMod Single Pair Ethernet Kit](https://www.sparkfun.com/products/19628)    
 
+
+<A NAME="P135"></A>
+<HR>
+<P align="center"><A HREF="#P134">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 135: Element14
+    
+Element14 is electronics distributor.
+    
+Create your free account. Update your profile and avatar.
+    
+Blue ban is the menu bar to navigate the website.
+  + [Learn](https://community.element14.com/learn/?ICID=menubar_learn_all)    
+    + [Programming Series - Part 1 - Python](https://community.element14.com/learn/learning-center/essentials/w/documents/28063/an-introduction-to-programming-with-python?ICID=learningctr-feature-essentials)
+    + [The Basics of Microcontrollers](https://community.element14.com/learn/learning-center/essentials/w/documents/27574/the-basics-of-microcontrollers)
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P134">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
