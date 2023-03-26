@@ -180,6 +180,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 130: <A HREF="README101.md#P130">Hanckaday</A>
 + Project 131: <A HREF="README101.md#P131">Handwriting Recognition</A>
 + Project 132: <A HREF="README101.md#P132">ML (Machine Learning) KNN: K Nearest Neighbors in Python</A>
++ Project 133: <A HREF="README101.md#P133">E-Ink Display</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
