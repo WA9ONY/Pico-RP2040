@@ -1179,7 +1179,7 @@ Google
 
 <A NAME="P132"></A>
 <HR>
-<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P133">--&gt;</A></P>  
     
 # Project 132: ML (Machine Learning) KNN: K Nearest Neighbors in Python
 
@@ -1189,10 +1189,28 @@ YouTube
     + Unknow element distance is measured to all members of the know groups.
     + Take the top nearest neighbors of the unknow element to determin which group the unknow element is identified with.
 
+   
+
+<A NAME="P133"></A>
+<HR>
+<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 133: E-Ink Display
+
+YouTube
+  + The Desk of Ladyada - RP2040 Bones Boards Aplenty! [inside tips](https://www.youtube.com/live/VbZQR-9xfi8?feature=share) 
+  + E-Ink [search](https://www.youtube.com/results?search_query=E-Ink)    
+
+Products    
+  + Adafruit E-Ink product [search](https://www.adafruit.com/?q=E-Ink&sort=BestMatch)  
+  + Amazon E-Ink product [search](https://www.amazon.com/e-ink-display/s?k=e-ink+display)    
+  + SparkFun E-Ink product [search](https://www.sparkfun.com/search/results?term=E-Ink)    
+
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P133">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
