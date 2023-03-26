@@ -1155,7 +1155,7 @@ YouTube
 
 <A NAME="P131"></A>
 <HR>
-<P align="center"><A HREF="#P130">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P130">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P132">--&gt;</A></P>  
     
 # Project 131: Handwriting Recognition
 
@@ -1172,12 +1172,22 @@ Google
   + Machine Learning Handwriting [search](https://www.google.com/search?q=Machine+Learning+Handwriting&oq=Machine+Learning+Handwriting&aqs=chrome..69i57j0i512l3j0i22i30l6.968j0j15&sourceid=chrome&ie=UTF-8)  
   + Machine Learning [search](https://www.google.com/search?q=Machine+Learning&sxsrf=APwXEdetkx-b2MHgfpVgdAQ7JL182aoiAQ%3A1679755897860&ei=eQofZPiPNIOz0PEPlcOhkAw&ved=0ahUKEwi4sOesqvf9AhWDGTQIHZVhCMIQ4dUDCBA&uact=5&oq=Machine+Learning&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIECCMQJzIHCAAQigUQQzINCAAQgAQQFBCHAhCxAzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzINCAAQgAQQFBCHAhCxAzIKCAAQigUQsQMQQzIICAAQgAQQyQM6CggAEEcQ1gQQsAM6CAgAEIAEELEDOggIABCKBRCSAzoLCAAQgAQQsQMQgwFKBAhBGABQ3wpYiQ9grE5oAnABeACAAd0CiAG2A5IBBTEuMy0xmAEAoAEByAEIwAEB&sclient=gws-wiz-serp)  
   + TensorFlow handwriting recognition [search](https://www.google.com/search?q=TensorFlow+handwriting+recognition&sxsrf=APwXEdcuOLqhF7F7gGt2wBXrezB1ZaCzTA%3A1679756201832&ei=qQsfZN65MuLH9APcwZrIDA&ved=0ahUKEwiesuC9q_f9AhXiI30KHdygBskQ4dUDCBA&uact=5&oq=TensorFlow+handwriting+recognition&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgYIABAWEB46CggAEEcQ1gQQsAM6CggAEIoFELADEENKBAhBGABQ--wDWPvsA2CQ9ANoAXABeACAAViIAViSAQExmAEAoAECoAEByAEJwAEB&sclient=gws-wiz-serp)  
+   
+
+<A NAME="P12"></A>
+<HR>
+<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 132: ML (Machine Learning) KNN: K Nearest Neighbors in Python
+
+YouTube
+  + KNN (K Nearest Neighbors) in Python - Machine Learning From Scratch 01 - Python [Tutorial](https://youtu.be/ngLyX54e1LU) 
 
 
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
