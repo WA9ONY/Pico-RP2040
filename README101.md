@@ -431,13 +431,11 @@ YouTube
 
  In the 1960s [Popular Electronics](https://en.wikipedia.org/wiki/Popular_Electronics) was a great electronic hobby magazine.  It went out of print in the 1980s.  [Elektor](https://en.wikipedia.org/wiki/Elektor) is a electronic hobby magazine from Europe that is a great replacement for Popular Electronics. 
     
- Elektor is a leading specialist publisher in the field of electronics.
+Elektor is a leading specialist publisher in the field of electronics.
     
 Founded in early 1961, Elektor has been providing the electronics community with quality books, magazines, and electronic products for over six decades. Whether you're a business or a professional, you'll find a wide range of topics covered in Elektor's magazines and books, including embedded systems, circuit design, microcontroller programming, and electronic product reviews.
 In addition to its informative printed products, Elektor also offers a range of electronic kits, development boards, and tools to help you bring your projects to life.    
-    
-    
-    
+     
 [Elektor Digital Green Magazine Subscription](https://www.elektormagazine.com/account/subscription/add?utm_source=ENShop&utm_medium=Link&utm_campaign=Become%20Member%20Button)
 + Elektor magazine download PDF
 + Access to the archive issues back to 1975 in PDF
@@ -915,7 +913,9 @@ MIT OCW
 <p align="center">
 <img align="center" width="669" height="428" src="/Images/TensorFlow_logo.svg">        
 </p>
- 
+
+TensorFlow is a Google ML (Machine Learning) software tool.    
+        
 TensorFlow
   + [Website](https://www.tensorflow.org/)
   + [Wikipedia](https://en.wikipedia.org/wiki/TensorFlow)
@@ -925,6 +925,7 @@ YouTube
   + [tensorflow tutorial for beginners](https://www.youtube.com/results?search_query=tensorflow+tutorial+for+beginners)  
   + [tensorflow for microcontrollers](https://www.youtube.com/results?search_query=tensorflow+for+microcontrollers)  
   + [Introduction to Tensors](https://youtu.be/uaQeXi4E7gA)  
+  + [I built the same model with TensorFlow and PyTorch | Which Framework is better?](https://youtu.be/ay1E1f8VqP8)  
 
 URLs
   + [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
@@ -1131,10 +1132,12 @@ YouTube
 # Project 129: PyTorch
 
 [PyTorch](https://pytorch.org/)
+
+PyTorch is a ML (Machine Learning) software tool.    
     
 YouTube
   + PyTorch [list](https://www.youtube.com/results?search_query=pytorch)
-
+  + [I built the same model with TensorFlow and PyTorch | Which Framework is better?](https://youtu.be/ay1E1f8VqP8)
   
 <A NAME="P130"></A>
 <HR>
@@ -1174,7 +1177,7 @@ Google
   + TensorFlow handwriting recognition [search](https://www.google.com/search?q=TensorFlow+handwriting+recognition&sxsrf=APwXEdcuOLqhF7F7gGt2wBXrezB1ZaCzTA%3A1679756201832&ei=qQsfZN65MuLH9APcwZrIDA&ved=0ahUKEwiesuC9q_f9AhXiI30KHdygBskQ4dUDCBA&uact=5&oq=TensorFlow+handwriting+recognition&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMgYIABAWEB46CggAEEcQ1gQQsAM6CggAEIoFELADEENKBAhBGABQ--wDWPvsA2CQ9ANoAXABeACAAViIAViSAQExmAEAoAECoAEByAEJwAEB&sclient=gws-wiz-serp)  
    
 
-<A NAME="P12"></A>
+<A NAME="P132"></A>
 <HR>
 <P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
@@ -1182,7 +1185,9 @@ Google
 
 YouTube
   + KNN (K Nearest Neighbors) in Python - Machine Learning From Scratch 01 - Python [Tutorial](https://youtu.be/ngLyX54e1LU) 
-
+    + Start with know groups.
+    + Unknow element distance is measured to all members of the know groups.
+    + Take the top nearest neighbors of the unknow element to determin which group the unknow element is identified with.
 
     
 <A NAME="FUTURE"></A>
