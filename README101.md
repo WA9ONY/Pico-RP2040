@@ -926,7 +926,8 @@ YouTube
   + [tensorflow for microcontrollers](https://www.youtube.com/results?search_query=tensorflow+for+microcontrollers)  
   + [Introduction to Tensors](https://youtu.be/uaQeXi4E7gA)  
   + [I built the same model with TensorFlow and PyTorch | Which Framework is better?](https://youtu.be/ay1E1f8VqP8)  
-
+    + TensorFlow is easier for a beginner.
+    
 URLs
   + [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
 
@@ -1047,12 +1048,15 @@ YouTube
     
 Arduino 18th year birthday. Events around the world. Large community
 
-Live in Chicago.
+YouTube
+  + Official Arduino Day [2023 4 hours livestream](https://www.youtube.com/live/mhC_ZFbGEqs?feature=share)
+  + [Looking Back at Arduino Day 2022: A Recap for 2023](https://www.youtube.com/watch?v=VtKunD8Xmd8)
 
 Hackaday    
+
 What to build?
-  + Research
-  +   
+  + Research 
+
 Music projects: drum, gitar, etc.    
   + Digital audio work station
   + Multiplex 16 buttons with LEDs  
@@ -1071,10 +1075,6 @@ Arduino GIGA R1 WiFi
   + RTOS
   + Plant project shown
     
-YouTube
-  + [Livestream](https://www.youtube.com/live/mhC_ZFbGEqs?feature=share)
-  + [Looking Back at Arduino Day 2022: A Recap for 2023](https://www.youtube.com/watch?v=VtKunD8Xmd8)
-
 ## Arduino Day 2022
 YouTube
   + Arduino Week 2022 [6 video playlist](https://www.youtube.com/playlist?list=PLT6rF_I5kknNYA1W4d6zEDqRFGFcG5sE_)
