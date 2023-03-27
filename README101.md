@@ -1227,7 +1227,7 @@ SPE
 
 <A NAME="P135"></A>
 <HR>
-<P align="center"><A HREF="#P134">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P134">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P136">--&gt;</A></P>  
     
 # Project 135: Element14
     
@@ -1239,11 +1239,33 @@ Blue ban is the menu bar to navigate the website.
   + [Learn](https://community.element14.com/learn/?ICID=menubar_learn_all)    
     + [Programming Series - Part 1 - Python](https://community.element14.com/learn/learning-center/essentials/w/documents/28063/an-introduction-to-programming-with-python?ICID=learningctr-feature-essentials)
     + [The Basics of Microcontrollers](https://community.element14.com/learn/learning-center/essentials/w/documents/27574/the-basics-of-microcontrollers)
+  + [eBooks](https://community.element14.com/learn/publications/ebooks/) 
+    
+    
+
+<A NAME="P136"></A>
+<HR>
+<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 136: Dollar Tree
+
+Almost everything at [Dollar Tree](https://www.dollartree.com/) is $1.25.
+    
+Products
+  + Micro [USB](https://www.dollartree.com/searchresults?Ntt=usb) cable for use with the Rasberry Pi Pico
+  + [USB](https://www.dollartree.com/searchresults?Ntt=usb) power suppliesfor use with the Rasberry Pi Pico
+  + 120 Vac power strips with on/off switch for use with the Rasberry Pi Pico
+  + 120 Vac extension cords
+  + [Flashlight](https://www.dollartree.com/searchresults?Ntt=flashlight)
+  + [LED](https://www.dollartree.com/searchresults?Ntt=led)
+  + [Solar LED](https://www.dollartree.com/searchresults?Ntt=solar%20led)    
+    
+    
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
