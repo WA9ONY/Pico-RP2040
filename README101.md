@@ -1044,14 +1044,23 @@ The Great Courses
 <HR>
 <P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P128">--&gt;</A></P>  
     
-# Project 127: Machine Learning Morse Code
+# Project 127: Microcontroller Morse Code
 
-Google
-  + [Search](https://www.google.com/search?q=machine+learning+morse+code&sxsrf=APwXEdebn6I1_jkRtH1yONLwC-nmNFVO7A%3A1679617210377&ei=uuwcZIDYFt_j0PEP58a_iA4&oq=machine+learning+mo&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgQIIxAnMgsIABCABBCxAxCDATIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOggIABCKBRCRAjoLCC4QigUQsQMQgwE6CwgAEIoFELEDEIMBOg4ILhCABBCxAxDHARDRAzoHCAAQigUQQzoLCC4QgAQQsQMQgwE6CAguEIAEELEDOg0IABCKBRCxAxCDARBDOhEILhCABBCxAxDHARCvARDUAjoLCC4Q1AIQsQMQgAQ6BQguEIAESgQIQRgAUABYnjRgl0hoAHAAeACAAZoBiAGqDpIBBDEyLjeYAQCgAQHAAQE&sclient=gws-wiz-serp)  
     
 YouTube
-  + [Searcj](https://www.youtube.com/results?search_query=Machine+Learning+Morse+Code)
- 
+  + Morse code pico [Search](https://www.youtube.com/results?search_query=morse+code+pico)
+  + Morse code arduino [Search](https://www.youtube.com/results?search_query=morse+code+arduino)
+  + Morse decode [Search](https://www.youtube.com/results?search_query=morse+decode+)
+  + Machine Learning Morse code [Search](https://www.youtube.com/results?search_query=Machine+Learning+Morse+Code)
+  + Morse code [Search](https://www.youtube.com/results?search_query=morse+code)
+
+Google
+  + Morse code pico [Search](https://www.google.com/search?q=Morse+code+pico&oq=Morse+code+pico&aqs=chrome..69i57j0i512j0i22i30j0i390i650l5.2509j0j15&sourceid=chrome&ie=UTF-8)
+  + Morse code arduino [Search](https://www.google.com/search?q=Morse+code+arduino&sxsrf=APwXEde33wFLxiZQ-vg48QjDV7YPn2xGRQ%3A1680123460125&ei=RKYkZIiiB-uL0PEPwM2X2AE&ved=0ahUKEwiI1JPQg4L-AhXrBTQIHcDmBRsQ4dUDCBA&uact=5&oq=Morse+code+arduino&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoKCAAQRxDWBBCwA0oECEEYAFCHBliHBmDwEmgCcAF4AIABeIgBeJIBAzAuMZgBAKABAqABAcgBCMABAQ&sclient=gws-wiz-serp)
+  + Morse decode [Search](https://www.google.com/search?q=Morse+decode&sxsrf=APwXEdfzYD9F_0r2NozIzA9nMKOH8mEoxA%3A1680123537996&ei=kaYkZKmxPKi90PEP2cymyAw&ved=0ahUKEwjpvaT1g4L-AhWoHjQIHVmmCckQ4dUDCBA&uact=5&oq=Morse+decode&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzILCAAQigUQsQMQkQIyCAgAEIoFEJECMggIABCKBRCRAjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsAM6CggAEIoFELADEENKBAhBGABQpAdYpAdgjRRoAXABeACAAZMBiAGTAZIBAzAuMZgBAKABAqABAcgBCsABAQ&sclient=gws-wiz-serp)
+  + Machine Learning Morse code [Search](https://www.google.com/search?q=Machine+Learning+Morse+code&sxsrf=APwXEddD3KtKw9SBda6h5zOmQoNe173b9A%3A1680123611693&ei=26YkZNv7KY6D0PEP06yD0Ag&ved=0ahUKEwib1baYhIL-AhWOATQIHVPWAIoQ4dUDCBA&uact=5&oq=Machine+Learning+Morse+code&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIICAAQigUQhgMyCAgAEIoFEIYDMggIABCKBRCGAzIICAAQigUQhgMyCAgAEIoFEIYDOgcIIxCwAxAnOgoIABBHENYEELADOgoIABCKBRCwAxBDOg0IABDkAhDWBBCwAxgBOg8ILhCKBRDIAxCwAxBDGAI6EgguEIoFENQCEMgDELADEEMYAjoHCCMQsAIQJzoGCAAQFhAeOggIABAIEB4QDUoECEEYAFC4EVjQOmCjU2gBcAF4AIABaIgBigKSAQMyLjGYAQCgAQKgAQHIARPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz-serp)
+  + Morse code [Search](https://www.google.com/search?q=Morse+code&sxsrf=APwXEdcFsxls51p4EBE9rK_g4O03s_a2KA%3A1680123575411&ei=t6YkZOLWGPHF9AOX0K3ICw&ved=0ahUKEwiijpCHhIL-AhXxIn0KHRdoC7kQ4dUDCBA&uact=5&oq=Morse+code&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIECCMQJzIKCAAQigUQsQMQQzIICAAQgAQQsQMyCggAEIoFELEDEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyBwgAEIoFEEMyCggAEIoFELEDEEM6CggAEEcQ1gQQsAM6CggAEIoFELADEEM6BwgjELECECc6DQgAEIoFELEDELEDEEM6CggAEIAEELEDEApKBAhBGABQggtYvQxg-BBoAXABeACAAW-IAbwBkgEDMS4xmAEAoAEByAEKwAEB&sclient=gws-wiz-serp)
+
     
 <A NAME="P128"></A>
 <HR>
@@ -1255,10 +1264,9 @@ Blue ban is the menu bar to navigate the website.
   + [eBooks](https://community.element14.com/learn/publications/ebooks/) 
     
     
-
 <A NAME="P136"></A>
 <HR>
-<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P137">--&gt;</A></P>  
     
 # Project 136: Dollar Tree
 <p align="center">
@@ -1271,18 +1279,26 @@ Almost everything at [Dollar Tree](https://www.dollartree.com/) is $1.25.
 Products
   + Micro [USB](https://www.dollartree.com/searchresults?Ntt=usb) cable for use with the Rasberry Pi Pico
   + [USB](https://www.dollartree.com/searchresults?Ntt=usb) power suppliesfor use with the Rasberry Pi Pico
-  + 120 Vac power strips with on/off switch for use with the Rasberry Pi Pico
+  + 120 Vac power strips for use with the Rasberry Pi Pico
   + 120 Vac extension cords
   + [Flashlight](https://www.dollartree.com/searchresults?Ntt=flashlight)
   + [LED](https://www.dollartree.com/searchresults?Ntt=led)
   + [Solar LED](https://www.dollartree.com/searchresults?Ntt=solar%20led)    
     
+        
+<A NAME="P137"></A>
+<HR>
+<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 137: SBC (Single Board Computer) ML (Machine Learning)
+    
+Adafruit
     
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
