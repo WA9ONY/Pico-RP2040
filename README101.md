@@ -951,8 +951,21 @@ YouTube
   + [Microcontrollers Machine Learning](https://www.youtube.com/results?search_query=Microcontrollers+Machine+Learning)  
 
 Adafruit Machine Learnging Monday
+  + [Adding TFLite File Loading support](https://youtu.be/1zuT8Q6Zx3g) 
+  + [Drag n' Drop reconfigurable TensorFlow Lite model](https://youtu.be/brDCTxhveeU) 
   + [Tiny Machine Learning on the Edge with TensorFlow Lite Running on SAMD51](https://www.youtube.com/watch?v=cn9PEDX_qLk) 
-    
+  + [Tiny Machine Learning on the Edge with TensorFlow Lite Running on SAMD51](https://youtu.be/cn9PEDX_qLk)
+  + [TinyML comes to Circuit Playground Bluefruit](https://youtu.be/Mogt8NSNvVM)  
+  + [Trying out the TensorFlow Lite 'hello world' with Arcada](https://youtu.be/59rfuaKEu1M)  
+  + [TensorFlow Lite micro speech demo on Circuit Playground Bluefruit](https://youtu.be/ocvcrPplNH4)
+  + [Thermal Camera testing with the Braincraft HAT](https://youtu.be/LDppCCAsYq0)
+  + [Designing the Machine Learning board on the EDGE... BRAINCRAFT!](https://youtu.be/rDoTcWIqrDA)
+  + [Trying out Google Assistant on the BrainCraft HAT](https://youtu.be/a9f3Zud65MU)
+  + [BrainCraft HAT for Raspberry Pi preview!](https://youtu.be/N9qMeJ-CB1Y)
+  + [Gesture inference and more](https://youtu.be/MG6rgUuA_o4)
+  + [Hey Google, What is Adafruit?](https://youtu.be/ZaRAztqBjkM)
+  + [Hey Google, What is Machine Learning?](https://youtu.be/AufryN3o8eY)
+      
     
 <A NAME="P122"></A>
 <HR>
