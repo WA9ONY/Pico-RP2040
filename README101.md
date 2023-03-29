@@ -1261,7 +1261,11 @@ Blue ban is the menu bar to navigate the website.
 <P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 136: Dollar Tree
+<p align="center">
+<img align="center" width="600" height="213" src="/Images/PSWcablePicoV3.png">        
+</p>
 
+Low cost $6.50 microcontroller system: Dollar Tree 5 Vdc 1 A power supply $1.25, Dollar Tree micro USB cable $1.25 and Adafruit Raspberry Pi Pico $4.00.
 Almost everything at [Dollar Tree](https://www.dollartree.com/) is $1.25.
     
 Products
