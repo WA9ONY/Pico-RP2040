@@ -46,6 +46,8 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
   + Video recording     
 + [Khan Academy](https://www.youtube.com/@khanacademy)
   + Many classes  
++ [MicroPython tutorial](https://www.youtube.com/results?search_query=micropython+tutorial)
+  + MicroPython is a subset of Python used for microcontrollers: Raspberry Pi Pico, etc.  
 + [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
   + MIT classes  
 + [Paul Baumgarten](https://www.youtube.com/@pbaumgarten) 
