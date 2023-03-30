@@ -151,6 +151,12 @@ This a list of playlist and over one hour videos.
 + [The 12 Days of Codemas - Raspberry Pi Pico Advent Calendar 2022, 13 videos](https://www.youtube.com/playlist?list=PLXxP0FUTG0FnEQz4X2yPWCAsAZEDCnxYG)
 + Google YouTube search for [Raspberry Pi Pico, >3 million videos](https://www.google.com/search?q=youtube+raspberry+pi+pico&oq=YouTube+Raspberry+Pi+Pico&aqs=chrome.0.0i512l2j0i22i30j0i390l5j69i64.5101j0j15&sourceid=chrome&ie=UTF-8#ip=1)
     
+## MicroPython playlists
++ [MicroPythons, 6 videos](https://www.youtube.com/playlist?list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl)
++ [Learn MicroPythons, 6 videos](https://www.youtube.com/playlist?list=PL2935W76vRNEV6PwvxiqJf47JVrbGzTkC)
++ [ESP32 MicroPython, 28 videos](https://www.youtube.com/playlist?list=PLw0SimokefZ3uWQoRsyf-gKNSs4Td-0k6)
++ [Introduction to MicroPython, 32 videos](https://www.youtube.com/playlist?list=PLXwAdcOl0lCpKRep_Gb_YVDfYjcaqZSvA)
+        
 ## CircuitPython playlists
 + [Circuit Python Tutorials, 74 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
 + [CircuitPython & Circuit Playground Express Tutorials, 16 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPRo77roCKMzIh4q4Mu2dCBU)
