@@ -3553,7 +3553,9 @@ Programming the Pico
 + Book [errors](http://simonmonk.org/prog_pico/)
 + Pico book [kit](https://www.monkmakes.com/pico_kit1.html)    
     
-        
+Programming the Pico: Learn Coding and Electronics with the Raspberry Pi Pico [Amazon](https://www.amazon.com/Programming-Pico-Coding-Electronics-Raspberry/dp/B09HG2JYS9/ref=sr_1_1?crid=152FZL25KYQP2&keywords=Programming+the+Pico%2C+Dr.Simon+Monk&qid=1680140265&sprefix=programming+the+pico%2C+dr.simon+monk%2Caps%2C154&sr=8-1)
+ 
+    
 <A NAME="P84"></A>
 <HR>
 <P align="center"><A HREF="#P83">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P85">--&gt;</A></P>  
