@@ -1319,11 +1319,11 @@ Products
 <img align="center" width="1169" height="689" src="/Images/ThonneyVersions.png">        
 </p>
     
-Thonny is an IDE for 
-  + Python
-  + MicroPython for Raspberry Pi Pico, etc.
+[Thonny](https://thonny.org/) is an IDE for 
+  + [Python](https://www.python.org/)
+  + [MicroPython](https://micropython.org/) for Raspberry Pi Pico, etc.
 
-## Thonny on Ubuntu 20.04.2 LTS    
+## Thonny on [Ubuntu](https://ubuntu.com/) 20.04.2 LTS    
     
 Use the standard Ubuntu software to install Thonney.
   + Open show applications    
