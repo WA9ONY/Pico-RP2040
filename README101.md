@@ -1314,15 +1314,23 @@ Products
 <HR>
 <P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 137: Thonny
 <p align="center">
 <img align="center" width="1169" height="689" src="/Images/ThonneyVersions.png">        
 </p>
-# Project 137: Thonney
     
-Thonney is an IDE for Python and MicroPython.
+Thonny is an IDE for 
+  + Python
+  + MicroPython for Raspberry Pi Pico, etc.
+
+## Thonny on Ubuntu 20.04.2 LTS    
     
 Use the standard Ubuntu software to install Thonney.
-    
+  + Open show applications    
+  + Open Ubuntu Software
+  + Search for Thonny
+  + Select Thonny-IDE and install
+  + The above screenshot shows Thony version and Python version.
     
     
     
