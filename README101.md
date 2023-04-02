@@ -362,8 +362,11 @@ See YouTube Short video [2N3055 Test for Raspberry Pi Pico](https://youtube.com/
 + This configuration is a step towards using the 2N3055 with the Raspberry Pi Pico, a 3.3 V only device.
     
 What is the Raspberry Pi Pico digital I/O [specifications](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)?    
- 
- 
+
+URLs
+  + Nuts and Volts [HOW TO USE A TRANSISTOR AS A SWITCH](https://www.nutsvolts.com/magazine/article/may2015_Secura?utm_medium=email&_hsmi=252611956&_hsenc=p2ANqtz--p0HFBS-HLfDTrNFdGX9p0H_c9ZIbDQjiJx0gmYpXz1PsCd6hWqqnPdxaETGwMtG309HStbx7ZO23LS_c1u4T9Y5sxaw&utm_content=252611956&utm_source=hs_email)  
+
+    
 <A NAME="P107"></A>
 <HR>
 <P align="center"><A HREF="#P106">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P108">--&gt;</A></P>  
