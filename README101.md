@@ -1019,7 +1019,7 @@ Hakster
     
 SparkFund    
   + [How to Build an ML-powered Doorbell Notifierr](https://www.sparkfun.com/news/6181)  
-
+  + [AI/ML Hand Signal Recognition - Thumbs Up, Thumbs Down, Nothing](https://www.sparkfun.com/news/6412?utm_campaign=SparkFun%20Weekly%20Blog%20Recap&utm_medium=email&_hsmi=252828830&_hsenc=p2ANqtz-_gKl0wEIuDtJ2MncvXd4sutgTUvXrbcMqkNXS8WSlPruPwX7vuSeumHcfFNeyFhTuiy6OmgP2Wi8d1O-e10Uz3pZHx7g&utm_content=252828830&utm_source=hs_email)
      
 <A NAME="P124"></A>
 <HR>
@@ -1371,7 +1371,10 @@ Use the standard Ubuntu software to install Thonney.
 + #372 How to use the two Cores of the Pi Pico? And how fast are Interrupts? [video](https://youtu.be/9vvobRfFOwk)
 + Adafruit STEMMA & STEMMA QT Plug & play connectivity - STEMMA SUNDAY! [video](https://youtu.be/_Cu7UOcGL14) 
 + Pico W vs. Zero 2 W  
-  
-
++ Arduino UNO R4 May 2023  
++ Arduino Portenta C33
+    
+    
+    
 73 David Haworth WA9ONY
 
