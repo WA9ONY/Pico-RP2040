@@ -174,7 +174,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 124: <A HREF="README101.md#P124">SparkFun Machine Learning</A>
 + Project 125: <A HREF="README101.md#P125">Google AIY Projects</A>
 + Project 126: <A HREF="README101.md#P126">The Great Courses</A>
-+ Project 127: <A HREF="README101.md#P127">Microcontroller Morse Code</A>
++ Project 127: <A HREF="README101.md#P127">Morse Code</A>
 + Project 128: <A HREF="README101.md#P128">Arduino Day</A>
 + Project 129: <A HREF="README101.md#P129">PyTorch</A>
 + Project 130: <A HREF="README101.md#P130">Hackaday</A>
