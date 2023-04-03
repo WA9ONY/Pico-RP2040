@@ -890,6 +890,11 @@ Khan Academy
   + [Wikipedia](https://en.wikipedia.org/wiki/Khan_Academy)    
   + YouTube [channel](https://www.youtube.com/@khanacademy)
 
+Courses
+  + [AI for education](https://www.khanacademy.org/college-careers-more/ai-for-education?utm_source=Sailthru&utm_medium=email&utm_campaign=KhanLabs-withKAID-EM2)  
+        
+[Learning with AI: Promising practices for students
+](https://www.khanacademy.org/college-careers-more/ai-for-education/x68ea37461197a514:ai-for-education-unit-1/x68ea37461197a514:ai-in-the-classroom/a/learning-with-ai-promising-practices-for-students?utm_source=Sailthru&utm_medium=email&utm_campaign=KhanLabs-withKAID-EM2)    
     
 <A NAME="P119"></A>
 <HR>
