@@ -867,7 +867,9 @@ Glossaries
 
 Internet Archive
   + Machine Learning [search](https://archive.org/search?query=Machine+Learning)
-        
+
+URLs
+  +  [How to use Machine Learning on Microcontroller Devices](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)  
     
 <A NAME="P118"></A>
 <HR>
