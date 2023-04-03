@@ -1070,8 +1070,7 @@ The Great Courses
 <HR>
 <P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P128">--&gt;</A></P>  
     
-# Project 127: Microcontroller Morse Code
-
+# Project 127: Morse Code
     
 YouTube
   + Morse code pico [Search](https://www.youtube.com/results?search_query=morse+code+pico)
@@ -1079,6 +1078,7 @@ YouTube
   + Morse decode [Search](https://www.youtube.com/results?search_query=morse+decode+)
   + Machine Learning Morse code [Search](https://www.youtube.com/results?search_query=Machine+Learning+Morse+Code)
   + Morse code [Search](https://www.youtube.com/results?search_query=morse+code)
+  + [Codewars (Python) | Decode the Morse code | kyu6](https://youtu.be/I9ba4GlBA4o)
 
 Google
   + Morse code pico [Search](https://www.google.com/search?q=Morse+code+pico&oq=Morse+code+pico&aqs=chrome..69i57j0i512j0i22i30j0i390i650l5.2509j0j15&sourceid=chrome&ie=UTF-8)
@@ -1324,7 +1324,7 @@ Products
         
 <A NAME="P137"></A>
 <HR>
-<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P138">--&gt;</A></P>  
     
 # Project 137: Thonny
 <p align="center">
@@ -1344,11 +1344,21 @@ Use the standard Ubuntu software to install Thonney.
   + Select Thonny-IDE and install
   + The above screenshot shows Thony version and Python version.
     
+     
+        
+<A NAME="P138"></A>
+<HR>
+<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 138: CircuitPython
+    
+    
++ [100 CircuitPython Community Libraries!](https://blog.adafruit.com/2023/03/22/100-circuitpython-community-libraries-circuitpython-python-circuitpython/?utm_source=Adafruit+Products+Newsletter&utm_campaign=99ae4b98f4-EMAIL_CAMPAIGN_2023_03_28_03_04&utm_medium=email&utm_term=0_-99ae4b98f4-%5BLIST_EMAIL_ID%5D)    
+   
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P138">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
