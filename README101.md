@@ -698,12 +698,15 @@ Newsletters are a great way to keep current on new products, webinars, new books
 Magazine & website newsletters
   + [All About Circuits](https://www.allaboutcircuits.com/news/)
   + [Elektor](https://www.elektormagazine.com/elektor-newsletter)
+  + [MagPi](https://magpi.raspberrypi.com/)
   + [Nuts and Volts](https://www.nutsvolts.com/blog/post/nuts_volts_newsletters)
   + [3D Printing](https://3dprintingindustry.com/newsletter/)  
     
 Vendor newsletters
   + [Adafruit](https://www.adafruit.com/newsletter)
   + [Arduino](https://support.arduino.cc/hc/en-us/articles/4405005271964-Subscribe-or-unsubscribe-from-the-Arduino-newsletter)
+  + [Digi-Key](https://www.digikey.com/  
+  + [Element14 Community](https://community.element14.com/)  
   + [Raspberry Pi](https://www.raspberrypi.com/weekly/)  
   + [Seeed Studio](https://www.seeedstudio.com/blog/category/news/)
   + [Sparkfun](https://www.sparkfun.com/subscribe)
@@ -1349,23 +1352,41 @@ Use the standard Ubuntu software to install Thonney.
   + Open Ubuntu Software
   + Search for Thonny
   + Select Thonny-IDE and install
-  + The above screenshot shows Thony version and Python version.
-    
+  + The above screenshot shows Thony version and Python version.    
      
-        
+    
 <A NAME="P138"></A>
 <HR>
-<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P139">--&gt;</A></P>  
     
 # Project 138: CircuitPython
     
     
 + [100 CircuitPython Community Libraries!](https://blog.adafruit.com/2023/03/22/100-circuitpython-community-libraries-circuitpython-python-circuitpython/?utm_source=Adafruit+Products+Newsletter&utm_campaign=99ae4b98f4-EMAIL_CAMPAIGN_2023_03_28_03_04&utm_medium=email&utm_term=0_-99ae4b98f4-%5BLIST_EMAIL_ID%5D)    
+     
+    
+<A NAME="P139"></A>
+<HR>
+<P align="center"><A HREF="#P138">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 139: Groups.IO Microcontrollers
+    
+[Microcontrollers](https://groups.io/g/Microcontrollers): Pico, Arduino, RP2040, ESP32, STM32, Atmega328P, UNO, Feather, etc. Microcontrollers@groups.io
+
+This group is where you can share you experiences with using microcontrollers in your projects.  Examples of microcontrollers include Raspberry Pi Pico, Arduino family of microcontrollers and any other microcontrollers that you are using.
+
+Microcontrollers are tiny computers that run a single program usually without an operating system software to control various electrical and mechanical devices. 
+
+A hot area today is using microcontrollers in IoT (Internet of Things) devices.
+
+Group owner David Haworth WA9ONY
+
+    
    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P138">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
