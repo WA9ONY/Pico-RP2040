@@ -1371,7 +1371,7 @@ Use the standard Ubuntu software to install Thonney.
     
 # Project 139: Groups.IO Microcontrollers
     
-[Microcontrollers](https://groups.io/g/Microcontrollers): Pico, Arduino, RP2040, ESP32, STM32, Atmega328P, UNO, Feather, etc. Microcontrollers@groups.io
+[Microcontrollers at Groups.IO](https://groups.io/g/Microcontrollers): Pico, Arduino, RP2040, ESP32, STM32, Atmega328P, UNO, Feather, etc. 
 
 This group is where you can share you experiences with using microcontrollers in your projects.  Examples of microcontrollers include Raspberry Pi Pico, Arduino family of microcontrollers and any other microcontrollers that you are using.
 
