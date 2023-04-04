@@ -840,7 +840,8 @@ Wikipedia
   + [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
   + [Glossary of artificial intelligence](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
   + [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
-    
+  + [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
+   
 Courses  
   + Google machine learning crash course  [YouTube list](https://www.youtube.com/results?search_query=google+machine+learning+crash+course+)   
   + 100 Days Of ML  [YouTube playlist](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)   
@@ -870,6 +871,10 @@ Internet Archive
 
 URLs
   +  [How to use Machine Learning on Microcontroller Devices](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)  
+  + [Edge Impulse Getting Started](https://docs.edgeimpulse.com/docs)
+  + [Edge Computing](https://www.accenture.com/us-en/insights/cloud/edge-computing-index#:~:text=Edge%20is%20about%20processing%20data,an%20on%2Dpremise%20data%20center.)  
+  + Google Edge Computing [search](https://www.google.com/search?q=edge+computing&oq=edge+computing&aqs=chrome..69i57j0i512l9.9915j0j15&sourceid=chrome&ie=UTF-8)
+
     
 <A NAME="P118"></A>
 <HR>
