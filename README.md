@@ -185,6 +185,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 135: <A HREF="README101.md#P135">Element14</A>
 + Project 136: <A HREF="README101.md#P136">Dollar Tree</A>
 + Project 137: <A HREF="README101.md#P137">Thonny</A>
++ Project 138: <A HREF="README101.md#P138">Groups.IO Microcontrollers</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
