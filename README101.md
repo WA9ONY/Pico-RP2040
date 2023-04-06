@@ -1404,6 +1404,10 @@ Group owner David Haworth WA9ONY
 Discord is a VoIP and instant messaging social platform that is used by the ecosystems of Adafruit, Arduino, etc.    
     
 [Discord](https://discord.com/) on [Wikipedia](https://en.wikipedia.org/wiki/Discord)
+
+YouTube
+  + [How to Use Discord - Beginner's Guide](https://youtu.be/rnYGrq95ezA)  
+    
     
 ## Adafruit Discord
 <p align="center">
@@ -1416,6 +1420,8 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/ArduinoDiscord.png">        
 </p>
+
++ Discord members >5K Online, >45K Members    
    
 ## Raspberry Pi Discord
 <p align="center">
