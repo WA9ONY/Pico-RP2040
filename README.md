@@ -187,6 +187,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 137: <A HREF="README101.md#P137">Thonny</A>
 + Project 138: <A HREF="README101.md#P138">CircuitPython</A>
 + Project 139: <A HREF="README101.md#P139">Groups.IO Microcontrollers</A>
++ Project 140: <A HREF="README101.md#P140">Discord</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
