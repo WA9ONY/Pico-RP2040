@@ -984,6 +984,9 @@ Image credit: Adafruit [Tiny Machine Learning on the Edge with TensorFlow Lite R
 YouTube
   + [Microcontrollers Machine Learning](https://www.youtube.com/results?search_query=Microcontrollers+Machine+Learning)  
 
+URLs
+  + [How to use Machine Learning on Microcontroller Devices](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)  
+    
 Adafruit
   + [Adafruit EdgeBadge - TensorFlow Lite for Microcontrollers](https://www.adafruit.com/product/4400)  
   + [Adafruit PyBadge](https://www.adafruit.com/?q=PyBadge&sort=BestMatch)  
