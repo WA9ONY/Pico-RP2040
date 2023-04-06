@@ -1412,40 +1412,45 @@ YouTube
   + [How to Use Discord - Beginner's Guide](https://youtu.be/rnYGrq95ezA)   
     
 ## Adafruit Discord
+    
+The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-discord-discordapp-adafruit-discord-adafruit/) server is a 24/7/365  makerspace for folks all around the world (>5K Online, >37K Members).     
+
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/AdafruitDiscord.png">        
 </p>
-    
-The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-discord-discordapp-adafruit-discord-adafruit/) server is a 24/7/365  makerspace for folks all around the world (>5K Online, >37K Members).     
    
 ## Arduino Discord
+
++ Discord members >5K Online, >45K Members    
+
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/ArduinoDiscord.png">        
 </p>
-
-+ Discord members >5K Online, >45K Members    
    
 ## Raspberry Pi Discord
+
++ Discord members >2K Online, >15K Members    
+
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/RaspberryPiDiscord.png">        
 </p>
-
-+ Discord members >2K Online, >15K Members    
     
 ## Seeed Discord
+
++ Discord members >500 Online, >5K Members    
+
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/SeeedDiscord.png">        
 </p>
-
-+ Discord members >500 Online, >5K Members    
     
 ## Python Discord
+
++ Discord members >41K Online, >375K Members    
+    
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/PythonDiscord.png">        
 </p>
 
-+ Discord members >41K Online, >375K Members    
-    
 Serveral Discords on machine learning and TensorFlow.
     
     
