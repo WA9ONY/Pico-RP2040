@@ -1367,7 +1367,7 @@ Use the standard Ubuntu software to install Thonney.
     
 <A NAME="P139"></A>
 <HR>
-<P align="center"><A HREF="#P138">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P138">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P140">--&gt;</A></P>  
     
 # Project 139: Groups.IO Microcontrollers
     
@@ -1380,13 +1380,57 @@ Microcontrollers are tiny computers that run a single program usually without an
 A hot area today is using microcontrollers in IoT (Internet of Things) devices.
 
 Group owner David Haworth WA9ONY
-
+ 
     
+<A NAME="P140"></A>
+<HR>
+<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 140: Discord
+
+Discord is a VoIP and instant messaging social platform that is used by the ecosystems of Adafruit, Arduino, etc.    
+    
+[Discord](https://discord.com/) on [Wikipedia](https://en.wikipedia.org/wiki/Discord)
+    
+## Adafruit Discord
+<p align="center">
+<img align="center" width="973" height="1067" src="/Images/AdafruitDiscord.png">        
+</p>
+    
+The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-discord-discordapp-adafruit-discord-adafruit/) server is a 24/7/365  makerspace for folks all around the world (>5K Online, >37K Members).     
    
+## Arduino Discord
+<p align="center">
+<img align="center" width="973" height="1067" src="/Images/ArduinoDiscord.png">        
+</p>
+   
+## Raspberry Pi Discord
+<p align="center">
+<img align="center" width="973" height="1067" src="/Images/RaspberryPiDiscord.png">        
+</p>
+
+>2K Online, >15K Members    
+    
+## Seeed Discord
+<p align="center">
+<img align="center" width="973" height="1067" src="/Images/RaspberryPiDiscord.png">        
+</p>
+
+>500 Online, >5K Members    
+    
+## Python Discord
+<p align="center">
+<img align="center" width="973" height="1067" src="/Images/PythonDiscord.png">        
+</p>
+
+>41K Online, >375K Members    
+    
+Serveral Discords on machine learning and TensorFlow.
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P140">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
