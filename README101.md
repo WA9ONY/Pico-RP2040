@@ -1400,14 +1400,16 @@ Group owner David Haworth WA9ONY
 <P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 140: Discord
+<p align="center">
+<img align="center" width="640" height="122" src="/Images/Discord_logo.png">        
+</p>
 
 Discord is a VoIP and instant messaging social platform that is used by the ecosystems of Adafruit, Arduino, etc.    
     
 [Discord](https://discord.com/) on [Wikipedia](https://en.wikipedia.org/wiki/Discord)
 
 YouTube
-  + [How to Use Discord - Beginner's Guide](https://youtu.be/rnYGrq95ezA)  
-    
+  + [How to Use Discord - Beginner's Guide](https://youtu.be/rnYGrq95ezA)   
     
 ## Adafruit Discord
 <p align="center">
