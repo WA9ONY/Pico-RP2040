@@ -700,6 +700,7 @@ Magazine & website newsletters
   + [Elektor](https://www.elektormagazine.com/elektor-newsletter)
   + [MagPi](https://magpi.raspberrypi.com/)
   + [Nuts and Volts](https://www.nutsvolts.com/blog/post/nuts_volts_newsletters)
+  + [Servo](https://www.servomagazine.com/)  
   + [3D Printing](https://3dprintingindustry.com/newsletter/)  
     
 Vendor newsletters
