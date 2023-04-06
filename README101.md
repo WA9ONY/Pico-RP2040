@@ -699,6 +699,7 @@ Magazine & website newsletters
   + [All About Circuits](https://www.allaboutcircuits.com/news/)
   + [Elektor](https://www.elektormagazine.com/elektor-newsletter)
   + [MagPi](https://magpi.raspberrypi.com/)
+  + [Make](https://makezine.com/make-arduino-day-premium/?vgo_ee=HhhA0ZHwzowr1T0R58tNEutqVMg1JZnNHmH9ZJSVC54%3D%3AOZyBgCr4xuohLpa0i9vVNEfZWfFOYVZi)
   + [Nuts and Volts](https://www.nutsvolts.com/blog/post/nuts_volts_newsletters)
   + [Servo](https://www.servomagazine.com/)  
   + [3D Printing](https://3dprintingindustry.com/newsletter/)  
