@@ -1409,21 +1409,21 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <img align="center" width="973" height="1067" src="/Images/RaspberryPiDiscord.png">        
 </p>
 
-+ >2K Online, >15K Members    
++ Discord members >2K Online, >15K Members    
     
 ## Seeed Discord
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/SeeedDiscord.png">        
 </p>
 
-+ >500 Online, >5K Members    
++ Discord members >500 Online, >5K Members    
     
 ## Python Discord
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/PythonDiscord.png">        
 </p>
 
-+ >41K Online, >375K Members    
++ Discord members >41K Online, >375K Members    
     
 Serveral Discords on machine learning and TensorFlow.
     
