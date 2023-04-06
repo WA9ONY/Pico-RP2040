@@ -705,12 +705,15 @@ Magazine & website newsletters
 Vendor newsletters
   + [Adafruit](https://www.adafruit.com/newsletter)
   + [Arduino](https://support.arduino.cc/hc/en-us/articles/4405005271964-Subscribe-or-unsubscribe-from-the-Arduino-newsletter)
-  + [Digi-Key](https://www.digikey.com/  
+  + [Digi-Key](https://www.digikey.com/)
   + [Element14 Community](https://community.element14.com/)  
   + [Raspberry Pi](https://www.raspberrypi.com/weekly/)  
   + [Seeed Studio](https://www.seeedstudio.com/blog/category/news/)
   + [Sparkfun](https://www.sparkfun.com/subscribe)
   + [Waveshare](https://www.waveshare.com/)  
+
+Other
+  + [Khan Labs newsletter for updates about AI and future testing](https://emails.khanacademy.org/join/khanlabs)  
     
     
 <A NAME="P113"></A>
