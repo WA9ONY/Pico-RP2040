@@ -1460,9 +1460,19 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
     
 # Project 141: RP2040 DVI
     
-[Elektor](https://www.elektormagazine.com/articles/dvi-on-the-rp2040-mcu-raspberry-pi-luke-wren?utm_source=Elektor+International+%28English%29&utm_campaign=842ef349b6-EMAIL_CAMPAIGN_4_6_2023_9_29&utm_medium=email&utm_term=0_23bd160f48-842ef349b6-%5BLIST_EMAIL_ID%5D&mc_cid=842ef349b6&mc_eid=1bc428feb9)    
+[Elektor](https://www.elektormagazine.com/articles/dvi-on-the-rp2040-mcu-raspberry-pi-luke-wren?utm_source=Elektor+International+%28English%29&utm_campaign=842ef349b6-EMAIL_CAMPAIGN_4_6_2023_9_29&utm_medium=email&utm_term=0_23bd160f48-842ef349b6-%5BLIST_EMAIL_ID%5D&mc_cid=842ef349b6&mc_eid=1bc428feb9)
+  + DVI on the RP2040 MCU: A Q&A with Raspberry Pi's Luke Wren  
 
-[Adafruit](https://www.adafruit.com/product/5710)    
+[Adafruit](https://www.adafruit.com/product/5710)
+  + DVI on the RP2040 MCU: A Q&A with Raspberry Pi's Luke Wren
+  + [YouTube](https://youtu.be/Nsvf5gnYErs) NOYDA - RP2040 with DVI output first output test
+  + [YouTube](https://youtu.be/GyZS_efRyiY) Raspberry Pi Pico, HDMI on a breadboard 
+  + [YouTube](https://youtu.be/oNi_D_TUs88) Desk of Ladyada - overtime edition! RP2040 DVI Feather from Bones
+  + [YouTube](Desk of Ladyada - First Bones Board Proto Assembled! DVI Output from RP2040) Desk of Ladyada - overtime edition! RP2040 DVI Feather from Bones
+
+[YouTube](https://youtu.be/a5T4pjG-vnM)Raspberry Pi Pico DVI Sock! 
+    
+[Google search](https://www.google.com/search?q=rp2040+dvi&oq=RP2040+DVI&aqs=chrome.0.0i512j0i390i650l2j69i61j69i60l2.5759j0j15&sourceid=chrome&ie=UTF-8) rp2040 dvi
     
     
 <A NAME="FUTURE"></A>
