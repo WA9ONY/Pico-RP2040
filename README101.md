@@ -1397,7 +1397,7 @@ Group owner David Haworth WA9ONY
     
 <A NAME="P140"></A>
 <HR>
-<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P141">--&gt;</A></P>  
     
 # Project 140: Discord
 <p align="center">
@@ -1410,6 +1410,8 @@ Discord is a VoIP and instant messaging social platform that is used by the ecos
 
 YouTube
   + [How to Use Discord - Beginner's Guide](https://youtu.be/rnYGrq95ezA)   
+
+There aer serveral Discord groups on machine learning and TensorFlow.
     
 ## Adafruit Discord
     
@@ -1450,13 +1452,22 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <p align="center">
 <img align="center" width="973" height="1067" src="/Images/PythonDiscord.png">        
 </p>
+ 
+    
+<A NAME="P141"></A>
+<HR>
+<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 141: RP2040 DVI
+    
+[Elektor](https://www.elektormagazine.com/articles/dvi-on-the-rp2040-mcu-raspberry-pi-luke-wren?utm_source=Elektor+International+%28English%29&utm_campaign=842ef349b6-EMAIL_CAMPAIGN_4_6_2023_9_29&utm_medium=email&utm_term=0_23bd160f48-842ef349b6-%5BLIST_EMAIL_ID%5D&mc_cid=842ef349b6&mc_eid=1bc428feb9)    
 
-Serveral Discords on machine learning and TensorFlow.
+[Adafruit](https://www.adafruit.com/product/5710)    
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P140">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
