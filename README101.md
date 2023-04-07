@@ -1459,6 +1459,10 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <P align="center"><A HREF="#P140">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 141: RP2040 DVI
+
+The RP2040 can output DVI siganls.
+    
+The electrical DVI video signals are the same as HDMI.  DVI does not have audio.  HDMI has audio.    
     
 [Elektor](https://www.elektormagazine.com/articles/dvi-on-the-rp2040-mcu-raspberry-pi-luke-wren?utm_source=Elektor+International+%28English%29&utm_campaign=842ef349b6-EMAIL_CAMPAIGN_4_6_2023_9_29&utm_medium=email&utm_term=0_23bd160f48-842ef349b6-%5BLIST_EMAIL_ID%5D&mc_cid=842ef349b6&mc_eid=1bc428feb9)
   + DVI on the RP2040 MCU: A Q&A with Raspberry Pi's Luke Wren  
@@ -1470,9 +1474,16 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
   + [YouTube](https://youtu.be/oNi_D_TUs88) Desk of Ladyada - overtime edition! RP2040 DVI Feather from Bones
   + [YouTube](Desk of Ladyada - First Bones Board Proto Assembled! DVI Output from RP2040) Desk of Ladyada - overtime edition! RP2040 DVI Feather from Bones
 
-[YouTube](https://youtu.be/a5T4pjG-vnM)Raspberry Pi Pico DVI Sock! 
+[YouTube](https://youtu.be/a5T4pjG-vnM) Raspberry Pi Pico DVI Sock! 
     
-[Google search](https://www.google.com/search?q=rp2040+dvi&oq=RP2040+DVI&aqs=chrome.0.0i512j0i390i650l2j69i61j69i60l2.5759j0j15&sourceid=chrome&ie=UTF-8) rp2040 dvi
+Google search 
+  +  [RP2040 DVI](https://www.google.com/search?q=rp2040+dvi&oq=RP2040+DVI&aqs=chrome.0.0i512j0i390i650l2j69i61j69i60l2.5759j0j15&sourceid=chrome&ie=UTF-8)
+  +  [DVI](https://www.google.com/search?q=DVI&sxsrf=APwXEdf6L6Ny3ujfXdBu4QPrOCHoWKKLqQ%3A1680877253767&ei=xSYwZK69LqLI9AOfmpOYDA&ved=0ahUKEwjus_zc-5f-AhUiJH0KHR_NBMMQ4dUDCBA&uact=5&oq=DVI&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIHCAAQigUQQzIKCAAQigUQsQMQQzIKCAAQigUQsQMQQzIICAAQigUQkQIyCggAEIoFELEDEEMyDQgAEIoFELEDEIMBEEMyCwgAEIAEELEDEIMBMggIABCABBCxA0oECEEYAFAAWABgyRRoAHABeACAAX-IAX-SAQMwLjGYAQCgAQKgAQHAAQE&sclient=gws-wiz-serp)
+
+Wikipedia    
+  +  [DVI](https://en.wikipedia.org/wiki/Digital_Visual_Interface)
+  +  [HDMI](https://en.wikipedia.org/wiki/HDMI)
+ 
     
     
 <A NAME="FUTURE"></A>
