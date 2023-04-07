@@ -1456,7 +1456,7 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
     
 <A NAME="P141"></A>
 <HR>
-<P align="center"><A HREF="#P140">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P140">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P142">--&gt;</A></P>  
     
 # Project 141: RP2040 DVI
 
@@ -1484,11 +1484,30 @@ Wikipedia
   +  [DVI](https://en.wikipedia.org/wiki/Digital_Visual_Interface)
   +  [HDMI](https://en.wikipedia.org/wiki/HDMI)
  
+ 
+<A NAME="P142"></A>
+<HR>
+<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 142: RP2040 PIO
+    
+RP2040 has PIO (Programmable Input Output)    
+
+The PIO is used to output sound, vidoe or other hardware spedific protocols.    
+    
+PIO is 4 independent state machines.    
+
+PIO 4 stata machines can access all GPIOs.
+PIO notifies the processors with interrupts or polling.    
+PIO programming language.    
+    
+Google
+  + [RP2040 PIO](https://www.google.com/search?q=rp2040+pio&oq=RP2040+PIO&aqs=chrome.0.0i512l10.8932j0j15&sourceid=chrome&ie=UTF-8)  
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P142">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
