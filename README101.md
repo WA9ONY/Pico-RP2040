@@ -1472,7 +1472,7 @@ The electrical DVI video signals are the same as HDMI.  DVI does not have audio.
   + [YouTube](https://youtu.be/Nsvf5gnYErs) NOYDA - RP2040 with DVI output first output test
   + [YouTube](https://youtu.be/GyZS_efRyiY) Raspberry Pi Pico, HDMI on a breadboard 
   + [YouTube](https://youtu.be/oNi_D_TUs88) Desk of Ladyada - overtime edition! RP2040 DVI Feather from Bones
-  + [YouTube](Desk of Ladyada - First Bones Board Proto Assembled! DVI Output from RP2040) Desk of Ladyada - overtime edition! RP2040 DVI Feather from Bones)
+  + [YouTube](https://www.youtube.com/live/V4DwelANTGs?feature=share) Desk of Ladyada - First Bones Board Proto Assembled! DVI Output from RP2040
 
 [YouTube](https://youtu.be/a5T4pjG-vnM) Raspberry Pi Pico DVI Sock! 
     
