@@ -882,7 +882,8 @@ URLs
   + [Edge Impulse Getting Started](https://docs.edgeimpulse.com/docs)
   + [Edge Computing](https://www.accenture.com/us-en/insights/cloud/edge-computing-index#:~:text=Edge%20is%20about%20processing%20data,an%20on%2Dpremise%20data%20center.)  
   + Google Edge Computing [search](https://www.google.com/search?q=edge+computing&oq=edge+computing&aqs=chrome..69i57j0i512l9.9915j0j15&sourceid=chrome&ie=UTF-8)
-
+  + Datacamp [What is TinyML? An Introduction to Tiny Machine Learning](https://www.datacamp.com/blog/what-is-tinyml-tiny-machine-learning)
+    
     
 <A NAME="P118"></A>
 <HR>
