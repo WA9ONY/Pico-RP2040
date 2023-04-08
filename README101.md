@@ -855,6 +855,7 @@ Courses
   + 100 Days Of ML  [YouTube playlist](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)   
 
 YouTube  
+  + DeepLearning.TV [channel](https://www.youtube.com/@DeepLearningTV)   
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
   + Machine learning [Uwe Aickelin](https://youtu.be/qDbpYUbf3e0)
@@ -862,8 +863,11 @@ YouTube
   + [Machine Learning Methods](https://youtu.be/qDbpYUbf3e0) - Computerphile
     
 Internet Archive
-  + [achine learning](https://archive.org/search?query=Machine+Learning)
+  + [Machine learning](https://archive.org/search?query=Machine+Learning)
 
+Amazon
+  +[Best Sellers in Machine Theory](https://www.amazon.com/gp/bestsellers/digital-text/16977184011/ref=pd_zg_hrsr_digital-text)
+    
 Python
   + W3 School Python machine learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
     
@@ -878,7 +882,7 @@ Internet Archive
   + Machine Learning [search](https://archive.org/search?query=Machine+Learning)
 
 URLs
-  +  [How to use Machine Learning on Microcontroller Devices](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)  
+  + [How to use Machine Learning on Microcontroller Devices](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)  
   + [Edge Impulse Getting Started](https://docs.edgeimpulse.com/docs)
   + [Edge Computing](https://www.accenture.com/us-en/insights/cloud/edge-computing-index#:~:text=Edge%20is%20about%20processing%20data,an%20on%2Dpremise%20data%20center.)  
   + Google Edge Computing [search](https://www.google.com/search?q=edge+computing&oq=edge+computing&aqs=chrome..69i57j0i512l9.9915j0j15&sourceid=chrome&ie=UTF-8)
