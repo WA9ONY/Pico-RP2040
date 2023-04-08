@@ -1487,7 +1487,7 @@ Wikipedia
  
 <A NAME="P142"></A>
 <HR>
-<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P143">--&gt;</A></P>  
     
 # Project 142: RP2040 PIO
     
@@ -1503,11 +1503,21 @@ PIO programming language.
     
 Google
   + [RP2040 PIO](https://www.google.com/search?q=rp2040+pio&oq=RP2040+PIO&aqs=chrome.0.0i512l10.8932j0j15&sourceid=chrome&ie=UTF-8)  
+ 
+ 
+<A NAME="P143"></A>
+<HR>
+<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 143: Wire
+    
+Nuts and Volts
+  + [THE SECRET LIFE OF A WIRE](https://www.nutsvolts.com/magazine/article/the_secret_life_of_a_wire?utm_medium=email&_hsmi=253509918&_hsenc=p2ANqtz-8g9jN8w_dGu7WV5y46VtOddGXF4NCeZwsfvan3aCPS8iebkCEw_GKtD71O6Rp2IrUPiQKx-SXrOAicCnZjmtVZM54VnA&utm_content=253509918&utm_source=hs_email)
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P142">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P143">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
