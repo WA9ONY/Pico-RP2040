@@ -189,6 +189,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 139: <A HREF="README101.md#P139">Groups.IO Microcontrollers</A>
 + Project 140: <A HREF="README101.md#P140">Discord</A>
 + Project 141: <A HREF="README101.md#P141">RP2040 DVI</A>
++ Project 142: <A HREF="README101.md#P142">RP2040 PIO</A>
++ Project 143: <A HREF="README101.md#P143">Wire</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
