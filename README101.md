@@ -853,14 +853,27 @@ Wikipedia
 Courses  
   + Google machine learning crash course  [YouTube list](https://www.youtube.com/results?search_query=google+machine+learning+crash+course+)   
   + 100 Days Of ML  [YouTube playlist](https://www.youtube.com/playlist?list=PLVBat3Ko2nN9z2L0izo1Reb3SmXdw7npz)   
+  + Standord University [Machine Learning](https://www.youtube.com/@stanfordonline/search?query=machine%20learning)
+    + Standford CS229
+      + 20 videos [Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+      + 23 videos [Anand Avati](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+    + [Machine Learning](https://www.coursera.org/learn/machine-learning) 7 days free
+  + YouTube [Machine Learning corses](https://www.youtube.com/results?search_query=machine+learning+course) 
 
 YouTube  
+  + Smitha Kolan [How I Learnt Machine Learning In 6 Steps (3 months)](https://www.youtube.com/watch?v=OuC3wgp1Fnw)
+    + Learn Math
+    + Learn the basics of machine learning, take a course
+    + Learn Python
+    + Data preparation 60-80% of the time, 
+    + Learn ML library: start with [scikit learm](https://scikit-learn.org/stable/), TensorFlow
   + DeepLearning.TV [channel](https://www.youtube.com/@DeepLearningTV)   
   + TinyML - Tiny Machine Learning ESE3600 2 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPcxyEjUW8NKsYNsxKlbHC8i)   
   + TinyML - Tiny Machine Learning at UPenn 110 videos [playlist](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
   + Machine learning [Uwe Aickelin](https://youtu.be/qDbpYUbf3e0)
   + Paul G. Allen School [machine lists](https://www.youtube.com/@uwcse/search?query=machine)
   + [Machine Learning Methods](https://youtu.be/qDbpYUbf3e0) - Computerphile
+  + MIT [Machine Learning](https://www.youtube.com/@mit/search?query=Machine%20Learning) 
     
 Internet Archive
   + [Machine learning](https://archive.org/search?query=Machine+Learning)
@@ -1512,17 +1525,37 @@ Google
  
 <A NAME="P143"></A>
 <HR>
-<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
     
 # Project 143: Wire
     
 Nuts and Volts
   + [THE SECRET LIFE OF A WIRE](https://www.nutsvolts.com/magazine/article/the_secret_life_of_a_wire?utm_medium=email&_hsmi=253509918&_hsenc=p2ANqtz-8g9jN8w_dGu7WV5y46VtOddGXF4NCeZwsfvan3aCPS8iebkCEw_GKtD71O6Rp2IrUPiQKx-SXrOAicCnZjmtVZM54VnA&utm_content=253509918&utm_source=hs_email)
+ 
+ 
+<A NAME="P144"></A>
+<HR>
+<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 144: scikit-learn
+ 
+scikit-learn is a free software machine learning library for the Python.    
+    
+ [scikit-learn](https://scikit-learn.org/stable/)   
+    + [Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
+    + [GitHub](https://github.com/scikit-learn/scikit-learn)
+    + Amazon [books](https://www.amazon.com/s?k=scikit-learn&i=stripbooks&crid=2XBBA8UXYHFFS&sprefix=scikit-learn%2Cstripbooks%2C149&ref=nb_sb_noss_1)
+    + YouTube search [list](https://www.youtube.com/results?search_query=scikit-learn)
+    + [Internet archive](https://archive.org/search?query=scikit-learn)
+      + [Hands-on machine learning with Scikit-Learn and TensorFlow : concepts, tools, and techniques to build intelligent systems](https://archive.org/details/handsonmachinele0000gron)
+      + [Python machine learning : unlock deeper insights into machine learning with this vital guide to cutting-edge predictive analytics](https://archive.org/details/pythonmachinelea0000rasc)
+      + [Mastering machine learning with Python in six steps : a practical implementation guide to predictive data analytics using Python](https://archive.org/details/masteringmachine0000swam)
+
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P143">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
