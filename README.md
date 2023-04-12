@@ -191,9 +191,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 141: <A HREF="README101.md#P141">RP2040 DVI</A>
 + Project 142: <A HREF="README101.md#P142">RP2040 PIO</A>
 + Project 143: <A HREF="README101.md#P143">Wire</A>
-+ Project 144: <A HREF="README101.md#P144">Wire</A>
-+ Project 145: <A HREF="README101.md#P145">Wire</A> 
- Pico Vsys Power Test
++ Project 144: <A HREF="README101.md#P144">scikit-learn</A>
++ Project 145: <A HREF="README101.md#P145">Pico Vsys Power Test</A> 
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
