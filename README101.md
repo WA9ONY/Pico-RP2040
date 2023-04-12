@@ -1573,10 +1573,9 @@ Test conditions
 <img align="center" width="779" height="295" src="/Images/PicoPowerchain.png">        
 </p>
 
-Image credit: Raspberry Pi Pico
-  + [Datasheet Page 18 ](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
+Image credit: Raspberry Pi Pico [Datasheet Page 18 ](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
 
-Vsys goes directly to the Pico voltage regulator.  
+Vsys pin 39 goes directly to the Pico voltage regulator.  
       
 ## Plot Vsys Current LED On/OFF    
 <p align="center">
@@ -1588,7 +1587,7 @@ Vsys goes directly to the Pico voltage regulator.
 <img align="center" width="600" height="361" src="/Images/4VsysPower600.png">        
 </p>
 
-Best low power is Vsys 2.4 V to 3.1 V.    
+Best low power is when Vsys is ~2.4 V to ~3.1 V.    
     
 ## Table Vsys Current and Power LED On/OFF        
 <p align="center">
