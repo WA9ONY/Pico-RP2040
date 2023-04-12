@@ -1578,15 +1578,18 @@ Vsys: 1.8 V to 5.5 V.
 
 Image credit: Raspberry Pi Pico
   + [Datasheet Page 18 ](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
- 
+
+++ Plot Vsys Current LED On/OFF    
 <p align="center">
 <img align="center" width="600" height="332" src="/Images/3VsysCurrent600.png">        
 </p>
 
+++ Plot Vsys Power LED On/OFF    
 <p align="center">
 <img align="center" width="600" height="361" src="/Images/4VsysPower600.png">        
 </p>
 
+++ Table Vsys Current and Power LED On/OFF        
 <p align="center">
 <img align="center" width="600" height="605" src="/Images/2VsysTable600.png">        
 </p>
