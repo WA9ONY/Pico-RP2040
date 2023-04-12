@@ -1562,9 +1562,9 @@ scikit-learn is a free software machine learning library for the Python.
 </p>
 
 Test conditions
-    + No other circuits attached to the Pico.
-    + Test program (Project149/main.py) cycles the onboard LED on for 5 seconds and then off for 5 seconds.
-    + Test data [VsysMw.ods](Project149/VsysMw.ods)
+  + No other circuits attached to the Pico.
+  + Test program [main.py](Project145/main.py) cycles the onboard LED on for 5 seconds and then off for 5 seconds.
+  + Test data [VsysMw.ods](Project145/VsysMw.ods)
     
 Power to Vsys pin 39 and ground pin 38.
 
