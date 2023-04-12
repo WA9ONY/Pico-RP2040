@@ -1560,9 +1560,42 @@ scikit-learn is a free software machine learning library for the Python.
 <p align="center">
 <img align="center" width="600" height="338" src="/Images/PicoVsys1_600.png">        
 </p>
+
+Test conditions
+    + No other circuits attached to the Pico.
+    + Test program (Project149/main.py) cycles the onboard LED on for 5 seconds and then off for 5 seconds.
+    + Test data [VsysMw.ods](Project149/VsysMw.ods)
+    
+Power to Vsys pin 39 and ground pin 38.
+
+Vsys goes directly to the Pico voltage regulator.  
+    
+Vsys: 1.8 V to 5.5 V.    
+    
+<p align="center">
+<img align="center" width="779" height="295" src="/Images/PicoVsys1_600.png">        
+</p>
+
+Image credit: Raspberry Pi Pico
+    + [Datasheet Page 18 ](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
  
+<p align="center">
+<img align="center" width="600" height="332" src="/Images/3VsysCurrent600.png">        
+</p>
+
+<p align="center">
+<img align="center" width="600" height="361" src="/Images/4VsysPower600.png">        
+</p>
+
+<p align="center">
+<img align="center" width="600" height="605" src="/Images/2VsysTable600.png">        
+</p>
 
     
+    
+    
+YouTube
+    + [Power for the Raspberry Pi Pico - Guide to using VBUS, VSYS and 3V3 for external power circuits](https://youtu.be/3PH9jzRsb5E)
     
 <A NAME="FUTURE"></A>
 <HR> 
