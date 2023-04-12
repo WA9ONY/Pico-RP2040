@@ -1573,11 +1573,11 @@ Vsys goes directly to the Pico voltage regulator.
 Vsys: 1.8 V to 5.5 V.    
     
 <p align="center">
-<img align="center" width="779" height="295" src="/Images/PicoVsys1_600.png">        
+<img align="center" width="779" height="295" src="/Images/PicoPowerchain.png">        
 </p>
 
 Image credit: Raspberry Pi Pico
-    + [Datasheet Page 18 ](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
+  + [Datasheet Page 18 ](https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf)
  
 <p align="center">
 <img align="center" width="600" height="332" src="/Images/3VsysCurrent600.png">        
@@ -1595,7 +1595,7 @@ Image credit: Raspberry Pi Pico
     
     
 YouTube
-    + [Power for the Raspberry Pi Pico - Guide to using VBUS, VSYS and 3V3 for external power circuits](https://youtu.be/3PH9jzRsb5E)
+  + [Power for the Raspberry Pi Pico - Guide to using VBUS, VSYS and 3V3 for external power circuits](https://youtu.be/3PH9jzRsb5E)
     
 <A NAME="FUTURE"></A>
 <HR> 
