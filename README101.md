@@ -1589,11 +1589,15 @@ Image credit: Raspberry Pi Pico
 <img align="center" width="600" height="361" src="/Images/4VsysPower600.png">        
 </p>
 
+Best low power is Vsys 2.4 V to 3.1 V.    
+    
 ## Table Vsys Current and Power LED On/OFF        
 <p align="center">
 <img align="center" width="600" height="605" src="/Images/2VsysTable600.png">        
 </p>
- 
+
+The LED currnet is ~3 mA and LED power is ~10 mW.    
+    
 YouTube
   + [Power for the Raspberry Pi Pico - Guide to using VBUS, VSYS and 3V3 for external power circuits](https://youtu.be/3PH9jzRsb5E)
 
