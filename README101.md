@@ -1347,7 +1347,7 @@ Blue ban is the menu bar to navigate the website.
     
 # Project 136: Dollar Tree
 <p align="center">
-<img align="center" width="600" height="213" src="/Images/PSWcablePicoV3.png">        
+<img align="center" width="600" height="217" src="/Images/DollarTreePws.png">        
 </p>
 
 Low cost $6.50 microcontroller system: Dollar Tree 5 Vdc 1 A power supply $1.25, Dollar Tree micro USB cable $1.25 and Adafruit Raspberry Pi Pico $4.00.
@@ -1525,7 +1525,7 @@ Google
  
 <A NAME="P143"></A>
 <HR>
-<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
+<P align="center"><A HREF="#P142">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
     
 # Project 143: Wire
     
@@ -1535,7 +1535,7 @@ Nuts and Volts
  
 <A NAME="P144"></A>
 <HR>
-<P align="center"><A HREF="#P141">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P143">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P145">--&gt;</A></P>  
     
 # Project 144: scikit-learn
  
@@ -1550,12 +1550,23 @@ scikit-learn is a free software machine learning library for the Python.
       + [Hands-on machine learning with Scikit-Learn and TensorFlow : concepts, tools, and techniques to build intelligent systems](https://archive.org/details/handsonmachinele0000gron)
       + [Python machine learning : unlock deeper insights into machine learning with this vital guide to cutting-edge predictive analytics](https://archive.org/details/pythonmachinelea0000rasc)
       + [Mastering machine learning with Python in six steps : a practical implementation guide to predictive data analytics using Python](https://archive.org/details/masteringmachine0000swam)
+ 
+ 
+<A NAME="P145"></A>
+<HR>
+<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 145: Pico Vsys Power Test
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/PicoVsys1_600.png">        
+</p>
+ 
 
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P145">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
