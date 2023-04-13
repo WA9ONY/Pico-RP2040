@@ -1608,7 +1608,7 @@ YouTube
     
 # Project 146: OpenAI Chat GPT-4
 <p align="center">
-<img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
+<img align="center" width="343" height="126" src="/Images/OpenAILogoWhite.png">        
 </p>
 
 [OpenAI](https://openai.com/)   
@@ -1616,6 +1616,9 @@ YouTube
   + [Wikipedia GPT-4](https://en.wikipedia.org/wiki/GPT-4)  
   + [Wikipedia AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
     
+<p align="center">
+<img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
+</p>
     
     
     
