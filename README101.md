@@ -1611,7 +1611,12 @@ YouTube
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
 </p>
 
- [OpenAI](https://openai.com/)   
+[OpenAI](https://openai.com/)   
+  + [Wikipedia OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+  + [Wikipedia GPT-4](https://en.wikipedia.org/wiki/GPT-4)  
+  + [Wikipedia AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+    
+    
     
     
 <A NAME="FUTURE"></A>
