@@ -1626,9 +1626,9 @@ YouTube
 ChatGPT is a conversational AI   
   + [How ChatGPT Works Technically For Beginners](https://youtu.be/uCIa6V4uF84)    
   + Google search [can chatgpt write a python code](https://www.google.com/search?q=can+chatgpt+write+a+python+code&oq=Can+ChatGPT+write+a+python&aqs=chrome.0.0i512j69i57j0i10i22i30l2j0i22i30j0i10i22i30j0i390i650l4.22745j0j15&sourceid=chrome&ie=UTF-84)    
-  + [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f#:~:text=So%20chat%20GPT%20is%20indeed,well%20written%20and%20clear%20question.)    
+    + [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f#:~:text=So%20chat%20GPT%20is%20indeed,well%20written%20and%20clear%20question.)    
     
-## ML in amateur radio    
+## How is ML used in amateur radio?    
     
 <p align="center">
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
