@@ -1623,10 +1623,14 @@ YouTube
   + [Wikipedia ML: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) 
   + [Wikipedia Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) 
 
+## ChatGPT    
+        
 ChatGPT is a conversational AI   
+  + [What is ChatGPT?](https://help.openai.com/en/articles/6783457-what-is-chatgpt)    
   + [How ChatGPT Works Technically For Beginners](https://youtu.be/uCIa6V4uF84)    
   + Google search [can chatgpt write a python code](https://www.google.com/search?q=can+chatgpt+write+a+python+code&oq=Can+ChatGPT+write+a+python&aqs=chrome.0.0i512j69i57j0i10i22i30l2j0i22i30j0i10i22i30j0i390i650l4.22745j0j15&sourceid=chrome&ie=UTF-84)    
     + [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f#:~:text=So%20chat%20GPT%20is%20indeed,well%20written%20and%20clear%20question.)    
+
     
 ## How is ML used in amateur radio?    
     
