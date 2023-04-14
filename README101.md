@@ -1613,8 +1613,22 @@ YouTube
 
 [OpenAI](https://openai.com/)   
   + [Wikipedia OpenAI](https://en.wikipedia.org/wiki/OpenAI)
-  + [Wikipedia GPT-4](https://en.wikipedia.org/wiki/GPT-4)  
-  + [Wikipedia AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+  + [Wikipedia AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+  + [Wikipedia AGI: Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+  + [Wikipedia ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)  
+  + [Wikipedia RL: Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)  
+  + [Wikipedia Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning)  
+  + [Wikipedia Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)  
+  + [Wikipedia GPT-4: Generative Pre-trained Transformer 4](https://en.wikipedia.org/wiki/GPT-4)  
+  + [Wikipedia ML: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) 
+  + [Wikipedia Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) 
+
+ChatGPT is a conversational AI   
+  + [How ChatGPT Works Technically For Beginners](https://youtu.be/uCIa6V4uF84)    
+  + Google search [can chatgpt write a python code](https://www.google.com/search?q=can+chatgpt+write+a+python+code&oq=Can+ChatGPT+write+a+python&aqs=chrome.0.0i512j69i57j0i10i22i30l2j0i22i30j0i10i22i30j0i390i650l4.22745j0j15&sourceid=chrome&ie=UTF-84)    
+  + [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f#:~:text=So%20chat%20GPT%20is%20indeed,well%20written%20and%20clear%20question.)    
+    
+## ML in amateur radio    
     
 <p align="center">
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
