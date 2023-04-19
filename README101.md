@@ -1611,20 +1611,10 @@ YouTube
 <img align="center" width="343" height="126" src="/Images/OpenAILogoWhite.png">        
 </p>
 
-[OpenAI](https://openai.com/)   
-  + [Wikipedia OpenAI](https://en.wikipedia.org/wiki/OpenAI)
-  + [Wikipedia AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
-  + [Wikipedia AGI: Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
-  + [Wikipedia ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)  
-  + [Wikipedia RL: Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)  
-  + [Wikipedia Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning)  
-  + [Wikipedia Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)  
-  + [Wikipedia GPT-4: Generative Pre-trained Transformer 4](https://en.wikipedia.org/wiki/GPT-4)  
-  + [Wikipedia ML: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) 
-  + [Wikipedia Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) 
+## [OpenAI](https://openai.com/) ChatGPT    
 
-## ChatGPT    
-        
+Create a free [OpenAI](https://openai.com/) account and click on ChatGPT to start a conversation.    
+    
 ChatGPT is a conversational AI text chat bot that remembers your multiple conversations. 
     
 ChatGPT can prove Python code examples for programming the Raspberry Pi Pico microcontroller.
@@ -1679,6 +1669,18 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
 </p>
     
+[OpenAI](https://openai.com/)   
+  + [Wikipedia OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+  + [Wikipedia AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+  + [Wikipedia AGI: Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) 
+  + [Wikipedia ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)  
+  + [Wikipedia RL: Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)  
+  + [Wikipedia Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning)  
+  + [Wikipedia Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)  
+  + [Wikipedia GPT-4: Generative Pre-trained Transformer 4](https://en.wikipedia.org/wiki/GPT-4)  
+  + [Wikipedia ML: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) 
+  + [Wikipedia Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) 
+
 
  
 <A NAME="P147"></A>
