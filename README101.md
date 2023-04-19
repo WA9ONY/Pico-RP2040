@@ -1538,6 +1538,9 @@ Nuts and Volts
 <P align="center"><A HREF="#P143">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P145">--&gt;</A></P>  
     
 # Project 144: scikit-learn
+<p align="center">
+<img align="center" width="290" height="140" src="/Images/Scikit_learn_logo_small.svg">        
+</p>
  
 scikit-learn is a free software machine learning library for the Python.    
     
