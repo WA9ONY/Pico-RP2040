@@ -1712,7 +1712,7 @@ Researching a project process has change with the use of ChatGPT.
 # Project 148: ChatGPT Index Audio Files
          
 <p align="center">
-<img align="center" width="785" height="662" src="/AudioFilesIndex.png">        
+<img align="center" width="785" height="662" src="/Images/AudioFilesIndex.png">        
 </p>
     
    
