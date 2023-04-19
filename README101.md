@@ -1392,7 +1392,7 @@ Use the standard Ubuntu software to install Thonney.
     
 # Project 138: CircuitPython
 <p align="center">
-<img align="center" width="1000" height="380" src="/Images/CircuitPython.png">        
+<img align="center" width="600" height="228" src="/Images/CircuitPython.png">        
 </p>
     
     
