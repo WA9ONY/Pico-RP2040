@@ -1685,11 +1685,11 @@ ChatGPT is a conversational AI
 # Project 147: Researching a Project Process
     
 Researching a project process has change with the use of ChatGPT.
-  + ChatGPT conversation
-  + YouTube search
-  + Google search
-  + Internet Archive search
-  + Amaazon books and Kindel search  
+  + [ChatGPT](https://openai.com/) conversation
+  + [YouTube](https://www.youtube.com/) search
+  + [Google](https://www.google.com/) search
+  + [Internet Archive](https://archive.org/) search
+  + [Amaazon](https://www.amazon.com/) books and Kindle books search  
     
     
 <A NAME="FUTURE"></A>
