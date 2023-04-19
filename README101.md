@@ -1612,7 +1612,7 @@ YouTube
 <HR>
 <P align="center"><A HREF="#P145">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P147">--&gt;</A></P>  
     
-# Project 146: AI Chat Bot OpenAI ChatGPT
+# Project 146: AI Chat Bot OpenAI ChatGPT Conversation
 <p align="center">
 <img align="center" width="343" height="126" src="/Images/OpenAILogoWhite.png">        
 </p>
@@ -1709,7 +1709,7 @@ Researching a project process has change with the use of ChatGPT.
 <HR>
 <P align="center"><A HREF="#P147">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 148: ChatGPT Index Audio Files
+# Project 148: ChatGPT Index Audio Files Conversation
          
 <p align="center">
 <img align="center" width="785" height="662" src="/Images/AudioFilesIndex.png">        
