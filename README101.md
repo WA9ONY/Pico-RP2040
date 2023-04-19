@@ -874,7 +874,8 @@ YouTube
   + Paul G. Allen School [machine lists](https://www.youtube.com/@uwcse/search?query=machine)
   + [Machine Learning Methods](https://youtu.be/qDbpYUbf3e0) - Computerphile
   + MIT [Machine Learning](https://www.youtube.com/@mit/search?query=Machine%20Learning) 
-    
+  + [Deep Learning Lecture 3: Hands-On in the Playground](https://youtu.be/ru9dXF04iSE)    
+ 
 Internet Archive
   + [Machine learning](https://archive.org/search?query=Machine+Learning)
 
@@ -900,6 +901,9 @@ URLs
   + [Edge Computing](https://www.accenture.com/us-en/insights/cloud/edge-computing-index#:~:text=Edge%20is%20about%20processing%20data,an%20on%2Dpremise%20data%20center.)  
   + Google Edge Computing [search](https://www.google.com/search?q=edge+computing&oq=edge+computing&aqs=chrome..69i57j0i512l9.9915j0j15&sourceid=chrome&ie=UTF-8)
   + Datacamp [What is TinyML? An Introduction to Tiny Machine Learning](https://www.datacamp.com/blog/what-is-tinyml-tiny-machine-learning)
+
+Google
+  + [raspberry pi pico machine learning](https://www.google.com/search?q=raspberry+pi+pico+machine+learning&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)
     
     
 <A NAME="P118"></A>
@@ -1687,7 +1691,11 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
   + [Wikipedia ML: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) 
   + [Wikipedia Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) 
 
- 
+YouTube
+  + ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners [video](https://youtu.be/JTxsNm9IdYU)  
+  + How to learn to code FAST using ChatGPT (it's a game changer seriously) [video](https://youtu.be/VznoKyh6AXs)
+  + [Adafruit Learning System - Robotic ChatGPT Bear Demo](https://youtu.be/A8uWOsRVxYk)    
+    
 <A NAME="P147"></A>
 <HR>
 <P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
