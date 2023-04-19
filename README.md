@@ -195,6 +195,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 145: <A HREF="README101.md#P145">Pico Vsys Power Test</A> 
 + Project 146: <A HREF="README101.md#P146">AI Chat Bot OpenAI ChatGPT</A>
 + Project 147: <A HREF="README101.md#P147">Researching a Project Process</A>
++ Project 148: <A HREF="README101.md#P148">ChatGPT Index Audio Files</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
