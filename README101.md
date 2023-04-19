@@ -1688,6 +1688,9 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
 <P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 147: Researching a Project Process
+<p align="center">
+<img align="center" width="387" height="247" src="/Images/ReasurchFreepik2.png">        
+</p>
     
 Researching a project process has change with the use of ChatGPT.
   + [ChatGPT](https://openai.com/) conversation
