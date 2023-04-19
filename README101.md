@@ -1606,7 +1606,7 @@ YouTube
 <HR>
 <P align="center"><A HREF="#P145">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 146: OpenAI Chat GPT-4
+# Project 146: AI Chat Bot OpenAI ChatGPT
 <p align="center">
 <img align="center" width="343" height="126" src="/Images/OpenAILogoWhite.png">        
 </p>
@@ -1631,8 +1631,46 @@ ChatGPT is a conversational AI
   + Google search [can chatgpt write a python code](https://www.google.com/search?q=can+chatgpt+write+a+python+code&oq=Can+ChatGPT+write+a+python&aqs=chrome.0.0i512j69i57j0i10i22i30l2j0i22i30j0i10i22i30j0i390i650l4.22745j0j15&sourceid=chrome&ie=UTF-84)    
     + [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f#:~:text=So%20chat%20GPT%20is%20indeed,well%20written%20and%20clear%20question.)    
 
+## ChatGPT Conversation    
+
+<p align="center">
+<img align="center" width="780" height="933" src="/Images/ChatGPT1.png">        
+</p>
     
-## How is ML used in amateur radio?    
+<p align="center">
+<img align="center" width="774" height="735" src="/Images/ChatGPT2.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="781" height="832" src="/Images/ChatGPT3.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="782" height="610" src="/Images/ChatGPt4.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="787" height="783" src="/Images/ChatGPt5.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="778" height="401" src="/Images/ChatGPT6.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="783" height="686" src="/Images/ChatGPT7.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="782" height="624" src="/Images/ChatGPT8.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="787" height="724" src="/Images/ChatGPT9.png">        
+</p>
+    
+    
+## ChatGPT Conversation: How is ML used in amateur radio?    
     
 <p align="center">
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
