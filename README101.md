@@ -1391,6 +1391,9 @@ Use the standard Ubuntu software to install Thonney.
 <P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P139">--&gt;</A></P>  
     
 # Project 138: CircuitPython
+<p align="center">
+<img align="center" width="1000" height="380" src="/Images/CircuitPython.png">        
+</p>
     
     
 + [100 CircuitPython Community Libraries!](https://blog.adafruit.com/2023/03/22/100-circuitpython-community-libraries-circuitpython-python-circuitpython/?utm_source=Adafruit+Products+Newsletter&utm_campaign=99ae4b98f4-EMAIL_CAMPAIGN_2023_03_28_03_04&utm_medium=email&utm_term=0_-99ae4b98f4-%5BLIST_EMAIL_ID%5D)    
