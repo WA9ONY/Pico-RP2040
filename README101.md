@@ -1625,7 +1625,10 @@ YouTube
 
 ## ChatGPT    
         
-ChatGPT is a conversational AI   
+ChatGPT is a conversational AI text chat bot that remembers your multiple conversations. 
+    
+ChatGPT can prove Python code examples for programming the Raspberry Pi Pico microcontroller.
+    
   + [What is ChatGPT?](https://help.openai.com/en/articles/6783457-what-is-chatgpt)    
   + [How ChatGPT Works Technically For Beginners](https://youtu.be/uCIa6V4uF84)    
   + Google search [can chatgpt write a python code](https://www.google.com/search?q=can+chatgpt+write+a+python+code&oq=Can+ChatGPT+write+a+python&aqs=chrome.0.0i512j69i57j0i10i22i30l2j0i22i30j0i10i22i30j0i390i650l4.22745j0j15&sourceid=chrome&ie=UTF-84)    
