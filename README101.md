@@ -1714,6 +1714,15 @@ Researching a project process has change with the use of ChatGPT.
 <p align="center">
 <img align="center" width="785" height="662" src="/Images/AudioFilesIndex.png">        
 </p>
+
+<p align="center">
+<img align="center" width="772" height="636" src="/Images/AudioFilesIndex2.png">        
+</p>
+    
+<p align="center">
+<img align="center" width="785" height="720" src="/Images/AudioFilesIndex3.png">        
+</p>
+    
     
    
     
