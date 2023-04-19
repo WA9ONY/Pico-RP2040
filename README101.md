@@ -1617,7 +1617,7 @@ Create a free [OpenAI](https://openai.com/) account and click on ChatGPT to star
     
 ChatGPT is a conversational AI text chat bot that remembers your multiple conversations. 
     
-ChatGPT can prove Python code examples for programming the Raspberry Pi Pico microcontroller.
+ChatGPT can prove Python code examples for programming the Raspberry Pi Pico microcontroller (very cool capability).
     
   + [What is ChatGPT?](https://help.openai.com/en/articles/6783457-what-is-chatgpt)    
   + [How ChatGPT Works Technically For Beginners](https://youtu.be/uCIa6V4uF84)    
