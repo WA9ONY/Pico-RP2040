@@ -1687,11 +1687,10 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
   + [Wikipedia ML: Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) 
   + [Wikipedia Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) 
 
-
  
 <A NAME="P147"></A>
 <HR>
-<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
     
 # Project 147: Researching a Project Process
 <p align="center">
@@ -1704,11 +1703,24 @@ Researching a project process has change with the use of ChatGPT.
   + [Google](https://www.google.com/) search
   + [Internet Archive](https://archive.org/) search
   + [Amaazon](https://www.amazon.com/) books and Kindle books search  
+
+ 
+<A NAME="P148"></A>
+<HR>
+<P align="center"><A HREF="#P147">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 148: ChatGPT Index Audio Files
+         
+<p align="center">
+<img align="center" width="785" height="662" src="/AudioFilesIndex.png">        
+</p>
+    
+   
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P147">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
