@@ -1541,15 +1541,15 @@ Nuts and Volts
  
 scikit-learn is a free software machine learning library for the Python.    
     
- [scikit-learn](https://scikit-learn.org/stable/)   
-    + [Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
-    + [GitHub](https://github.com/scikit-learn/scikit-learn)
-    + Amazon [books](https://www.amazon.com/s?k=scikit-learn&i=stripbooks&crid=2XBBA8UXYHFFS&sprefix=scikit-learn%2Cstripbooks%2C149&ref=nb_sb_noss_1)
-    + YouTube search [list](https://www.youtube.com/results?search_query=scikit-learn)
-    + [Internet archive](https://archive.org/search?query=scikit-learn)
-      + [Hands-on machine learning with Scikit-Learn and TensorFlow : concepts, tools, and techniques to build intelligent systems](https://archive.org/details/handsonmachinele0000gron)
-      + [Python machine learning : unlock deeper insights into machine learning with this vital guide to cutting-edge predictive analytics](https://archive.org/details/pythonmachinelea0000rasc)
-      + [Mastering machine learning with Python in six steps : a practical implementation guide to predictive data analytics using Python](https://archive.org/details/masteringmachine0000swam)
+[scikit-learn](https://scikit-learn.org/stable/)   
+  + [Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
+  + [GitHub](https://github.com/scikit-learn/scikit-learn)
+  + Amazon [books](https://www.amazon.com/s?k=scikit-learn&i=stripbooks&crid=2XBBA8UXYHFFS&sprefix=scikit-learn%2Cstripbooks%2C149&ref=nb_sb_noss_1)
+  + YouTube search [list](https://www.youtube.com/results?search_query=scikit-learn)
+  + [Internet archive](https://archive.org/search?query=scikit-learn)
+    + [Hands-on machine learning with Scikit-Learn and TensorFlow : concepts, tools, and techniques to build intelligent systems](https://archive.org/details/handsonmachinele0000gron)
+    + [Python machine learning : unlock deeper insights into machine learning with this vital guide to cutting-edge predictive analytics](https://archive.org/details/pythonmachinelea0000rasc)
+    + [Mastering machine learning with Python in six steps : a practical implementation guide to predictive data analytics using Python](https://archive.org/details/masteringmachine0000swam)
  
  
 <A NAME="P145"></A>
