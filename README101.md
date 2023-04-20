@@ -1732,7 +1732,7 @@ Researching a project process has change with the use of ChatGPT.
  
 <A NAME="P148"></A>
 <HR>
-<P align="center"><A HREF="#P147">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P147">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P149">--&gt;</A></P>  
     
 # Project 148: ChatGPT Index Audio Files Conversation
          
@@ -1764,13 +1764,83 @@ Researching a project process has change with the use of ChatGPT.
 <img align="center" width="812" height="507" src="/Images/AudioFilesIndex6.png">        
 </p>
     
+
+ 
+<A NAME="P149"></A>
+<HR>
+<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 149: ChatGPT Raspberry Pi Pico Conversation
+         
+<p align="center">
+<img align="center" width="807" height="519" src="/Images/ChatGPTPico1.png">        
+</p>
+         
+<p align="center">
+<img align="center" width="812" height="821" src="/Images/ChatGPTPico2.png">        
+</p>
+          
+<p align="center">
+<img align="center" width="805" height="451" src="/Images/ChatGPTPico3.png">        
+</p>
+          
+<p align="center">
+<img align="center" width="814" height="565" src="/Images/ChatGPTPico4.png">        
+</p>
+           
+<p align="center">
+<img align="center" width="816" height="715" src="/Images/ChatGPTPico5.png">        
+</p>
+            
+<p align="center">
+<img align="center" width="714" height="719" src="/Images/ChatGPTPico6.png">        
+</p>
+    
+<PRE>
+ 
+# Project 148 code from ChatGPT
+import machine
+import utime
+
+led = machine.Pin(25, machine.Pin.OUT)  # Set Pin 25 as output
+
+while True:
+    led.value(1)  # Turn on the LED
+    utime.sleep(0.5)  # Wait for 500ms
+    led.value(0)  # Turn off the LED
+    utime.sleep(0.5)  # Wait for 500ms
+
+
+import gc
+import ujson
+import ulab
+import ulab.numpy as np
+import ulab.vector as vector
+
+
+import tflite_micro as tfl
+import model_data
+import ulab as np
+
+# Load the model
+model = tfl.Model(model_data.model)
+
+# Load the input data
+input_data = np.array([[0.1, 0.2, 0.3]])
+
+# Run inference
+output_data = model.invoke(input_data)
+
+# Print the result
+print(output_data)
+   
+</PRE>    
    
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P149">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
