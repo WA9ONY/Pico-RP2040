@@ -1796,10 +1796,19 @@ Researching a project process has change with the use of ChatGPT.
 <img align="center" width="714" height="719" src="/Images/ChatGPTPico6.png">        
 </p>
 
+## [TensorFlow](https://github.com/tensorflow/tensorflow)    
+
++ [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro)    
++ [TensorFlow Lite](https://www.tensorflow.org/lite)    
++ [TensorFlow Lite GitHub](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite)    
++ [DEVELOPING MACHINE-LEARNING APPLICATIONS ON THE RASPBERRY PI PICO](https://www.beningo.com/developing-machine-learning-applications-on-the-raspberry-pi-pico/#)    
+    
+
 ## Code
     
 + [main.py](Project149/main.py)    
 + [TFLiteExample.py](Project149/TFLiteExample.py) 
+
     
 <PRE>
  
