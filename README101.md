@@ -1621,7 +1621,7 @@ YouTube
 <img align="center" width="343" height="126" src="/Images/OpenAILogoWhite.png">        
 </p>
 
-## [OpenAI](https://openai.com/) ChatGPT    
+## [OpenAI](https://openai.com/) ChatGPT with GPT-3.5   
 
 Create a free [OpenAI](https://openai.com/) account and click on ChatGPT to start a conversation.    
     
@@ -1678,7 +1678,8 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
 <p align="center">
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
 </p>
-    
+
+## AI Chat Bots    
 [OpenAI](https://openai.com/)   
   + [Wikipedia OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   + [Wikipedia AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
@@ -1695,6 +1696,17 @@ YouTube
   + ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners [video](https://youtu.be/JTxsNm9IdYU)  
   + How to learn to code FAST using ChatGPT (it's a game changer seriously) [video](https://youtu.be/VznoKyh6AXs)
   + [Adafruit Learning System - Robotic ChatGPT Bear Demo](https://youtu.be/A8uWOsRVxYk)    
+
+## GPT-4
+
+GPT-4 is out now.    
+    
+Khan Academy
+  + [GPT-4 Khan Academy In Depth Demo](https://youtu.be/rnIgnS8Susg)
+
+## GPT-5
+
+GPT-5 is expected to be out December 2023
     
 <A NAME="P147"></A>
 <HR>
