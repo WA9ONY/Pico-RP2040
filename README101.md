@@ -1671,12 +1671,17 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
 <p align="center">
 <img align="center" width="787" height="724" src="/Images/ChatGPT9.png">        
 </p>
-    
-    
+        
 ## ChatGPT Conversation: How is ML used in amateur radio?    
     
 <p align="center">
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
+</p>
+
+## ChatGPT Conversation: ChatGPT Dataset    
+    
+<p align="center">
+<img align="center" width="811" height="652" src="/Images/ChatGPTdataset.png">        
 </p>
 
 ## AI Chat Bots    
