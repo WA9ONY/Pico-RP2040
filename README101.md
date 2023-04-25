@@ -1927,7 +1927,7 @@ print(output_data)
    
          
 <p align="center">
-<img align="center" width="765" height="2119" src="/Images/AI_NeuronSig15.png">        
+<img align="center" width="765" height="219" src="/Images/AI_NeuronSig15.png">        
 </p>
    
          
