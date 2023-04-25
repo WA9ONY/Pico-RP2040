@@ -1764,11 +1764,10 @@ Researching a project process has change with the use of ChatGPT.
 <img align="center" width="812" height="507" src="/Images/AudioFilesIndex6.png">        
 </p>
     
-
  
 <A NAME="P149"></A>
 <HR>
-<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P150">--&gt;</A></P>  
     
 # Project 149: ChatGPT Raspberry Pi Pico Conversation
          
@@ -1849,12 +1848,73 @@ output_data = model.invoke(input_data)
 print(output_data)
    
 </PRE>    
-   
     
+ 
+<A NAME="P150"></A>
+<HR>
+<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 150: ChatGPT ANN Conversation
+         
+<p align="center">
+<img align="center" width="816" height="627" src="/Images/AI_NeuronSig1.png">        
+</p>
+   
+          
+<p align="center">
+<img align="center" width="816" height="768" src="/Images/AI_NeuronSig2.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="814" height="569" src="/Images/AI_NeuronSig3.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="821" height="457" src="/Images/AI_NeuronSig4.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="770" height="696" src="/Images/AI_NeuronSig5.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="772" height="454" src="/Images/AI_NeuronSig6.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="822" height="690" src="/Images/AI_NeuronSig7.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="768" height="524" src="/Images/AI_NeuronSig8.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="772" height="591" src="/Images/AI_NeuronSig9.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="823" height="608" src="/Images/AI_NeuronSig10.png">        
+</p>
+   
+         
+<p align="center">
+<img align="center" width="835" height="551" src="/Images/AI_NeuronSig11.png">        
+</p>
+   
+   
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P149">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P150">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
