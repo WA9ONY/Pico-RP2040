@@ -1919,11 +1919,11 @@ print(output_data)
 <img align="center" width="767" height="738" src="/Images/AI_NeuronSig14.png">        
 </p>
    
-## Describe the TensorFlow V2 Progam         
-         
 <p align="center">
 <img align="center" width="765" height="219" src="/Images/AI_NeuronSig15.png">        
 </p>
+
+## Describe the TensorFlow V2 Progam                
            
 <p align="center">
 <img align="center" width="817" height="639" src="/Images/AI_NeuronSig16.png">        
@@ -1951,12 +1951,10 @@ print(output_data)
 <p align="center">
 <img align="center" width="826" height="275" src="/Images/AI_NeuronSig21.png">        
 </p>
-   
          
 <p align="center">
 <img align="center" width="756" height="784" src="/Images/AI_NeuronSig22.png">        
 </p>
-   
          
 <p align="center">
 <img align="center" width="818" height="567" src="/Images/AI_NeuronSig23.png">        
@@ -1966,8 +1964,8 @@ print(output_data)
 <p align="center">
 <img align="center" width="821" height="631" src="/Images/AI_NeuronSig24.png">        
 </p>
-   
-         
+
+## ANN input neurons type    
 <p align="center">
 <img align="center" width="822" height="417" src="/Images/AI_NeuronSig25.png">        
 </p>
@@ -1986,7 +1984,7 @@ print(output_data)
 <img align="center" width="814" height="442" src="/Images/AI_NeuronSig28.png">        
 </p>
    
-## Sigmoid neuron imputs         
+## Sigmoid neuron inputs         
 <p align="center">
 <img align="center" width="807" height="425" src="/Images/AI_NeuronSig29.png">        
 </p>
