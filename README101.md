@@ -2005,20 +2005,18 @@ print(output_data)
 <HR>
 <P align="center"><A HREF="#P150">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P151">--&gt;</A></P>  
     
-# Project 151: Google Colab ChatGPT ANN Conversation
-         
+# Project 151: Google Colab ChatGPT ANN Conversation   
+    
 <p align="center">
 <img align="center" width="852" height="926" src="/Images/Colab1.png">        
 </p>
    
-
-   
- 
+    
 <A NAME="P152"></A>
 <HR>
 <P align="center"><A HREF="#P151">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 152: Brilliant 
+# Project 152: Brilliant Online Courses
          
 <p align="center">
 <img align="center" width="512" height="263" src="/Images/BrilliantCourses3.png">        
@@ -2033,120 +2031,115 @@ Introduction
   + Can Computers Learn?
 
 Neurons
-The Decision Box
-Activation Arithmetic
-Decision Boundaries
-Building an XOR Gate
-Classification
-Sigmoid Neurons
-Training a Single Neuron
-
+  + The Decision Box
+  + Activation Arithmetic
+  + Decision Boundaries
+  + Building an XOR Gate
+  + Classification
+  + Sigmoid Neurons
+  + Training a Single Neuron
 
 Layers
-Hidden Layers
-Curve Fitting
-Universal Approximator
-A Shape-Recognizing Network
+  + Hidden Layers
+  + Curve Fitting
+  + Universal Approximator
+  + A Shape-Recognizing Network
 
-
-    
-Artificial Neural Networks 28 Lessions
+## Artificial Neural Networks 28 Lessions
 
 Learning and the Brain
-Learning Problems for Neural Networks
-Computationally Modeling The Brain
-Computational Models of The Neuron
+  + Learning Problems for Neural Networks
+  + Computationally Modeling The Brain
+  + Computational Models of The Neuron
 
 Math for Neural Networks
-Vectors for Neural Networks
-Matrices for Neural Networks
-Optimization for Neural Networks
+  + Vectors for Neural Networks
+  + Matrices for Neural Networks
+  + Optimization for Neural Networks
 
 Perceptrons
-Perceptrons as Linear Classifiers
-Perceptron Learning Algorithm
-Dealing with Perceptron Limitations
+  + Perceptrons as Linear Classifiers
+  + Perceptron Learning Algorithm
+  + Dealing with Perceptron Limitations
 
 Multilayer Perceptrons
-Basics and Motivation
-Practical Example
-Multilayer Perceptron - Model Complexity
+  + Basics and Motivation
+  + Practical Example
+  + Multilayer Perceptron - Model Complexity
 
 Backpropagation
-Gradient Descent
-Backpropagation - Updating Parameters
-Backpropagation
-Vanishing and Exploding Gradient
+  + Gradient Descent
+  + Backpropagation - Updating Parameters
+  + Backpropagation
+  + Vanishing and Exploding Gradient
 
 Convolutional Neural Networks
-Convolutional Neural Networks - Overview
-Convolutions and Striding
-Convolutional Neural Networks - Pooling
-Applications and Performance
+  + Convolutional Neural Networks - Overview
+  + Convolutions and Striding
+  + Convolutional Neural Networks - Pooling
+  + Applications and Performance
 
 Recurrent Neural Networks
-Recurrent Neural Networks
-Training Recurrent Neural Networks
-Long Short-Term Memory
+  + Recurrent Neural Networks
+  + Training Recurrent Neural Networks
+  + Long Short-Term Memory
 
 Advanced Architectures
-Stochastic Neural Networks
-Generative Adversarial Networks
-Variational Autoencoders
-Word2Vec
-Reinforcement Learning
+  + Stochastic Neural Networks
+  + Generative Adversarial Networks
+  + Variational Autoencoders
+  + Word2Vec
+  + Reinforcement Learning
 
 
-Reinforcement Learning 6 Lessons
+## Reinforcement Learning 6 Lessons
 
 Introduction
-Introduction
+  + Introduction
 
 Foundations
-Value Functions
-Dynamic Programming
-Monte Carlo
+  + Value Functions
+  + Dynamic Programming
+  + Monte Carlo
 
 Extensions
-Temporal Difference Learning
-Policy Gradient Methods
+  + Temporal Difference Learning
+  + Policy Gradient Methods
 
 Reinforcement learning has four subelements — a policy, a reward signal, a model, and a value function.
 
-
-Programming with Python 19 Lessons
+## Programming with Python 19 Lessons
 
 Introduction
-Welcome to Python
-Numbers in Python
-Variables in Python
-Conversion Challenge
+  + Welcome to Python
+  + Numbers in Python
+  + Variables in Python
+  + Conversion Challenge
 
 Repetition
-Variable Reuse
-Loops
-Fibonacci Challenge
+  + Variable Reuse
+  + Loops
+  + Fibonacci Challenge
 
 Conditionals
-Conditionals
-Conditions in Loops
-Collatz Challenge
+  + Conditionals
+  + Conditions in Loops
+  + Collatz Challenge
 
 Drawing with Python
-Drawing in Python
-Built-in Functions
-The For Loop
+  + Drawing in Python
+  + Built-in Functions
+  + The For Loop
 
 String Manipulation
-String Functions
-Substrings
-The Replace Function
-
+  + String Functions
+  + Substrings
+  + The Replace Function
 
 Functions and Arguments
-Custom Functions
-The Range Function
-Functions with Arguments
+  + Custom Functions
+  + The Range Function
+  + Functions with Arguments
 
     
     
