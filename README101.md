@@ -1911,49 +1911,43 @@ print(output_data)
 <img align="center" width="820" height="291" src="/Images/AI_NeuronSig12.png">        
 </p>
    
-## Describe the TensorFlow V2 Progam         
-   
 <p align="center">
 <img align="center" width="757" height="741" src="/Images/AI_NeuronSig13.png">        
 </p>
-
-## Explain Epoch         
          
 <p align="center">
 <img align="center" width="767" height="738" src="/Images/AI_NeuronSig14.png">        
 </p>
    
+## Describe the TensorFlow V2 Progam         
          
 <p align="center">
 <img align="center" width="765" height="219" src="/Images/AI_NeuronSig15.png">        
 </p>
-   
-         
+           
 <p align="center">
 <img align="center" width="817" height="639" src="/Images/AI_NeuronSig16.png">        
 </p>
-   
-         
+          
 <p align="center">
 <img align="center" width="755" height="683" src="/Images/AI_NeuronSig17.png">        
 </p>
    
-         
 <p align="center">
 <img align="center" width="754" height="667" src="/Images/AI_NeuronSig18.png">        
 </p>
-   
          
 <p align="center">
 <img align="center" width="747" height="489" src="/Images/AI_NeuronSig19.png">        
 </p>
    
-         
+## Explain Epoch         
+                  
 <p align="center">
 <img align="center" width="842" height="553" src="/Images/AI_NeuronSig20.png">        
 </p>
    
-         
+## Show the Sigmoid Neuron Bias and Weight values of the ANN hidden layer         
 <p align="center">
 <img align="center" width="826" height="275" src="/Images/AI_NeuronSig21.png">        
 </p>
@@ -1968,7 +1962,7 @@ print(output_data)
 <img align="center" width="818" height="567" src="/Images/AI_NeuronSig23.png">        
 </p>
    
-         
+## What is the ANN configuration         
 <p align="center">
 <img align="center" width="821" height="631" src="/Images/AI_NeuronSig24.png">        
 </p>
@@ -1978,22 +1972,21 @@ print(output_data)
 <img align="center" width="822" height="417" src="/Images/AI_NeuronSig25.png">        
 </p>
    
-         
+## What is the data set used for training in this progarm?         
 <p align="center">
 <img align="center" width="809" height="863" src="/Images/AI_NeuronSig26.png">        
 </p>
    
-         
+## How to print the ANN output sigmoid neuron bias and weight?        
 <p align="center">
 <img align="center" width="810" height="703" src="/Images/AI_NeuronSig27.png">        
 </p>
-   
          
 <p align="center">
 <img align="center" width="814" height="442" src="/Images/AI_NeuronSig28.png">        
 </p>
    
-         
+## Sigmoid neuron imputs         
 <p align="center">
 <img align="center" width="807" height="425" src="/Images/AI_NeuronSig29.png">        
 </p>
