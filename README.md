@@ -198,6 +198,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 148: <A HREF="README101.md#P148">ChatGPT Index Audio Files Conversation</A>
 + Project 149: <A HREF="README101.md#P149">ChatGPT Raspberry Pi Pico Conversation</A>
 + Project 150: <A HREF="README101.md#P150">ChatGPT ANN Conversation</A>
++ Project 151: <A HREF="README101.md#P151">Google Colab ChatGPT ANN Conversation</A>
++ Project 152: <A HREF="README101.md#P152">Brilliant Online Courses</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
