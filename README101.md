@@ -1891,35 +1891,33 @@ print(output_data)
 <img align="center" width="768" height="524" src="/Images/AI_NeuronSig8.png">        
 </p>
 
-## How to Use the TensorFlow Progarm on Google Colab?              
-
 <p align="center">
 <img align="center" width="772" height="591" src="/Images/AI_NeuronSig9.png">        
 </p>
 
-## Ask help on Progarm Error         
-## Error was the Progarm was V1 and Google Colab is running TensorFlow V2    
-   
-## Describe the TensorFlow V2 Progam         
+## How to Use the TensorFlow Progarm on Google Colab?              
 <p align="center">
 <img align="center" width="823" height="608" src="/Images/AI_NeuronSig10.png">        
 </p>
-   
-## Explain Epoch         
+
+## Ask help on Progarm Error         
 <p align="center">
 <img align="center" width="835" height="551" src="/Images/AI_NeuronSig11.png">        
 </p>
    
-         
+## Error was the Progarm was V1 and Google Colab is running TensorFlow V2    
+   
 <p align="center">
 <img align="center" width="820" height="291" src="/Images/AI_NeuronSig12.png">        
 </p>
    
-         
+## Describe the TensorFlow V2 Progam         
+   
 <p align="center">
 <img align="center" width="757" height="741" src="/Images/AI_NeuronSig13.png">        
 </p>
-   
+
+## Explain Epoch         
          
 <p align="center">
 <img align="center" width="767" height="738" src="/Images/AI_NeuronSig14.png">        
