@@ -2018,21 +2018,19 @@ print(output_data)
 <p align="center">
 <img align="center" width="835" height="817" src="/Images/Colab2.png">        
 </p>
-   
-## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer Weights & Biases Shown   
             
 <p align="center">
 <img align="center" width="865" height="501" src="/Images/Colab3.png">        
 </p>
-   
-## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer and Output Layer Weights & Biases Shown   
-                
+    
+## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer Weights & Biases Shown 
+                 
 <p align="center">
 <img align="center" width="904" height="998" src="/Images/Colab4.png">        
 </p>
-   
+
 ## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer and Output Layer Weights & Biases Shown   
-                    
+                       
 <p align="center">
 <img align="center" width="753" height="859" src="/Images/Colab5.png">        
 </p>
