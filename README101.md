@@ -2006,32 +2006,37 @@ print(output_data)
 <P align="center"><A HREF="#P150">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P152">--&gt;</A></P>  
     
 # Project 151: Google Colab ChatGPT ANN Conversation   
+
+## TensorFlow V2 Sigmoid Neuron Example Program    
     
 <p align="center">
 <img align="center" width="852" height="926" src="/Images/Colab1.png">        
 </p>
-   
-    
+
+## TensorFlow V2 Sigmoid Neuron Example Program with Epochs Verbose On   
+        
 <p align="center">
 <img align="center" width="835" height="817" src="/Images/Colab2.png">        
 </p>
    
-    
+## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer Weights & Biases Shown   
+            
 <p align="center">
 <img align="center" width="865" height="501" src="/Images/Colab3.png">        
 </p>
    
-    
+## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer and Output Layer Weights & Biases Shown   
+                
 <p align="center">
 <img align="center" width="904" height="998" src="/Images/Colab4.png">        
 </p>
    
-    
+## TensorFlow V2 Sigmoid Neuron Example Program with Hidden Layer and Output Layer Weights & Biases Shown   
+                    
 <p align="center">
 <img align="center" width="753" height="859" src="/Images/Colab5.png">        
 </p>
    
-    
 <p align="center">
 <img align="center" width="835" height="329" src="/Images/Colab5out.png">        
 </p>
