@@ -2024,6 +2024,31 @@ print(output_data)
 <img align="center" width="512" height="263" src="/Images/BrilliantCourses3.png">        
 </p>
 
+## Introduction to Neural Networks 15 Lessions
+
+Introduction
+  + Neural Networks
+  + The Computer Vision Problem
+  + The Folly of Computer Programming
+  + Can Computers Learn?
+
+Neurons
+The Decision Box
+Activation Arithmetic
+Decision Boundaries
+Building an XOR Gate
+Classification
+Sigmoid Neurons
+Training a Single Neuron
+
+
+Layers
+Hidden Layers
+Curve Fitting
+Universal Approximator
+A Shape-Recognizing Network
+
+
     
 Artificial Neural Networks 28 Lessions
 
