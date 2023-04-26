@@ -2066,6 +2066,10 @@ Layers
 
 Learning and the Brain
   + Learning Problems for Neural Networks
+    + Supervised learning
+    + Unsupervised learning
+    + Classification
+    + Regression
   + Computationally Modeling The Brain
   + Computational Models of The Neuron
 
