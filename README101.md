@@ -1865,7 +1865,7 @@ print(output_data)
 <img align="center" width="816" height="768" src="/Images/AI_NeuronSig2.png">        
 </p>
    
-## ANN Sigmoid Neuron                   
+## Describe the ANN Sigmoid Neuron                   
 <p align="center">
 <img align="center" width="814" height="569" src="/Images/AI_NeuronSig3.png">        
 </p>
@@ -1874,29 +1874,31 @@ print(output_data)
 <img align="center" width="821" height="457" src="/Images/AI_NeuronSig4.png">        
 </p>
    
-## Create a ANN Sigmoid Neuron TensorFlow Program                          
 <p align="center">
 <img align="center" width="770" height="696" src="/Images/AI_NeuronSig5.png">        
 </p>
-   
-## How to Use the TensorFlow Progarm on Google Colab?             
+
 <p align="center">
 <img align="center" width="772" height="454" src="/Images/AI_NeuronSig6.png">        
 </p>
-   
-##  Ask help on Progarm Error         
+
+## Create a ANN Sigmoid Neuron TensorFlow Program                            
 <p align="center">
 <img align="center" width="822" height="690" src="/Images/AI_NeuronSig7.png">        
 </p>
 
-## Error was the Progarm was V1 and Google Colab is running TensorFlow V2    
 <p align="center">
 <img align="center" width="768" height="524" src="/Images/AI_NeuronSig8.png">        
 </p>
 
+## How to Use the TensorFlow Progarm on Google Colab?              
+
 <p align="center">
 <img align="center" width="772" height="591" src="/Images/AI_NeuronSig9.png">        
 </p>
+
+## Ask help on Progarm Error         
+## Error was the Progarm was V1 and Google Colab is running TensorFlow V2    
    
 ## Describe the TensorFlow V2 Progam         
 <p align="center">
