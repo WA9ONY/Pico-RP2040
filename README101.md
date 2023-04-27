@@ -2071,10 +2071,25 @@ Learning and the Brain
     + Classification
     + Regression
   + Computationally Modeling The Brain
+    + Batch learning
+    + Online learning
+    + Neurons are the simplest units of computation in the human brain, and their interactions facilitate brain functions such as learning.
+    + Neurons integrate inputs and fire outputs when threshold is exceeded.
+    + ANN neurons weights - how strong the connection and threshold function to trigger an output
   + Computational Models of The Neuron
+    + Neuron intergrates its inputs to one output
+    + x inputs vector dot weights vector + bias
+    + Heaviside step function, decision boundary, linear classifier
+    + Sigmoid, hyperbolic tangent, rectifier activation functions can model any continuous function
+    + Universal approximation theorem, ANN can model any continuous function.
+    
 
 Math for Neural Networks
   + Vectors for Neural Networks
+    + def integration(x,w,b):
+        weighted_sum = sum(x[k] * w[k] for k in range(0,len(x)))
+        return weighted_sum + b
+    +  keep data in vectors
   + Matrices for Neural Networks
   + Optimization for Neural Networks
 
