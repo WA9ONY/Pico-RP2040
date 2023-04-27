@@ -2091,7 +2091,20 @@ Math for Neural Networks
         return weighted_sum + b
     +  keep data in vectors
   + Matrices for Neural Networks
+    + Vectors and matrices are used in AI programs so that GPUs and TPUs can speed up the progarm operation.
+      + Google Colab has GPU and TPU hardware support to run Python AI software.
+    + [Matrices | Precalculus | Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HBVbBiN69qZXuiK-y9yS3zv)
   + Optimization for Neural Networks
+    + Calculus is used in training the ANN with the data set to configure the ANN bias and weights parmeters.
+    + The gradient is a row vector of a function’s partial derivatives.
+    + optimization
+      + take the derivative of the function,
+      + set the derivative equal to 0, and then
+      + solve for the parameters (inputs) that satisfy this equation. (not possible with ANN)
+    + heuristic methods, [Gradient descent](https://www.google.com/search?q=gradient+descent&oq=Gradient+descent&aqs=chrome.0.0i433i512l2j0i512l8.791j0j15&sourceid=chrome&ie=UTF-8) 
+    + learning rate is the step size
+    + highly performant ANNs
+    
 
 Perceptrons
   + Perceptrons as Linear Classifiers
