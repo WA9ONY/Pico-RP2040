@@ -2031,7 +2031,7 @@ print(output_data)
     
 <A NAME="P152"></A>
 <HR>
-<P align="center"><A HREF="#P151">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P151">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P153">--&gt;</A></P>  
     
 # Project 152: Brilliant Online Courses
          
@@ -2190,12 +2190,29 @@ Functions and Arguments
   + The Range Function
   + Functions with Arguments
 
+ 
+<A NAME="P153"></A>
+<HR>
+<P align="center"><A HREF="#P152">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 153: AI Hardware
+    
+Google
+  + Colab supports GPUs and TPUs.
+    
+Intel
+  + Intel NCSM2450.DK1 Movidius Neural Compute Stick [Amazon](https://www.amazon.com/dp/B076751BN8/?coliid=I3KA55NUG26C0J&colid=XSJ6DS90PQ0Q&psc=1&ref_=lv_ov_lig_dp_it_im)
+  + Intel NCS2 Movidius Neural Compute Stick 2, Perfect for Deep Neural Network Applications (DNN) [Amazon](https://www.amazon.com/dp/B0BLBKG47B/?coliid=I30ZF3CCFXJZOM&colid=XSJ6DS90PQ0Q&psc=1&ref_=lv_ov_lig_dp_it)         
+   
+Nvidia
+  + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) [Amazon](https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=pd_day0fbt_vft_none_sccl_2/135-6972537-2988803?pd_rd_w=vgk3u&content-id=amzn1.sym.a400618b-650b-4c39-a4fe-66c3e0813a14&pf_rd_p=a400618b-650b-4c39-a4fe-66c3e0813a14&pf_rd_r=5NJ68HGMACJ1DQ4G6DW3&pd_rd_wg=4yymp&pd_rd_r=2c850bf7-6a14-4ea7-b1b5-e515529bff08&pd_rd_i=B084DSDDLT&psc=1)
+  + Seeed Studio
+     + [reComputer J3011-Edge AI Device with NVIDIA Jetson Orin™ Nano 8GB module](https://www.seeedstudio.com/reComputer-J3011-p-5590.html)         
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P152">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
