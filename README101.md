@@ -2108,7 +2108,14 @@ Math for Neural Networks
 
 Perceptrons
   + Perceptrons as Linear Classifiers
+    + output is 1 when this integration exceeds some threshold and is 0 otherwise.
+    + perceptron algorithm  w ⋅ x + b ≥ 0
+    + two spaces hyperplane (decision boundary) w ⋅ x + b = 0
+    + XOR not linearly separable (that is, it cannot be partitioned by a hyperplane decision boundary)
   + Perceptron Learning Algorithm
+    + find an appropriate decision boundary given some data.
+    + loss function 
+    + 
   + Dealing with Perceptron Limitations
 
 Multilayer Perceptrons
@@ -2193,7 +2200,7 @@ Functions and Arguments
  
 <A NAME="P153"></A>
 <HR>
-<P align="center"><A HREF="#P152">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P152">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P154">--&gt;</A></P>  
     
 # Project 153: AI Hardware
     
@@ -2208,11 +2215,25 @@ Nvidia
   + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) [Amazon](https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=pd_day0fbt_vft_none_sccl_2/135-6972537-2988803?pd_rd_w=vgk3u&content-id=amzn1.sym.a400618b-650b-4c39-a4fe-66c3e0813a14&pf_rd_p=a400618b-650b-4c39-a4fe-66c3e0813a14&pf_rd_r=5NJ68HGMACJ1DQ4G6DW3&pd_rd_wg=4yymp&pd_rd_r=2c850bf7-6a14-4ea7-b1b5-e515529bff08&pd_rd_i=B084DSDDLT&psc=1)
   + Seeed Studio
      + [reComputer J3011-Edge AI Device with NVIDIA Jetson Orin™ Nano 8GB module](https://www.seeedstudio.com/reComputer-J3011-p-5590.html)         
+
+ 
+<A NAME="P154"></A>
+<HR>
+<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 154: Adafruit Microsoft Machine Learning Kit for Lobe
+    
+Adafruit 
+  + Microsoft Machine Learning Kit for Lobe with Raspberry Pi 4 8GB
+  + Product ID: [5024](https://www.adafruit.com/product/5024)
+  + [Lobe](https://github.com/lobe)
+    + Machine Learning Made Easy
+    + [lobe-adafruit-kit](https://github.com/lobe/lobe-adafruit-kit)
+
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
