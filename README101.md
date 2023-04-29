@@ -2209,6 +2209,7 @@ Google
     
 Intel
   + Intel NCSM2450.DK1 Movidius Neural Compute Stick [Amazon](https://www.amazon.com/dp/B076751BN8/?coliid=I3KA55NUG26C0J&colid=XSJ6DS90PQ0Q&psc=1&ref_=lv_ov_lig_dp_it_im)
+    + [Wikipedia](https://en.wikipedia.org/wiki/Movidius#Neural_Compute_Stick)
   + Intel NCS2 Movidius Neural Compute Stick 2, Perfect for Deep Neural Network Applications (DNN) [Amazon](https://www.amazon.com/dp/B0BLBKG47B/?coliid=I30ZF3CCFXJZOM&colid=XSJ6DS90PQ0Q&psc=1&ref_=lv_ov_lig_dp_it)         
    
 Nvidia
@@ -2219,7 +2220,7 @@ Nvidia
  
 <A NAME="P154"></A>
 <HR>
-<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P155">--&gt;</A></P>  
     
 # Project 154: Adafruit Microsoft Machine Learning Kit for Lobe
     
@@ -2230,10 +2231,25 @@ Adafruit
     + Machine Learning Made Easy
     + [lobe-adafruit-kit](https://github.com/lobe/lobe-adafruit-kit)
 
+ 
+<A NAME="P155"></A>
+<HR>
+<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 155: Nvidia Jetson
+    
+[Nvidia Jetson]
+  + [Wikipedia](https://en.wikipedia.org/wiki/Nvidia_Jetson)
+  + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+    + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) [B02](https://www.amazon.com/gp/product/B084DSDDLT/)
+      + GeeekPi Jetson Nano Case (Support Jetson Nano B01 and A02 Version), Jetson Nano Case with Fan for NVIDIA Jetson Nano Developer Kit Small AI Powerful Computer [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+      + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+      + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
+ 
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
