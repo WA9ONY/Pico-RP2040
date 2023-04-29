@@ -2238,10 +2238,12 @@ Adafruit
     
 # Project 155: Nvidia Jetson
     
-[Nvidia Jetson]
+[Nvidia Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
   + [Wikipedia](https://en.wikipedia.org/wiki/Nvidia_Jetson)
+  + Compare Nvidea [Jetson Model Spedifications](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+  + [Jetson Roadmap](https://developer.nvidia.com/embedded/develop/roadmap)
   + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
-    + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) [B02](https://www.amazon.com/gp/product/B084DSDDLT/)
+    + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) B02 [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/)
       + GeeekPi Jetson Nano Case (Support Jetson Nano B01 and A02 Version), Jetson Nano Case with Fan for NVIDIA Jetson Nano Developer Kit Small AI Powerful Computer [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
       + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
       + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
