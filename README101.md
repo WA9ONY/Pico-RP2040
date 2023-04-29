@@ -2240,7 +2240,7 @@ Adafruit
     
 [Nvidia Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
   + [Wikipedia](https://en.wikipedia.org/wiki/Nvidia_Jetson)
-  + Compare Nvidea [Jetson Model Spedifications](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+  + Compare Nvidea [Jetson Model Spedifications](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#jetson-compare)
   + [Jetson Roadmap](https://developer.nvidia.com/embedded/develop/roadmap)
   + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
     + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) B02 [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/)
