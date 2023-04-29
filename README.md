@@ -201,6 +201,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 151: <A HREF="README101.md#P151">Google Colab ChatGPT ANN Conversation</A>
 + Project 152: <A HREF="README101.md#P152">Brilliant Online Courses</A>
 + Project 153: <A HREF="README101.md#P153">AI Hardware</A>
++ Project 154: <A HREF="README101.md#P154">Adafruit Microsoft Machine Learning Kit for Lobe</A>
++ Project 155: <A HREF="README101.md#P155">Nvidia Jetson</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
