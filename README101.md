@@ -2273,13 +2273,12 @@ Adafruit
     
 ## ChatGPT: What is a  GPU?   
 
-<PRE>
 A GPU, or Graphics Processing Unit, is a specialized electronic circuit designed to quickly and efficiently process large amounts of data for computer graphics and other complex computational tasks. 
 
 Unlike a CPU (Central Processing Unit), which is designed for general-purpose processing, a GPU is optimized for performing mathematical and geometric calculations necessary for rendering images, animations, and video games. 
 
 GPUs are also used for high-performance computing tasks in scientific research, machine learning, and other fields that require parallel processing. They typically contain hundreds or thousands of small processing cores that can work together to perform multiple tasks simultaneously, making them ideal for tasks that require a high degree of parallelism.    
-</PRE>
+
     
 ## ChatGPT: How is a GPU used in ML?  
 
