@@ -2274,7 +2274,7 @@ Wikipedia
   + [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
     + [Nvidia](https://en.wikipedia.org/wiki/Nvidia)
     + [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
-  + [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Edge_TPU)
+  + [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
     + [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   + [Edge TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Edge_TPU)  
     + [Google Coral](https://coral.ai/)    
