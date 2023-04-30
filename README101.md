@@ -2262,11 +2262,10 @@ Adafruit
       + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
       + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
  
-
  
 <A NAME="P156"></A>
 <HR>
-<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P157">--&gt;</A></P>  
     
 # Project 156: ML GPUs & TPUs
 
@@ -2278,6 +2277,10 @@ Wikipedia
     + [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   + [Edge TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Edge_TPU)  
     + [Google Coral](https://coral.ai/)    
+    + [Edge TPU performance benchmarks](https://coral.ai/docs/edgetpu/benchmarks/) 
+    + TOPS: TeraOPS (trillions of operations per second) [TeraOPS (trillions of operations per second)](https://www.pcmag.com/encyclopedia/term/teraops)
+      + [As AI chips improve, is TOPS the best way to measure their power?](https://venturebeat.com/ai/as-ai-chips-improve-is-tops-the-best-way-to-measure-their-power/)
+    + [Are Tera Operations Per Second (TOPS) Just hype? Or Dark AI Silicon in Disguise?](https://www.kdnuggets.com/2020/05/tops-just-hype-dark-ai-silicon-disguise.html)
   + [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) 
 
 ## ChatGPT: What is a  GPU?   
@@ -2401,13 +2404,26 @@ The Edge TPU is a custom chip designed by Google that is optimized for low-power
 The Coral Dev Board and Coral USB Accelerator are designed to work with TensorFlow Lite and provide hardware acceleration for machine learning models running on the Edge TPU. They are particularly well-suited for edge computing and IoT applications where low power consumption and small form factors are important considerations.
 
 In summary, the Google Coral is not a TPU, but rather a family of hardware and software tools designed to provide edge computing capabilities for machine learning workloads using Google's Edge TPU. The Coral Dev Board and Coral USB Accelerator provide hardware acceleration for machine learning models running on the Edge TPU, and are optimized for low-power, edge computing applications.   
-  
+ 
+ 
+<A NAME="P157"></A>
+<HR>
+<P align="center"><A HREF="#P156">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 157: ML ResNet-50 Convolutional Neural Network
+
+Deep Residual Learning for Image Recognition ResNet-50
+  + Deep (50 layers) ANN    
+  + The ResNet-50 has over 23 million trainable parameters.
     
+  + [ResNet-50: The Basics and a Quick Tutorial](https://datagen.tech/guides/computer-vision/resnet-50/#:~:text=ResNet%2D50%20is%20a%2050,networks%20by%20stacking%20residual%20blocks.)
+  + [Deep Residual Learning for Image Recognition]https://arxiv.org/abs/1512.03385()  
+  + [MathWorks](https://www.mathworks.com/help/deeplearning/ref/resnet50.html)    
+  + [Comparing Google’s TPUv2 against Nvidia’s V100 on ResNet-50](https://web.archive.org/web/20180426200043/https://blog.riseml.com/comparing-google-tpuv2-against-nvidia-v100-on-resnet-50-c2bbb6a51e5e)  
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P156">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P157">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
