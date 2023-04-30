@@ -2207,8 +2207,11 @@ Functions and Arguments
     
 # Project 153: AI Hardware
     
-Google
-  + Colab supports GPUs and TPUs.
+Google [Colab](https://colab.research.google.com/)
+  + Colab supports [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit) and [TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit).
+
+Google [Coral](https://coral.ai/)
+  + Edge TPU [Wikipedia](Edge TPU)
   + Google Coral Development Board [Adafruit Product ID: 4385](https://www.adafruit.com/product/4385)
   + Google Coral USB Edge TPU ML Accelerator coprocessor for Raspberry Pi and Other Embedded Single Board Computers [Amazon](https://www.amazon.com/Google-Coral-Accelerator-coprocessor-Raspberry/dp/B07R53D12W/ref=sr_1_2?crid=IUZ0GZX4KIZV&keywords=Coral+USB+Accelerator&qid=1682801764&sprefix=coral+usb+accelerator%2Caps%2C158&sr=8-2&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0)
     + [Frigate NVR with Odyssey Blue and Coral USB AI Accelerator](https://www.seeedstudio.com/Frigate-NVR-with-Odyssey-Blue-and-Coral-USB-Accelerator-p-5469.html)
@@ -2224,7 +2227,11 @@ Nvidia
   + Seeed Studio
      + [reComputer J3011-Edge AI Device with NVIDIA Jetson Orin™ Nano 8GB module](https://www.seeedstudio.com/reComputer-J3011-p-5590.html)         
 
- 
+Seed Studio Nvidia SOM
+  + reComputer [search](https://www.seeedstudio.com/reComputer-jeston-c-2063.html)
+  + reComputer [J4012-Edge](https://www.seeedstudio.com/reComputer-J4012-p-5586.html) 
+    
+    
 <A NAME="P154"></A>
 <HR>
 <P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P155">--&gt;</A></P>  
@@ -2241,7 +2248,7 @@ Adafruit
  
 <A NAME="P155"></A>
 <HR>
-<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P156">--&gt;</A></P>  
     
 # Project 155: Nvidia Jetson
     
@@ -2255,10 +2262,164 @@ Adafruit
       + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
       + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
  
+
+ 
+<A NAME="P156"></A>
+<HR>
+<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 156: ML GPUs & TPUs
+ 
+    
+## ChatGPT: What is a  GPU?   
+
+<PRE>
+A GPU, or Graphics Processing Unit, is a specialized electronic circuit designed to quickly and efficiently process large amounts of data for computer graphics and other complex computational tasks. 
+
+Unlike a CPU (Central Processing Unit), which is designed for general-purpose processing, a GPU is optimized for performing mathematical and geometric calculations necessary for rendering images, animations, and video games. 
+
+GPUs are also used for high-performance computing tasks in scientific research, machine learning, and other fields that require parallel processing. They typically contain hundreds or thousands of small processing cores that can work together to perform multiple tasks simultaneously, making them ideal for tasks that require a high degree of parallelism.    
+</PRE>
+    
+## ChatGPT: How is a GPU used in ML?  
+
+<PRE>
+In Machine Learning (ML), a GPU is used to accelerate the training of deep neural networks (DNNs). DNNs are a type of ML model that are designed to learn complex patterns and relationships in large datasets.
+
+The training of a DNN involves iteratively adjusting the weights and biases of the network to minimize the difference between its predicted output and the actual output. This process requires performing millions of matrix multiplication and addition operations, which are computationally intensive and can take a long time to complete on a CPU.
+
+By contrast, a GPU is optimized for matrix operations and can perform these computations much faster. As a result, using a GPU for ML training can reduce the training time from weeks or months to hours or days.
+
+Moreover, the larger the dataset and the more complex the DNN architecture, the more beneficial it is to use a GPU. In some cases, using a GPU can make the difference between being able to train a model or not.
+
+In summary, a GPU plays a crucial role in ML by significantly accelerating the training of DNNs, making it possible to handle larger datasets and more complex models, and enabling researchers and practitioners to develop more accurate and sophisticated ML models.    
+</PRE>
+       
+## ChatGPT: What is a TPU?    
+
+<PRE>
+A TPU, or Tensor Processing Unit, is a specialized integrated circuit designed by Google specifically to accelerate machine learning workloads. 
+
+Like a GPU, a TPU is optimized for performing matrix operations, which are fundamental to many machine learning algorithms. However, unlike a GPU, a TPU is designed specifically for matrix operations involving tensors, which are multi-dimensional arrays commonly used to represent data in machine learning.
+
+A TPU is particularly well-suited for deep neural network training and inference, as it can perform certain types of matrix operations much faster than a CPU or GPU. TPUs can also be used to accelerate other types of machine learning workloads, such as reinforcement learning and large-scale data processing.
+
+Google offers TPUs as a cloud service through its Google Cloud Platform, which allows users to train and run machine learning models on TPUs without having to own or maintain the physical hardware. The availability of TPUs has significantly accelerated the pace of research and development in machine learning and has enabled the development of more advanced and sophisticated machine learning models.    
+</PRE>
+      
+## ChatGPT: How is a TPU used in ML?   
+
+<PRE>
+A TPU is primarily used in machine learning for accelerating the training and inference of deep neural networks (DNNs). DNNs are a class of machine learning models that are designed to learn complex patterns and relationships in large datasets.
+
+Training a DNN involves iteratively adjusting the weights and biases of the network to minimize the difference between its predicted output and the actual output. This process requires performing many matrix multiplication and addition operations, which are computationally intensive and can take a long time to complete on a CPU or GPU.
+
+TPUs are optimized for performing matrix operations involving tensors, which are multi-dimensional arrays commonly used to represent data in machine learning. TPUs can perform these operations much faster than a CPU or GPU, which can significantly reduce the training time of DNNs. This is particularly true for large DNNs and datasets, which can require millions or billions of matrix operations.
+
+In addition to training, TPUs can also be used for inference, which involves using a trained model to make predictions on new data. TPUs can perform inference faster and more efficiently than a CPU or GPU, making them useful for real-time applications that require fast response times.
+
+Google provides TPUs as a cloud service through its Google Cloud Platform, which allows users to easily train and run machine learning models on TPUs without having to own or maintain the physical hardware. This has made it easier and more cost-effective for researchers and developers to use TPUs and has accelerated the pace of innovation in the field of machine learning.    
+</PRE>
+    
+## ChatGPT: Give examples of TPUs used in ML.   
+
+<PRE>
+Sure! Here are a few examples of how TPUs have been used in machine learning:
+
+1. Natural Language Processing (NLP): TPUs have been used to train large-scale language models for NLP tasks, such as language translation, sentiment analysis, and text generation. For instance, Google's BERT (Bidirectional Encoder Representations from Transformers) model was trained on TPUs, which helped reduce the training time from weeks to days.
+
+2. Computer Vision: TPUs have been used to accelerate the training of deep neural networks for image classification, object detection, and other computer vision tasks. For example, Google's Inception and ResNet models were trained on TPUs, which helped achieve state-of-the-art performance on benchmark datasets like ImageNet.
+
+3. Reinforcement Learning: TPUs have been used to accelerate the training of reinforcement learning models, which learn to make decisions based on trial and error. For example, Google's AlphaGo Zero, which learned to play the game of Go at a superhuman level, was trained on TPUs.
+
+4. Medical Imaging: TPUs have been used to accelerate the analysis of medical images, such as MRI scans and X-rays. For example, researchers at Stanford University used TPUs to train a deep learning model for detecting brain hemorrhages from CT scans, which achieved high accuracy and reduced the diagnosis time from hours to seconds.
+
+These are just a few examples of how TPUs have been used in machine learning. With the continued growth of the field, it's likely that we'll see more and more applications of TPUs in the future.    
+</PRE>
+    
+## ChatGPT: How is the performance of a TPU measured?  
+
+<PRE>
+The performance of a TPU is typically measured in terms of its throughput, which is the number of operations it can perform per second. For TPUs, the most common metric used to measure throughput is tera-operations per second (TOPS), which represents one trillion operations per second.
+
+TPU performance can vary depending on the specific model and configuration being used, as well as the type of operation being performed. Google provides detailed performance specifications for its TPUs on its website, which includes information on the number of cores, memory capacity, and TOPS.
+
+In addition to throughput, other factors that can impact TPU performance include memory bandwidth, precision (i.e., the number of bits used to represent each value), and the size and structure of the neural network being trained or evaluated. These factors can all affect the speed and efficiency with which the TPU can perform matrix operations.
+
+To evaluate the performance of a TPU, researchers and practitioners may use benchmark datasets and standardized metrics, such as accuracy, training time, or inference time, to compare the performance of different models and hardware configurations. These benchmarks can help guide the selection of the most appropriate hardware for a given machine learning task and can help identify opportunities for improving performance through algorithmic or architectural optimizations.    
+</PRE>
+    
+## ChatGPT: Compare TPU with GPU for ML.  
+
+<PRE>
+TPUs and GPUs are both hardware accelerators that can be used to speed up machine learning workloads, but they differ in several key ways.
+
+1. Architecture: TPUs and GPUs have different architectures optimized for different types of operations. TPUs are specifically designed for matrix operations involving tensors, which are common in deep learning models. GPUs are optimized for a broader range of operations, including both matrix operations and other types of parallelizable computation.
+
+2. Precision: TPUs typically operate at lower precision (e.g., 16-bit floating point) compared to GPUs, which can operate at higher precision (e.g., 32-bit floating point). Lower precision can reduce memory usage and increase throughput but can also reduce the accuracy of the model.
+
+3. Memory bandwidth: TPUs typically have higher memory bandwidth than GPUs, which can help reduce the time spent transferring data between the processor and memory. This can be particularly beneficial for large-scale machine learning models that require processing large amounts of data.
+
+4. Cost: TPUs and GPUs differ in their cost, both in terms of upfront hardware costs and ongoing operational costs. TPUs are only available as a cloud service through Google Cloud Platform, while GPUs can be purchased as standalone hardware or used as a cloud service from a variety of providers.
+
+5. Compatibility: TPUs are designed to work specifically with TensorFlow, a popular deep learning framework, while GPUs can be used with a variety of deep learning frameworks, including TensorFlow, PyTorch, and others.
+
+Overall, TPUs are typically faster and more efficient than GPUs for deep learning workloads that involve large-scale matrix operations, particularly when using low-precision data. GPUs are more flexible and can be used for a wider range of workloads, including both deep learning and other types of parallelizable computation. The choice of hardware will depend on the specific requirements of the machine learning task, as well as factors such as cost, compatibility, and availability.    
+</PRE>
+    
+## ChatGPT: Give examples of low cost TPUs.   
+
+<PRE>
+TPUs are specialized hardware accelerators that are typically expensive to purchase and operate, and are only available as a cloud service through Google Cloud Platform. However, there are some low-cost alternatives that offer similar functionality and can be used for machine learning workloads.
+
+One example of a low-cost TPU alternative is the Coral USB Accelerator, which is a small USB device that can be plugged into a computer to provide TPU-like acceleration for TensorFlow models. The Coral USB Accelerator is designed to work with the TensorFlow Lite framework and supports low-precision data types, making it particularly well-suited for edge computing and IoT applications. The device is relatively inexpensive compared to full-scale TPUs, with a retail price of around $75 USD.
+
+Another low-cost TPU alternative is the Edge TPU, which is a custom chip designed by Google that is optimized for edge computing and IoT applications. The Edge TPU is used in Google's Coral Dev Board, which is a development kit for building AI-powered IoT devices. The Edge TPU supports TensorFlow Lite and provides similar acceleration to full-scale TPUs, but at a lower cost. The Coral Dev Board is priced at around $150 USD, making it a more affordable option for developers and hobbyists.
+
+Both the Coral USB Accelerator and the Edge TPU provide a cost-effective way to access TPU-like acceleration for TensorFlow models, and are particularly well-suited for edge computing and IoT applications where low power consumption and small form factors are important considerations. However, it's important to note that these devices may not provide the same level of performance or scalability as full-scale TPUs, and may be better suited for smaller-scale machine learning workloads.    
+</PRE>
+     
+## ChatGPT: Is Nvidia Jetson a GPU or TPU?  
+
+<PRE>
+The Nvidia Jetson is not a TPU or a GPU but rather a family of embedded computing devices that are designed for edge computing and AI applications. The Jetson devices are based on Nvidia's system-on-a-chip (SoC) technology and include a variety of processing components, including a CPU, a GPU, and other hardware accelerators for tasks such as computer vision and deep learning.
+
+The Jetson devices are not specifically designed for matrix operations or low-precision data, which are areas of focus for TPUs. However, they do provide powerful computing capabilities for a range of machine learning workloads, including image and speech recognition, object detection, and robotics.
+
+The Jetson devices support popular deep learning frameworks such as TensorFlow and PyTorch and provide hardware acceleration for these frameworks through the integrated GPU and other accelerators. They are also designed to work with Nvidia's CUDA programming language, which allows developers to take advantage of the parallel processing capabilities of the GPU for high-performance computing tasks.
+
+In summary, the Nvidia Jetson is not a TPU or a GPU but rather a family of embedded computing devices that provide powerful processing capabilities for a range of machine learning and AI workloads. They include a CPU, a GPU, and other hardware accelerators and are optimized for edge computing and IoT applications.    
+</PRE>
+    
+## ChatGPT: Which is better for ML TPU or GPU?   
+
+<PRE>
+Whether TPUs or GPUs are better for machine learning depends on the specific requirements of the task at hand. 
+
+TPUs are specifically designed for deep learning workloads that involve large-scale matrix operations and are particularly well-suited for training and running deep neural networks. TPUs can offer significant performance improvements over GPUs for certain types of deep learning workloads, particularly when using low-precision data. However, TPUs are only available as a cloud service through Google Cloud Platform, and are not as widely compatible with deep learning frameworks as GPUs.
+
+GPUs are more flexible and can be used for a wider range of machine learning workloads, including deep learning and other types of parallelizable computation. GPUs are widely available and can be used as standalone hardware or as a cloud service from a variety of providers. GPUs are also compatible with a wider range of deep learning frameworks, including TensorFlow, PyTorch, and others.
+
+In summary, TPUs and GPUs each have their own strengths and weaknesses, and the choice of hardware will depend on the specific requirements of the machine learning task. For deep learning workloads that involve large-scale matrix operations, particularly when using low-precision data, TPUs may offer significant performance improvements over GPUs. For other types of machine learning workloads, GPUs may provide a more flexible and cost-effective solution.    
+</PRE>    
+      
+## ChatGPT: Is Google Coral a TPU? 
+
+<PRE>
+The Google Coral is not a TPU but rather a family of hardware and software tools designed to provide edge computing capabilities for machine learning workloads. The Coral hardware includes the Coral Dev Board and the Coral USB Accelerator, which are small devices that provide hardware acceleration for machine learning models using Google's Edge TPU.
+
+The Edge TPU is a custom chip designed by Google that is optimized for low-power, edge computing applications. It is similar to a TPU in that it is designed to accelerate matrix operations for machine learning workloads, but it is not the same as the TPUs that are available through Google Cloud Platform.
+
+The Coral Dev Board and Coral USB Accelerator are designed to work with TensorFlow Lite and provide hardware acceleration for machine learning models running on the Edge TPU. They are particularly well-suited for edge computing and IoT applications where low power consumption and small form factors are important considerations.
+
+In summary, the Google Coral is not a TPU, but rather a family of hardware and software tools designed to provide edge computing capabilities for machine learning workloads using Google's Edge TPU. The Coral Dev Board and Coral USB Accelerator provide hardware acceleration for machine learning models running on the Edge TPU, and are optimized for low-power, edge computing applications.   
+</PRE>    
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P156">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
