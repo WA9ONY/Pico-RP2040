@@ -3010,7 +3010,7 @@ In this version, we define a new function called `sigmoid` that takes in a numpy
    
 ## [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
 
-The [Sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) is used in ML ANN [Sigmoid neuron](https://en.wikipedia.org/wiki/Artificial_neuron#Sigmoid).  
+The [Sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) is used in [ML](https://en.wikipedia.org/wiki/Machine_learning) [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network) [Sigmoid neuron](https://en.wikipedia.org/wiki/Artificial_neuron#Sigmoid).  
     
 The Sigmoid neuron single output ranges from almost 0 to almost 1 making it good to know how close to a classification bondary a value is.      
 
@@ -3022,7 +3022,6 @@ The Sigmoid neuron bias parameter controlls when the sum of the inputs causes th
 <img width="689" height="921" src="/Images/ChatGPTSigmoidPlot.png">  
 </p>
     
-   
 ## [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
 
 The program was modified to add a bias to the Sigmoid neuron.  The bias shifts the the Sigmoid curve to the left or right.
