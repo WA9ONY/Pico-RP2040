@@ -2910,15 +2910,15 @@ Here are some popular books for Machine Learning (ML) programming in Python:
     
 # Project 159: Google Colab Python IDE
      
-Google [Colab](https://colab.research.google.com/) is a free online Python IDE.
+Google [Colab](https://colab.research.google.com/) is a free online [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
   + Supports may Python ML libraries.
-    + TensorFlow
-    + Keras
-    + Scikit-learn
-    + PyTorch
-  + Supports AI accelerator 
-    + TPU
-    + GPU
+    + [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
+    + [Keras](https://en.wikipedia.org/wiki/Keras)
+    + [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
+    + [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
+  + Supports [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) 
+    + [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
+    + [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
     
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google Colab? 
     
@@ -3017,6 +3017,8 @@ The Sigmoid neuron single output ranges from almost 0 to almost 1 making it good
 The Sigmoid neuron can have multiple inputs, each input having its own weight parameter.  
     
 The Sigmoid neuron bias parameter controlls when the sum of the inputs causes the output to be 0.5.  In the below graph the bias is 0.    
+ 
+[Sigmoid Neuron — Building Block of Deep Neural Networks](https://towardsdatascience.com/sigmoid-neuron-deep-neural-networks-a4cd35b629d7#:~:text=The%20building%20block%20of%20the,step%20functional%20output%20from%20perceptron.)    
     
 <p align="center">
 <img width="689" height="921" src="/Images/ChatGPTSigmoidPlot.png">  
