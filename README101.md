@@ -2418,9 +2418,10 @@ Deep Residual Learning for Image Recognition ResNet-50
   + The ResNet-50 has over 23 million trainable parameters.
     
   + [ResNet-50: The Basics and a Quick Tutorial](https://datagen.tech/guides/computer-vision/resnet-50/#:~:text=ResNet%2D50%20is%20a%2050,networks%20by%20stacking%20residual%20blocks.)
-  + [Deep Residual Learning for Image Recognition]https://arxiv.org/abs/1512.03385()  
+  + [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385()  
   + [MathWorks](https://www.mathworks.com/help/deeplearning/ref/resnet50.html)    
   + [Comparing Google’s TPUv2 against Nvidia’s V100 on ResNet-50](https://web.archive.org/web/20180426200043/https://blog.riseml.com/comparing-google-tpuv2-against-nvidia-v100-on-resnet-50-c2bbb6a51e5e)  
+
     
 <A NAME="FUTURE"></A>
 <HR> 
