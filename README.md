@@ -204,6 +204,8 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 154: <A HREF="README101.md#P154">Adafruit Microsoft Machine Learning Kit for Lobe</A>
 + Project 155: <A HREF="README101.md#P155">Nvidia Jetson</A>
 + Project 156: <A HREF="README101.md#P156">ML GPUs & TPUs</A>
++ Project 157: <A HREF="README101.md#P157">ML ResNet-50 Convolutional Neural Network</A>
++ Project 158: <A HREF="README101.md#P158">ML Math</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
