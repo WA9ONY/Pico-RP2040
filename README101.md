@@ -2536,7 +2536,9 @@ Week 6: Logistic Regression
 - Homework: Solve logistic regression exercises using Python and Scikit-learn.
 
 Week 7: k-Nearest Neighbors
-- Goals: Introduce the basics of k-Nearest Neighbors (k   ChatGPT hangs here
+- Goals: Introduce the basics of k-Nearest Neighbors (k   
+    
+ChatGPT hangs here, try #2 below
        
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #2 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
 
@@ -2588,7 +2590,9 @@ Week 5: Graph Theory Basics
 - Python homework problems: Solve graph theory problems using Python.
 
 Week 6-10: ML Project Implementation and Practice
-- Goals: Apply the math concepts learned in the  ChatGPT hangs here
+- Goals: Apply the math concepts learned in the  
+    
+ChatGPT hangs here, try #3 below
 
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #3 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
   
@@ -2633,7 +2637,7 @@ Week 6: Advanced Linear Algebra
 - Goals: Learn about eigenvectors, eigenvalues, and matrix decompositions. Understand how to perform principal component analysis (PCA). 
 - Resources: Khan Academy’s Linear Algebra Course, Linear Algebra and Its Applications by Gilbert Strang, Applied Linear Algebra by Peter Olver and Chehrzad 
     
-ChatGPT hangs here    
+ChatGPT hangs here, try #4 below    
 
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #4 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
 
@@ -2741,7 +2745,7 @@ Goals:
 - Understand the concept of convex optimization.
 - Learn how to solve optimization problems using numerical methods.
     
-ChatGPT hangs here    
+ChatGPT hangs here, try #5 below    
      
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #5 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.  
 
@@ -2847,7 +2851,9 @@ Week 4 - Optimization Theory Fundamentals
 
 Goals:
 - Understand optimization theory and algorithms
-- Learn about   ChatGPT hangs here 
+- Learn about   
+    
+ChatGPT hangs here, I gave up on trying to get the full response.  
    
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List ML programming in Python
     
@@ -2896,11 +2902,95 @@ Here are some popular books for Machine Learning (ML) programming in Python:
 9. "Python for Data Analysis" by Wes McKinney: This book covers data analysis tools in Python, including Pandas and NumPy, which are commonly used for ML tasks.
 
 10. "Hands-On Deep Learning for Images with TensorFlow" by Will Ballard: This book covers deep learning techniques for image recognition and includes code examples using TensorFlow.    
+
+ 
+<A NAME="P159"></A>
+<HR>
+<P align="center"><A HREF="#P158">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 159: Google Colab Python IDE
+     
+Google [Colab](https://colab.research.google.com/) is a free online Python IDE.
+  + Supports may Python ML libraries.
+    + TensorFlow
+    + Keras
+    + Scikit-learn
+    + PyTorch
+  + Supports AI accelerator 
+    + TPU
+    + GPU
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google Colab? 
+    
+Google Colab (short for "Colaboratory") is a cloud-based platform that allows users to write, run, and share code in a Python environment using Jupyter notebooks. It is a free service offered by Google and is widely used in the machine learning and data science community for projects that require a lot of computing power or for collaboration with others. 
+
+With Google Colab, users can write and execute Python code, import and export data, visualize data, and perform machine learning tasks. It also allows users to install and use third-party libraries and frameworks such as TensorFlow, Keras, and PyTorch. Since it is a cloud-based service, users can access their Colab notebooks from anywhere with an internet connection, and they do not need to install any software on their local machines.
+
+Google Colab provides users with a free GPU (Graphics Processing Unit) and TPU (Tensor Processing Unit) for running machine learning models, making it an attractive option for those who do not have access to high-performance hardware. Additionally, Colab allows users to share their notebooks with others, making it easy to collaborate on projects with team members or to share code with the wider community.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a demo Colab Python program to plot a graph. 
+    
+Sure, here's a demo Colab Python program that plots a simple line graph using the Matplotlib library:
+
+1. First, you need to import the Matplotlib library and configure it to display plots inline in the notebook:
+
+```python
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+
+2. Next, you can create some data to plot. In this example, we'll plot the values of the sine function between 0 and 2π:
+
+```python
+import numpy as np
+
+x = np.linspace(0, 2*np.pi, 100)
+y = np.sin(x)
+```
+
+3. Finally, you can create the plot by calling the `plot` function and passing in the x and y values as arguments:
+
+```python
+plt.plot(x, y)
+plt.title('Sine Function')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
+```
+
+When you run the program, you should see a simple line graph of the sine function displayed in the notebook.
+
+Here's the full code:
+
+```python
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+import numpy as np
+
+x = np.linspace(0, 2*np.pi, 100)
+y = np.sin(x)
+
+plt.plot(x, y)
+plt.title('Sine Function')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
+```    
+    
+## [Colab](https://colab.research.google.com/): Sine wave demo program from ChatGPT
+    
+<p align="center">
+<img width="724" height="924" src="/Images/ColabSine.png">  
+</p>
+    
+    
+
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P158">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
