@@ -2433,8 +2433,7 @@ Deep Residual Learning for Image Recognition ResNet-50
     
 # Project 158: ML Math
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): User
-What programming languages are used for ML?  
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What programming languages are used for ML?  
 
 There are many programming languages that can be used for Machine Learning (ML), but some of the most popular ones are:
 
@@ -2537,7 +2536,7 @@ Week 6: Logistic Regression
 - Homework: Solve logistic regression exercises using Python and Scikit-learn.
 
 Week 7: k-Nearest Neighbors
-- Goals: Introduce the basics of k-Nearest Neighbors (k   
+- Goals: Introduce the basics of k-Nearest Neighbors (k   ChatGPT hangs here
        
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #2 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
 
@@ -2589,7 +2588,7 @@ Week 5: Graph Theory Basics
 - Python homework problems: Solve graph theory problems using Python.
 
 Week 6-10: ML Project Implementation and Practice
-- Goals: Apply the math concepts learned in the
+- Goals: Apply the math concepts learned in the  ChatGPT hangs here
 
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #3 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
   
@@ -2632,7 +2631,9 @@ Week 5: Optimization Theory Basics
 
 Week 6: Advanced Linear Algebra
 - Goals: Learn about eigenvectors, eigenvalues, and matrix decompositions. Understand how to perform principal component analysis (PCA). 
-- Resources: Khan Academy’s Linear Algebra Course, Linear Algebra and Its Applications by Gilbert Strang, Applied Linear Algebra by Peter Olver and Chehrzad   
+- Resources: Khan Academy’s Linear Algebra Course, Linear Algebra and Its Applications by Gilbert Strang, Applied Linear Algebra by Peter Olver and Chehrzad 
+    
+ChatGPT hangs here    
 
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #4 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
 
@@ -2739,6 +2740,8 @@ Goals:
 - Learn the basics of Optimization Theory.
 - Understand the concept of convex optimization.
 - Learn how to solve optimization problems using numerical methods.
+    
+ChatGPT hangs here    
      
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #5 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.  
 
@@ -2844,7 +2847,7 @@ Week 4 - Optimization Theory Fundamentals
 
 Goals:
 - Understand optimization theory and algorithms
-- Learn about   
+- Learn about   ChatGPT hangs here 
    
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List ML programming in Python
     
