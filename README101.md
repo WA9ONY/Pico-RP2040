@@ -2919,6 +2919,12 @@ Google [Colab](https://colab.research.google.com/) is a free online [Python](htt
   + Supports [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) 
     + [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
     + [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
+YouTube    
+  + Colab [search](https://www.youtube.com/results?search_query=colab)  
+
+Books
+  + Amazon Colab [search](https://www.amazon.com/s?k=Colab&i=stripbooks&crid=2YLIS1SC3WBFJ&sprefix=colab%2Cstripbooks%2C147&ref=nb_sb_noss_1)  
     
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google Colab? 
     
