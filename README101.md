@@ -880,8 +880,8 @@ Internet Archive
   + [Machine learning](https://archive.org/search?query=Machine+Learning)
 
 Amazon
-  +[Best Sellers in Machine Theory](https://www.amazon.com/gp/bestsellers/digital-text/16977184011/ref=pd_zg_hrsr_digital-text)
-    
+  + [Best Sellers in Machine Theory](https://www.amazon.com/gp/bestsellers/digital-text/16977184011/ref=pd_zg_hrsr_digital-text)
+ 
 Python
   + W3 School Python machine learning](https://www.w3schools.com/python/python_ml_getting_started.asp)
     
