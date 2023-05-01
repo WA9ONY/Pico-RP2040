@@ -2273,7 +2273,11 @@ Wikipedia
   + [ML](https://en.wikipedia.org/wiki/Machine_learning)  
   + [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
     + [Nvidia](https://en.wikipedia.org/wiki/Nvidia)
-    + [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
+      + [NVIDIA Data Center Deep Learning Product Performance](https://developer.nvidia.com/deep-learning-performance-training-inference)
+      + [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
+    + [The silicon of the GPU is only about 15% used in ANN, ](https://www.kdnuggets.com/2020/05/tops-just-hype-dark-ai-silicon-disguise.html)
+      + GPU is full of dark AI silicon based on ResNet50 ANN benchmark test. 
+      + The GPU is design for gaming with a lot of silicon not used for ANN operation.
   + [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
     + [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   + [Edge TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Edge_TPU)  
@@ -2414,11 +2418,11 @@ In summary, the Google Coral is not a TPU, but rather a family of hardware and s
 # Project 157: ML ResNet-50 Convolutional Neural Network
 
 Deep Residual Learning for Image Recognition ResNet-50
-  + Deep (50 layers) ANN    
-  + The ResNet-50 has over 23 million trainable parameters.
+  + ResNet is Residual Network.Deep (50 layers) ANN    
+  + The ResNet-50 has over [25.6 million](https://www.quora.com/How-many-parameters-are-there-in-ResNet-50#:~:text=The%20ResNet%2D50%20model%20consists,over%2023%20million%20trainable%20parameters.) trainable parameters.
     
   + [ResNet-50: The Basics and a Quick Tutorial](https://datagen.tech/guides/computer-vision/resnet-50/#:~:text=ResNet%2D50%20is%20a%2050,networks%20by%20stacking%20residual%20blocks.)
-  + [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385()  
+  + [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)  
   + [MathWorks](https://www.mathworks.com/help/deeplearning/ref/resnet50.html)    
   + [Comparing Google’s TPUv2 against Nvidia’s V100 on ResNet-50](https://web.archive.org/web/20180426200043/https://blog.riseml.com/comparing-google-tpuv2-against-nvidia-v100-on-resnet-50-c2bbb6a51e5e)  
 
