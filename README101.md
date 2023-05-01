@@ -2283,7 +2283,7 @@ Wikipedia
     + [Are Tera Operations Per Second (TOPS) Just hype? Or Dark AI Silicon in Disguise?](https://www.kdnuggets.com/2020/05/tops-just-hype-dark-ai-silicon-disguise.html)
   + [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) 
 
-## ChatGPT: What is a  GPU?   
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a  GPU?   
 
 A GPU, or Graphics Processing Unit, is a specialized electronic circuit designed to quickly and efficiently process large amounts of data for computer graphics and other complex computational tasks. 
 
@@ -2291,7 +2291,7 @@ Unlike a CPU (Central Processing Unit), which is designed for general-purpose pr
 
 GPUs are also used for high-performance computing tasks in scientific research, machine learning, and other fields that require parallel processing. They typically contain hundreds or thousands of small processing cores that can work together to perform multiple tasks simultaneously, making them ideal for tasks that require a high degree of parallelism.    
     
-## ChatGPT: How is a GPU used in ML?  
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is a GPU used in ML?  
 
 In Machine Learning (ML), a GPU is used to accelerate the training of deep neural networks (DNNs). DNNs are a type of ML model that are designed to learn complex patterns and relationships in large datasets.
 
@@ -2303,7 +2303,7 @@ Moreover, the larger the dataset and the more complex the DNN architecture, the 
 
 In summary, a GPU plays a crucial role in ML by significantly accelerating the training of DNNs, making it possible to handle larger datasets and more complex models, and enabling researchers and practitioners to develop more accurate and sophisticated ML models.    
        
-## ChatGPT: What is a TPU?    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a TPU?    
 
 A TPU, or Tensor Processing Unit, is a specialized integrated circuit designed by Google specifically to accelerate machine learning workloads. 
 
@@ -2313,7 +2313,7 @@ A TPU is particularly well-suited for deep neural network training and inference
 
 Google offers TPUs as a cloud service through its Google Cloud Platform, which allows users to train and run machine learning models on TPUs without having to own or maintain the physical hardware. The availability of TPUs has significantly accelerated the pace of research and development in machine learning and has enabled the development of more advanced and sophisticated machine learning models.    
     
-## ChatGPT: How is a TPU used in ML?   
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is a TPU used in ML?   
 
 A TPU is primarily used in machine learning for accelerating the training and inference of deep neural networks (DNNs). DNNs are a class of machine learning models that are designed to learn complex patterns and relationships in large datasets.
 
@@ -2325,7 +2325,7 @@ In addition to training, TPUs can also be used for inference, which involves usi
 
 Google provides TPUs as a cloud service through its Google Cloud Platform, which allows users to easily train and run machine learning models on TPUs without having to own or maintain the physical hardware. This has made it easier and more cost-effective for researchers and developers to use TPUs and has accelerated the pace of innovation in the field of machine learning.    
   
-## ChatGPT: Give examples of TPUs used in ML.   
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Give examples of TPUs used in ML.   
 
 Sure! Here are a few examples of how TPUs have been used in machine learning:
 
@@ -2339,7 +2339,7 @@ Sure! Here are a few examples of how TPUs have been used in machine learning:
 
 These are just a few examples of how TPUs have been used in machine learning. With the continued growth of the field, it's likely that we'll see more and more applications of TPUs in the future.    
   
-## ChatGPT: How is the performance of a TPU measured?  
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is the performance of a TPU measured?  
 
 The performance of a TPU is typically measured in terms of its throughput, which is the number of operations it can perform per second. For TPUs, the most common metric used to measure throughput is tera-operations per second (TOPS), which represents one trillion operations per second.
 
@@ -2349,7 +2349,7 @@ In addition to throughput, other factors that can impact TPU performance include
 
 To evaluate the performance of a TPU, researchers and practitioners may use benchmark datasets and standardized metrics, such as accuracy, training time, or inference time, to compare the performance of different models and hardware configurations. These benchmarks can help guide the selection of the most appropriate hardware for a given machine learning task and can help identify opportunities for improving performance through algorithmic or architectural optimizations.    
     
-## ChatGPT: Compare TPU with GPU for ML.  
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Compare TPU with GPU for ML.  
 
 TPUs and GPUs are both hardware accelerators that can be used to speed up machine learning workloads, but they differ in several key ways.
 
@@ -2365,7 +2365,7 @@ TPUs and GPUs are both hardware accelerators that can be used to speed up machin
 
 Overall, TPUs are typically faster and more efficient than GPUs for deep learning workloads that involve large-scale matrix operations, particularly when using low-precision data. GPUs are more flexible and can be used for a wider range of workloads, including both deep learning and other types of parallelizable computation. The choice of hardware will depend on the specific requirements of the machine learning task, as well as factors such as cost, compatibility, and availability.    
     
-## ChatGPT: Give examples of low cost TPUs.   
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Give examples of low cost TPUs.   
 
 TPUs are specialized hardware accelerators that are typically expensive to purchase and operate, and are only available as a cloud service through Google Cloud Platform. However, there are some low-cost alternatives that offer similar functionality and can be used for machine learning workloads.
 
@@ -2375,7 +2375,7 @@ Another low-cost TPU alternative is the Edge TPU, which is a custom chip designe
 
 Both the Coral USB Accelerator and the Edge TPU provide a cost-effective way to access TPU-like acceleration for TensorFlow models, and are particularly well-suited for edge computing and IoT applications where low power consumption and small form factors are important considerations. However, it's important to note that these devices may not provide the same level of performance or scalability as full-scale TPUs, and may be better suited for smaller-scale machine learning workloads.    
    
-## ChatGPT: Is Nvidia Jetson a GPU or TPU?  
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is Nvidia Jetson a GPU or TPU?  
 
 The Nvidia Jetson is not a TPU or a GPU but rather a family of embedded computing devices that are designed for edge computing and AI applications. The Jetson devices are based on Nvidia's system-on-a-chip (SoC) technology and include a variety of processing components, including a CPU, a GPU, and other hardware accelerators for tasks such as computer vision and deep learning.
 
@@ -2385,7 +2385,7 @@ The Jetson devices support popular deep learning frameworks such as TensorFlow a
 
 In summary, the Nvidia Jetson is not a TPU or a GPU but rather a family of embedded computing devices that provide powerful processing capabilities for a range of machine learning and AI workloads. They include a CPU, a GPU, and other hardware accelerators and are optimized for edge computing and IoT applications.    
   
-## ChatGPT: Which is better for ML TPU or GPU?   
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Which is better for ML TPU or GPU?   
 
 Whether TPUs or GPUs are better for machine learning depends on the specific requirements of the task at hand. 
 
@@ -2395,7 +2395,7 @@ GPUs are more flexible and can be used for a wider range of machine learning wor
 
 In summary, TPUs and GPUs each have their own strengths and weaknesses, and the choice of hardware will depend on the specific requirements of the machine learning task. For deep learning workloads that involve large-scale matrix operations, particularly when using low-precision data, TPUs may offer significant performance improvements over GPUs. For other types of machine learning workloads, GPUs may provide a more flexible and cost-effective solution.    
        
-## ChatGPT: Is Google Coral a TPU? 
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is Google Coral a TPU? 
 
 The Google Coral is not a TPU but rather a family of hardware and software tools designed to provide edge computing capabilities for machine learning workloads. The Coral hardware includes the Coral Dev Board and the Coral USB Accelerator, which are small devices that provide hardware acceleration for machine learning models using Google's Edge TPU.
 
