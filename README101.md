@@ -3007,9 +3007,16 @@ plt.show()
 ```
 
 In this version, we define a new function called `sigmoid` that takes in a numpy array `x` and returns the output of the sigmoid function applied element-wise to `x`. We then use `np.linspace` to generate 100 evenly spaced values between -10 and +10 for `x`, and pass these values to `sigmoid` to compute the corresponding values of `y`. Finally, we plot `x` against `y` using `plt.plot`, and add a title and axis labels before displaying the plot using `plt.show()`.    
-
-    
+   
 ## [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
+
+The [Sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) is used in ML ANN [Sigmoid neuron](https://en.wikipedia.org/wiki/Artificial_neuron#Sigmoid).  
+    
+The Sigmoid neuron single output ranges from almost 0 to almost 1 making it good to know how close to a classification bondary a value is.      
+
+The Sigmoid neuron can have multiple inputs, each input having its own weight parameter.  
+    
+The Sigmoid neuron bias parameter controlls when the sum of the inputs causes the output to be 0.5.  In the below graph the bias is 0.    
     
 <p align="center">
 <img width="689" height="921" src="/Images/ChatGPTSigmoidPlot.png">  
