@@ -3022,7 +3022,18 @@ The Sigmoid neuron bias parameter controlls when the sum of the inputs causes th
 <img width="689" height="921" src="/Images/ChatGPTSigmoidPlot.png">  
 </p>
     
+   
+## [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
+
+The program was modified to add a bias to the Sigmoid neuron.  The bias shifts the the Sigmoid curve to the left or right.
+In the progam the bias is 2.5 and shift the plot to the right by 2.5 units.  Now the input of 2.5 has an output of 0.5.  Compare this plot with the above plot where the input of 0 outputs 0.5.
     
+If the bias was -2.5 the plot would shift to the left and input of -2.5 would have an output of 0.5.    
+    
+<p align="center">
+<img width="680" height="929" src="/Images/ChatGPTSigmoidPlotBiasPlus.png">  
+</p>
+
     
 <A NAME="FUTURE"></A>
 <HR> 
