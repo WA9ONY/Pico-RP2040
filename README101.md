@@ -2985,7 +2985,36 @@ plt.show()
 </p>
     
     
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Change the program to plot the sigmoid function from -10 to +10. 
+    
+Sure, here's a modified version of the program that plots the sigmoid function between -10 and +10:
 
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+x = np.linspace(-10, 10, 100)
+y = sigmoid(x)
+
+plt.plot(x, y)
+plt.title('Sigmoid Function')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
+```
+
+In this version, we define a new function called `sigmoid` that takes in a numpy array `x` and returns the output of the sigmoid function applied element-wise to `x`. We then use `np.linspace` to generate 100 evenly spaced values between -10 and +10 for `x`, and pass these values to `sigmoid` to compute the corresponding values of `y`. Finally, we plot `x` against `y` using `plt.plot`, and add a title and axis labels before displaying the plot using `plt.show()`.    
+
+    
+## [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
+    
+<p align="center">
+<img width="689" height="921" src="/Images/ChatGPTSigmoidPlot.png">  
+</p>
+    
     
     
 <A NAME="FUTURE"></A>
