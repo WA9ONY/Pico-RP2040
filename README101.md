@@ -3061,8 +3061,7 @@ Internet Archive
 
 Google
   + Morse code [search](https://www.google.com/search?q=morse+code&oq=Morse+code&aqs=chrome.0.0i433i512l6j0i512j0i433i512l3.2487j0j15&sourceid=chrome&ie=UTF-8e)
-
-       
+     
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Morse Code?
     
 Morse code is a system of communication that uses a series of dots, dashes, and spaces to represent letters, numbers, and punctuation marks. It was developed in the early 19th century by Samuel Morse and his associate Alfred Vail as a way to transmit messages over long distances using electrical signals.
@@ -3227,10 +3226,6 @@ Sure, here's a table of some commonly used abbreviations and Q codes that may be
 These abbreviations and Q codes are widely used in amateur radio Morse code contacts to convey information efficiently and accurately, and they can help operators communicate effectively even when speaking different languages or dialects.    
 
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Assume your radio call sign is CHATGPT what is your response when I send you the following message: CQ CQ CQ DE WA9ONY WA9ONY WA9ONY K
-    
-    
-    
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):  
     
 If I were using the radio call sign CHATGPT and received the message "CQ CQ CQ DE WA9ONY WA9ONY WA9ONY K", my response would be:
 
