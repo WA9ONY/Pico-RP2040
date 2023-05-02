@@ -3052,7 +3052,10 @@ Wikipedia
    
 YouTube
   + Morse code [search](https://www.youtube.com/results?search_query=morse+code)
-
+  + Morse code Raspberry Pi [search](https://www.youtube.com/results?search_query=Morese+code+raspberry+pi)
+  + Morse code Arduino [search](https://www.youtube.com/results?search_query=Morese+code+arduino)
+  + Morse code Python [search](https://www.youtube.com/results?search_query=Morese+code+Python)
+    
 Amazon
   + Morse code [search](https://www.amazon.com/s?k=Morse+code&crid=2KLFTQQVZRJVR&sprefix=morse+code%2Caps%2C165&ref=nb_sb_noss_1)
 
@@ -3061,6 +3064,7 @@ Internet Archive
 
 Google
   + Morse code [search](https://www.google.com/search?q=morse+code&oq=Morse+code&aqs=chrome.0.0i433i512l6j0i512j0i433i512l3.2487j0j15&sourceid=chrome&ie=UTF-8e)
+  + GitHub Morse code [search](https://www.google.com/search?q=GitHub+Morse+code&oq=GitHub+Morse+code&aqs=chrome..69i57j69i64.8960j0j15&sourceid=chrome&ie=UTF-8)
      
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Morse Code?
     
