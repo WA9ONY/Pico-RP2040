@@ -2906,7 +2906,7 @@ Here are some popular books for Machine Learning (ML) programming in Python:
  
 <A NAME="P159"></A>
 <HR>
-<P align="center"><A HREF="#P158">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P158">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P160">--&gt;</A></P>  
     
 # Project 159: Google Colab Python IDE
      
@@ -2989,8 +2989,7 @@ plt.show()
 <p align="center">
 <img width="724" height="924" src="/Images/ColabSine.png">  
 </p>
-    
-    
+       
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Change the program to plot the sigmoid function from -10 to +10. 
     
 Sure, here's a modified version of the program that plots the sigmoid function between -10 and +10:
@@ -3041,10 +3040,39 @@ If the bias was -2.5 the plot would shift to the left and input of -2.5 would ha
 <img width="680" height="929" src="/Images/ChatGPTSigmoidPlotBiasPlus.png">  
 </p>
 
+ 
+<A NAME="P160"></A>
+<HR>
+<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 160: Morse Code
+     
+Wikipedia
+  + Morse code [search](https://en.wikipedia.org/wiki/Morse_code)
+   
+YouTube
+  + Morse code [search](https://www.youtube.com/results?search_query=morse+code)
+
+Amazon
+  + Morse code [search](https://www.amazon.com/s?k=Morse+code&crid=2KLFTQQVZRJVR&sprefix=morse+code%2Caps%2C165&ref=nb_sb_noss_1)
+
+Internet Archive
+  + Morse code [search](https://archive.org/search?query=Morse+code)
+
+Google
+  + Morse code [search](https://www.google.com/search?q=morse+code&oq=Morse+code&aqs=chrome.0.0i433i512l6j0i512j0i433i512l3.2487j0j15&sourceid=chrome&ie=UTF-8e)
+
+       
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): 
+    
+    
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a demo Colab Python program to plot a graph. 
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
