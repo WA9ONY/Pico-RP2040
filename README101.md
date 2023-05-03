@@ -3043,7 +3043,7 @@ If the bias was -2.5 the plot would shift to the left and input of -2.5 would ha
  
 <A NAME="P160"></A>
 <HR>
-<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P161">--&gt;</A></P>  
     
 # Project 160: Morse Code
      
@@ -3279,12 +3279,28 @@ Here's a table showing the duration of a Morse code dot and dash at various spee
 
 Note that the dot duration is defined as the basic timing unit, and the duration of a dash is three times that of a dot. These timings are standardized and widely used in Morse code communication to ensure consistency and clarity, regardless of the operator's speed or proficiency.    
    
-   
+ 
+<A NAME="P161"></A>
+<HR>
+<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 161: Python Notbooks
+     
+Python notbooks are a different type of IDE.  
+
+[Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
+  + YouTube
+    + [Search](https://www.youtube.com/results?search_query=Jupyter)
+  + Google
+    + [Search](https://www.google.com/search?q=Jupyter&oq=Jupyter&aqs=chrome..69i57j46i67i131i199i433i465i650j0i67i650j0i67i131i433i650j0i67i433i650j0i131i433i650j0i433i512j0i131i433i512l2.2401j0j15&sourceid=chrome&ie=UTF-8)
+      
+Colab is Jupyter compatibale 
+
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
