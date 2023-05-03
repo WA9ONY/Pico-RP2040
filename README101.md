@@ -3282,7 +3282,7 @@ Note that the dot duration is defined as the basic timing unit, and the duration
  
 <A NAME="P161"></A>
 <HR>
-<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P162">--&gt;</A></P>  
     
 # Project 161: Python Notbooks
      
@@ -3339,12 +3339,95 @@ Sure, here are some more Python notebooks:
 5. Hydrogen: Hydrogen is a package for the Atom text editor that provides an interactive notebook-like interface for running Python code. It uses Jupyter kernels to execute code and supports inline plotting and debugging.
 
 These are just a few examples of the many notebook options available for Python users. Depending on your specific needs and preferences, one of these options may be more suitable than others.     
+   
+ 
+<A NAME="P162"></A>
+<HR>
+<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 162: DS: Data Science
+     
+Data Science
+  + Wikipedia [Data Science](https://en.wikipedia.org/wiki/Data_science)
+  + ACM Data Science Task Force [Computing Competencies for Undergraduate Data Science Curricula](https://dstf.acm.org/DSTF_Final_Report.pdf)  
+  + YouTube [data science full course](https://www.youtube.com/results?search_query=data+science+full+course)
     
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is DS?
+
+DS can refer to several different things, but in the context of technology and computing, DS is often used as an abbreviation for "data science." 
+
+Data science involves using computational and statistical techniques to extract insights and knowledge from data. This can include techniques such as data mining, machine learning, and statistical modeling. Data scientists often work with large and complex data sets, and use programming languages such as Python and R to analyze and visualize data.
+
+DS can also stand for "data structures," which are the ways in which data is organized and stored in computer systems. Examples of data structures include arrays, lists, stacks, queues, and trees. Understanding data structures is an important aspect of computer programming and software engineering.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Who offers data science courses?
+
+There are many organizations that offer data science courses, ranging from universities and colleges to online learning platforms and specialized training companies. Here are a few examples:
+
+1. Universities and Colleges: Many universities and colleges around the world offer data science courses as part of their computer science or statistics programs. Examples include Stanford University, MIT, Harvard University, University of California-Berkeley, Carnegie Mellon University, and many more.
+
+2. Online Learning Platforms: There are several online learning platforms that offer data science courses, including Coursera, edX, Udemy, DataCamp, Codecademy, and many others. These platforms offer a wide variety of courses, ranging from introductory courses to advanced specializations and degrees.
+
+3. Specialized Training Companies: There are also specialized training companies that focus specifically on data science education. Examples include General Assembly, Galvanize, Metis, Springboard, and many others. These companies often offer immersive bootcamps and mentorship programs that provide students with hands-on experience working on real-world data science projects.
+
+In addition, many professional organizations and industry associations also offer data science courses and certifications, including the Data Science Association, the International Association for Data Science, and the American Statistical Association, among others.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What data science courses included ChatGPT as part of the courses?
+
+As an AI language model, I am not involved in offering data science courses myself. However, I can provide some information about the topics that are typically covered in data science courses. 
+
+Data science courses typically cover a range of topics related to data analysis, machine learning, and statistical modeling. Some of the common topics that may be covered in a data science course include:
+
+1. Introduction to Data Science: This topic introduces the basics of data science, including data collection, cleaning, and manipulation, as well as basic statistics and programming skills.
+
+2. Data Analysis: This topic covers techniques for exploring and analyzing data, including data visualization, data summarization, and exploratory data analysis.
+
+3. Machine Learning: This topic covers various machine learning techniques such as regression, classification, clustering, and dimensionality reduction. Students learn how to apply these techniques to real-world datasets and interpret the results.
+
+4. Statistical Modeling: This topic covers statistical techniques for modeling data, including linear and logistic regression, time series analysis, and hypothesis testing.
+
+5. Big Data Technologies: This topic introduces the technologies and tools used to work with large and complex data sets, such as Hadoop, Spark, and NoSQL databases.
+
+6. Data Ethics and Privacy: This topic covers the ethical considerations around data collection, storage, and analysis, as well as data privacy and security.
+
+These are just a few of the topics that may be covered in a data science course. The specific topics covered can vary depending on the level of the course and the focus of the program.    
+      
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is edge computing a part of data science?
+
+Edge computing is not specifically a part of data science, but it is related to the field in that it can be used to process and analyze data. Edge computing refers to the practice of processing and analyzing data close to the source where it is generated, rather than sending it to a centralized data center or cloud for analysis.
+
+Edge computing is becoming increasingly important in data science because it allows for real-time data analysis and decision-making in situations where data needs to be processed quickly and efficiently. For example, in Internet of Things (IoT) applications, sensors and devices generate large amounts of data that need to be analyzed in real-time in order to trigger automated actions or alerts.
+
+Edge computing can also be used in combination with machine learning algorithms to enable predictive maintenance and other intelligent automation applications. In these scenarios, the edge devices can run machine learning models locally, without needing to send data to a centralized data center or cloud, which can help reduce latency and improve responsiveness.
+
+So while edge computing is not strictly a part of data science, it is a related technology that can be used in conjunction with data science techniques to enable real-time processing and analysis of data.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List programs the offer free data science courses.
+
+There are several programs that offer free data science courses. Here are a few examples:
+
+1. Coursera: Coursera offers a wide variety of free data science courses from top universities and institutions around the world, including courses on data analysis, machine learning, statistics, and more.
+
+2. edX: edX is another online learning platform that offers a range of free data science courses, including courses from Harvard University, MIT, Microsoft, and other top institutions.
+
+3. DataCamp: DataCamp is a platform that offers a mix of free and paid data science courses, with a focus on topics such as data manipulation, data visualization, and machine learning.
+
+4. Codecademy: Codecademy offers a range of free data science courses, including courses on SQL, Python, and data analysis.
+
+5. Google: Google offers several free courses on data science, including courses on machine learning, data engineering, and data analytics.
+
+6. Kaggle: Kaggle is a community of data scientists and machine learning practitioners that offers a range of free courses, competitions, and tutorials on data science topics.
+
+These are just a few examples of the many programs that offer free data science courses. Keep in mind that while many courses are free to access, some may require payment for access to additional resources or certification.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): 
+
+    
+   
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
