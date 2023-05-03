@@ -3286,8 +3286,12 @@ Note that the dot duration is defined as the basic timing unit, and the duration
     
 # Project 161: Python Notbooks
      
-Python notbooks are a different type of IDE.  
+Python notbooks are a different type of IDE. 
+  + Cycles of run code, explore data 
+  + At the end present results in a rich graphics and text.  
 
+[A beginner’s guide to Python notebooks](https://hex.tech/blog/beginners-guide-to-python-notebooks/)    
+      
 [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
   + YouTube
     + [Search](https://www.youtube.com/results?search_query=Jupyter)
@@ -3296,6 +3300,47 @@ Python notbooks are a different type of IDE.
       
 Colab is Jupyter compatibale 
 
+     
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Jupyter?
+
+Jupyter is an open-source web-based interactive computing platform that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. Originally developed for the Python programming language, Jupyter now supports over 40 programming languages, including R, Julia, and MATLAB.
+
+The name "Jupyter" is a combination of the three programming languages it initially supported: Julia, Python, and R. Jupyter notebooks (formerly known as IPython notebooks) are the primary means of creating and sharing documents on the Jupyter platform. These notebooks are web applications that allow users to create and edit code, visualize data, and write narrative text in a single document.
+
+Jupyter notebooks are widely used in scientific computing, data analysis, and machine learning. They allow users to interactively explore data and experiment with code without the need for a separate development environment. Jupyter notebooks can also be shared with others, making them a valuable tool for collaboration and reproducible research.
+     
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are other Python notbooks?
+    
+Jupyter notebooks are the most widely used and popular type of notebook for Python programming. However, there are other notebook options available for Python users as well. Here are a few examples:
+
+1. Google Colaboratory: This is a free Jupyter notebook environment provided by Google that allows users to run Python code and other languages on Google's servers.
+
+2. Apache Zeppelin: This is a web-based notebook that supports multiple programming languages including Python, R, SQL, and Scala.
+
+3. VS Code Interactive Window: This is an interactive environment built into the popular Visual Studio Code editor that allows users to write and execute Python code in a notebook-like interface.
+
+4. Databricks notebooks: Databricks is a cloud-based data analytics platform that provides notebooks for Python, R, and SQL.
+
+5. Spyder IDE: Spyder is an integrated development environment (IDE) for scientific computing in Python that includes a notebook interface for interactive data exploration and visualization.
+
+While Jupyter notebooks are the most widely used and versatile notebook option for Python users, these other options may be more suitable for specific use cases or workflows.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List more Python notebooks.
+    
+Sure, here are some more Python notebooks:
+
+1. CoCalc: This is a cloud-based computing platform that provides Jupyter notebooks, Sage worksheets, and other tools for scientific computing.
+
+2. Kaggle Notebooks: Kaggle is a platform for data science competitions and data analytics. It provides an environment for Jupyter notebooks where users can run code on cloud-based GPUs and TPUs.
+
+3. IBM Watson Studio: IBM Watson Studio is a cloud-based data science and machine learning platform that provides Jupyter notebooks, as well as tools for data visualization and model training.
+
+4. Azure Notebooks: Azure Notebooks is a free cloud-based service provided by Microsoft that allows users to create and run Jupyter notebooks using Python and other languages.
+
+5. Hydrogen: Hydrogen is a package for the Atom text editor that provides an interactive notebook-like interface for running Python code. It uses Jupyter kernels to execute code and supports inline plotting and debugging.
+
+These are just a few examples of the many notebook options available for Python users. Depending on your specific needs and preferences, one of these options may be more suitable than others.     
+    
     
     
 <A NAME="FUTURE"></A>
