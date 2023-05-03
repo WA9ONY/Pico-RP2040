@@ -3479,7 +3479,7 @@ In this program, we first import the numpy and matplotlib.pyplot libraries. We t
 
 When you run this program, you should see a plot of the sinc function.
     
-## [Anaconda](https://nb.anaconda.cloud/): Sinc plot Python program
+## [Anaconda Jupyterlab Online](https://nb.anaconda.cloud/): Sinc plot Python program
 
 <p align="center">
 <img align="center" width="733" height="436" src="/Images/AnacondaSincPlotS.png">        
