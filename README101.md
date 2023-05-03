@@ -3287,7 +3287,7 @@ Note that the dot duration is defined as the basic timing unit, and the duration
 # Project 161: Python Notbooks
      
 Python notbooks are a different type of IDE. 
-  + Cycles of run code, explore data 
+  + Cycles of run code, explore data, run code, explore data, run code, explore data, ... 
   + At the end present results in a rich graphics and text.  
 
 [A beginner’s guide to Python notebooks](https://hex.tech/blog/beginners-guide-to-python-notebooks/)    
@@ -3298,9 +3298,8 @@ Python notbooks are a different type of IDE.
   + Google
     + [Search](https://www.google.com/search?q=Jupyter&oq=Jupyter&aqs=chrome..69i57j46i67i131i199i433i465i650j0i67i650j0i67i131i433i650j0i67i433i650j0i131i433i650j0i433i512j0i131i433i512l2.2401j0j15&sourceid=chrome&ie=UTF-8)
       
-Colab is Jupyter compatibale 
+Colab is Jupyter compatibale. 
 
-     
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Jupyter?
 
 Jupyter is an open-source web-based interactive computing platform that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. Originally developed for the Python programming language, Jupyter now supports over 40 programming languages, including R, Julia, and MATLAB.
