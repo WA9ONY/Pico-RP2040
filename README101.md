@@ -3343,7 +3343,7 @@ These are just a few examples of the many notebook options available for Python 
  
 <A NAME="P162"></A>
 <HR>
-<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P163">--&gt;</A></P>  
     
 # Project 162: DS: Data Science
      
@@ -3351,7 +3351,8 @@ Data Science
   + Wikipedia [Data Science](https://en.wikipedia.org/wiki/Data_science)
   + ACM Data Science Task Force [Computing Competencies for Undergraduate Data Science Curricula](https://dstf.acm.org/DSTF_Final_Report.pdf)  
   + YouTube [data science full course](https://www.youtube.com/results?search_query=data+science+full+course)
-    
+  + Google [data science courses](hhttps://www.google.com/search?q=data+science+courses&oq=data+science+courses&aqs=chrome..69i57j0i512l9.2087j0j15&sourceid=chrome&ie=UTF-8)
+     
 ## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is DS?
 
 DS can refer to several different things, but in the context of technology and computing, DS is often used as an abbreviation for "data science." 
@@ -3420,14 +3421,78 @@ There are several programs that offer free data science courses. Here are a few 
 
 These are just a few examples of the many programs that offer free data science courses. Keep in mind that while many courses are free to access, some may require payment for access to additional resources or certification.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): 
+
+<A NAME="P163"></A>
+<HR>
+<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 163: Anaconda
+
+ Anacoda is a  Jupyter Python notbooks that works with CirciutPython.   
+    
+ [Anaconda](https://anaconda.org/)
+  + YouTube [Anaconda python](https://www.youtube.com/results?search_query=anaconda+python)
+  + YouTube [anaconda jupyter notebook tutorial](https://www.youtube.com/results?search_query=anaconda+jupyter+notebook+tutorial)
+  + Adafruit [CircuitPython with Jupyter Notebooks](https://learn.adafruit.com/circuitpython-with-jupyter-notebooks)  
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Anaconda?
+
+Anaconda is a popular open-source distribution of the Python and R programming languages that includes a collection of over 1,500 packages for data science, machine learning, and scientific computing. It was developed and is maintained by Anaconda, Inc., a company that provides commercial support and services for data science tools.
+
+The Anaconda distribution includes the core Python or R language and many popular libraries and tools for data analysis and scientific computing, such as NumPy, Pandas, Matplotlib, and Scikit-learn. It also includes the Conda package manager, which simplifies the process of installing and managing packages and dependencies.
+
+In addition to the core distribution, Anaconda also provides several other tools and services for data scientists, such as the Anaconda Navigator, a graphical user interface for managing packages and environments, and Anaconda Enterprise, a platform for deploying and managing data science projects in production environments.
+
+The Anaconda distribution is widely used in the data science and machine learning communities, as it provides an easy-to-use and comprehensive set of tools for data analysis and scientific computing.
+    
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Does Anaconda work with CircuitPython?
+
+Anaconda is primarily focused on data science, machine learning, and scientific computing, and is not specifically designed to work with CircuitPython. 
+
+CircuitPython is a lightweight implementation of Python that is designed to run on microcontrollers, such as those used in embedded systems and Internet of Things (IoT) devices. It has a much smaller footprint than the full Anaconda distribution and is optimized for use in resource-constrained environments.
+
+That being said, Anaconda can be used to develop Python code for use with CircuitPython by installing the appropriate libraries and dependencies. CircuitPython includes a subset of the Python standard library, as well as several additional libraries that are specifically designed for use with microcontrollers.
+
+To work with CircuitPython, you would typically need to install the CircuitPython library on your computer and connect to the microcontroller board using a serial or USB connection. You can then use your favorite code editor or development environment, such as Anaconda, to write and test Python code that interacts with the microcontroller.
+
+In summary, while Anaconda is not specifically designed to work with CircuitPython, it can be used to develop Python code for use with microcontrollers by installing the appropriate libraries and dependencies.    
+
+## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a Python program to plot the sinc function.
+
+Sure, here's an example Python program that uses the matplotlib library to plot the sinc function:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(-10, 10, 1000)
+y = np.sinc(x)
+
+plt.plot(x, y)
+plt.title("Sinc Function")
+plt.xlabel("x")
+plt.ylabel("sinc(x)")
+plt.show()
+```
+
+In this program, we first import the numpy and matplotlib.pyplot libraries. We then create an array `x` that contains 1000 evenly spaced points between -10 and 10 using the `np.linspace()` function. We calculate the corresponding `y` values using the `np.sinc()` function, which calculates the sinc function for each value of `x`. Finally, we use the `plt.plot()` function to plot the `x` and `y` values, and add a title and axis labels using the `plt.title()`, `plt.xlabel()`, and `plt.ylabel()` functions. The `plt.show()` function displays the plot.
+
+When you run this program, you should see a plot of the sinc function.
+    
+## [Anaconda](https://nb.anaconda.cloud/): Sinc plot Python program
+
+<p align="center">
+<img align="center" width="733" height="436" src="/Images/AnacondaSincPlotS.png">        
+</p>
+
+
+
 
     
-   
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
