@@ -210,6 +210,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 160: <A HREF="README101.md#P160">Morse Code</A>
 + Project 161: <A HREF="README101.md#P161">Python Notbooks</A>
 + Project 162: <A HREF="README101.md#P162">DS: Data Science</A>
++ Project 163: <A HREF="README101.md#P163">Anaconda</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
