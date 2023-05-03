@@ -2,7 +2,7 @@
 <HR>
 <P align="center"><A HREF="README101.md#FUTURE">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="https://groups.io/g/Microcontrollers">Groups.IO</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
 
-# Microcontrollers & ML (Machine Learning) Projects Notes
+# Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes
 
 <p align="center">
 <img width="308" height="308" src="/Images/RP2040.png">  
@@ -18,7 +18,7 @@ The Raspberry Pi RP2040 microcontroller IC is a small computer, 0.267 square inc
 
 ## Introduction  
   
-This repo focuses on microcontroller-based projects.  These project notes have been expanded to include ML (Machine Learning) and edge computing. It documents WA9ONY learning experinces, resources used and projects.  This includes the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies so that they can products that include the RP2040 products (Arduino NANO RP2040 Connect).  Microcontrollers would not be complete without understanding how to use the defacto microcontroller standard since 2005, the Arduino microcontroller ecosystem.
+This repo focuses on microcontroller-based projects and edge computing.  These project notes include ML (Machine Learning) and edge computing. It documents WA9ONY learning experinces, resources used and projects.  This includes the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies so that they can products that include the RP2040 products (Arduino NANO RP2040 Connect).  Microcontrollers would not be complete without understanding how to use the defacto microcontroller standard since 2005, the Arduino microcontroller ecosystem.
 
 The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to indicate the board's temperature in Morse code to a transceivers built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects.
   
@@ -209,6 +209,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 159: <A HREF="README101.md#P159">Google Colab Python IDE</A> 
 + Project 160: <A HREF="README101.md#P160">Morse Code</A>
 + Project 161: <A HREF="README101.md#P161">Python Notbooks</A>
++ Project 162: <A HREF="README101.md#P162">DS: Data Science</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
