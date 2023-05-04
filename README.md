@@ -211,6 +211,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 161: <A HREF="README101.md#P161">Python Notbooks</A>
 + Project 162: <A HREF="README101.md#P162">DS: Data Science</A>
 + Project 163: <A HREF="README101.md#P163">Anaconda</A>
++ Project 164: <A HREF="README101.md#P164">Bosch BME688 Environmental sensing with AI</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
