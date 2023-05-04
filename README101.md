@@ -10,7 +10,6 @@
 
 The first place I look for infomation is YouTube.  Below are the YouTube channels that are gems.
     
-    
 + [Adafruit Industries](https://www.youtube.com/@adafruit) 
   + Microcontroller manufacturer and store with good ecosystem     
 + [Alex Pettitt](https://www.youtube.com/@AlexPettitt)    
@@ -73,14 +72,14 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
 <HR>
 <P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
     
-# Project 102: List of YouTube Playlists
+## Project 102: List of YouTube Playlists
 <p align="center">
 <img  width="256" height="57" src="/Images/YouTube_LogoS.png">
 </p>
 
 This a list of playlist and over one hour videos.
     
-## Arduino playlists 
+### Arduino playlists 
 + [Arduino Course for Beginners - Open-Source Electronics Platform, 4 hours](https://youtu.be/zJ-LqeX_fLU)
 + [Arduino Lessons, 36 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
 + [Arduino Workshop for Beginners, 35 videos](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
@@ -89,7 +88,7 @@ This a list of playlist and over one hour videos.
 + [Tutorial Series for Arduino, 15 videos](https://www.youtube.com/playlist?list=PLA567CE235D39FA84)
 + Google YouTube search for [Arduino, >35 million videos](https://www.google.com/search?q=youtube+arduino&sxsrf=AJOqlzUYz3XRCX44F4QeODVf3ajzwJ9fMA%3A1677997243248&ei=uzQEZKrpDoTB9AOPm7H4DQ&ved=0ahUKEwjqsvjsksT9AhWEIH0KHY9NDN8Q4dUDCBA&uact=5&oq=youtube+arduino&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBQgAEJECMgcIABANEIAEMgcIABANEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOggIABAIEB4QCjoFCAAQhgM6BQgAEIAEOgkIABAHEB4Q8QQ6BggAEAcQHjoICAAQBxAeEAo6CAgAEAgQBxAeOgYIABAIEB46CgghEKABEMMEEAo6CAghEKABEMMEOgYIABAeEA06BQgAEKIESgQIQRgAUIASWKy0AWCvzwFoA3ACeACAAXWIAeIKkgEEMTYuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp)
     
-## Raspberry Pi Pico playlists
+### Raspberry Pi Pico playlists
 + [A journey with Raspberry Pi Pico beginner to Advance Level, 19 vidoes](https://www.youtube.com/playlist?list=PLOYsAys6a6mk6Aq24_7ZbBE7rsiWtzqB4)
 + [En iyi Raspberry Pi Pico Projeleri, 23 videos](https://www.youtube.com/playlist?list=PLK2SeKwythXiUcLgUnZJn5elohD2pgoA1)
 + [Free Raspberry Pi Tutorials for Absolute Beginnerss, 67 videos](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O)
@@ -151,17 +150,17 @@ This a list of playlist and over one hour videos.
 + [The 12 Days of Codemas - Raspberry Pi Pico Advent Calendar 2022, 13 videos](https://www.youtube.com/playlist?list=PLXxP0FUTG0FnEQz4X2yPWCAsAZEDCnxYG)
 + Google YouTube search for [Raspberry Pi Pico, >3 million videos](https://www.google.com/search?q=youtube+raspberry+pi+pico&oq=YouTube+Raspberry+Pi+Pico&aqs=chrome.0.0i512l2j0i22i30j0i390l5j69i64.5101j0j15&sourceid=chrome&ie=UTF-8#ip=1)
     
-## MicroPython playlists
+### MicroPython playlists
 + [MicroPythons, 6 videos](https://www.youtube.com/playlist?list=PL6F17pWypPy_KSmpnR5CV8x78QhAiKBIl)
 + [Learn MicroPythons, 6 videos](https://www.youtube.com/playlist?list=PL2935W76vRNEV6PwvxiqJf47JVrbGzTkC)
 + [ESP32 MicroPython, 28 videos](https://www.youtube.com/playlist?list=PLw0SimokefZ3uWQoRsyf-gKNSs4Td-0k6)
 + [Introduction to MicroPython, 32 videos](https://www.youtube.com/playlist?list=PLXwAdcOl0lCpKRep_Gb_YVDfYjcaqZSvA)
         
-## CircuitPython playlists
+### CircuitPython playlists
 + [Circuit Python Tutorials, 74 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
 + [CircuitPython & Circuit Playground Express Tutorials, 16 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPRo77roCKMzIh4q4Mu2dCBU)
 
-## Electronics playlists   
+### Electronics playlists   
 + [BJT: Bipolar Junction Transistor, 30 videos](https://www.youtube.com/playlist?list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq)
 + [Electronic Circuits, 108 videos](https://www.youtube.com/playlist?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL)
 + [ElectroBOOM101, 12 videos](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)  
@@ -193,7 +192,7 @@ Video
 Store
 + [Amazon](https://www.amazon.com/gp/product/B00O0BMNX2/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)    
 
-## 2N3055 BJT: [Bipolar Junction Transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor)     
+### 2N3055 BJT: [Bipolar Junction Transistor](https://en.wikipedia.org/wiki/Bipolar_junction_transistor)     
 
 2N3055 BJT Data sheets
   + [Semiconductor Components Industries](https://www.onsemi.com/pdf/datasheet/2n3055-d.pdf)
@@ -230,22 +229,22 @@ BJT Chapters & Articles
 Books    
     + Topics: 4 - Bipolar Junction Transistors, [URL](https://instrumentationtools.com/textbook/bipolar-junction-transistors/#)
     
-## 2N3055 Identify 
+### 2N3055 Identify 
 <p align="center">
 <img width="1116" height="574" src="/Images/2N3055Data.png">  
 </p>
 
-## 2N3055 BJT Ic/Vce 
+### 2N3055 BJT Ic/Vce 
 <p align="center">
 <img width="1116" height="574" src="/Images/2N3055IcVc.png">  
 </p>
     
-## 2N3055 BJT hFE/Vce 
+### 2N3055 BJT hFE/Vce 
 <p align="center">
 <img width="1116" height="574" src="/Images/2N3055HfeVc.png">  
 </p>
 
-## 2N3055 BJT hFE/Ic 
+### 2N3055 BJT hFE/Ic 
 <p align="center">
 <img width="1116" height="574" src="/Images/2N3055HfeIc.png">  
 </p>
@@ -255,7 +254,7 @@ Books
 <img width="1116" height="574" src="/Images/2N3055IcVbe.png">  
 </p>
    
-## 2N3055 BJT Ic/Ib 
+### 2N3055 BJT Ic/Ib 
 <p align="center">
 <img width="1116" height="574" src="/Images/2N3055IcIb.png">  
 </p>
@@ -1149,7 +1148,7 @@ Raspberry Pi Pico books with Morse code examples.
     
 # Project 128: Arduino Day
 
-## Arduino Day March 25th 2023
+### Arduino Day March 25th 2023
     
 10th year celebrating Arduino Day.
     
@@ -1182,31 +1181,31 @@ Arduino GIGA R1 WiFi
   + RTOS
   + Plant project shown
     
-## Arduino Day 2022
+### Arduino Day 2022
 YouTube
   + Arduino Week 2022 [6 video playlist](https://www.youtube.com/playlist?list=PLT6rF_I5kknNYA1W4d6zEDqRFGFcG5sE_)
  
-## Arduino Day 2021 
+### Arduino Day 2021 
 YouTube
   + Arduino Day [2021](https://www.youtube.com/live/k0HQ776d4Kk?feature=share)
     
-## Arduino Day 2020   
+### Arduino Day 2020   
 YouTube
   + Arduino Day [2020](https://www.youtube.com/live/u93BhPnooZc?feature=share)
     
-## Arduino Day 2019   
+### Arduino Day 2019   
 YouTube
   + Arduino Day [2019](https://www.youtube.com/live/Xa0WjwDdHaM?feature=share)
    
-## Arduino Day 2018   
+### Arduino Day 2018   
 YouTube
   + Arduino Day [2018](https://www.youtube.com/live/UjeIbeDLhQY?feature=share)
    
-## Arduino Day 2017   
+### Arduino Day 2017   
 YouTube
   + Arduino Day [2017](https://www.youtube.com/live/-y6pw2DTGO8?feature=share)
    
-## Arduino Day 2016   
+### Arduino Day 2016   
 YouTube
   + Arduino Day [2016](https://youtu.be/7KfC3aSuyiQ)
   + IoT: The Struggle for Meaning by Massimo Banzi at Arduino Day [2016](https://youtu.be/G1A7cUi6iGg)
@@ -1218,7 +1217,7 @@ YouTube
   + Arduino Day 2016 - London [2016](https://youtu.be/T_o7-D1uFSM)
   + Arduino Day 2016 - Chile [2016](https://youtu.be/puWC47vCUJM)
     
-## Arduino Day 2015   
+### Arduino Day 2015   
 YouTube
   + Arduino Day 25 videos playlist [2015](https://www.youtube.com/playlist?list=PLY7jeHB1P3w38VOA7mgDrvdM-N5fopKx0)
    
@@ -1226,7 +1225,7 @@ YouTube
 YouTube
   + Arduino Day 2014 at ITP in New York City  [2014](https://www.youtube.com/live/3M8mVjeUh1w?feature=share)
     
-## Arduino Day 2013   
+### Arduino Day 2013   
 YouTube
   + Arduino Day 2013 7 playlist [2013](https://www.youtube.com/playlist?list=PLyT2f5rNsMZrMy8J7sm9sYppJaFxWvszV)
   + Arduino Day 2013 9 playlist [2013](https://www.youtube.com/playlist?list=PL2xif19HYRjzQTSy9b-dhN7p6K8ZkhjKh)
@@ -1438,7 +1437,7 @@ YouTube
 
 There aer serveral Discord groups on machine learning and TensorFlow.
     
-## Adafruit Discord
+### Adafruit Discord
     
 The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-discord-discordapp-adafruit-discord-adafruit/) server is a 24/7/365  makerspace for folks all around the world (>5K Online, >37K Members).     
 
@@ -1454,7 +1453,7 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <img align="center" width="973" height="1067" src="/Images/ArduinoDiscord.png">        
 </p>
    
-## Raspberry Pi Discord
+### Raspberry Pi Discord
 
 + Discord members >2K Online, >15K Members    
 
@@ -1462,7 +1461,7 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <img align="center" width="973" height="1067" src="/Images/RaspberryPiDiscord.png">        
 </p>
     
-## Seeed Discord
+### Seeed Discord
 
 + Discord members >500 Online, >5K Members    
 
@@ -1587,12 +1586,12 @@ Image credit: Raspberry Pi Pico [Datasheet Page 18 ](https://datasheets.raspberr
 
 Vsys pin 39 goes directly to the Pico voltage regulator.  
       
-## Plot Vsys Current LED On/OFF    
+### Plot Vsys Current LED On/OFF    
 <p align="center">
 <img align="center" width="600" height="332" src="/Images/3VsysCurrent600.png">        
 </p>
 
-## Plot Vsys Power LED On/OFF    
+### Plot Vsys Power LED On/OFF    
 <p align="center">
 <img align="center" width="600" height="361" src="/Images/4VsysPower600.png">        
 </p>
@@ -1621,7 +1620,7 @@ YouTube
 <img align="center" width="343" height="126" src="/Images/OpenAILogoWhite.png">        
 </p>
 
-## [OpenAI](https://openai.com/) ChatGPT with GPT-3.5   
+### [OpenAI](https://openai.com/) ChatGPT with GPT-3.5   
 
 Create a free [OpenAI](https://openai.com/) account and click on ChatGPT to start a conversation.    
     
@@ -1634,7 +1633,7 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
   + Google search [can chatgpt write a python code](https://www.google.com/search?q=can+chatgpt+write+a+python+code&oq=Can+ChatGPT+write+a+python&aqs=chrome.0.0i512j69i57j0i10i22i30l2j0i22i30j0i10i22i30j0i390i650l4.22745j0j15&sourceid=chrome&ie=UTF-84)    
     + [Coding with chatGPT](https://medium.com/@tanyamarleytsui/coding-with-chatgpt-b50ab3fcb45f#:~:text=So%20chat%20GPT%20is%20indeed,well%20written%20and%20clear%20question.)    
 
-## ChatGPT Conversation    
+### ChatGPT Conversation    
 
 <p align="center">
 <img align="center" width="780" height="933" src="/Images/ChatGPT1.png">        
@@ -1672,13 +1671,13 @@ ChatGPT can prove Python code examples for programming the Raspberry Pi Pico mic
 <img align="center" width="787" height="724" src="/Images/ChatGPT9.png">        
 </p>
         
-## ChatGPT Conversation: How is ML used in amateur radio?    
+### ChatGPT Conversation: How is ML used in amateur radio?    
     
 <p align="center">
 <img align="center" width="783" height="760" src="/Images/GPT4MLamateurRadio.png">        
 </p>
 
-## ChatGPT Conversation: ChatGPT Dataset    
+### ChatGPT Conversation: ChatGPT Dataset    
     
 <p align="center">
 <img align="center" width="811" height="652" src="/Images/ChatGPTdataset.png">        
@@ -1702,14 +1701,14 @@ YouTube
   + How to learn to code FAST using ChatGPT (it's a game changer seriously) [video](https://youtu.be/VznoKyh6AXs)
   + [Adafruit Learning System - Robotic ChatGPT Bear Demo](https://youtu.be/A8uWOsRVxYk)    
 
-## GPT-4
+### GPT-4
 
 GPT-4 is out now.    
     
 Khan Academy
   + [GPT-4 Khan Academy In Depth Demo](https://youtu.be/rnIgnS8Susg)
 
-## GPT-5
+### GPT-5
 
 GPT-5 is expected to be out December 2023
     
@@ -1753,7 +1752,7 @@ Researching a project process has change with the use of ChatGPT.
 <img align="center" width="812" height="684" src="/Images/AudioFilesIndex4.png">        
 </p>
     
-## [Internet Archive](https://archive.org/)
+### [Internet Archive](https://archive.org/)
     
 <p align="center">
 <img align="center" width="809" height="640" src="/Images/AudioFilesIndex5.png">        
@@ -1795,7 +1794,7 @@ Researching a project process has change with the use of ChatGPT.
 <img align="center" width="714" height="719" src="/Images/ChatGPTPico6.png">        
 </p>
 
-## [TensorFlow](https://github.com/tensorflow/tensorflow)    
+### [TensorFlow](https://github.com/tensorflow/tensorflow)    
 
 + [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro)    
 + [TensorFlow Lite](https://www.tensorflow.org/lite)    
@@ -1860,12 +1859,12 @@ print(output_data)
 <img align="center" width="816" height="627" src="/Images/AI_NeuronSig1.png">        
 </p>
    
-## List the ANN Neurons Types          
+### List the ANN Neurons Types          
 <p align="center">
 <img align="center" width="816" height="768" src="/Images/AI_NeuronSig2.png">        
 </p>
    
-## Describe the ANN Sigmoid Neuron                   
+### Describe the ANN Sigmoid Neuron                   
 <p align="center">
 <img align="center" width="814" height="569" src="/Images/AI_NeuronSig3.png">        
 </p>
@@ -1882,7 +1881,7 @@ print(output_data)
 <img align="center" width="772" height="454" src="/Images/AI_NeuronSig6.png">        
 </p>
 
-## Create a ANN Sigmoid Neuron TensorFlow Program                            
+### Create a ANN Sigmoid Neuron TensorFlow Program                            
 <p align="center">
 <img align="center" width="822" height="690" src="/Images/AI_NeuronSig7.png">        
 </p>
@@ -1895,17 +1894,17 @@ print(output_data)
 <img align="center" width="772" height="591" src="/Images/AI_NeuronSig9.png">        
 </p>
 
-## How to Use the TensorFlow Progarm on Google Colab?              
+### How to Use the TensorFlow Progarm on Google Colab?              
 <p align="center">
 <img align="center" width="823" height="608" src="/Images/AI_NeuronSig10.png">        
 </p>
 
-## Ask help on Progarm Error         
+### Ask help on Progarm Error         
 <p align="center">
 <img align="center" width="835" height="551" src="/Images/AI_NeuronSig11.png">        
 </p>
    
-## Error was the Progarm was V1 and Google Colab is running TensorFlow V2    
+### Error was the Progarm was V1 and Google Colab is running TensorFlow V2    
    
 <p align="center">
 <img align="center" width="820" height="291" src="/Images/AI_NeuronSig12.png">        
@@ -1923,7 +1922,7 @@ print(output_data)
 <img align="center" width="765" height="219" src="/Images/AI_NeuronSig15.png">        
 </p>
 
-## Describe the TensorFlow V2 Progam                
+### Describe the TensorFlow V2 Progam                
            
 <p align="center">
 <img align="center" width="817" height="639" src="/Images/AI_NeuronSig16.png">        
@@ -1941,13 +1940,13 @@ print(output_data)
 <img align="center" width="747" height="489" src="/Images/AI_NeuronSig19.png">        
 </p>
    
-## Explain Epoch         
+### Explain Epoch         
                   
 <p align="center">
 <img align="center" width="842" height="553" src="/Images/AI_NeuronSig20.png">        
 </p>
    
-## Show the Sigmoid Neuron Bias and Weight values of the ANN hidden layer         
+### Show the Sigmoid Neuron Bias and Weight values of the ANN hidden layer         
 <p align="center">
 <img align="center" width="826" height="275" src="/Images/AI_NeuronSig21.png">        
 </p>
@@ -1960,22 +1959,22 @@ print(output_data)
 <img align="center" width="818" height="567" src="/Images/AI_NeuronSig23.png">        
 </p>
    
-## What is the ANN configuration         
+### What is the ANN configuration         
 <p align="center">
 <img align="center" width="821" height="631" src="/Images/AI_NeuronSig24.png">        
 </p>
 
-## ANN input neurons type    
+### ANN input neurons type    
 <p align="center">
 <img align="center" width="822" height="417" src="/Images/AI_NeuronSig25.png">        
 </p>
    
-## What is the data set used for training in this progarm?         
+### What is the data set used for training in this progarm?         
 <p align="center">
 <img align="center" width="809" height="863" src="/Images/AI_NeuronSig26.png">        
 </p>
    
-## How to print the ANN output sigmoid neuron bias and weight?        
+### How to print the ANN output sigmoid neuron bias and weight?        
 <p align="center">
 <img align="center" width="810" height="703" src="/Images/AI_NeuronSig27.png">        
 </p>
@@ -1996,7 +1995,7 @@ print(output_data)
     
 # Project 151: Google Colab ChatGPT ANN Conversation   
 
-## TensorFlow V2 Sigmoid Neuron Example Program    
+### TensorFlow V2 Sigmoid Neuron Example Program    
     
 <p align="center">
 <img align="center" width="852" height="926" src="/Images/Colab1.png">        
@@ -2039,7 +2038,7 @@ print(output_data)
 <img align="center" width="512" height="263" src="/Images/BrilliantCourses3.png">        
 </p>
 
-## Introduction to Neural Networks 15 Lessions
+### Introduction to Neural Networks 15 Lessions
 
 Introduction
   + Neural Networks
@@ -2062,7 +2061,7 @@ Layers
   + Universal Approximator
   + A Shape-Recognizing Network
 
-## Artificial Neural Networks 28 Lessions
+### Artificial Neural Networks 28 Lessions
 
 Learning and the Brain
   + Learning Problems for Neural Networks
@@ -2151,7 +2150,7 @@ Advanced Architectures
   + Reinforcement Learning
 
 
-## Reinforcement Learning 6 Lessons
+### Reinforcement Learning 6 Lessons
 
 Introduction
   + Introduction
@@ -2288,7 +2287,7 @@ Wikipedia
     + [Are Tera Operations Per Second (TOPS) Just hype? Or Dark AI Silicon in Disguise?](https://www.kdnuggets.com/2020/05/tops-just-hype-dark-ai-silicon-disguise.html)
   + [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator) 
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a  GPU?   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a  GPU?   
 
 A GPU, or Graphics Processing Unit, is a specialized electronic circuit designed to quickly and efficiently process large amounts of data for computer graphics and other complex computational tasks. 
 
@@ -2296,7 +2295,7 @@ Unlike a CPU (Central Processing Unit), which is designed for general-purpose pr
 
 GPUs are also used for high-performance computing tasks in scientific research, machine learning, and other fields that require parallel processing. They typically contain hundreds or thousands of small processing cores that can work together to perform multiple tasks simultaneously, making them ideal for tasks that require a high degree of parallelism.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is a GPU used in ML?  
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is a GPU used in ML?  
 
 In Machine Learning (ML), a GPU is used to accelerate the training of deep neural networks (DNNs). DNNs are a type of ML model that are designed to learn complex patterns and relationships in large datasets.
 
@@ -2308,7 +2307,7 @@ Moreover, the larger the dataset and the more complex the DNN architecture, the 
 
 In summary, a GPU plays a crucial role in ML by significantly accelerating the training of DNNs, making it possible to handle larger datasets and more complex models, and enabling researchers and practitioners to develop more accurate and sophisticated ML models.    
        
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a TPU?    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a TPU?    
 
 A TPU, or Tensor Processing Unit, is a specialized integrated circuit designed by Google specifically to accelerate machine learning workloads. 
 
@@ -2318,7 +2317,7 @@ A TPU is particularly well-suited for deep neural network training and inference
 
 Google offers TPUs as a cloud service through its Google Cloud Platform, which allows users to train and run machine learning models on TPUs without having to own or maintain the physical hardware. The availability of TPUs has significantly accelerated the pace of research and development in machine learning and has enabled the development of more advanced and sophisticated machine learning models.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is a TPU used in ML?   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is a TPU used in ML?   
 
 A TPU is primarily used in machine learning for accelerating the training and inference of deep neural networks (DNNs). DNNs are a class of machine learning models that are designed to learn complex patterns and relationships in large datasets.
 
@@ -2330,7 +2329,7 @@ In addition to training, TPUs can also be used for inference, which involves usi
 
 Google provides TPUs as a cloud service through its Google Cloud Platform, which allows users to easily train and run machine learning models on TPUs without having to own or maintain the physical hardware. This has made it easier and more cost-effective for researchers and developers to use TPUs and has accelerated the pace of innovation in the field of machine learning.    
   
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Give examples of TPUs used in ML.   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Give examples of TPUs used in ML.   
 
 Sure! Here are a few examples of how TPUs have been used in machine learning:
 
@@ -2344,7 +2343,7 @@ Sure! Here are a few examples of how TPUs have been used in machine learning:
 
 These are just a few examples of how TPUs have been used in machine learning. With the continued growth of the field, it's likely that we'll see more and more applications of TPUs in the future.    
   
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is the performance of a TPU measured?  
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): How is the performance of a TPU measured?  
 
 The performance of a TPU is typically measured in terms of its throughput, which is the number of operations it can perform per second. For TPUs, the most common metric used to measure throughput is tera-operations per second (TOPS), which represents one trillion operations per second.
 
@@ -2354,7 +2353,7 @@ In addition to throughput, other factors that can impact TPU performance include
 
 To evaluate the performance of a TPU, researchers and practitioners may use benchmark datasets and standardized metrics, such as accuracy, training time, or inference time, to compare the performance of different models and hardware configurations. These benchmarks can help guide the selection of the most appropriate hardware for a given machine learning task and can help identify opportunities for improving performance through algorithmic or architectural optimizations.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Compare TPU with GPU for ML.  
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Compare TPU with GPU for ML.  
 
 TPUs and GPUs are both hardware accelerators that can be used to speed up machine learning workloads, but they differ in several key ways.
 
@@ -2370,7 +2369,7 @@ TPUs and GPUs are both hardware accelerators that can be used to speed up machin
 
 Overall, TPUs are typically faster and more efficient than GPUs for deep learning workloads that involve large-scale matrix operations, particularly when using low-precision data. GPUs are more flexible and can be used for a wider range of workloads, including both deep learning and other types of parallelizable computation. The choice of hardware will depend on the specific requirements of the machine learning task, as well as factors such as cost, compatibility, and availability.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Give examples of low cost TPUs.   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Give examples of low cost TPUs.   
 
 TPUs are specialized hardware accelerators that are typically expensive to purchase and operate, and are only available as a cloud service through Google Cloud Platform. However, there are some low-cost alternatives that offer similar functionality and can be used for machine learning workloads.
 
@@ -2380,7 +2379,7 @@ Another low-cost TPU alternative is the Edge TPU, which is a custom chip designe
 
 Both the Coral USB Accelerator and the Edge TPU provide a cost-effective way to access TPU-like acceleration for TensorFlow models, and are particularly well-suited for edge computing and IoT applications where low power consumption and small form factors are important considerations. However, it's important to note that these devices may not provide the same level of performance or scalability as full-scale TPUs, and may be better suited for smaller-scale machine learning workloads.    
    
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is Nvidia Jetson a GPU or TPU?  
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is Nvidia Jetson a GPU or TPU?  
 
 The Nvidia Jetson is not a TPU or a GPU but rather a family of embedded computing devices that are designed for edge computing and AI applications. The Jetson devices are based on Nvidia's system-on-a-chip (SoC) technology and include a variety of processing components, including a CPU, a GPU, and other hardware accelerators for tasks such as computer vision and deep learning.
 
@@ -2390,7 +2389,7 @@ The Jetson devices support popular deep learning frameworks such as TensorFlow a
 
 In summary, the Nvidia Jetson is not a TPU or a GPU but rather a family of embedded computing devices that provide powerful processing capabilities for a range of machine learning and AI workloads. They include a CPU, a GPU, and other hardware accelerators and are optimized for edge computing and IoT applications.    
   
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Which is better for ML TPU or GPU?   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Which is better for ML TPU or GPU?   
 
 Whether TPUs or GPUs are better for machine learning depends on the specific requirements of the task at hand. 
 
@@ -2400,7 +2399,7 @@ GPUs are more flexible and can be used for a wider range of machine learning wor
 
 In summary, TPUs and GPUs each have their own strengths and weaknesses, and the choice of hardware will depend on the specific requirements of the machine learning task. For deep learning workloads that involve large-scale matrix operations, particularly when using low-precision data, TPUs may offer significant performance improvements over GPUs. For other types of machine learning workloads, GPUs may provide a more flexible and cost-effective solution.    
        
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is Google Coral a TPU? 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is Google Coral a TPU? 
 
 The Google Coral is not a TPU but rather a family of hardware and software tools designed to provide edge computing capabilities for machine learning workloads. The Coral hardware includes the Coral Dev Board and the Coral USB Accelerator, which are small devices that provide hardware acceleration for machine learning models using Google's Edge TPU.
 
@@ -2455,7 +2454,7 @@ There are many programming languages that can be used for Machine Learning (ML),
 
 It's important to note that the choice of programming language depends on the specific project requirements, as well as personal preferences and familiarity with the language.   
        
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What math is needed to progarm ML in Python? 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What math is needed to progarm ML in Python? 
 
 To program Machine Learning (ML) in Python, you need a solid understanding of several mathematical concepts. Some of the key mathematical topics that are essential for ML programming in Python are:
 
@@ -2471,7 +2470,7 @@ To program Machine Learning (ML) in Python, you need a solid understanding of se
 
 Having a good understanding of these mathematical concepts can help you build and train effective ML models in Python.   
    
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #1 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc. 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #1 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc. 
 
 Sure, here's a ten-week math learning plan for a beginner to start learning the math concepts needed for programming Machine Learning (ML) in Python:
 
@@ -2540,7 +2539,7 @@ Week 7: k-Nearest Neighbors
     
 ChatGPT hangs here, try #2 below
        
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #2 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #2 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
 
 Sure! Here's a ten-week learning plan for a beginner to learn the essential math concepts for using Python for Machine Learning (ML):
 
@@ -2594,7 +2593,7 @@ Week 6-10: ML Project Implementation and Practice
     
 ChatGPT hangs here, try #3 below
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #3 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #3 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
   
 Sure, here's a 10-week math learning plan for a beginner to start using Python for Machine Learning:
 
@@ -2639,7 +2638,7 @@ Week 6: Advanced Linear Algebra
     
 ChatGPT hangs here, try #4 below    
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #4 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #4 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.   
 
 Sure, here is a ten-week math learning plan for a beginner who wants to learn the necessary mathematical concepts to use Python for ML programming:
 
@@ -2747,7 +2746,7 @@ Goals:
     
 ChatGPT hangs here, try #5 below    
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #5 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.  
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): #5 Request: Create a math learning plan for a beginner for these math concepts to use Python ML over a ten week time span.  In the plan detailed each week: goals, resources used, practice problems in Python, visual graphing examples in Python, homework, Python lab examples,  Python homework problems to be solved, etc.  Resources include online courses, videos, books, websites, Python program examples, ML examples, etc.  
 
 Sure, here's a ten-week math learning plan for a beginner to learn the mathematical concepts needed for programming Machine Learning (ML) in Python:
 
@@ -2855,7 +2854,7 @@ Goals:
     
 ChatGPT hangs here, I gave up on trying to get the full response.  
    
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List ML programming in Python
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List ML programming in Python
     
 Here are some popular Machine Learning (ML) programming libraries in Python:
 
@@ -2879,7 +2878,7 @@ Here are some popular Machine Learning (ML) programming libraries in Python:
 
 10. NLTK: A library for natural language processing in Python, which can be used for tasks such as text classification and sentiment analysis.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List books for ML programming in Python 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List books for ML programming in Python 
     
 Here are some popular books for Machine Learning (ML) programming in Python:
 
@@ -2926,7 +2925,7 @@ YouTube
 Books
   + Amazon Colab [search](https://www.amazon.com/s?k=Colab&i=stripbooks&crid=2YLIS1SC3WBFJ&sprefix=colab%2Cstripbooks%2C147&ref=nb_sb_noss_1)  
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google Colab? 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google Colab? 
     
 Google Colab (short for "Colaboratory") is a cloud-based platform that allows users to write, run, and share code in a Python environment using Jupyter notebooks. It is a free service offered by Google and is widely used in the machine learning and data science community for projects that require a lot of computing power or for collaboration with others. 
 
@@ -2934,7 +2933,7 @@ With Google Colab, users can write and execute Python code, import and export da
 
 Google Colab provides users with a free GPU (Graphics Processing Unit) and TPU (Tensor Processing Unit) for running machine learning models, making it an attractive option for those who do not have access to high-performance hardware. Additionally, Colab allows users to share their notebooks with others, making it easy to collaborate on projects with team members or to share code with the wider community.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a demo Colab Python program to plot a graph. 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a demo Colab Python program to plot a graph. 
     
 Sure, here's a demo Colab Python program that plots a simple line graph using the Matplotlib library:
 
@@ -2984,7 +2983,7 @@ plt.ylabel('y')
 plt.show()
 ```    
     
-## [Colab](https://colab.research.google.com/): Sine wave demo program from ChatGPT
+### [Colab](https://colab.research.google.com/): Sine wave demo program from ChatGPT
     
 <p align="center">
 <img width="724" height="924" src="/Images/ColabSine.png">  
@@ -3029,7 +3028,7 @@ The Sigmoid neuron bias parameter controlls when the sum of the inputs causes th
 <img width="689" height="921" src="/Images/ChatGPTSigmoidPlot.png">  
 </p>
     
-## [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
+### [Colab](https://colab.research.google.com/): Sigmoid demo program from ChatGPT
 
 The program was modified to add a bias to the Sigmoid neuron.  The bias shifts the the Sigmoid curve to the left or right.
 In the progam the bias is 2.5 and shift the plot to the right by 2.5 units.  Now the input of 2.5 has an output of 0.5.  Compare this plot with the above plot where the input of 0 outputs 0.5.
@@ -3067,7 +3066,7 @@ Google
   + GitHub Morse code [search](https://www.google.com/search?q=GitHub+Morse+code&oq=GitHub+Morse+code&aqs=chrome..69i57j69i64.8960j0j15&sourceid=chrome&ie=UTF-8)
   + ML Morse code [search](https://www.google.com/search?q=ML+Morse+code&sxsrf=APwXEdfNby9jIa1W18PmY8Sbtj2tkSOxPg%3A1683057790391&ei=fmxRZJTCF-XA0PEPq8aC8Ao&ved=0ahUKEwiU-e3tttf-AhVlIDQIHSujAK4Q4dUDCBA&oq=ML+Morse+code&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQDDIICCEQoAEQwwQyCAghEKABEMMEMggIIRCgARDDBDIICCEQoAEQwwQ6CggAEEcQ1gQQsAM6BwgAEIoFEEM6BggAEAcQHkoECEEYAFChEliyFGCzKGgCcAF4AIABeogB0QGSAQMxLjGYAQCgAQHIAQfAAQE&sclient=gws-wiz-serp)
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Morse Code?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Morse Code?
     
 Morse code is a system of communication that uses a series of dots, dashes, and spaces to represent letters, numbers, and punctuation marks. It was developed in the early 19th century by Samuel Morse and his associate Alfred Vail as a way to transmit messages over long distances using electrical signals.
 
@@ -3075,7 +3074,7 @@ Each letter, number, and punctuation mark in Morse code is represented by a uniq
 
 Morse code was widely used for long-distance communication, particularly in the early days of radio communication, and it is still used today by some amateur radio operators and in other specialized applications. Despite advances in technology, Morse code remains a useful tool for communication in situations where other methods may not be available or reliable.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a table of Morse code letters, numbers, and punctuation. 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a table of Morse code letters, numbers, and punctuation. 
     
 Sure, here's a table of the Morse code letters, numbers, and punctuation:
 
@@ -3138,7 +3137,7 @@ Sure, here's a table of the Morse code letters, numbers, and punctuation:
 
 Note that in Morse code, a dit (.) is one unit of time, and a dah (-) is three units of time. The space between letters is three units of time, while the space between words is seven units of time.
        
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are Morse code prosigns?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are Morse code prosigns?
     
 Morse code prosigns are special sequences of characters that are used in Morse code to convey specific messages or instructions. These prosigns are made up of a combination of dots, dashes, and spaces, and they are used to convey information that cannot be represented by standard Morse code letters, numbers, and punctuation marks.
 
@@ -3156,7 +3155,7 @@ Here are some examples of Morse code prosigns and their meanings:
 
 These prosigns are widely used in Morse code communication, especially among amateur radio operators, to convey information efficiently and accurately.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a table of Morse code prosigns. 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a table of Morse code prosigns. 
     
 Sure, here's a table of some commonly used Morse code prosigns:
 
@@ -3178,7 +3177,7 @@ Sure, here's a table of some commonly used Morse code prosigns:
 
 Note that there are many other Morse code prosigns that exist, and some of them are specific to certain types of communication or organizations. However, these are some of the most commonly used ones that you are likely to encounter in Morse code communication.    
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are Q codes?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are Q codes?
     
 Q codes are a set of three-letter codes that are used in radio communication to convey specific messages or instructions. They were originally developed in the early days of radio communication as a way to save time and simplify communication between operators who spoke different languages or dialects.
 
@@ -3203,7 +3202,7 @@ Here are some examples of commonly used Q codes and their meanings:
 
 These Q codes are widely used in radio communication, especially among amateur radio operators, to convey information efficiently and accurately.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): In an amateur radio Morse code contact create a table of abbreviations used in the contact. 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): In an amateur radio Morse code contact create a table of abbreviations used in the contact. 
     
 Sure, here's a table of some commonly used abbreviations and Q codes that may be used in an amateur radio Morse code contact:
 
@@ -3230,7 +3229,7 @@ Sure, here's a table of some commonly used abbreviations and Q codes that may be
 
 These abbreviations and Q codes are widely used in amateur radio Morse code contacts to convey information efficiently and accurately, and they can help operators communicate effectively even when speaking different languages or dialects.    
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Assume your radio call sign is CHATGPT what is your response when I send you the following message: CQ CQ CQ DE WA9ONY WA9ONY WA9ONY K
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Assume your radio call sign is CHATGPT what is your response when I send you the following message: CQ CQ CQ DE WA9ONY WA9ONY WA9ONY K
     
 If I were using the radio call sign CHATGPT and received the message "CQ CQ CQ DE WA9ONY WA9ONY WA9ONY K", my response would be:
 
@@ -3238,7 +3237,7 @@ WA9ONY DE CHATGPT K
 
 This is because the "DE" in the original message indicates that the sender is WA9ONY, and "K" at the end of the message indicates that the sender is inviting a response from any station. So in my response, I would start by addressing the sender as "WA9ONY DE", and then conclude with "K" to indicate that I am ready to receive a message or have a conversation.    
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is your response to the  next message sent to you: GHATGPT DE WA9ONY UR RS 59 MY QTH IS CAMAS, WA GHATGPT DE WA9ONY AR
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is your response to the  next message sent to you: GHATGPT DE WA9ONY UR RS 59 MY QTH IS CAMAS, WA GHATGPT DE WA9ONY AR
     
 Assuming that the message is addressed to the radio call sign CHATGPT, my response to the message "CHATGPT DE WA9ONY UR RS 59 MY QTH IS CAMAS, WA CHATGPT DE WA9ONY AR" would be:
 
@@ -3250,11 +3249,11 @@ THANKS FOR QSO, WA9ONY DE CHATGPT SK
 
 In this response, I would start by addressing the sender as "WA9ONY DE" to indicate that I am responding to their message. I would then acknowledge that I received their signal report by saying "UR RST IS 59 ALSO" (meaning that my signal strength and readability are also 59). I would then provide my own QTH (location) and conclude the message by thanking the sender for the contact and ending with "SK" to indicate that I am ending the conversation.    
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):  What is ChatGPT location?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):  What is ChatGPT location?
     
 As an artificial intelligence language model, ChatGPT does not have a physical location as it exists entirely in digital space. ChatGPT is a computer program that runs on servers in data centers maintained by OpenAI, the organization that created and maintains the model. The physical location of these data centers may vary, but they are typically spread out across multiple geographic locations to ensure redundancy and reliability.    
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is the closest ChatGPT server to my location in Camas, WA?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is the closest ChatGPT server to my location in Camas, WA?
     
 As an AI language model, I do not have information about your exact location, as I cannot access your IP address or other geolocation data. However, I can tell you that OpenAI has data centers located in several regions around the world, including North America, Europe, and Asia, among others. The closest data center to your location in Camas, WA will depend on several factors, including network routing, server availability, and other technical considerations.
 
@@ -3300,7 +3299,7 @@ Python notbooks are a different type of IDE.
       
 Colab is Jupyter compatibale. 
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Jupyter?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Jupyter?
 
 Jupyter is an open-source web-based interactive computing platform that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. Originally developed for the Python programming language, Jupyter now supports over 40 programming languages, including R, Julia, and MATLAB.
 
@@ -3308,7 +3307,7 @@ The name "Jupyter" is a combination of the three programming languages it initia
 
 Jupyter notebooks are widely used in scientific computing, data analysis, and machine learning. They allow users to interactively explore data and experiment with code without the need for a separate development environment. Jupyter notebooks can also be shared with others, making them a valuable tool for collaboration and reproducible research.
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are other Python notbooks?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What are other Python notbooks?
     
 Jupyter notebooks are the most widely used and popular type of notebook for Python programming. However, there are other notebook options available for Python users as well. Here are a few examples:
 
@@ -3324,7 +3323,7 @@ Jupyter notebooks are the most widely used and popular type of notebook for Pyth
 
 While Jupyter notebooks are the most widely used and versatile notebook option for Python users, these other options may be more suitable for specific use cases or workflows.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List more Python notebooks.
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List more Python notebooks.
     
 Sure, here are some more Python notebooks:
 
@@ -3353,7 +3352,7 @@ Data Science
   + YouTube [data science full course](https://www.youtube.com/results?search_query=data+science+full+course)
   + Google [data science courses](hhttps://www.google.com/search?q=data+science+courses&oq=data+science+courses&aqs=chrome..69i57j0i512l9.2087j0j15&sourceid=chrome&ie=UTF-8)
      
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is DS?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is DS?
 
 DS can refer to several different things, but in the context of technology and computing, DS is often used as an abbreviation for "data science." 
 
@@ -3361,7 +3360,7 @@ Data science involves using computational and statistical techniques to extract 
 
 DS can also stand for "data structures," which are the ways in which data is organized and stored in computer systems. Examples of data structures include arrays, lists, stacks, queues, and trees. Understanding data structures is an important aspect of computer programming and software engineering.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Who offers data science courses?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Who offers data science courses?
 
 There are many organizations that offer data science courses, ranging from universities and colleges to online learning platforms and specialized training companies. Here are a few examples:
 
@@ -3373,7 +3372,7 @@ There are many organizations that offer data science courses, ranging from unive
 
 In addition, many professional organizations and industry associations also offer data science courses and certifications, including the Data Science Association, the International Association for Data Science, and the American Statistical Association, among others.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What data science courses included ChatGPT as part of the courses?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What data science courses included ChatGPT as part of the courses?
 
 As an AI language model, I am not involved in offering data science courses myself. However, I can provide some information about the topics that are typically covered in data science courses. 
 
@@ -3393,7 +3392,7 @@ Data science courses typically cover a range of topics related to data analysis,
 
 These are just a few of the topics that may be covered in a data science course. The specific topics covered can vary depending on the level of the course and the focus of the program.    
       
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is edge computing a part of data science?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Is edge computing a part of data science?
 
 Edge computing is not specifically a part of data science, but it is related to the field in that it can be used to process and analyze data. Edge computing refers to the practice of processing and analyzing data close to the source where it is generated, rather than sending it to a centralized data center or cloud for analysis.
 
@@ -3403,7 +3402,7 @@ Edge computing can also be used in combination with machine learning algorithms 
 
 So while edge computing is not strictly a part of data science, it is a related technology that can be used in conjunction with data science techniques to enable real-time processing and analysis of data.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List programs the offer free data science courses.
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List programs the offer free data science courses.
 
 There are several programs that offer free data science courses. Here are a few examples:
 
@@ -3435,7 +3434,7 @@ These are just a few examples of the many programs that offer free data science 
   + YouTube [anaconda jupyter notebook tutorial](https://www.youtube.com/results?search_query=anaconda+jupyter+notebook+tutorial)
   + Adafruit [CircuitPython with Jupyter Notebooks](https://learn.adafruit.com/circuitpython-with-jupyter-notebooks)  
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Anaconda?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Anaconda?
 
 Anaconda is a popular open-source distribution of the Python and R programming languages that includes a collection of over 1,500 packages for data science, machine learning, and scientific computing. It was developed and is maintained by Anaconda, Inc., a company that provides commercial support and services for data science tools.
 
@@ -3445,7 +3444,7 @@ In addition to the core distribution, Anaconda also provides several other tools
 
 The Anaconda distribution is widely used in the data science and machine learning communities, as it provides an easy-to-use and comprehensive set of tools for data analysis and scientific computing.
     
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Does Anaconda work with CircuitPython?
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Does Anaconda work with CircuitPython?
 
 Anaconda is primarily focused on data science, machine learning, and scientific computing, and is not specifically designed to work with CircuitPython. 
 
@@ -3479,7 +3478,7 @@ In this program, we first import the numpy and matplotlib.pyplot libraries. We t
 
 When you run this program, you should see a plot of the sinc function.
     
-## [Anaconda Jupyterlab Online](https://nb.anaconda.cloud/): Sinc plot Python program
+### [Anaconda Jupyterlab Online](https://nb.anaconda.cloud/): Sinc plot Python program
 
 <p align="center">
 <img align="center" width="733" height="436" src="/Images/AnacondaSincPlotS.png">        
