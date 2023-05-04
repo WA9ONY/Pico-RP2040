@@ -3499,7 +3499,7 @@ Bosch
   + BME688 [info](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/)  
 
  Crowd Supply
-  + [Martinica](https://www.crowdsupply.com/blackiot/martinica)  
+  + [Martinica](https://www.crowdsupply.com/blackiot/martinica) development board with the BME688. 
 
     
 <A NAME="FUTURE"></A>
