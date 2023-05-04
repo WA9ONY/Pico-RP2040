@@ -3423,7 +3423,7 @@ These are just a few examples of the many programs that offer free data science 
 
 <A NAME="P163"></A>
 <HR>
-<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P164">--&gt;</A></P>  
     
 # Project 163: Anaconda
 
@@ -3485,13 +3485,26 @@ When you run this program, you should see a plot of the sinc function.
 </p>
 
 
-
-
     
+
+<A NAME="P164"></A>
+<HR>
+<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 164: Bosch BME688 Environmental sensing with AI
+
+The Bosch BME688 is an example of [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) used in [edge computing](https://en.wikipedia.org/wiki/Edge_computing).      
+      
+Bosch
+  + BME688 [info](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/)  
+
+ Crowd Supply
+  + [Martinica](https://www.crowdsupply.com/blackiot/martinica)  
+
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
