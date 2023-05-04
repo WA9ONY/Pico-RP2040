@@ -3501,6 +3501,10 @@ Bosch
  Crowd Supply
   + [Martinica](https://www.crowdsupply.com/blackiot/martinica) development board with the BME688. 
 
+Adafruit
+  + [Adafruit BME688 - Temperature, Humidity, Pressure and Gas Sensor - STEMMA QT](https://www.adafruit.com/product/5046)
+  + [EYE on NPI – Bosch BME688](https://blog.adafruit.com/2021/04/29/eye-on-npi-bosch-bme688-eyeonnpi-digikey-adafruit-digikey-adafruit-boschglobal/)
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
