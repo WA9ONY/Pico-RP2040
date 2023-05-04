@@ -3494,16 +3494,16 @@ When you run this program, you should see a plot of the sinc function.
 # Project 164: Bosch BME688 Environmental sensing with AI
 
 The Bosch BME688 is an example of [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) used in [edge computing](https://en.wikipedia.org/wiki/Edge_computing).      
-      
+
+Adafruit
+  + [Adafruit BME688 - Temperature, Humidity, Pressure and Gas Sensor - STEMMA QT](https://www.adafruit.com/product/5046)
+  + [EYE on NPI – Bosch BME688](https://blog.adafruit.com/2021/04/29/eye-on-npi-bosch-bme688-eyeonnpi-digikey-adafruit-digikey-adafruit-boschglobal/)
+         
 Bosch
   + BME688 [info](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/)  
 
  Crowd Supply
   + [Martinica](https://www.crowdsupply.com/blackiot/martinica) development board with the BME688. 
-
-Adafruit
-  + [Adafruit BME688 - Temperature, Humidity, Pressure and Gas Sensor - STEMMA QT](https://www.adafruit.com/product/5046)
-  + [EYE on NPI – Bosch BME688](https://blog.adafruit.com/2021/04/29/eye-on-npi-bosch-bme688-eyeonnpi-digikey-adafruit-digikey-adafruit-boschglobal/)
     
     
 <A NAME="FUTURE"></A>
