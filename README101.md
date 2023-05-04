@@ -3457,7 +3457,7 @@ To work with CircuitPython, you would typically need to install the CircuitPytho
 
 In summary, while Anaconda is not specifically designed to work with CircuitPython, it can be used to develop Python code for use with microcontrollers by installing the appropriate libraries and dependencies.    
 
-## [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a Python program to plot the sinc function.
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a Python program to plot the sinc function.
 
 Sure, here's an example Python program that uses the matplotlib library to plot the sinc function:
 
