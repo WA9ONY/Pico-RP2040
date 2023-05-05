@@ -3485,11 +3485,9 @@ When you run this program, you should see a plot of the sinc function.
 </p>
 
 
-    
-
 <A NAME="P164"></A>
 <HR>
-<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P165">--&gt;</A></P>  
     
 # Project 164: Bosch BME688 Environmental sensing with AI
 
@@ -3504,11 +3502,25 @@ Bosch
 
  Crowd Supply
   + [Martinica](https://www.crowdsupply.com/blackiot/martinica) development board with the BME688. 
+
+
+<A NAME="P165"></A>
+<HR>
+<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 165: Free Book: The Elements of Statistical Learning
+
+Understanding [statistics](https://en.wikipedia.org/wiki/Statistics) is a step towards understand [ML](https://en.wikipedia.org/wiki/Machine_learning).    
+    
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition 764 page
+  + Chapter 11 Neural Networks
+  + Chapter 14 Unsupervised Learning   
+  + [Download](https://hastie.su.domains/ElemStatLearn/)
+
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P165">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
