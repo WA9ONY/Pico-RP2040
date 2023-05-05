@@ -3513,9 +3513,9 @@ Bosch
 Understanding [statistics](https://en.wikipedia.org/wiki/Statistics) is a step towards understand [ML](https://en.wikipedia.org/wiki/Machine_learning).    
     
 The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition 764 page
-  + Chapter 11 Neural Networks
-  + Chapter 14 Unsupervised Learning   
-  + [Download](https://hastie.su.domains/ElemStatLearn/)
+  + Chapter 11 [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+  + Chapter 14 [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)   
+  + PDF [Download](https://hastie.su.domains/ElemStatLearn/)
 
     
 <A NAME="FUTURE"></A>
