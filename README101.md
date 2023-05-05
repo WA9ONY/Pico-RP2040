@@ -2260,9 +2260,12 @@ Adafruit
       + GeeekPi Jetson Nano Case (Support Jetson Nano B01 and A02 Version), Jetson Nano Case with Fan for NVIDIA Jetson Nano Developer Kit Small AI Powerful Computer [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
       + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
       + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
-  + Seeed studio 
+  + Seeed Studio 
     + [Jetson search](https://www.seeedstudio.com/catalogsearch/result/?q=Jetson) 
- 
+    + reComputer [search](https://www.seeedstudio.com/reComputer-jeston-c-2063.html)
+    + reComputer [J4012-Edge](https://www.seeedstudio.com/reComputer-J4012-p-5586.html) 
+
+    
 <A NAME="P156"></A>
 <HR>
 <P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P157">--&gt;</A></P>  
