@@ -2260,7 +2260,8 @@ Adafruit
       + GeeekPi Jetson Nano Case (Support Jetson Nano B01 and A02 Version), Jetson Nano Case with Fan for NVIDIA Jetson Nano Developer Kit Small AI Powerful Computer [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
       + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
       + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
- 
+  + Seeed studio 
+    + [Jetson search](https://www.seeedstudio.com/catalogsearch/result/?q=Jetson) 
  
 <A NAME="P156"></A>
 <HR>
