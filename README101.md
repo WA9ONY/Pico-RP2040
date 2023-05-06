@@ -3510,7 +3510,7 @@ Bosch
 
 <A NAME="P165"></A>
 <HR>
-<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P166">--&gt;</A></P>  
     
 # Project 165: Free Book: The Elements of Statistical Learning
 
@@ -3521,10 +3521,36 @@ The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Se
   + Chapter 14 [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)   
   + PDF [Download](https://hastie.su.domains/ElemStatLearn/)
 
+
+<A NAME="P166"></A>
+<HR>
+<P align="center"><A HREF="#P165">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 166: tinyML Summit
+
+tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge computing](https://en.wikipedia.org/wiki/Edge_computing).    
+    
+  + (March 27-29, 2023](https://www.tinyml.org/event/summit-2023/)
+  + [tinyML Foundation](https://www.tinyml.org/about/)
+    + YouTube [channel](https://www.youtube.com/@tinyML/featured)
+    + YouTube [playlist](https://www.youtube.com/@tinyML/playlists)    
+  + tinyML Summit 2023 [22 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBMYMZ1keA04xUA8sVb7uxR2)
+  + tinyML Summit 2022 [24 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBM6atdXJ0SGPcgz2UIY81Q7)
+  + tinyML Summit 2021 [58 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBMN9TOctsGiLkbkuwNrr3gq)
+  + tinyML Summit 2020 [11 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBOHsFjXgWablRPm8gAxx-zn)
+  + tinyML Summit 2019 [19 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBOMgiKVMwJQkn1Qoeh03msI)
+     
+[All About Circuits](https://www.allaboutcircuits.com/) newsletters
+  + [What Is TinyML?](https://www.allaboutcircuits.com/technical-articles/what-is-tinyml/)
+  + [Building tinyML Solutions for the Edge](https://www.allaboutcircuits.com/industry-webinars/building-tinyml-solutions-on-renesas-ra-mcus-with-qeexo-automl/)  
+  + [TinyML Summit: Enhancing NPUs With Digital In-memory Computing](https://www.allaboutcircuits.com/news/tinyml-summit-enhancing-npus-with-digital-in-memory-computing/)    
+  + [TinyML Summit: Designing Multi-model Smart HMIs](https://www.allaboutcircuits.com/news/tinyml-summit-designing-multi-model-smart-hmis/)
+ 
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P165">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P166">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
