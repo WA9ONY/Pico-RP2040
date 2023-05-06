@@ -3531,15 +3531,16 @@ The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Se
 tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge computing](https://en.wikipedia.org/wiki/Edge_computing).    
     
   + [March 27-29, 2023](https://www.tinyml.org/event/summit-2023/)
-  + [tinyML Foundation](https://www.tinyml.org/about/)
-    + YouTube [channel](https://www.youtube.com/@tinyML/featured)
-    + YouTube [playlist](https://www.youtube.com/@tinyML/playlists)    
   + tinyML Summit 2023 [22 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBMYMZ1keA04xUA8sVb7uxR2)
   + tinyML Summit 2022 [24 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBM6atdXJ0SGPcgz2UIY81Q7)
   + tinyML Summit 2021 [58 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBMN9TOctsGiLkbkuwNrr3gq)
   + tinyML Summit 2020 [11 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBOHsFjXgWablRPm8gAxx-zn)
   + tinyML Summit 2019 [19 videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBOMgiKVMwJQkn1Qoeh03msI)
-     
+
+[tinyML Foundation](https://www.tinyml.org/about/)
+  + YouTube [channel](https://www.youtube.com/@tinyML/featured)
+  + YouTube [playlist](https://www.youtube.com/@tinyML/playlists)    
+      
 [All About Circuits](https://www.allaboutcircuits.com/) newsletters
   + [What Is TinyML?](https://www.allaboutcircuits.com/technical-articles/what-is-tinyml/)
   + [Building tinyML Solutions for the Edge](https://www.allaboutcircuits.com/industry-webinars/building-tinyml-solutions-on-renesas-ra-mcus-with-qeexo-automl/)  
