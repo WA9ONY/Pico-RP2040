@@ -3530,7 +3530,7 @@ The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Se
 
 tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge computing](https://en.wikipedia.org/wiki/Edge_computing).    
     
-  + (March 27-29, 2023](https://www.tinyml.org/event/summit-2023/)
+  + [March 27-29, 2023](https://www.tinyml.org/event/summit-2023/)
   + [tinyML Foundation](https://www.tinyml.org/about/)
     + YouTube [channel](https://www.youtube.com/@tinyML/featured)
     + YouTube [playlist](https://www.youtube.com/@tinyML/playlists)    
