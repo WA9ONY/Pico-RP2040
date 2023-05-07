@@ -2215,7 +2215,8 @@ Google [Coral](https://coral.ai/)
   + Google Coral USB Edge TPU ML Accelerator coprocessor for Raspberry Pi and Other Embedded Single Board Computers [Amazon](https://www.amazon.com/Google-Coral-Accelerator-coprocessor-Raspberry/dp/B07R53D12W/ref=sr_1_2?crid=IUZ0GZX4KIZV&keywords=Coral+USB+Accelerator&qid=1682801764&sprefix=coral+usb+accelerator%2Caps%2C158&sr=8-2&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0)
     + [Frigate NVR with Odyssey Blue and Coral USB AI Accelerator](https://www.seeedstudio.com/Frigate-NVR-with-Odyssey-Blue-and-Coral-USB-Accelerator-p-5469.html)
     + [Coral USB Accelerator](https://www.seeedstudio.com/Coral-USB-Accelerator-p-2899.html)
-    
+    + [NVIDIA Jetson Nano vs Google Coral vs Intel NCS: A Comparison](https://towardsdatascience.com/nvidia-jetson-nano-vs-google-coral-vs-intel-ncs-a-comparison-9f950ee88f0d)
+
 Intel
   + Intel NCSM2450.DK1 Movidius Neural Compute Stick [Amazon](https://www.amazon.com/dp/B076751BN8/?coliid=I3KA55NUG26C0J&colid=XSJ6DS90PQ0Q&psc=1&ref_=lv_ov_lig_dp_it_im)
     + [Wikipedia](https://en.wikipedia.org/wiki/Movidius#Neural_Compute_Stick)
