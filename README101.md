@@ -3563,7 +3563,16 @@ The above image is from Brilliant Introduction to Neural Networks interactive co
 The number is entered in the grid and the ANN changes as the number is entered.  
 The resulting number is shown in the top ten boxes.    
  
+### 3Blue1Brown     
     
+But what is a neural network? | Chapter 1, Deep learning [YouTube](https://youtu.be/aircAruvnKk)
+    
+<p align="center">
+<img width="854" height="602" src="/Images/3B1BANNnum.png">  
+</p>
+
+    
+
     
     
 <A NAME="FUTURE"></A>
