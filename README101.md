@@ -3580,7 +3580,24 @@ Neural networks [4 videos playlist](https://www.youtube.com/playlist?list=PLZHQO
 
 Image credit: [3Blue1Brown](https://www.youtube.com/@3blue1brown)    
 
+### Handwritten Digit Recognition    
+
+[SnapLogic](https://www.snaplogic.com/machine-learning-showcase/handwritten-digit-recognition)    
     
+### Searches
+
+Google    
+  + ML ANN Digit Recognition [search](https://www.google.com/search?q=ML+ANN+Digit+Recognition&oq=ML+ANN+Digit+Recognition&aqs=chrome..69i57j69i59j69i60l2.1640j0j15&sourceid=chrome&ie=UTF-8)    
+
+YouTube
+  + ML ANN Digit Recognition [search](https://www.youtube.com/results?search_query=ML+ANN+Digit+Recognition)   
+
+Amazon
+  + Machine Learning Digit Recognition [search](https://www.amazon.com/s?k=Machine+Learning+Digit+Recognition&i=stripbooks&crid=3BZNM6FF7IAVX&sprefix=machine+learning+digit+recognition%2Cstripbooks%2C148&ref=nb_sb_noss)
+    
+Internet Archive
+  + Machine Learning Digit Recognition [search](https://archive.org/search?query=Machine+Learning+Digit+Recognition)
+
     
 <A NAME="FUTURE"></A>
 <HR> 
