@@ -3555,15 +3555,20 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
 <P align="center"><A HREF="#P166">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 167: ML ANN Digit Recognition
-<p align="center">
-<img width="469" height="561" src="/Images/BrilliantANNnum.png">  
-</p>
+
+### [Brilliant](https://brilliant.org/home/) 
 
 The above image is from Brilliant Introduction to Neural Networks interactive course. 
 The number is entered in the grid and the ANN changes as the number is entered.  
 The resulting number is shown in the top ten boxes.    
- 
-### 3Blue1Brown     
+    
+<p align="center">
+<img width="469" height="561" src="/Images/BrilliantANNnum.png">  
+</p>
+
+Image credit: [Brilliant](https://brilliant.org/home/) 
+    
+### [3Blue1Brown](https://www.youtube.com/@3blue1brown)     
     
 But what is a neural network? | Chapter 1, Deep learning [YouTube](https://youtu.be/aircAruvnKk)
     
@@ -3571,7 +3576,7 @@ But what is a neural network? | Chapter 1, Deep learning [YouTube](https://youtu
 <img width="854" height="602" src="/Images/3B1BANNnum.png">  
 </p>
 
-    
+Image credit: [3Blue1Brown](https://www.youtube.com/@3blue1brown)    
 
     
     
