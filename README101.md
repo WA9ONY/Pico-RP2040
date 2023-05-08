@@ -3549,10 +3549,9 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
   + [TinyML Summit: Designing Multi-model Smart HMIs](https://www.allaboutcircuits.com/news/tinyml-summit-designing-multi-model-smart-hmis/)
  
 
-
 <A NAME="P167"></A>
 <HR>
-<P align="center"><A HREF="#P166">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P166">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P168">--&gt;</A></P>  
     
 # Project 167: ML ANN Digit Recognition
 
@@ -3597,11 +3596,23 @@ Amazon
     
 Internet Archive
   + Machine Learning Digit Recognition [search](https://archive.org/search?query=Machine+Learning+Digit+Recognition)
+ 
 
+<A NAME="P168"></A>
+<HR>
+<P align="center"><A HREF="#P167">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 168: Free Online Book: Neural Networks and Deep Learning
+ 
+[Online book](http://neuralnetworksanddeeplearning.com/)    
+    
+by Michael Nielsen
+
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P167">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
