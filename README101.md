@@ -3556,7 +3556,7 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
     
 # Project 167: ML ANN Digit Recognition
 <p align="center">
-<img width="469" height="561" src="/Images/BrillianANNnum.png">  
+<img width="469" height="561" src="/Images/BrilliantANNnum.png">  
 </p>
 
 The above image is from Brilliant Introduction to Neural Networks interactive course. 
