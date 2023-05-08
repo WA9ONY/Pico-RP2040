@@ -2,46 +2,6 @@
 <HR>
 <P align="center"><A HREF="README101.md#FUTURE">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="https://groups.io/g/Microcontrollers">Groups.IO</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
 
-# Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes
-
-<p align="center">
-<img width="308" height="308" src="/Images/RP2040.png">  
-</p>
-
-<p align="center">
-The Raspberry Pi RP2040 microcontroller IC is a small computer, 0.267 square inches chip,<BR>with 56 pins of which most of the pins are used to interface to other electronic devices.
-</p>
- 
-<p align="center">
-<A HREF="http://www.stargazing.net/david/index.html">David Haworth</A>, <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A>
-</p> 
-
-## Introduction  
-  
-This repo focuses on microcontroller-based projects and edge computing.  These project notes include ML (Machine Learning) and edge computing. It documents WA9ONY learning experinces, resources used and projects.  This includes the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies so that they can products that include the RP2040 products (Arduino NANO RP2040 Connect).  Microcontrollers would not be complete without understanding how to use the defacto microcontroller standard since 2005, the Arduino microcontroller ecosystem.
-
-The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to indicate the board's temperature in Morse code to a transceivers built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects.
-  
-Microcontroller projects range from using only the microcontroller developement board to attaching various components and various subsystem boards with  standardized serial interfaces (SPI, I2C, STEMMA QT, etc.).
-  
-Software is needed to program the microcontroller.  The long time defacto standard is Arduino IDE (since 2005) which is based on C++. Also, MicroPython and CircuitPython have large strong microcontroller ecosystems.  This results in different ways to program the microcontroller.   
-
-<img align="right" width="320" height="240" src="/Images/voltsTemp320.png">
-
-## Summary of What is Needed for Microcontroller Project.
-- Microcontroller developement board.
-- Additional electronics and subsystem boards needed for the project.
-- Computer
-  - To develope software with the IDE.
-  - To upload the software to the microcontroller board usually with USB interface.
-  - To power the microcontroller board with the USB interface. 
-- Software IDE to develope the microcontroller software.
-- Power the project after software is completed and the computer is not needed.
-  - USB power souce
-  - Batteries
-  - Solar cells
-
-
 <A NAME="INDEX"></A>
 <HR>
 <P align="center"><A HREF="#HOME">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - Index - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
@@ -218,6 +178,47 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
+# Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes
+
+<p align="center">
+<img width="308" height="308" src="/Images/RP2040.png">  
+</p>
+
+<p align="center">
+The Raspberry Pi RP2040 microcontroller IC is a small computer, 0.267 square inches chip,<BR>with 56 pins of which most of the pins are used to interface to other electronic devices.
+</p>
+ 
+<p align="center">
+<A HREF="http://www.stargazing.net/david/index.html">David Haworth</A>, <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A>
+</p> 
+
+## Introduction  
+  
+This repo focuses on microcontroller-based projects and edge computing.  These project notes include ML (Machine Learning) and edge computing. It documents WA9ONY learning experinces, resources used and projects.  This includes the new (2021) RP2040 microcontroller ecosystem that has shook the microcontroller industry with it's high performace, low cost ($1), small size (0.267 square inches) and availablity to other companies so that they can products that include the RP2040 products (Arduino NANO RP2040 Connect).  Microcontrollers would not be complete without understanding how to use the defacto microcontroller standard since 2005, the Arduino microcontroller ecosystem.
+
+The ham radio projects range from a microcontroller board showing its temperature by using its on board LED to indicate the board's temperature in Morse code to a transceivers built with a microcontroller with other hardware.  In the below project 1: ham radio microcontroller books browse through the book contente in the table to see the various ham radio microcontroller projects (&gt;150) that have been written about.  Also, YouTube and the Internet is filled with ham radio microcontroller projects.
+  
+Microcontroller projects range from using only the microcontroller developement board to attaching various components and various subsystem boards with  standardized serial interfaces (SPI, I2C, STEMMA QT, etc.).
+  
+Software is needed to program the microcontroller.  The long time defacto standard is Arduino IDE (since 2005) which is based on C++. Also, MicroPython and CircuitPython have large strong microcontroller ecosystems.  This results in different ways to program the microcontroller.   
+
+<img align="right" width="320" height="240" src="/Images/voltsTemp320.png">
+
+## Summary of What is Needed for Microcontroller Project.
+- Microcontroller developement board.
+- Additional electronics and subsystem boards needed for the project.
+- Computer
+  - To develope software with the IDE.
+  - To upload the software to the microcontroller board usually with USB interface.
+  - To power the microcontroller board with the USB interface. 
+- Software IDE to develope the microcontroller software.
+- Power the project after software is completed and the computer is not needed.
+  - USB power souce
+  - Batteries
+  - Solar cells
+ 
+ 
+ 
 <A NAME="P1"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
