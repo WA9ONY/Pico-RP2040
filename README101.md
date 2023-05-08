@@ -1,5 +1,4 @@
 <A NAME="INDEX"></A>
-<HR>
 <P align="center"><A HREF="#HOME">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - Index - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
 
 # Projects  #101+ Notes Index
