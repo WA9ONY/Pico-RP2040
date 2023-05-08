@@ -214,6 +214,7 @@ Software is needed to program the microcontroller.  The long time defacto standa
 + Project 164: <A HREF="README101.md#P164">Bosch BME688 Environmental sensing with AI</A>
 + Project 165: <A HREF="README101.md#P165">The Elements of Statistical Learning</A>
 + Project 166: <A HREF="README101.md#P166">tinyML Summit</A>
++ Project 167: <A HREF="README101.md#P167">ML ANN Digit Recognition</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 <A NAME="P1"></A>
