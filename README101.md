@@ -3558,8 +3558,8 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
 
 ### [Brilliant](https://brilliant.org/home/) 
 
-The above image is from Brilliant Introduction to Neural Networks interactive course. 
-The number is entered in the grid and the ANN changes as the number is entered.  
+The below image is from Brilliant Introduction to Neural Networks interactive course. 
+The number is entered into the grid and the ANN changes as the number is entered.  
 The resulting number is shown in the top ten boxes.    
     
 <p align="center">
