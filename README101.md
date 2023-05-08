@@ -2035,7 +2035,7 @@ print(output_data)
 # Project 152: Brilliant Online Courses
          
 <p align="center">
-<img align="center" width="512" height="263" src="/Images/BrilliantCourses3.png">        
+<img align="center" width="1000" height="488" src="/Images/Brilliant6c.png">        
 </p>
 
 ### Introduction to Neural Networks 15 Lessions
