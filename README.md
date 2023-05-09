@@ -3,7 +3,7 @@
 
 <A NAME="INDEX"></A>
 
-# Projects Notes Index
+# Projects 1 to 100 Notes Index
 + <A HREF="#Intro">Introduction to Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes</A> 
 + Project 1: <A HREF="#P1">Ham Radio Micorocontroller Books</A>
 + Project 2: <A HREF="#P2">Micorocontrollers Books</A>
