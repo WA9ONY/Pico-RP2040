@@ -4,7 +4,7 @@
 <A NAME="INDEX"></A>
 
 # Projects Notes Index
-+ <A HREF="#HOME">Home</A> 
++ <A HREF="#Introduction">Introduction to Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes</A> 
 + Project 1: <A HREF="#P1">Ham Radio Micorocontroller Books</A>
 + Project 2: <A HREF="#P2">Micorocontrollers Books</A>
 + Project 3: <A HREF="#P3">Micorocontrollers in Magazines</A>
@@ -111,7 +111,7 @@
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
 
-# Introduction to Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes
+# Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes
 
 <p align="center">
 <img width="308" height="308" src="/Images/RP2040.png">  
