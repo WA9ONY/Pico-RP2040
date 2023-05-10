@@ -2354,6 +2354,14 @@ Seeed Studio
   + reComputer [search](https://www.seeedstudio.com/reComputer-jeston-c-2063.html)
   + reComputer [J4012-Edge](https://www.seeedstudio.com/reComputer-J4012-p-5586.html) 
 
+YouTube
+  + Nvidia jetson [search](https://www.youtube.com/results?search_query=Nvidia+jetson)  
+  + Jetson Nano [search](https://www.youtube.com/results?search_query=Jetson+Nano)  
+  + Jetson Orin [search](https://www.youtube.com/results?search_query=Jetson+Orin)  
+  + Nvidia JetPack [search](https://www.youtube.com/results?search_query=Nvidia+JetPack)  
+  + Learning Artificial Intelligence on the Jetson Nano [62 videos playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxP-ElZ7-QXIERFFPkOuP4_)
+  + Jetson playlists [search](https://www.youtube.com/results?search_query=Nvidia+Jetson+playlist)
+
     
 <A NAME="P156"></A>
 <HR>
