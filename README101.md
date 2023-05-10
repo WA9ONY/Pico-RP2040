@@ -3635,6 +3635,9 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
 The below image is from Brilliant Introduction to Neural Networks interactive course. 
 The number is entered into the grid and the ANN changes as the number is entered.  
 The resulting number is shown in the top ten boxes.    
+
+This greate interactive ML ANN digit Recognition excerise is in
+Brilliant course: [Introduction to Neural Networks](https://brilliant.org/courses/intro-neural-networks/), Introduction section at the end of the section.     
     
 <p align="center">
 <img width="469" height="561" src="/Images/BrilliantANNnum.png">  
