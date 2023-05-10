@@ -3636,7 +3636,7 @@ The [ML](https://en.wikipedia.org/wiki/Machine_learning) [ANN](https://en.wikipe
  
 In 1999 US Postal Service [tests handwriting recognition](https://www.govexec.com/federal-news/1999/02/postal-service-tests-handwriting-recognition-system/1746/) system.    
     
-### [Brilliant](https://brilliant.org/home/) 
+### [Brilliant](https://brilliant.org/home/) Online Courses
 
 The below image is from Brilliant Introduction to Neural Networks interactive course. 
 The number is entered into the grid and the ANN changes as the number is entered.  
@@ -3651,7 +3651,7 @@ Brilliant course: [Introduction to Neural Networks](https://brilliant.org/course
 
 Image credit: [Brilliant](https://brilliant.org/home/) 
     
-### [3Blue1Brown](https://www.youtube.com/@3blue1brown)     
+### [3Blue1Brown](https://www.youtube.com/@3blue1brown) YouTube Channel    
     
 But what is a neural network? | Chapter 1, Deep learning [YouTube](https://youtu.be/aircAruvnKk)
 
