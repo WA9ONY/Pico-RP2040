@@ -2345,7 +2345,8 @@ Adafruit
     
 Presentation: Building theNext Generation of Autonomous Machines Powered by NVIDIA Jetson
   + 35 slide presentation [PDF](https://www.nvidia.com/en-us/lp/autonomous-machines/embedded-ai-jetson-solutions-ebook-thank-you.html?form-submit-token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWVtYWlsIjoiV0E5T05ZQGdtYWlsLmNvbSIsImZvcm0tcGF0aCI6Ii9jb250ZW50L2Zvcm1zL2FmL252aWRpYS1mb3Jtcy9hdXRvbm9tb3VzLW1hY2hpbmVzIiwidm9sdHJvbi1zdWJtaXNzaW9uLWNvZGUiOiJNVFk0TXpZNE5EWTBORFkwT0E9PSIsImlzcyI6Im52aWRpYS1hdXRoIiwic3VibWlzc2lvbi10aW1lIjoiVHVlIE1heSAwOSAyMjoxMDo0NCBFRFQgMjAyMyIsImV4cCI6MTY4MzY4NTg0NCwia2V5IjoiTW5kRXFNcEt6Z3hBeGtHZ2Z2cXBVZEdpQUZDZ05lIiwiZm9ybS1uYW1lIjoiZW1iZWRkZWQtYWktamV0c29uLXNvbHV0aW9ucy1lYm9vay1kb3dubG9hZC1mb3JtIiwic2Vzc2lvbi1pZCI6ImtIUUlfREVVdW9TX1ZHdGZldUdTRDBsbk4zUmlmOCJ9.-ulhnLD1X5XaPvcmEww_6Bn-XFSidmBdiJ4LWzw8Oxg)
-    
+
+Book    
   + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
 
 Seeed Studio 
