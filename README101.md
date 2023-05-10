@@ -2335,7 +2335,7 @@ Adafruit
  Jetson Developer Kit   
   + Nvidia [Jetson store](https://store.nvidia.com/en-us/jetson/store/?page=1&limit=9&locale=en-us)
   + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
-  + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) B02 [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/)
+    + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) B02 [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/)
     + GeeekPi Jetson Nano Case [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
     + Camera Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   + [Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/) Developer Kit
