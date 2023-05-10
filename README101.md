@@ -2355,7 +2355,7 @@ Seeed Studio
   + reComputer [J4012-Edge](https://www.seeedstudio.com/reComputer-J4012-p-5586.html) 
 
 YouTube
-  + Nvidia jetson [search](https://www.youtube.com/results?search_query=Nvidia+jetson)  
+  + Nvidia Jetson [search](https://www.youtube.com/results?search_query=Nvidia+jetson)  
   + Jetson Nano [search](https://www.youtube.com/results?search_query=Jetson+Nano)  
   + Jetson Orin [search](https://www.youtube.com/results?search_query=Jetson+Orin)  
   + Nvidia JetPack [search](https://www.youtube.com/results?search_query=Nvidia+JetPack)  
