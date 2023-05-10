@@ -2333,7 +2333,7 @@ Adafruit
   + [Jetson Roadmap](https://developer.nvidia.com/embedded/develop/roadmap)
 
  Jetson Developer Kit   
-  + Nvidia [Jetson store]((https://store.nvidia.com/en-us/jetson/store/?page=1&limit=9&locale=en-us)
+  + Nvidia [Jetson store](https://store.nvidia.com/en-us/jetson/store/?page=1&limit=9&locale=en-us)
   + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
   + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) B02 [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/)
     + GeeekPi Jetson Nano Case [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
