@@ -3650,6 +3650,7 @@ Image credit: [Brilliant](https://brilliant.org/home/)
 But what is a neural network? | Chapter 1, Deep learning [YouTube](https://youtu.be/aircAruvnKk)
 
 Neural networks [4 videos playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  + The first two video some to the best of showing ANNs in action using digit recognition.
     
 <p align="center">
 <img width="854" height="602" src="/Images/3B1BANNnum.png">  
