@@ -2331,12 +2331,21 @@ Adafruit
   + [Wikipedia](https://en.wikipedia.org/wiki/Nvidia_Jetson)
   + Compare Nvidea [Jetson Model Spedifications](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#jetson-compare)
   + [Jetson Roadmap](https://developer.nvidia.com/embedded/develop/roadmap)
-  + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+
+ Jetson Developer Kit   
+    + [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
     + NVIDIA Jetson Nano Developer Kit (945-13450-0000-100) B02 [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/)
-      + GeeekPi Jetson Nano Case (Support Jetson Nano B01 and A02 Version), Jetson Nano Case with Fan for NVIDIA Jetson Nano Developer Kit Small AI Powerful Computer [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+      + GeeekPi Jetson Nano Case (Support Jetson Nano B01 and A02 Version), Jetson Nano Case with Fan for NVIDIA Jetson Nano Developer Kit Small AI Powerful 
+  + [Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/) Developer Kit
+      + [Amazon](https://www.amazon.com/NVIDIA-Jetson-Orin-Nano-Developer/dp/B0BZJTQ5YP/ref=sr_1_1?crid=2I9K4RMAVZ4KS&keywords=Jetson+Orin+Nano&qid=1683685351&sprefix=jetson+orin+nano%2Caps%2C224&sr=8-1&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3) 
+Building theNext Generation of Autonomous Machines Powered by NVIDIA Jetson
+  + 35 slide presentation [PDF](https://www.nvidia.com/en-us/lp/autonomous-machines/embedded-ai-jetson-solutions-ebook-thank-you.html?form-submit-token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWVtYWlsIjoiV0E5T05ZQGdtYWlsLmNvbSIsImZvcm0tcGF0aCI6Ii9jb250ZW50L2Zvcm1zL2FmL252aWRpYS1mb3Jtcy9hdXRvbm9tb3VzLW1hY2hpbmVzIiwidm9sdHJvbi1zdWJtaXNzaW9uLWNvZGUiOiJNVFk0TXpZNE5EWTBORFkwT0E9PSIsImlzcyI6Im52aWRpYS1hdXRoIiwic3VibWlzc2lvbi10aW1lIjoiVHVlIE1heSAwOSAyMjoxMDo0NCBFRFQgMjAyMyIsImV4cCI6MTY4MzY4NTg0NCwia2V5IjoiTW5kRXFNcEt6Z3hBeGtHZ2Z2cXBVZEdpQUZDZ05lIiwiZm9ybS1uYW1lIjoiZW1iZWRkZWQtYWktamV0c29uLXNvbHV0aW9ucy1lYm9vay1kb3dubG9hZC1mb3JtIiwic2Vzc2lvbi1pZCI6ImtIUUlfREVVdW9TX1ZHdGZldUdTRDBsbk4zUmlmOCJ9.-ulhnLD1X5XaPvcmEww_6Bn-XFSidmBdiJ4LWzw8Oxg)
+    
+Computer [Amazon](https://www.amazon.com/gp/product/B07SXJHQD1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
       + Compatible with NVIDIA Jetson Nano Camera IMX219-160 8-Megapixels Camera Module 3280 × 2464 Resolution 160 Degree Wide Angle of View with IMX219 Sensor [Amazon](https://www.amazon.com/dp/B07T43K7LC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
       + IoT Projects with NVIDIA Jetson Nano: AI-Enabled Internet of Things Projects for Beginners 1st ed. Edition [Amazon](https://www.amazon.com/gp/product/1484264517/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
-  + Seeed Studio 
+
+Seeed Studio 
     + [Jetson search](https://www.seeedstudio.com/catalogsearch/result/?q=Jetson) 
     + reComputer [search](https://www.seeedstudio.com/reComputer-jeston-c-2063.html)
     + reComputer [J4012-Edge](https://www.seeedstudio.com/reComputer-J4012-p-5586.html) 
