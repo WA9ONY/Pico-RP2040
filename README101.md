@@ -3630,6 +3630,12 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
     
 # Project 167: ML ANN Digit Recognition
 
+The ML ANN digit recognition program is like the "[Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) program" of writing your first computer program in a new computer progarm language.
+    
+The [ML](https://en.wikipedia.org/wiki/Machine_learning) [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network) is a classification progarm using an ANN that is supervised trained with a data set and tested with a different data set.    
+ 
+In 1999 US Postal Service [tests handwriting recognition](https://www.govexec.com/federal-news/1999/02/postal-service-tests-handwriting-recognition-system/1746/) system.    
+    
 ### [Brilliant](https://brilliant.org/home/) 
 
 The below image is from Brilliant Introduction to Neural Networks interactive course. 
