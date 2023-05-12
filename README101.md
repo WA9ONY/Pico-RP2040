@@ -3723,14 +3723,48 @@ by Michael Nielsen
 # Project 169: MicroSD Cards for SBC
 
 I use 32 GB, 64 GB and 256 GB SanDisk High Endurance Card for SBCs.    
+
+SanDisk High Endurance Card
+  + [Data sheet](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/high-endurance-uhs-i-microsd/data-sheet-high-endurance-uhs-i-microsd.pdf)    
+  + [Amazon](https://www.amazon.com/dp/B07P4HBRMV?ref=ppx_yo2ov_dt_b_product_details&th=1)  
+
+SanDisk Max Endurance Card    
+  + [Data sheet](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/max-endurance-uhs-i-microsd/data-sheet-max-endurance-uhs-i-microsd.pdf)    
+  + [Amazon](https://www.amazon.com/SanDisk-Endurance-microSDXC-Adapter-Security/dp/B084CJ9T2R/ref=sr_1_1?crid=24AELU3KRAMA3&keywords=SanDisk+MAX+Endurance&qid=1683854728&s=electronics&sprefix=sandisk+max+endurance%2Celectronics%2C286&sr=1-1)
     
 YouTube
   + ExplainingComputers [Top SBC Micro SD Card (Group Benchmark)](https://youtu.be/YUResed38uo)
 
-Amazon
-  + [SanDisk 256GB High Endurance Video microSDXC Card](https://www.amazon.com/dp/B07P4HBRMV?ref=ppx_yo2ov_dt_b_product_details&th=1)  
-    + High Endurance Video microSDXC Card with Adapter for Dash Cam and Home Monitoring systems - C10, U3, V30, 4K UHD, Micro SD Card 
-      
+Reverse-engineering and analysis of SanDisk High Endurance microSDXC card [URL](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
+    
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a High Endurance Video microSDXC Card?
+    
+A High Endurance Video microSDXC (Secure Digital Extended Capacity) card is a type of memory card specifically designed for applications that require continuous and high-quality video recording. It is built to withstand the rigorous demands of constant video recording, making it ideal for use in surveillance cameras, dashcams, body cameras, drones, and other devices that require extended durability.
+
+The key feature of a High Endurance Video microSDXC card is its ability to handle a high number of write cycles without experiencing performance degradation or failure. Regular microSD cards are typically designed for general-purpose use and may not be able to sustain continuous video recording for extended periods.
+
+High Endurance Video microSDXC cards are built with high-quality NAND flash memory and advanced firmware algorithms, which allow them to handle the constant write operations associated with video recording. They have enhanced durability, better temperature resistance, and improved error correction capabilities to ensure data integrity over long periods.
+
+These cards often come with specific endurance ratings, denoting the number of hours or terabytes written (TBW) that the card can endure. The endurance rating helps users estimate the card's lifespan and choose an appropriate card based on their recording needs.
+
+It's important to note that High Endurance Video microSDXC cards may have slower read and write speeds compared to regular microSD cards optimized for other applications, such as fast data transfer or high-resolution photography. Therefore, when choosing a memory card, it's crucial to consider the intended purpose and prioritize endurance and reliability over speed.    
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Compare a normal microSD Card with a High Endurance Video microSDXC card when they wear out.
+    
+When a normal microSD card and a High Endurance Video microSDXC card reach their maximum write endurance and wear out, there are some key differences in their behavior and performance. Here's a comparison:
+
+1. Endurance: A normal microSD card typically has a lower endurance rating compared to a High Endurance Video microSDXC card. The high endurance card is specifically designed to withstand continuous and intensive write operations associated with video recording, so it generally has a much higher endurance rating, measured in terms of hours or terabytes written (TBW).
+
+2. Lifespan: Due to its higher endurance, a High Endurance Video microSDXC card has a longer lifespan than a regular microSD card. It can sustain a significantly larger number of write cycles before reaching its wear-out point. This means that it can be used for longer periods of time without needing replacement.
+
+3. Performance degradation: When a normal microSD card reaches its wear-out point, it may start experiencing performance degradation. This can manifest as slower write speeds, increased errors, or even data corruption. On the other hand, a High Endurance Video microSDXC card is designed to maintain its performance and data integrity even after extensive use. While it will eventually wear out like any other storage medium, it tends to offer more consistent and reliable performance throughout its lifespan.
+
+4. Failure modes: When a normal microSD card reaches the end of its life, it is more prone to sudden failures or becoming unreadable. This can result in data loss or the card becoming unusable. In contrast, a High Endurance Video microSDXC card is engineered to have robust error correction capabilities and better reliability, minimizing the risk of sudden failures.
+
+In summary, a High Endurance Video microSDXC card outperforms a regular microSD card in terms of endurance, lifespan, performance consistency, and reliability. It is specifically designed to handle the demands of continuous video recording without experiencing rapid degradation or failure, providing a more reliable storage solution for applications that require extended durability.
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
