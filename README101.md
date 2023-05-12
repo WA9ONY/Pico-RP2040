@@ -71,6 +71,7 @@
 + Project 166: <A HREF="README101.md#P166">tinyML Summit</A>
 + Project 167: <A HREF="README101.md#P167">ML ANN Digit Recognition</A>
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
++ Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 
@@ -3706,19 +3707,34 @@ Internet Archive
 
 <A NAME="P168"></A>
 <HR>
-<P align="center"><A HREF="#P167">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P167">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P169">--&gt;</A></P>  
     
 # Project 168: Free Online Book: Neural Networks and Deep Learning
  
 [Online book](http://neuralnetworksanddeeplearning.com/)    
     
 by Michael Nielsen
+ 
 
+<A NAME="P169"></A>
+<HR>
+<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 169: MicroSD Cards for SBC
+
+I use 32 GB, 64 GB and 256 GB SanDisk High Endurance Card for SBCs.    
+    
+YouTube
+  + ExplainingComputers [Top SBC Micro SD Card (Group Benchmark)](https://youtu.be/YUResed38uo)
+
+Amazon
+  + [SanDisk 256GB High Endurance Video microSDXC Card](https://www.amazon.com/dp/B07P4HBRMV?ref=ppx_yo2ov_dt_b_product_details&th=1)  
+    + High Endurance Video microSDXC Card with Adapter for Dash Cam and Home Monitoring systems - C10, U3, V30, 4K UHD, Micro SD Card 
+      
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P169">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
