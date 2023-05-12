@@ -3721,6 +3721,10 @@ by Michael Nielsen
 <P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 169: MicroSD Cards for SBC
+    
+<p align="center">
+<img width="600" height="305" src="/Images/MicroSD600.png">  
+</p>
 
 I use 32 GB, 64 GB and 256 GB SanDisk High Endurance Card for SBCs.    
 
