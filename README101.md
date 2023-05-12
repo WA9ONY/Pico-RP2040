@@ -3735,8 +3735,10 @@ SanDisk Max Endurance Card
 YouTube
   + ExplainingComputers [Top SBC Micro SD Card (Group Benchmark)](https://youtu.be/YUResed38uo)
 
-Reverse-engineering and analysis of SanDisk High Endurance microSDXC card [URL](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
+Tom's Hardware    
+  + [Best microSD Cards for Raspberry Pi 2023](https://www.tomshardware.com/best-picks/raspberry-pi-microsd-cards)    
     
+Reverse-engineering and analysis of SanDisk High Endurance microSDXC card [URL](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)  
     
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is a High Endurance Video microSDXC Card?
     
@@ -3780,6 +3782,44 @@ SanDisk offers two popular lines of memory cards designed for continuous video r
 
 Overall, while both the SanDisk Max Endurance and SanDisk High Endurance cards are designed for continuous video recording, the Max Endurance line generally offers a higher endurance rating and is geared towards more demanding professional applications. The High Endurance line, while still reliable, caters to consumer-grade needs and offers a slightly lower endurance rating. It's important to consider your specific requirements and choose the card that best fits your usage scenario and endurance needs.    
     
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is the lifespan of a normal microSD card?
+    
+The lifespan of a normal microSD card can vary depending on several factors, including the quality of the card, usage patterns, and environmental conditions. Generally, microSD cards have a finite lifespan determined by the number of write cycles they can endure before wearing out. Write cycles refer to the process of writing data onto the card.
+
+The lifespan of a microSD card is often specified by its endurance rating, which is an estimation of the total amount of data that can be written to the card before it reaches its wear-out point. Endurance ratings are typically expressed in terms of hours of video recording or terabytes written (TBW).
+
+For regular consumer-grade microSD cards, the endurance ratings can vary widely. Lower-endurance cards may have ratings ranging from a few hundred to a few thousand hours of video recording or a few tens to hundreds of terabytes written. Higher-endurance cards, including those designed for continuous video recording, can have ratings in the range of thousands of hours or several hundred terabytes written.
+
+It's important to note that the lifespan of a microSD card is not solely determined by its endurance rating. Factors such as the frequency and intensity of usage, the type of data being written, and environmental conditions (temperature, humidity, etc.) can also impact its lifespan. Additionally, as the card ages, it may experience gradual performance degradation even before reaching its wear-out point.
+
+To maximize the lifespan of a microSD card, it's recommended to follow best practices such as avoiding frequent and unnecessary data overwrites, using the card within its specified temperature range, and safely ejecting the card before removing it from devices. Regularly backing up important data from the card is also a good practice to prevent data loss.
+
+Overall, while the lifespan of a normal microSD card can vary, it is generally advisable to choose a card with a higher endurance rating if you anticipate extensive or continuous usage to ensure long-term reliability.
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is the lifespan of a microSD card used in a Raspberry Pi computer?    
+
+The lifespan of a microSD card used in a Raspberry Pi computer can vary depending on several factors. Raspberry Pi computers often perform numerous read and write operations on the microSD card, which can impact its lifespan. Here are some factors that can influence the lifespan:
+
+1. Quality of the microSD card: Higher-quality microSD cards generally tend to have better durability and endurance, meaning they can withstand more write cycles before wearing out. Opting for a reputable brand and choosing a card specifically designed for endurance, such as those labeled as "High Endurance" or "Industrial Grade," can contribute to a longer lifespan.
+
+2. Operating system optimizations: The choice of operating system and its configuration can affect the number of write operations performed on the microSD card. Some operating systems, like Raspbian (now Raspberry Pi OS), implement measures to minimize unnecessary writes and optimize performance, which can extend the lifespan of the microSD card.
+
+3. Write-intensive applications: If you're running applications on your Raspberry Pi that involve frequent and intensive writing to the microSD card, such as databases or logging systems, it can accelerate the wear on the card. These types of applications may lead to a shorter lifespan compared to less write-intensive uses.
+
+4. Power loss and improper shutdowns: Abrupt power losses or improper shutdowns (e.g., pulling the power plug without shutting down the Raspberry Pi properly) can increase the risk of data corruption and potentially shorten the lifespan of the microSD card. It's important to ensure proper power management and shutdown procedures to minimize these risks.
+
+Given these factors, it's challenging to provide an exact lifespan for a microSD card used in a Raspberry Pi. However, with regular usage and assuming a reasonably good quality microSD card, it's generally expected that the card should last for at least several months to a few years, depending on usage patterns and other factors.
+
+To improve the lifespan of the microSD card in a Raspberry Pi, consider implementing the following best practices:
+
+1. Choose a high-quality microSD card with good endurance ratings.
+2. Optimize the operating system settings to minimize unnecessary writes.
+3. Minimize write-intensive applications or consider utilizing external storage options.
+4. Ensure proper power management and shutdown procedures.
+5. Regularly back up important data to mitigate potential data loss.
+
+By following these guidelines, you can help maximize the lifespan of the microSD card used in your Raspberry Pi and enhance its overall reliability.    
+
     
 <A NAME="FUTURE"></A>
 <HR> 
