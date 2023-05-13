@@ -3727,13 +3727,13 @@ by Michael Nielsen
 <img width="600" height="305" src="/Images/MicroSD600.png">  
 </p>
 
-I use 32 GB, 64 GB and 256 GB SanDisk High Endurance Card for SBCs.    
+I use 64 GB, 128 GB and 256 GB SanDisk High Endurance Card for SBCs.    
 
 SanDisk High Endurance Card
   + [Data sheet](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/high-endurance-uhs-i-microsd/data-sheet-high-endurance-uhs-i-microsd.pdf)    
   + [Amazon](https://www.amazon.com/dp/B07P4HBRMV?ref=ppx_yo2ov_dt_b_product_details&th=1)  
 
-SanDisk Max Endurance Card    
+SanDisk Max Endurance Card cost about twice as much at the High Endurance Cards   
   + [Data sheet](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/max-endurance-uhs-i-microsd/data-sheet-max-endurance-uhs-i-microsd.pdf)    
   + [Amazon](https://www.amazon.com/SanDisk-Endurance-microSDXC-Adapter-Security/dp/B084CJ9T2R/ref=sr_1_1?crid=24AELU3KRAMA3&keywords=SanDisk+MAX+Endurance&qid=1683854728&s=electronics&sprefix=sandisk+max+endurance%2Celectronics%2C286&sr=1-1)
     
