@@ -72,6 +72,7 @@
 + Project 167: <A HREF="README101.md#P167">ML ANN Digit Recognition</A>
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
 + Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
++ Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
 + <A HREF="README2.md#Future">Future Project Ideas</A>
 
 
@@ -3719,7 +3720,7 @@ by Michael Nielsen
 
 <A NAME="P169"></A>
 <HR>
-<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P170">--&gt;</A></P>  
     
 # Project 169: MicroSD Cards for SBC
     
@@ -3825,6 +3826,30 @@ To improve the lifespan of the microSD card in a Raspberry Pi, consider implemen
 
 By following these guidelines, you can help maximize the lifespan of the microSD card used in your Raspberry Pi and enhance its overall reliability.    
 
+ 
+<A NAME="P170"></A>
+<HR>
+<P align="center"><A HREF="#P169">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 170: Google DeepMind
+    
+[Google DeepMind](https://www.deepmind.com/)
+  + [YouTube}(https://www.youtube.com/@Google_DeepMind)
+    + Learning resources [43 videos playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)
+  + [Wikpedia](https://en.wikipedia.org/wiki/Google_DeepMind)
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google DeepMind?    
+
+Google DeepMind is a research organization and subsidiary of Google (now Alphabet Inc.) that focuses on artificial intelligence (AI) and machine learning (ML). DeepMind was founded in 2010 by Demis Hassabis, Shane Legg, and Mustafa Suleyman and gained significant attention in the AI community for its groundbreaking achievements.
+
+DeepMind's primary objective is to develop AI systems that can learn and think like humans. They employ various techniques, including deep neural networks and reinforcement learning, to create intelligent algorithms capable of solving complex problems. DeepMind has achieved notable milestones in areas such as image and speech recognition, natural language processing, game playing, and healthcare.
+
+One of DeepMind's most well-known accomplishments was the development of AlphaGo, an AI program that defeated the world champion Go player in 2016. This victory marked a significant milestone in AI research, as Go is an ancient and highly complex board game with more possible positions than there are atoms in the universe.
+
+DeepMind has also contributed to advancements in healthcare by applying AI to analyze medical data and improve diagnosis and treatment outcomes. They have collaborated with hospitals and research institutions to develop AI systems that can assist doctors in detecting diseases like diabetic retinopathy and breast cancer.
+
+In 2014, Google acquired DeepMind, allowing the organization to access additional resources and expertise. DeepMind operates relatively independently within Google and continues its research efforts while collaborating with other Google teams on various projects.    
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
