@@ -3864,7 +3864,7 @@ Certainly! Here are some Google Machine Learning training resources in various f
 
 1. Google's Machine Learning Crash Course: A free online course provided by Google, covering the fundamentals of machine learning. It includes videos, interactive exercises, and hands-on coding tutorials. You can access it at: [https://developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
 
-2. Google Cloud Training: Google Cloud offers a range of machine learning courses and certifications. They provide instructor-led training, on-demand video courses, and learning paths for various ML topics. You can explore their training catalog at: https://cloud.google.com/training/machinelearning
+2. Google Cloud Training: Google Cloud offers a range of machine learning courses and certifications. They provide instructor-led training, on-demand video courses, and learning paths for various ML topics. You can explore their training catalog at: https://www.cloudskillsboost.google/journeys?utm_source=cgc&utm_campaign=evergreen&utm_medium=website
 
 3. TensorFlow: TensorFlow is an open-source machine learning framework developed by Google. They provide extensive documentation, tutorials, and guides for using TensorFlow for machine learning projects. You can find resources at: https://www.tensorflow.org/resources
 
