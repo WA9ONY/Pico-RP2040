@@ -3834,7 +3834,7 @@ By following these guidelines, you can help maximize the lifespan of the microSD
 # Project 170: Google DeepMind
     
 [Google DeepMind](https://www.deepmind.com/)
-  + [YouTube}(https://www.youtube.com/@Google_DeepMind)
+  + [YouTube](https://www.youtube.com/@Google_DeepMind)
     + Learning resources [43 videos playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)
   + [Wikpedia](https://en.wikipedia.org/wiki/Google_DeepMind)
     
