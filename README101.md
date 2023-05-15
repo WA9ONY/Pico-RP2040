@@ -3707,7 +3707,10 @@ Amazon
     
 Internet Archive
   + Machine Learning Digit Recognition [search](https://archive.org/search?query=Machine+Learning+Digit+Recognition)
- 
+
+Kaggle
+  + Handwritten math symbol and digit dataset [files](https://www.kaggle.com/datasets/clarencezhao/handwritten-math-symbol-dataset)
+    
 
 <A NAME="P168"></A>
 <HR>
