@@ -73,6 +73,7 @@
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
 + Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
++ Project 171: <A HREF="README101.md#P171"> Google ML Training Resources</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -3829,7 +3830,7 @@ By following these guidelines, you can help maximize the lifespan of the microSD
  
 <A NAME="P170"></A>
 <HR>
-<P align="center"><A HREF="#P169">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P169">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P171">--&gt;</A></P>  
     
 # Project 170: Google DeepMind
     
@@ -3849,11 +3850,39 @@ One of DeepMind's most well-known accomplishments was the development of AlphaGo
 DeepMind has also contributed to advancements in healthcare by applying AI to analyze medical data and improve diagnosis and treatment outcomes. They have collaborated with hospitals and research institutions to develop AI systems that can assist doctors in detecting diseases like diabetic retinopathy and breast cancer.
 
 In 2014, Google acquired DeepMind, allowing the organization to access additional resources and expertise. DeepMind operates relatively independently within Google and continues its research efforts while collaborating with other Google teams on various projects.    
+
+ 
+<A NAME="P171"></A>
+<HR>
+<P align="center"><A HREF="#P170">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
+# Project 171: Google ML Training Resources
+        
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List Google ML training resources: videos, books, articles, etc. 
+
+Certainly! Here are some Google Machine Learning training resources in various formats:
+
+1. Google's Machine Learning Crash Course: A free online course provided by Google, covering the fundamentals of machine learning. It includes videos, interactive exercises, and hands-on coding tutorials. You can access it at: [https://developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
+
+2. Google Cloud Training: Google Cloud offers a range of machine learning courses and certifications. They provide instructor-led training, on-demand video courses, and learning paths for various ML topics. You can explore their training catalog at: https://cloud.google.com/training/machinelearning
+
+3. TensorFlow: TensorFlow is an open-source machine learning framework developed by Google. They provide extensive documentation, tutorials, and guides for using TensorFlow for machine learning projects. You can find resources at: https://www.tensorflow.org/resources
+
+4. Google Research Publications: Google Research regularly publishes papers and articles on various machine learning topics. You can explore their research publications at: https://research.google/pubs/
+
+5. YouTube Channels: Google AI and TensorFlow have official YouTube channels where they share tutorials, talks, and presentations on machine learning. You can find them at:
+   - Google AI: https://www.youtube.com/c/GoogleAI
+   - TensorFlow: https://www.youtube.com/c/TensorFlow
+
+6. Google AI Blog: Google's AI Blog provides articles, case studies, and updates on machine learning research and applications. You can access it at: https://ai.googleblog.com/
+
+7. "Deep Learning" Book: Although not specifically a Google resource, the book "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is widely regarded as a comprehensive guide to deep learning. It covers various topics and techniques used in modern machine learning. You can access the book online for free at: http://www.deeplearningbook.org/
+
+Remember to also explore other reputable sources outside of Google, as the field of machine learning is vast and constantly evolving.    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P170">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
