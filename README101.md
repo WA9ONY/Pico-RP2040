@@ -3887,7 +3887,13 @@ Remember to also explore other reputable sources outside of Google, as the field
 <P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 172: Kaggle ML 
-        
+
+[Kaggle](https://www.kaggle.com/)    
+  + [Wikpedia](https://en.wikipedia.org/wiki/Kaggle)  
+  + [YouTube](https://www.youtube.com/@kaggle)
+    + Getting Started on Kaggle [30 videos playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW)
+  + Amazon books [list](https://www.amazon.com/s?k=Kaggle&i=stripbooks&crid=1RLSJMEA9KTO1&sprefix=kaggle%2Cstripbooks%2C293&ref=nb_sb_noss_2)
+
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is ML Kaggle models?
 
 ML Kaggle models refer to machine learning models that have been developed and shared on the Kaggle platform. Kaggle is an online community and platform for data science and machine learning enthusiasts, where users can participate in competitions, collaborate on projects, and share datasets and models.
@@ -3898,7 +3904,7 @@ After a competition ends, Kaggle encourages participants to share their code and
 
 The ML Kaggle models can include various types of machine learning algorithms, such as neural networks, decision trees, gradient boosting, support vector machines, and more. These models are typically implemented using popular machine learning libraries like scikit-learn, TensorFlow, or PyTorch.
 
-Kaggle provides a repository of shared notebooks and kernels that contain code, explanations, and visualizations related to different machine learning projects. These notebooks can serve as valuable learning resources and references for anyone interested in exploring and implementing machine learning models.
+Kaggle provides a repository of shared notebooks and kernels that contain code, explanations, and visualizations related to different machine learning projects. These notebooks can serve as valuable learning resources and references for anyone interested in exploring and implementing machine learning models.    
     
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List training resources to learn how to use the Kaggle platform.
 
@@ -3921,7 +3927,7 @@ Remember that the best way to learn using Kaggle is by practicing and participat
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
