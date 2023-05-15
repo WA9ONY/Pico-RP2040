@@ -73,7 +73,7 @@
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
 + Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
-+ <A HREF="README2.md#Future">Future Project Ideas</A>
++ <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
 <A NAME="P101"></A>
