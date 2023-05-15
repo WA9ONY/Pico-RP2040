@@ -3874,9 +3874,9 @@ Certainly! Here are some Google Machine Learning training resources in various f
    - Google AI: https://www.youtube.com/c/GoogleAI
    - TensorFlow: https://www.youtube.com/c/TensorFlow
 
-6. Google AI Blog: Google's AI Blog provides articles, case studies, and updates on machine learning research and applications. You can access it at: https://ai.googleblog.com/
+6. Google AI Blog: Google's AI Blog provides articles, case studies, and updates on machine learning research and applications. You can access it at: [https://ai.googleblog.com/](https://ai.googleblog.com/)
 
-7. "Deep Learning" Book: Although not specifically a Google resource, the book "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is widely regarded as a comprehensive guide to deep learning. It covers various topics and techniques used in modern machine learning. You can access the book online for free at: http://www.deeplearningbook.org/
+7. "Deep Learning" Book: Although not specifically a Google resource, the book "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is widely regarded as a comprehensive guide to deep learning. It covers various topics and techniques used in modern machine learning. You can access the book online for free at: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 
 Remember to also explore other reputable sources outside of Google, as the field of machine learning is vast and constantly evolving.    
     
