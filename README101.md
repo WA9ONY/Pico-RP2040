@@ -73,7 +73,8 @@
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
 + Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
-+ Project 171: <A HREF="README101.md#P171"> Google ML Training Resources</A>
++ Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
++ Project 172: <A HREF="README101.md#P172"> Kaggle ML</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -3854,7 +3855,7 @@ In 2014, Google acquired DeepMind, allowing the organization to access additiona
  
 <A NAME="P171"></A>
 <HR>
-<P align="center"><A HREF="#P170">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P170">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P172">--&gt;</A></P>  
     
 # Project 171: Google ML Training Resources
         
@@ -3879,6 +3880,44 @@ Certainly! Here are some Google Machine Learning training resources in various f
 7. "Deep Learning" Book: Although not specifically a Google resource, the book "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville is widely regarded as a comprehensive guide to deep learning. It covers various topics and techniques used in modern machine learning. You can access the book online for free at: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
 
 Remember to also explore other reputable sources outside of Google, as the field of machine learning is vast and constantly evolving.    
+
+ 
+<A NAME="P172"></A>
+<HR>
+<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 172: Kaggle ML 
+        
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is ML Kaggle models?
+
+ML Kaggle models refer to machine learning models that have been developed and shared on the Kaggle platform. Kaggle is an online community and platform for data science and machine learning enthusiasts, where users can participate in competitions, collaborate on projects, and share datasets and models.
+
+Kaggle hosts various machine learning competitions where participants compete to build the best predictive models for specific tasks. These competitions often involve large datasets and real-world problem scenarios. Participants can submit their models, and the performance of the models is evaluated based on predefined evaluation metrics.
+
+After a competition ends, Kaggle encourages participants to share their code and models with the community. This allows other users to learn from and build upon the winning solutions. As a result, Kaggle has become a valuable resource for accessing pre-trained models, code, and insights from top data scientists and machine learning practitioners.
+
+The ML Kaggle models can include various types of machine learning algorithms, such as neural networks, decision trees, gradient boosting, support vector machines, and more. These models are typically implemented using popular machine learning libraries like scikit-learn, TensorFlow, or PyTorch.
+
+Kaggle provides a repository of shared notebooks and kernels that contain code, explanations, and visualizations related to different machine learning projects. These notebooks can serve as valuable learning resources and references for anyone interested in exploring and implementing machine learning models.
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List training resources to learn how to use the Kaggle platform.
+
+If you're looking to learn how to use the Kaggle platform, here are some training resources to get you started:
+
+1. Kaggle Documentation: The official Kaggle documentation provides a comprehensive guide on using the platform. It covers topics like competitions, datasets, notebooks, and discussions. You can access it at: https://www.kaggle.com/docs
+
+2. Kaggle Learn: Kaggle offers a series of interactive courses called Kaggle Learn, which cover various data science and machine learning topics. Some of the courses focus specifically on using Kaggle, such as "Intro to Machine Learning" and "Python." You can access Kaggle Learn at: https://www.kaggle.com/learn/overview
+
+3. Kaggle YouTube Channel: Kaggle has an official YouTube channel that features tutorials, tips, and discussions related to data science and machine learning. The channel covers a wide range of topics, including how to use Kaggle effectively. You can find the channel here: https://www.youtube.com/c/Kaggle
+
+4. Kaggle Kernels: Kaggle Kernels are a feature that allows users to write and run code in the browser. Exploring the kernels shared by other users can provide valuable insights into how to use the platform effectively. You can find Kaggle kernels at: https://www.kaggle.com/kernels
+
+5. Kaggle Courses on Coursera: Kaggle also offers a selection of courses on Coursera, an online learning platform. These courses cover topics like data cleaning, data visualization, and machine learning. While not specifically focused on Kaggle platform usage, they can provide foundational knowledge for using Kaggle effectively. You can find Kaggle courses on Coursera here: https://www.coursera.org/instructor/kaggle
+
+6. Kaggle Community: Engaging with the Kaggle community can be a valuable way to learn and get support. The Kaggle forums and discussions provide a platform for users to ask questions, share knowledge, and participate in discussions related to data science and machine learning.
+
+Remember that the best way to learn using Kaggle is by practicing and participating in competitions, exploring datasets, and experimenting with different machine learning techniques. Hands-on experience will help you gain a deeper understanding of the platform and its capabilities.
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
