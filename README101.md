@@ -2117,6 +2117,10 @@ print(output_data)
 <p align="center">
 <img align="center" width="1000" height="488" src="/Images/Brilliant6c.png">        
 </p>
+         
+<p align="center">
+<img align="center" width="406" height="270" src="/Images/Brilliant32.png">        
+</p>
 
 ### Introduction to Neural Networks 15 Lessions
 
