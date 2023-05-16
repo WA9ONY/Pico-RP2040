@@ -3879,7 +3879,7 @@ Certainly! Here are some Google Machine Learning training resources in various f
 4. Google Research Publications: Google Research regularly publishes papers and articles on various machine learning topics. You can explore their research publications at: https://research.google/pubs/
 
 5. YouTube Channels: Google AI and TensorFlow have official YouTube channels where they share tutorials, talks, and presentations on machine learning. You can find them at:
-   - Google AI: https://www.youtube.com/c/GoogleAI
+   - YouTube Google AI is gone.
    - TensorFlow: https://www.youtube.com/c/TensorFlow
 
 6. Google AI Blog: Google's AI Blog provides articles, case studies, and updates on machine learning research and applications. You can access it at: [https://ai.googleblog.com/](https://ai.googleblog.com/)
