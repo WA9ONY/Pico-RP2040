@@ -76,6 +76,7 @@
 + Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
 + Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
 + Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A>
++ Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -3935,7 +3936,7 @@ Remember that the best way to learn using Kaggle is by practicing and participat
  
 <A NAME="P173"></A>
 <HR>
-<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P174">--&gt;</A></P>  
     
 # Project 173: YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)
     
@@ -3985,12 +3986,24 @@ Learn Python with Giles
 + 🆓 Free Python Resource https://python-programming.quantecon.... 
   + (This is a great introduction to python)
 
+ 
+<A NAME="P174"></A>
+<HR>
+<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 174: YouTube Channel [W2AEW](https://www.youtube.com/@w2aew)
+    
+<p align="center">
+<img width="176" height="176" src="/Images/Allen.jpg">  
+</p>
+  
+A great electronics and ham radio YouTube channel.
     
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
