@@ -74,7 +74,8 @@
 + Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
 + Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
-+ Project 172: <A HREF="README101.md#P172"> Kaggle ML</A>
++ Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
++ Project 173: <A HREF="README101.md#P173">YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -3891,7 +3892,7 @@ Remember to also explore other reputable sources outside of Google, as the field
  
 <A NAME="P172"></A>
 <HR>
-<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P173">--&gt;</A></P>  
     
 # Project 172: Kaggle ML 
 
@@ -3930,11 +3931,83 @@ If you're looking to learn how to use the Kaggle platform, here are some trainin
 6. Kaggle Community: Engaging with the Kaggle community can be a valuable way to learn and get support. The Kaggle forums and discussions provide a platform for users to ask questions, share knowledge, and participate in discussions related to data science and machine learning.
 
 Remember that the best way to learn using Kaggle is by practicing and participating in competitions, exploring datasets, and experimenting with different machine learning techniques. Hands-on experience will help you gain a deeper understanding of the platform and its capabilities.
+
+ 
+<A NAME="P173"></A>
+<HR>
+<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 173: YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)
+    
+<p align="center">
+<img width="176" height="176" src="/Images/Giles.jpg">  
+</p>
+  
+GilesMcMullen has a great YouTube channel focused on Python, Data Science & ML.    
+
+###  Data Science course based on free resources
+    
+I found these great data science learning materials. They're free... [YouTube](https://youtu.be/V2aIDbpESyU)    
+
+Visit https://brilliant.org/PythonProgrammer/ to get started for free and get 20% off your annual  subscription.
+
+Thanks to Brilliant for sponsoring this video :-)
+
+Here is a learning path for learn the skills needed for Data Science. All free!
+
+Learning Resources from the Video
+Curriculum Guidelines
+https://www.stat.berkeley.edu/~nolan/...
+Python
+https://quantecon.org/lectures/
+Probability
+https://www.probabilitycourse.com/
+Think stats
+https://greenteapress.com/wp/think-st...
+Probability for Data Science 
+https://services.publishing.umich.edu...
+Introduction to Statistical Learning
+https://www.statlearning.com/
+Python Data Science Hand Book
+https://jakevdp.github.io/PythonDataS...
+Linear Algebra
+  
+ • Essence of linear...  
+maths for data science
+  
+ / ritvikmath  
+Robert Ghrist
+  
+ / @prof-g  
+Ritvik Math
+  
+ / ritvikmath  
+Kaggle
+https://www.kaggle.com/c/titanic
+Projects
+https://thecleverprogrammer.com/2020/...
+
+Learn Python with Giles
+🎓 Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ
+🎓 Complete Python Programmer Bootcamp - http://bit.ly/2OwUA09
+
+📚 My favourite python books for beginners (affiliate links)
+📗 Python Crash Course 2nd Edition https://amzn.to/33tATAE
+📘 Automate the Boring Stuff with Python https://amzn.to/3qM1DFl
+📙 Python Basics - A Practical Introduction to Python 3 https://amzn.to/3fHRMdb
+📕 Python Programming An Introduction to Computer Science https://amzn.to/33VeQCr
+📗 Invent Your Own Computer Games with Python https://amzn.to/3FM3H4b
+
+🆓 Free Python Resource
+https://python-programming.quantecon.... 
+(This is a great introduction to python)
+
+    
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
