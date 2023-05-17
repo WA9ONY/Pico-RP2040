@@ -75,7 +75,7 @@
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
 + Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
 + Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
-+ Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A>
++ Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A> Data, Python & ML
 + Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
 + Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
@@ -3939,7 +3939,7 @@ Remember that the best way to learn using Kaggle is by practicing and participat
 <HR>
 <P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P174">--&gt;</A></P>  
     
-# Project 173: YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)
+# Project 173: YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)  Data, Python & ML
     
 <p align="center">
 <img width="176" height="176" src="/Images/Giles.jpg">  
