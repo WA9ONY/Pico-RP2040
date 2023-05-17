@@ -3990,7 +3990,7 @@ Learn Python with Giles
  
 <A NAME="P174"></A>
 <HR>
-<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P174">--&gt;</A></P>  
+<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P175">--&gt;</A></P>  
     
 # Project 174: YouTube Channel [W2AEW](https://www.youtube.com/@w2aew)
     
@@ -4009,7 +4009,7 @@ Alan Wolke, Application Engineer at Tektronix, [W2AEW](https://www.qrz.com/db/W2
 # Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown)
     
 <p align="center">
-<img width="176" height="176" src="/Images/[3Blue1Brown.jpg">  
+<img width="176" height="176" src="/Images/[3Blue3Brown.jpg">  
 </p>
     
 Great video graphics showing math concepts.
