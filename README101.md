@@ -4009,7 +4009,7 @@ Alan Wolke, Application Engineer at Tektronix, [W2AEW](https://www.qrz.com/db/W2
 # Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown)
     
 <p align="center">
-<img width="176" height="176" src="/Images/[3Blue3Brown.jpg">  
+<img width="176" height="176" src="/Images/3Blue3Brown.jpg">  
 </p>
     
 Great video graphics showing math concepts.
