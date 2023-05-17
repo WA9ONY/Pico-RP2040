@@ -75,7 +75,7 @@
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
 + Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
 + Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
-+ Project 173: <A HREF="README101.md#P173">YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)</A>
++ Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
