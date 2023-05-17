@@ -3972,15 +3972,15 @@ Learning Resources from the Video
 + Projects https://thecleverprogrammer.com/2020/...
 
 Learn Python with Giles
-+ 🎓 Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ
-+ 🎓 Complete Python Programmer Bootcamp - http://bit.ly/2OwUA09
++ udemy charges now 🎓 Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ
++ udemy charges now 🎓 Complete Python Programmer Bootcamp - http://bit.ly/2OwUA09
 
 + 📚 My favourite python books for beginners (affiliate links)
-+ 📗 Python Crash Course 2nd Edition https://amzn.to/33tATAE
-+ 📘 Automate the Boring Stuff with Python https://amzn.to/3qM1DFl
-+ 📙 Python Basics - A Practical Introduction to Python 3 https://amzn.to/3fHRMdb
-+ 📕 Python Programming An Introduction to Computer Science https://amzn.to/33VeQCr
-+ 📗 Invent Your Own Computer Games with Python https://amzn.to/3FM3H4b
+  + 📗 Python Crash Course 2nd Edition https://amzn.to/33tATAE
+  + 📘 Automate the Boring Stuff with Python https://amzn.to/3qM1DFl
+  + 📙 Python Basics - A Practical Introduction to Python 3 https://amzn.to/3fHRMdb
+  + 📕 Python Programming An Introduction to Computer Science https://amzn.to/33VeQCr
+  + 📗 Invent Your Own Computer Games with Python https://amzn.to/3FM3H4b
 
 + 🆓 Free Python Resource https://python-programming.quantecon.... 
   + (This is a great introduction to python)
