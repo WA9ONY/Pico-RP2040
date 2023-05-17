@@ -3950,34 +3950,30 @@ GilesMcMullen has a great YouTube channel focused on Python, Data Science & ML.
 I found these great data science learning materials. They're free... [YouTube](https://youtu.be/V2aIDbpESyU)    
 
 Visit https://brilliant.org/PythonProgrammer/ to get started for free and get 20% off your annual  subscription.
-
-Thanks to Brilliant for sponsoring this video :-)
++ Thanks to Brilliant for sponsoring this video :-)
 
 Here is a learning path for learn the skills needed for Data Science. All free!
 
 Learning Resources from the Video
 + Curriculum Guidelines https://www.stat.berkeley.edu/~nolan/...
 + Python https://quantecon.org/lectures/
-Probability https://www.probabilitycourse.com/
-Think stats https://greenteapress.com/wp/think-st...
-Probability for Data Science  https://services.publishing.umich.edu...
-Introduction to Statistical Learning https://www.statlearning.com/
-Python Data Science Hand Book https://jakevdp.github.io/PythonDataS...
++ Probability https://www.probabilitycourse.com/
++ Think stats https://greenteapress.com/wp/think-st...
++ Probability for Data Science  https://services.publishing.umich.edu...
++ Introduction to Statistical Learning https://www.statlearning.com/
++ Python Data Science Hand Book https://jakevdp.github.io/PythonDataS...
 
-Linear Algebra  
- • [Essence of linear... 16 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) maths for data science  
-[/ ritvikmath](https://www.youtube.com/c/ritvikmath) Robert Ghrist
-  
-[/ @prof-g](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg)  Ritvik Math
-  
-[ / ritvikmath](https://www.youtube.com/c/ritvikmath)  
-
-Kaggle https://www.kaggle.com/c/titanic
-Projects https://thecleverprogrammer.com/2020/...
++ Linear Algebra  
+ + [Essence of linear... 16 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) maths for data science  
++ [/ ritvikmath](https://www.youtube.com/c/ritvikmath) Robert Ghrist
++ [/ @prof-g](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg)  Ritvik Math 
++ [ / ritvikmath](https://www.youtube.com/c/ritvikmath)  
++ Kaggle https://www.kaggle.com/c/titanic
++ Projects https://thecleverprogrammer.com/2020/...
 
 Learn Python with Giles
-🎓 Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ
-🎓 Complete Python Programmer Bootcamp - http://bit.ly/2OwUA09
++ 🎓 Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ
++ 🎓 Complete Python Programmer Bootcamp - http://bit.ly/2OwUA09
 
 + 📚 My favourite python books for beginners (affiliate links)
 + 📗 Python Crash Course 2nd Edition https://amzn.to/33tATAE
@@ -3986,9 +3982,8 @@ Learn Python with Giles
 + 📕 Python Programming An Introduction to Computer Science https://amzn.to/33VeQCr
 + 📗 Invent Your Own Computer Games with Python https://amzn.to/3FM3H4b
 
-+ 🆓 Free Python Resource
-https://python-programming.quantecon.... 
-(This is a great introduction to python)
++ 🆓 Free Python Resource https://python-programming.quantecon.... 
+  + (This is a great introduction to python)
 
     
     
