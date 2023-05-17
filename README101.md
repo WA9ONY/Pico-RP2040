@@ -77,6 +77,7 @@
 + Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
 + Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A>
 + Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
++ Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -3989,7 +3990,7 @@ Learn Python with Giles
  
 <A NAME="P174"></A>
 <HR>
-<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P174">--&gt;</A></P>  
     
 # Project 174: YouTube Channel [W2AEW](https://www.youtube.com/@w2aew)
     
@@ -3999,11 +4000,32 @@ Learn Python with Giles
   
 Alan Wolke, Application Engineer at Tektronix, [W2AEW](https://www.qrz.com/db/W2AEW) has a great electronics and ham radio YouTube videos.
   + 17 page index of >360 videos [PDF](https://www.qsl.net/w2aew/youtube/W2AEW_video_index.pdf)    
+
+ 
+<A NAME="P175"></A>
+<HR>
+<P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+    
+<p align="center">
+<img width="176" height="176" src="/Images/[3Blue1Brown.jpg">  
+</p>
+    
+Great video graphics showing math concepts.
+    
+Also, on of the best ANN videos.    
+    
+Playlists
+  + Essence of linear algebra [16 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  + Essence of calculus [12 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)    
+  + Differential equations [6 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)    
+  + Neural networks [4 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)    
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
