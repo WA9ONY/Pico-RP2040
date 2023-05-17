@@ -3944,7 +3944,7 @@ Remember that the best way to learn using Kaggle is by practicing and participat
 <img width="176" height="176" src="/Images/Giles.jpg">  
 </p>
   
-GilesMcMullen has a great YouTube channel focused on Python, Data Science & ML.    
+GilesMcMullen has a great YouTube videos focused on Python, Data Science & ML.    
 
 ###  Data Science course based on free resources
     
@@ -3989,7 +3989,7 @@ Learn Python with Giles
  
 <A NAME="P174"></A>
 <HR>
-<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 174: YouTube Channel [W2AEW](https://www.youtube.com/@w2aew)
     
@@ -3997,8 +3997,8 @@ Learn Python with Giles
 <img width="176" height="176" src="/Images/Allen.jpg">  
 </p>
   
-A great electronics and ham radio YouTube channel.
-    
+Alan Wolke [W2AEW](https://www.qrz.com/db/W2AEW) has a great electronics and ham radio YouTube videos.
+  + Index [PDF](https://www.qsl.net/w2aew/youtube/W2AEW_video_index.pdf)    
     
     
 <A NAME="FUTURE"></A>
