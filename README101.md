@@ -3998,7 +3998,7 @@ Learn Python with Giles
 </p>
   
 Alan Wolke [W2AEW](https://www.qrz.com/db/W2AEW) has a great electronics and ham radio YouTube videos.
-  + Index [PDF](https://www.qsl.net/w2aew/youtube/W2AEW_video_index.pdf)    
+  + Index >360 videos [PDF](https://www.qsl.net/w2aew/youtube/W2AEW_video_index.pdf)    
     
     
 <A NAME="FUTURE"></A>
