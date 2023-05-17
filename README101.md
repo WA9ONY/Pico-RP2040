@@ -77,7 +77,7 @@
 + Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
 + Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A>
 + Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
-+ Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown</A>
++ Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4006,7 +4006,7 @@ Alan Wolke, Application Engineer at Tektronix, [W2AEW](https://www.qrz.com/db/W2
 <HR>
 <P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+# Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown) Animated Math
     
 <p align="center">
 <img width="176" height="176" src="/Images/3Blue3Brown.jpg">  
