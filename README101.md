@@ -3956,36 +3956,24 @@ Thanks to Brilliant for sponsoring this video :-)
 Here is a learning path for learn the skills needed for Data Science. All free!
 
 Learning Resources from the Video
-Curriculum Guidelines
-https://www.stat.berkeley.edu/~nolan/...
-Python
-https://quantecon.org/lectures/
-Probability
-https://www.probabilitycourse.com/
-Think stats
-https://greenteapress.com/wp/think-st...
-Probability for Data Science 
-https://services.publishing.umich.edu...
-Introduction to Statistical Learning
-https://www.statlearning.com/
-Python Data Science Hand Book
-https://jakevdp.github.io/PythonDataS...
-Linear Algebra
+Curriculum Guidelines https://www.stat.berkeley.edu/~nolan/...
+Python https://quantecon.org/lectures/
+Probability https://www.probabilitycourse.com/
+Think stats https://greenteapress.com/wp/think-st...
+Probability for Data Science  https://services.publishing.umich.edu...
+Introduction to Statistical Learning https://www.statlearning.com/
+Python Data Science Hand Book https://jakevdp.github.io/PythonDataS...
+
+Linear Algebra  
+ • [Essence of linear... 16 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) maths for data science  
+[/ ritvikmath](https://www.youtube.com/c/ritvikmath) Robert Ghrist
   
- • Essence of linear...  
-maths for data science
+[/ @prof-g](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg)  Ritvik Math
   
- / ritvikmath  
-Robert Ghrist
-  
- / @prof-g  
-Ritvik Math
-  
- / ritvikmath  
-Kaggle
-https://www.kaggle.com/c/titanic
-Projects
-https://thecleverprogrammer.com/2020/...
+[ / ritvikmath](https://www.youtube.com/c/ritvikmath)  
+
+Kaggle https://www.kaggle.com/c/titanic
+Projects https://thecleverprogrammer.com/2020/...
 
 Learn Python with Giles
 🎓 Exploratory Data Analysis with Python and Pandas - https://bit.ly/2QXMpxJ
