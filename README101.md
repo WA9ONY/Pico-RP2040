@@ -4066,7 +4066,9 @@ YouTube
     
 # Project 178: Google Coral TPU
     
-Google [Coral](https://coral.ai/) [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)
+[Coral](https://coral.ai/) is a Google platform for local AI.
+
+Coral offers hardware products with [TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) to speed up [ML](https://en.wikipedia.org/wiki/Machine_learning) applications.
     
 YouTube
   + google coral [search](https://www.youtube.com/results?search_query=google+coral+)
