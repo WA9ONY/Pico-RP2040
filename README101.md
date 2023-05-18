@@ -4031,7 +4031,7 @@ Playlists
 # Project 176: Keggle Free Data Science [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) 
     
 <p align="center">
-<img width="291" height="208" src="/learn-home-208h.png">  
+<img width="291" height="208" src="/Images/learn-home-208h.png">  
 </p>
 Image credit: [Kaggle](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn)
     
