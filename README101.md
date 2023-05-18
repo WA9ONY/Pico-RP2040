@@ -79,6 +79,7 @@
 + Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
 + Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
 + Project 176: <A HREF="README101.md#P176">Keggle Free Data Science Courses</A>
++ Project 177: <A HREF="README101.md#P177">YouTube Channels Raspberry Pi ML</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4026,7 +4027,7 @@ Playlists
  
 <A NAME="P176"></A>
 <HR>
-<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P177">--&gt;</A></P>  
     
 # Project 176: Keggle Free Data Science [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) 
     
@@ -4036,13 +4037,31 @@ Playlists
 
 Image credit: [Kaggle](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn)
     
-17 [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) that relate to data science.
+17 [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) that relate to data science.    
     
+ 
+<A NAME="P177"></A>
+<HR>
+<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 177: YouTube Channels Raspberry Pi ML
+    
+<p align="center">
+<img width="100" height="128" src="/Images/Raspberry_Pi_Logo.svg.png">  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="220" height="141" src="/Images/TensorFlow_logo.svg.png">  
+</p>
+
+[Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) [ML](https://en.wikipedia.org/wiki/Machine_learning)    
+    
+YouTube
+  + raspberry pi ml [search](https://www.youtube.com/results?search_query=raspberry+pi+ml)
+  + [Edje Electronics](https://www.youtube.com/@EdjeElectronics/featured)
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P177">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
