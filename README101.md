@@ -4036,7 +4036,7 @@ Playlists
 
 Image credit: [Kaggle](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn)
     
-17 courses that relate to data science.
+17 [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) that relate to data science.
     
     
     
