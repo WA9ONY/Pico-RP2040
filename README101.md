@@ -78,6 +78,7 @@
 + Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A> Data, Python & ML
 + Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
 + Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
++ Project 176: <A HREF="README101.md#P176">Keggle Free Data Science Courses</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4022,10 +4023,25 @@ Playlists
   + Differential equations [6 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)    
   + Neural networks [4 videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)    
     
+ 
+<A NAME="P176"></A>
+<HR>
+<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 176: Keggle Free Data Science [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) 
+    
+<p align="center">
+<img width="291" height="208" src="/learn-home-208h.png">  
+</p>
+Image credit: [Kaggle](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn)
+    
+17 courses that relate to data science.
+    
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
