@@ -81,6 +81,7 @@
 + Project 176: <A HREF="README101.md#P176">Keggle Free Data Science Courses</A>
 + Project 177: <A HREF="README101.md#P177">YouTube Channels Raspberry Pi ML</A>
 + Project 178: <A HREF="README101.md#P178">Google Coral TPU</A>
++ Project 179: <A HREF="README101.md#P179">CAN Bus</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4044,7 +4045,7 @@ Image credit: [Kaggle](https://www.kaggle.com/learn/?utm_medium=email&utm_source
  
 <A NAME="P177"></A>
 <HR>
-<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P78">--&gt;</A></P>  
+<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P178">--&gt;</A></P>  
     
 # Project 177: YouTube Channels Raspberry Pi ML
     
@@ -4063,7 +4064,7 @@ YouTube
  
 <A NAME="P178"></A>
 <HR>
-<P align="center"><A HREF="#P177">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P177">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P179">--&gt;</A></P>  
     
 # Project 178: Google Coral TPU
     
@@ -4076,9 +4077,21 @@ YouTube
   + google coral m.2 [search](https://www.youtube.com/results?search_query=google+coral+m.2)
 
     
+<A NAME="P179"></A>
+<HR>
+<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 179: CAN Bus 
+    
+CAN Bus 
+  + [CAN Bus Made Easy: Projects and Examples with Arduino Uno and Raspberry Pi](https://www.elektormagazine.com/articles/can-bus-companion-book?utm_source=Elektor+International+%28English%29&utm_campaign=f38fbc5b78-EMAIL_CAMPAIGN_5_17_2023_9_0&utm_medium=email&utm_term=0_23bd160f48-f38fbc5b78-%5BLIST_EMAIL_ID%5D&mc_cid=f38fbc5b78&mc_eid=1bc428feb9) 
+  + [Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)  
+  + [History of CAN technology](https://www.can-cia.org/can-knowledge/can/can-history/)  
+
+    
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
