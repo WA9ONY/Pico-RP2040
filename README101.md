@@ -4087,6 +4087,7 @@ CAN Bus
   + [CAN Bus Made Easy: Projects and Examples with Arduino Uno and Raspberry Pi](https://www.elektormagazine.com/articles/can-bus-companion-book?utm_source=Elektor+International+%28English%29&utm_campaign=f38fbc5b78-EMAIL_CAMPAIGN_5_17_2023_9_0&utm_medium=email&utm_term=0_23bd160f48-f38fbc5b78-%5BLIST_EMAIL_ID%5D&mc_cid=f38fbc5b78&mc_eid=1bc428feb9) 
   + [Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)  
   + [History of CAN technology](https://www.can-cia.org/can-knowledge/can/can-history/)  
+  + [The CAN Bus Companion (E-book)](https://www.elektor.com/the-can-bus-companion-e-book)
 
     
 <A NAME="FUTURE"></A>
