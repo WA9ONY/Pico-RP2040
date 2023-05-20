@@ -4187,9 +4187,9 @@ The [Hackster.io](https://www.hackster.io/) team
 <HR>
 <P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 182: [Arduino](https://www.arduino.cc/) UNO R4
+# Project 182: Arduino UNO R4
     
-
+[Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in May 2023 at [store](https://store.arduino.cc/pages/unor4)
     
     
 <A NAME="FUTURE"></A>
