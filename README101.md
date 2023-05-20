@@ -4101,7 +4101,7 @@ CAN Bus
 <img width="311" height="357" src="/Images/CourseraIntroEML.png">  
 </p>
     
-[<I>Introduction to Embedded Machine Learning</I>](https://www.coursera.org/search?query=Introduction%20to%20Embedded%20Machine%20Learning&) is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
+[<I>Introduction to Embedded Machine Learning</I>](https://www.coursera.org/search?query=Introduction%20to%20Embedded%20Machine%20Learning&) by [Edge Impulse](https://www.coursera.org/search?query=edge%20impulse&) is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
 
 Hello,
 
@@ -4113,8 +4113,21 @@ Please do not hesitate to ask questions to me and other students on the discussi
 
 Best,
 Shawn Hymel    
+[Edge Impulse](https://www.edgeimpulse.com/)    
     
     
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Edge Impulse?
+    
+Edge Impulse is a comprehensive development platform that facilitates the creation, deployment, and management of machine learning models on edge devices. It enables developers to build and deploy intelligent applications directly on small and resource-constrained devices like microcontrollers, without relying on cloud-based processing.
+
+The platform provides a user-friendly interface and a suite of tools that simplify the entire machine learning workflow. It supports various stages of the development process, including data collection, data labeling, model training, model optimization, and deployment. Edge Impulse supports a wide range of sensor data types, such as audio, image, and motion, allowing developers to create applications for diverse use cases.
+
+One of the key advantages of Edge Impulse is its ability to generate optimized machine learning models specifically designed for edge devices. These models are tailored to run efficiently on low-power, low-memory devices, enabling real-time, on-device inference without relying on a constant internet connection or cloud resources. This makes it suitable for applications that require low latency, enhanced privacy, or offline functionality.
+
+Edge Impulse also provides integration with popular development boards and hardware platforms, making it easier for developers to prototype and deploy their machine learning models. The platform supports popular programming languages like Python and C++, and it offers integration with popular machine learning frameworks like TensorFlow and PyTorch.
+
+Overall, Edge Impulse empowers developers to leverage machine learning capabilities on edge devices, enabling the development of intelligent applications for a wide range of industries and use cases, including Internet of Things (IoT), robotics, industrial automation, and more.    
+
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Coursera?
 
 Coursera is an online learning platform that offers a wide range of courses and educational programs. It was founded in 2012 by Andrew Ng and Daphne Koller, two Stanford University computer science professors. Coursera partners with universities, colleges, and other educational institutions to provide high-quality courses and degrees to learners worldwide.
@@ -4132,7 +4145,7 @@ Coursera has become a popular platform for individuals seeking to enhance their 
 <HR>
 <P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 181: [Arduino](https://www.arduino.it/) UNO R4
+# Project 181: [Arduino](https://www.arduino.cc/) UNO R4
     
 Available in May 2023 [store](https://sites.arduino.cc/unor4) [Arduino UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/?queryID=undefined).  
 
