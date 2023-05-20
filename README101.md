@@ -4103,6 +4103,8 @@ CAN Bus
     
 [<I>Introduction to Embedded Machine Learning</I>](https://www.coursera.org/search?query=Introduction%20to%20Embedded%20Machine%20Learning&) by [Edge Impulse](https://www.coursera.org/search?query=edge%20impulse&) is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
 
+### I>Introduction to Embedded Machine Learning   
+    
 Hello,
 
 Welcome to the Introduction to Embedded Machine Learning course on Coursera! The class is divided up into 3 modules and are designed to be completed at a rate of 1 module per week. However, you are welcome to go through the course at your own pace.
