@@ -4097,7 +4097,7 @@ CAN Bus
     
 # Project 180: [Coursera](https://www.coursera.org/): Introduction to Embedded Machine Learning 
     
-<I>Introduction to Embedded Machine Learning</I> is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
+[<I>Introduction to Embedded Machine Learning</I>](https://www.coursera.org/search?query=Introduction%20to%20Embedded%20Machine%20Learning&) is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
         
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Coursera?
 
