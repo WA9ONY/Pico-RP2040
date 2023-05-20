@@ -82,6 +82,7 @@
 + Project 177: <A HREF="README101.md#P177">YouTube Channels Raspberry Pi ML</A>
 + Project 178: <A HREF="README101.md#P178">Google Coral TPU</A>
 + Project 179: <A HREF="README101.md#P179">CAN Bus</A>
++ Project 180: <A HREF="README101.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4079,7 +4080,7 @@ YouTube
     
 <A NAME="P179"></A>
 <HR>
-<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P180">--&gt;</A></P>  
     
 # Project 179: CAN Bus 
     
@@ -4090,9 +4091,30 @@ CAN Bus
   + [The CAN Bus Companion (E-book)](https://www.elektor.com/the-can-bus-companion-e-book)
 
     
+<A NAME="P180"></A>
+<HR>
+<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 180: [Coursera](https://www.coursera.org/): Introduction to Embedded Machine Learning 
+    
+<I>Introduction to Embedded Machine Learning</I> is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
+        
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Coursera?
+
+Coursera is an online learning platform that offers a wide range of courses and educational programs. It was founded in 2012 by Andrew Ng and Daphne Koller, two Stanford University computer science professors. Coursera partners with universities, colleges, and other educational institutions to provide high-quality courses and degrees to learners worldwide.
+
+On Coursera, you can find courses in various subjects, including computer science, business, data science, humanities, social sciences, and more. The courses are created and taught by professors and experts from renowned institutions. They typically consist of video lectures, quizzes, assignments, and discussion forums to facilitate learning and engagement.
+
+One of the key features of Coursera is its flexibility. Courses are usually self-paced, allowing learners to study at their own convenience. However, some courses also have set start and end dates, known as "session-based" courses. Upon completion, learners often receive a certificate or specialization recognizing their accomplishment.
+
+In addition to individual courses, Coursera also offers specialized learning programs called Specializations and Professional Certificates. Specializations consist of a series of related courses, allowing learners to gain in-depth knowledge and skills in a specific subject area. Professional Certificates are designed to prepare learners for specific job roles and often include hands-on projects and real-world applications.
+
+Coursera has become a popular platform for individuals seeking to enhance their skills, explore new fields, or pursue career advancement. It provides access to high-quality education from top institutions worldwide, making learning more accessible to a global audience.    
+    
+    
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
