@@ -83,6 +83,7 @@
 + Project 178: <A HREF="README101.md#P178">Google Coral TPU</A>
 + Project 179: <A HREF="README101.md#P179">CAN Bus</A>
 + Project 180: <A HREF="README101.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
++ Project 181: <A HREF="README101.md#P181">Arduino UNO R4</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4093,12 +4094,27 @@ CAN Bus
     
 <A NAME="P180"></A>
 <HR>
-<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P180">--&gt;</A></P>  
     
 # Project 180: [Coursera](https://www.coursera.org/): Introduction to Embedded Machine Learning 
+<p align="center">
+<img width="311" height="357" src="/Images/CourseraIntroEML.png">  
+</p>
     
 [<I>Introduction to Embedded Machine Learning</I>](https://www.coursera.org/search?query=Introduction%20to%20Embedded%20Machine%20Learning&) is a free [Coursera](https://en.wikipedia.org/wiki/Coursera) class. Over 150 universities offer more than 4,000 courses on Coursera.
-        
+
+Hello,
+
+Welcome to the Introduction to Embedded Machine Learning course on Coursera! The class is divided up into 3 modules and are designed to be completed at a rate of 1 module per week. However, you are welcome to go through the course at your own pace.
+
+A microcontroller board is not strictly required for the course, as you can complete most of the activities and projects with just your smartphone. However, if you would like to challenge yourself and tinker with real embedded machine learning code, I recommend purchasing an Arduino Nano 33 BLE Sense.
+
+Please do not hesitate to ask questions to me and other students on the discussion forum. See you in class!
+
+Best,
+Shawn Hymel    
+    
+    
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Coursera?
 
 Coursera is an online learning platform that offers a wide range of courses and educational programs. It was founded in 2012 by Andrew Ng and Daphne Koller, two Stanford University computer science professors. Coursera partners with universities, colleges, and other educational institutions to provide high-quality courses and degrees to learners worldwide.
@@ -4110,11 +4126,21 @@ One of the key features of Coursera is its flexibility. Courses are usually self
 In addition to individual courses, Coursera also offers specialized learning programs called Specializations and Professional Certificates. Specializations consist of a series of related courses, allowing learners to gain in-depth knowledge and skills in a specific subject area. Professional Certificates are designed to prepare learners for specific job roles and often include hands-on projects and real-world applications.
 
 Coursera has become a popular platform for individuals seeking to enhance their skills, explore new fields, or pursue career advancement. It provides access to high-quality education from top institutions worldwide, making learning more accessible to a global audience.    
+
+    
+<A NAME="P181"></A>
+<HR>
+<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 181: [Arduino](https://www.arduino.it/) UNO R4
+    
+Available in May 2023 [store](https://sites.arduino.cc/unor4) [Arduino UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/?queryID=undefined).  
+
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
