@@ -84,6 +84,7 @@
 + Project 179: <A HREF="README101.md#P179">CAN Bus</A>
 + Project 180: <A HREF="README101.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
 + Project 181: <A HREF="README101.md#P181">Arduino UNO R4</A>
++ Project 182: <A HREF="README102.md#P181">Hackster.io</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4114,9 +4115,14 @@ A microcontroller board is not strictly required for the course, as you can comp
 Please do not hesitate to ask questions to me and other students on the discussion forum. See you in class!
 
 Best,
-Shawn Hymel    
+[Shawn Hymel](https://www.youtube.com/@ShawnHymel) 
+Follow me on Twitter: https://twitter.com/ShawnHymel
+My site: http://shawnhymel.com/    
 [Edge Impulse](https://www.edgeimpulse.com/)    
-      
+[YouTube](https://www.youtube.com/@EdgeImpulse)
+[GitHub](https://github.com/edgeimpulse)    
+[Hackster.io](https://www.hackster.io/EdgeImpulse)
+    
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Edge Impulse?
     
 Edge Impulse is a comprehensive development platform that facilitates the creation, deployment, and management of machine learning models on edge devices. It enables developers to build and deploy intelligent applications directly on small and resource-constrained devices like microcontrollers, without relying on cloud-based processing.
@@ -4146,15 +4152,41 @@ Coursera has become a popular platform for individuals seeking to enhance their 
 <HR>
 <P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
-# Project 181: [Arduino](https://www.arduino.cc/) UNO R4
+# Project 181: [Hackster.io](https://www.arduino.cc/) UNO R4
+<p align="center">
+<img width="600" height="300" src="/Images/HacksterioBanner600.png">  
+</p>
     
-Available in May 2023 [store](https://sites.arduino.cc/unor4) [Arduino UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/?queryID=undefined).  
+Welcome to Hackster.io!
+
+We're very excited to have you on board. With 35k+ open source projects and 2M+ like-minded developers, you’ve come to the right place.
+
+As a member, you now have access to all of this, and more:
+
+Don’t miss a beat with Hackster News.
+Enter contests, win awesome prizes, and get featured on our homepage.
+Advance your career through our workshops and events.
+Watch Hackster videos for inspiring builds, interviews, and in-depth unboxings.
+Share your first tutorial, then tag us @Hacksterio on social so we can promote it across our channels.
+Any questions? Just reply to this email and help will be on its way!
+
+Again, welcome. We’re happy you've joined us.
+
+Cheers,
+The Hackster.io team
+    
+<A NAME="P182"></A>
+<HR>
+<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 182: [Arduino](https://www.arduino.cc/) UNO R4
+    
 
     
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P182">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
