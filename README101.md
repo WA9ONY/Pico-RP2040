@@ -4164,17 +4164,17 @@ We're very excited to have you on board. With 35k+ open source projects and 2M+ 
 
 As a member, you now have access to all of this, and more:
 
-    Don’t miss a beat with Hackster [News](https://www.hackster.io/news?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster).
+  + Don’t miss a beat with Hackster [News](https://www.hackster.io/news?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster).
 
-    Enter [contests](https://www.hackster.io/contests?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster), win awesome prizes, and get featured on our homepage.
+  + Enter [contests](https://www.hackster.io/contests?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster), win awesome prizes, and get featured on our homepage.
 
-    Advance your career through our workshops and [events](https://www.hackster.io/events?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster).
+  + Advance your career through our workshops and [events](https://www.hackster.io/events?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster).
 
-    Watch Hackster [videos](https://www.hackster.io/videos?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster) for inspiring builds, interviews, and in-depth unboxings.
+  + Watch Hackster [videos](https://www.hackster.io/videos?utm_campaign=registration_confirmation&utm_medium=email&utm_source=hackster) for inspiring builds, interviews, and in-depth unboxings.
 
-    Share your first tutorial, then tag us @Hacksterio on social so we can promote it across our channels.
+  + Share your first tutorial, then tag us @Hacksterio on social so we can promote it across our channels.
 
-    Any questions? Just reply to this email and help will be on its way!
+  + Any questions? Just reply to this email and help will be on its way!
 
 Again, welcome. We’re happy you've joined us.
 
