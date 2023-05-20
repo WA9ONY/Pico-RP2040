@@ -4094,7 +4094,7 @@ CAN Bus
     
 <A NAME="P180"></A>
 <HR>
-<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P180">--&gt;</A></P>  
+<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P181">--&gt;</A></P>  
     
 # Project 180: [Coursera](https://www.coursera.org/): Introduction to Embedded Machine Learning 
 <p align="center">
@@ -4114,8 +4114,7 @@ Please do not hesitate to ask questions to me and other students on the discussi
 Best,
 Shawn Hymel    
 [Edge Impulse](https://www.edgeimpulse.com/)    
-    
-    
+      
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Edge Impulse?
     
 Edge Impulse is a comprehensive development platform that facilitates the creation, deployment, and management of machine learning models on edge devices. It enables developers to build and deploy intelligent applications directly on small and resource-constrained devices like microcontrollers, without relying on cloud-based processing.
