@@ -4189,7 +4189,7 @@ The [Hackster.io](https://www.hackster.io/) team
     
 # Project 182: Arduino UNO R4
     
-[Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in May 2023 at [store](https://store.arduino.cc/pages/unor4)
+[Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in late May 2023 at [store](https://store.arduino.cc/pages/unor4).
     
     
 <A NAME="FUTURE"></A>
