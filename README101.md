@@ -4164,11 +4164,16 @@ We're very excited to have you on board. With 35k+ open source projects and 2M+ 
 As a member, you now have access to all of this, and more:
 
 Don’t miss a beat with Hackster News.
-Enter contests, win awesome prizes, and get featured on our homepage.
-Advance your career through our workshops and events.
-Watch Hackster videos for inspiring builds, interviews, and in-depth unboxings.
-Share your first tutorial, then tag us @Hacksterio on social so we can promote it across our channels.
-Any questions? Just reply to this email and help will be on its way!
+
+    Enter contests, win awesome prizes, and get featured on our homepage.
+
+    Advance your career through our workshops and events.
+
+    Watch Hackster videos for inspiring builds, interviews, and in-depth unboxings.
+
+    Share your first tutorial, then tag us @Hacksterio on social so we can promote it across our channels.
+
+    Any questions? Just reply to this email and help will be on its way!
 
 Again, welcome. We’re happy you've joined us.
 
