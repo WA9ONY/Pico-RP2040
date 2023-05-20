@@ -85,6 +85,7 @@
 + Project 180: <A HREF="README101.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
 + Project 181: <A HREF="README101.md#P181">Hackster.io</A>
 + Project 182: <A HREF="README101.md#P182">Arduino UNO R4</A>
++ Project 183: <A HREF="README101.md#P183">OpenVINO™ DevCon</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4185,16 +4186,25 @@ The [Hackster.io](https://www.hackster.io/) team
     
 <A NAME="P182"></A>
 <HR>
-<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
     
 # Project 182: Arduino UNO R4
     
 [Arduino](https://www.arduino.cc/) [UNO R4](https://blog.arduino.cc/2023/03/25/arduino-uno-r4/) might be available in late May 2023 at [store](https://store.arduino.cc/pages/unor4).
+  
     
+<A NAME="P183"></A>
+<HR>
+<P align="center"><A HREF="#P182">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 183: OpenVINO™ DevCon
+
+[OpenVINO™ DevCon](https://software.seek.intel.com/openvino-devcon?utm_source=hackster)    
+  + YouTube [search](https://www.youtube.com/results?search_query=OpenVINO%E2%84%A2+DevCon)    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P182">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
