@@ -4181,7 +4181,13 @@ Again, welcome. We’re happy you've joined us.
 Cheers,
 The [Hackster.io](https://www.hackster.io/) team
 
-[Youtube](https://www.youtube.com/@HacksterIo)
+Hackster.io    
+  + [Youtube](https://www.youtube.com/@HacksterIo)
+  + ML [search](https://www.hackster.io/search?i=projects&q=machine%20learning)
+  + AI [search](https://www.hackster.io/search?i=projects&q=AI)
+  + Pico [search](https://www.hackster.io/search?q=Pico&i=projects)    
+  + RPi Pico [search](https://www.hackster.io/search?q=RPi%20Pico&i=projects)    
+  + Raspberry Pi Pico [search](https://www.hackster.io/search?q=Raspberry%20Pi%20Pico&i=projects) 
     
     
 <A NAME="P182"></A>
