@@ -4119,9 +4119,10 @@ A microcontroller board is not strictly required for the course, as you can comp
 Please do not hesitate to ask questions to me and other students on the discussion forum. See you in class!
 
 Best, Shawn Hymel 
-  + [YouTube](https://www.youtube.com/@ShawnHymel) 
-  + Follow me on Twitter: https://twitter.com/ShawnHymel
-  + My site: http://shawnhymel.com/    
+  + YouTube: https://www.youtube.com/@ShawnHymel
+  + GitHub: https://github.com/ShawnHymel  
+  + Website: http://shawnhymel.com/ 
+  + Twitter: https://twitter.com/ShawnHymel
 
 Edge Impulse
   + [Edge Impulse](https://www.edgeimpulse.com/)    
