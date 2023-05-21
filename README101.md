@@ -4246,8 +4246,8 @@ Overall, Google Coral offers a streamlined solution for implementing machine lea
 <img align="center" width="189" height="250" src="/Images/PDSH-coverSmall.png">        
 </p>
 
-[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
+Python Data Science Handbook at [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
+  + {Book online](https://jakevdp.github.io/PythonDataScienceHandbook/)
     
 <A NAME="P186"></A>
 <HR>
