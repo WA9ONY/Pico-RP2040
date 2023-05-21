@@ -87,6 +87,8 @@
 + Project 182: <A HREF="README101.md#P182">Arduino UNO R4</A>
 + Project 183: <A HREF="README101.md#P183">OpenVINO™ DevCon</A>
 + Project 184: <A HREF="README101.md#P184">Google Coral</A>
++ Project 185: <A HREF="README101.md#P185">Free Book: Python Data Science Handbook</A>
++ Project 186: <A HREF="README101.md#P186">Raspberry Pi Pico GPIO Current</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4212,11 +4214,10 @@ Hackster.io
 [OpenVINO™ DevCon](https://software.seek.intel.com/openvino-devcon?utm_source=hackster)    
   + YouTube [search](https://www.youtube.com/results?search_query=OpenVINO%E2%84%A2+DevCon)    
 
-  
     
 <A NAME="P184"></A>
 <HR>
-<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P185">--&gt;</A></P>  
     
 # Project 184: Google Coral
 
@@ -4236,9 +4237,41 @@ In addition to the hardware, Google provides a software development kit (SDK) ca
 Overall, Google Coral offers a streamlined solution for implementing machine learning at the edge, enabling devices to perform inference tasks quickly and efficiently without relying on cloud-based resources. It has applications in various fields, including robotics, IoT (Internet of Things), smart home devices, industrial automation, and more.    
 
     
+<A NAME="P185"></A>
+<HR>
+<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 185: Free Book: Python Data Science Handbook
+<p align="center">
+<img align="center" width="189" height="250" src="/Images/PDSH-coverSmall.png">        
+</p>
+
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+    
+<A NAME="P186"></A>
+<HR>
+<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 186: Raspberry Pi Pico GPIO Current
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/PicoVsys1_600.png">        
+</p>
+
+  + Sourcing or sinking up to 25 mA (milliamperes) of current individually,    
+  + A total limit of 150 mA for all GPIO pins combined.
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is the maximum digital output current of a Raspberry Pi Pico?
+    
+The Raspberry Pi Pico is a microcontroller board that is powered by a RP2040 microcontroller chip. The RP2040 chip itself does not have a specified maximum digital output current. However, the GPIO pins on the Raspberry Pi Pico are capable of sourcing or sinking up to 25 mA (milliamperes) of current individually, with a total limit of 150 mA for all GPIO pins combined.
+
+It's important to note that exceeding these limits can cause damage to the board or connected components. If you require higher current capabilities, you may need to use external components such as buffers, transistors, or dedicated driver circuits to handle the increased current requirements.  
+
+
+    
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P186">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
