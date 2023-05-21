@@ -86,6 +86,7 @@
 + Project 181: <A HREF="README101.md#P181">Hackster.io</A>
 + Project 182: <A HREF="README101.md#P182">Arduino UNO R4</A>
 + Project 183: <A HREF="README101.md#P183">OpenVINO™ DevCon</A>
++ Project 184: <A HREF="README101.md#P184">Google Coral</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4204,16 +4205,40 @@ Hackster.io
     
 <A NAME="P183"></A>
 <HR>
-<P align="center"><A HREF="#P182">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P182">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P184">--&gt;</A></P>  
     
 # Project 183: OpenVINO™ DevCon
 
 [OpenVINO™ DevCon](https://software.seek.intel.com/openvino-devcon?utm_source=hackster)    
   + YouTube [search](https://www.youtube.com/results?search_query=OpenVINO%E2%84%A2+DevCon)    
+
+  
+    
+<A NAME="P184"></A>
+<HR>
+<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 184: Google Coral
+
+Google [Coral](https://coral.ai/)
+  + YouTube Google Coral [search](https://www.youtube.com/results?search_query=google+coral)
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Google Coral?
+    
+Google Coral is a brand of hardware products and software development tools designed by Google that aim to accelerate machine learning tasks on edge devices. Edge devices are devices that process data locally, near the source, rather than relying on cloud-based processing. Google Coral's focus is on enabling on-device machine learning inference, which allows devices to perform complex machine learning tasks without relying on an internet connection or sending data to the cloud.
+
+The Google Coral platform consists of two main components: the Coral Dev Board and the Coral USB Accelerator. The Coral Dev Board is a single-board computer that features an integrated Edge TPU (Tensor Processing Unit), which is a custom-designed chip by Google specifically for machine learning tasks. The Dev Board provides a platform for developing and running machine learning models on the edge.
+
+The Coral USB Accelerator is a small USB device that also incorporates the Edge TPU. It can be connected to existing hardware, such as desktops, laptops, or embedded systems, to provide machine learning acceleration. The USB Accelerator is particularly useful for retrofitting existing devices with machine learning capabilities.
+
+In addition to the hardware, Google provides a software development kit (SDK) called the Coral SDK, which includes libraries and tools for developing machine learning models and deploying them on Coral devices. The SDK supports popular machine learning frameworks such as TensorFlow Lite, allowing developers to easily convert and optimize their models for running on Coral hardware.
+
+Overall, Google Coral offers a streamlined solution for implementing machine learning at the edge, enabling devices to perform inference tasks quickly and efficiently without relying on cloud-based resources. It has applications in various fields, including robotics, IoT (Internet of Things), smart home devices, industrial automation, and more.    
+
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
