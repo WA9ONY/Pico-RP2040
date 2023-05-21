@@ -4119,13 +4119,15 @@ A microcontroller board is not strictly required for the course, as you can comp
 Please do not hesitate to ask questions to me and other students on the discussion forum. See you in class!
 
 Best,
-[Shawn Hymel](https://www.youtube.com/@ShawnHymel) 
-Follow me on Twitter: https://twitter.com/ShawnHymel
-My site: http://shawnhymel.com/    
-[Edge Impulse](https://www.edgeimpulse.com/)    
-[YouTube](https://www.youtube.com/@EdgeImpulse)
-[GitHub](https://github.com/edgeimpulse)    
-[Hackster.io](https://www.hackster.io/EdgeImpulse)
+Shawn Hymel 
+  + [YouTube](https://www.youtube.com/@ShawnHymel) 
+  + Follow me on Twitter: https://twitter.com/ShawnHymel
+  + My site: http://shawnhymel.com/    
+Edge Impulse
+  + [Edge Impulse](https://www.edgeimpulse.com/)    
+  + [YouTube](https://www.youtube.com/@EdgeImpulse)
+  + [GitHub](https://github.com/edgeimpulse)    
+  + [Hackster.io](https://www.hackster.io/EdgeImpulse)
     
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Edge Impulse?
     
