@@ -4239,7 +4239,7 @@ Overall, Google Coral offers a streamlined solution for implementing machine lea
     
 <A NAME="P185"></A>
 <HR>
-<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P186">--&gt;</A></P>  
     
 # Project 185: Free Book: Python Data Science Handbook
 <p align="center">
@@ -4267,8 +4267,45 @@ The Raspberry Pi Pico is a microcontroller board that is powered by a RP2040 mic
 
 It's important to note that exceeding these limits can cause damage to the board or connected components. If you require higher current capabilities, you may need to use external components such as buffers, transistors, or dedicated driver circuits to handle the increased current requirements.  
 
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
 
-    
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT):
+
+   
 <A NAME="FUTURE"></A>
 <HR> 
 <P align="center"><A HREF="#P186">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
