@@ -4187,6 +4187,7 @@ Hackster.io
   + AI [search](https://www.hackster.io/search?i=projects&q=AI)
   + Pico [search](https://www.hackster.io/search?q=Pico&i=projects)
     + [pico-wake-word](https://www.hackster.io/hlsw/pico-wake-word-1e2372)
+      + [GitHub](https://github.com/henriwoodcock/pico-wake-word)
     + [Machine Learning Inference on Raspberry Pico 2040](https://www.hackster.io/dmitrywat/machine-learning-inference-on-raspberry-pico-2040-e6e874)
   + RPi Pico [search](https://www.hackster.io/search?q=RPi%20Pico&i=projects)    
   + Raspberry Pi Pico [search](https://www.hackster.io/search?q=Raspberry%20Pi%20Pico&i=projects) 
