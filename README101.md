@@ -808,7 +808,10 @@ Vendor newsletters
 
 Other
   + [Khan Labs newsletter for updates about AI and future testing](https://emails.khanacademy.org/join/khanlabs)  
-    
+
+ML
+  + The content (books, articles, spreadsheets, source code, data sets, tutorials) also includes material available to subscribers only. [MLtechniques.com](https://mltechniques.com/resources/)  
+
     
 <A NAME="P113"></A>
 <HR>
@@ -994,7 +997,8 @@ URLs
   + [Edge Computing](https://www.accenture.com/us-en/insights/cloud/edge-computing-index#:~:text=Edge%20is%20about%20processing%20data,an%20on%2Dpremise%20data%20center.)  
   + Google Edge Computing [search](https://www.google.com/search?q=edge+computing&oq=edge+computing&aqs=chrome..69i57j0i512l9.9915j0j15&sourceid=chrome&ie=UTF-8)
   + Datacamp [What is TinyML? An Introduction to Tiny Machine Learning](https://www.datacamp.com/blog/what-is-tinyml-tiny-machine-learning)
-
+  + The observer effect in a multi-layered neural network [URL](https://www.datasciencecentral.com/the-observer-effect-in-a-multi-layered-neural-network/)
+    
 Google
   + [raspberry pi pico machine learning](https://www.google.com/search?q=raspberry+pi+pico+machine+learning&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)
     
@@ -4129,7 +4133,20 @@ Edge Impulse
   + [YouTube](https://www.youtube.com/@EdgeImpulse)
   + [GitHub](https://github.com/edgeimpulse)    
   + [Hackster.io](https://www.hackster.io/EdgeImpulse)
-    
+
+Get ready for Week 1    
+Hello,
+
+Welcome to your first week in the Introduction to Embedded Machine Learning course. Please note that this course does not assume you have any machine learning knowledge. You can complete the demos and most of the projects with just your smartphone. That being said, if you know some Arduino or C/C++ code, you will have the opportunity to challenge yourself to use real machine learning systems in code.
+
+You will need to use some math in the course (reading charts and graphs, arithmetic, and algebra). We'll go over a couple of proofs that require calculus and differential equations to understand, but they are not required to complete the quizzes and projects. The math behind machine learning can be daunting, but we have tools to make it easy and accessible for us!
+
+The goal of the course is to get you familiar with machine learning terminology and how it applies to embedded systems. I'll walk you through some demos and give you the chance to collect your own data and build a machine learning model from scratch. Let's get started!
+
+Best,
+
+Shawn Hymel
+      
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Edge Impulse?
     
 Edge Impulse is a comprehensive development platform that facilitates the creation, deployment, and management of machine learning models on edge devices. It enables developers to build and deploy intelligent applications directly on small and resource-constrained devices like microcontrollers, without relying on cloud-based processing.
