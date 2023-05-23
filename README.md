@@ -809,7 +809,8 @@ Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python
 + [CircuitPython](https://circuitpython.org/)
   + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
   + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
-
+  + [CircuitPython 8.1.0 Released!](https://blog.adafruit.com/2023/05/22/circuitpython-8-1-0-released/?utm_source=Adafruit+Products+Newsletter&utm_campaign=e427965b13-EMAIL_CAMPAIGN_2023_05_23_03_38&utm_medium=email&utm_term=0_-e427965b13-%5BLIST_EMAIL_ID%5D)
+ 
   
 <A NAME="P12"></A>
 <HR>
