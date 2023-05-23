@@ -89,6 +89,8 @@
 + Project 184: <A HREF="README101.md#P184">Google Coral</A>
 + Project 185: <A HREF="README101.md#P185">Free Book: Python Data Science Handbook</A>
 + Project 186: <A HREF="README101.md#P186">Raspberry Pi Pico GPIO Current</A>
++ Project 187: <A HREF="README101.md#P187">Raspberry Pi Pico GPIO Square Wave</A>
++ Project 188: <A HREF="README101.md#P188">Raspberry Pi Pico GPIO PIO</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4268,10 +4270,11 @@ Overall, Google Coral offers a streamlined solution for implementing machine lea
 
 Python Data Science Handbook at [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
   + [Book online](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
     
 <A NAME="P186"></A>
 <HR>
-<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P187">--&gt;</A></P>  
     
 # Project 186: Raspberry Pi Pico GPIO Current
 <p align="center">
@@ -4345,7 +4348,17 @@ By default, the RP2040 microcontroller on the Raspberry Pi Pico has a system clo
 However, achieving such a short pulse width may be challenging in practice due to various factors such as code execution time, interrupt latency, and the limitations of the programming language itself. Additionally, the accuracy and precision of the pulse width may also be influenced by external factors like the connected circuitry and its response time.
 
 Therefore, while the theoretical shortest pulse width can be as short as 8 ns based on the system clock frequency, achieving and accurately measuring such short pulses may be difficult in practical scenarios.
+
     
+<A NAME="P187"></A>
+<HR>
+<P align="center"><A HREF="#P186">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P188">--&gt;</A></P>  
+    
+# Project 187: Raspberry Pi Pico GPIO Square Wave
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/PicoVsys1_600.png">        
+</p>
+
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a MicroPython program to generate a square wave 1 Hz on a GPIO pin.
 
 Certainly! Here's an example MicroPython program to generate a square wave with a frequency of 1 Hz on a GPIO pin of the Raspberry Pi Pico:
@@ -4435,7 +4448,146 @@ The `utime.sleep()` function typically operates with a resolution of millisecond
 To generate lower frequencies, you may need to use alternative approaches, such as using timers or hardware-specific features. By utilizing timer interrupts and advanced features of the RP2040 microcontroller, you can achieve lower frequencies with greater accuracy and precision.
 
 In summary, the lowest frequency that can be used in the program is subject to various factors, including the specific implementation and the techniques employed. However, with appropriate utilization of timer interrupts and other advanced features, you can achieve lower frequencies with improved accuracy and precision.
+
     
+<A NAME="P188"></A>
+<HR>
+<P align="center"><A HREF="#P187">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 188: Raspberry Pi Pico GPIO PIO
+<p align="center">
+<img align="center" width="600" height="338" src="/Images/PicoVsys1_600.png">        
+</p>
+
+[Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) Pico GPIO [PIO](https://www.raspberrypi.com/news/what-is-pio/)
+  + YouTube
+    + [What is PIO | Programmable I/O on Raspberry Pi Pico](https://youtu.be/ODlB05xMg04)
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is Raspberry Pi Pico GPIO PIO?
+
+The Raspberry Pi Pico is a microcontroller board developed by the Raspberry Pi Foundation. It features the RP2040 microcontroller chip, which is specifically designed for low-cost microcontrollers and is the first microcontroller product from the Raspberry Pi Foundation.
+
+GPIO (General-Purpose Input/Output) refers to the pins on the Raspberry Pi Pico that can be programmed to either read digital inputs or control digital outputs. These pins can be used to interface with various electronic components, such as sensors, buttons, LEDs, and more.
+
+PIO (Programmable Input/Output) is a unique feature of the RP2040 microcontroller on the Raspberry Pi Pico. It is a versatile state machine system that allows you to implement custom digital interfaces and protocols with precise timing and control. The PIO subsystem provides a way to offload time-critical tasks from the CPU, allowing for more efficient and deterministic operation.
+
+The PIO feature enables you to program the GPIO pins to perform specific tasks in real-time, such as generating precise timing signals, implementing custom communication protocols, or driving addressable LED strips. It provides a flexible and powerful way to extend the capabilities of the Raspberry Pi Pico beyond basic GPIO functionality.
+
+You can write programs for the PIO subsystem using the PIO assembler language or by using the PIO API provided by the official Raspberry Pi Pico SDK. The SDK includes examples and documentation to help you get started with using the PIO feature on the Raspberry Pi Pico.
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Please provide more details on the PIO state machine.
+
+Certainly! The PIO (Programmable Input/Output) state machine on the Raspberry Pi Pico is a powerful feature that allows you to implement custom digital interfaces and protocols with precise timing and control. It is a versatile subsystem designed to offload time-critical tasks from the CPU, enabling more efficient and deterministic operation.
+
+Here are some key details about the PIO state machine:
+
+1. Architecture: The PIO subsystem on the Raspberry Pi Pico consists of two programmable state machines (PIO0 and PIO1) that can operate independently. Each state machine has four instruction memory slots and 32 general-purpose registers.
+
+2. Instruction Execution: The state machine executes instructions in a loop, with each instruction corresponding to a single clock cycle. Instructions can perform operations such as reading/writing GPIO pins, shifting data, conditional branching, and more.
+
+3. Instruction Set: The PIO instruction set is designed to efficiently handle various I/O operations. It includes instructions for pin input/output, bitwise operations, shift and delay operations, and conditional branching. The instruction set provides flexibility for implementing a wide range of digital interfaces.
+
+4. FIFOs: Each state machine has two FIFOs (First-In, First-Out) that can hold up to 32 bits of data each. These FIFOs enable efficient data transfer between the state machine and the CPU or other peripherals.
+
+5. Programmability: You can program the PIO state machine using the PIO assembler language or the PIO API provided by the Raspberry Pi Pico SDK. The PIO assembler language is a low-level language specifically designed for programming the state machine. The SDK also provides higher-level abstractions and libraries to simplify PIO programming.
+
+6. Synchronization: Multiple PIO state machines on different pins can be synchronized to work together, enabling complex and synchronized digital protocols. This feature is particularly useful for applications involving precise timing requirements or multi-channel communication.
+
+7. Versatility: The PIO subsystem is highly versatile and can be used for various applications. It can be employed for tasks such as generating precise timing signals, implementing communication protocols (UART, SPI, I2C, etc.), driving addressable LED strips, and more.
+
+The PIO feature on the Raspberry Pi Pico provides a unique level of control and flexibility, allowing you to implement complex digital interfaces and protocols efficiently. It is a powerful tool for expanding the capabilities of the Raspberry Pi Pico and exploring advanced microcontroller projects.   
+   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a study outline for a beginner on how to use the PIO.
+
+Sure! Here's a study outline for a beginner to learn how to use the PIO (Programmable Input/Output) on the Raspberry Pi Pico:
+
+1. Introduction to PIO:
+   - Understand the concept of PIO and its benefits.
+   - Learn about the PIO subsystem on the Raspberry Pi Pico and its capabilities.
+
+2. Getting Started:
+   - Set up the development environment for Raspberry Pi Pico programming.
+   - Install the necessary software, such as the Raspberry Pi Pico SDK and development tools.
+
+3. PIO Architecture:
+   - Explore the architecture of the PIO subsystem.
+   - Understand the role of state machines, instruction memory, registers, and FIFOs.
+
+4. PIO Programming Basics:
+   - Learn about the PIO assembler language and its syntax.
+   - Understand the basic instructions for pin I/O, shifting data, and conditional branching.
+
+5. Simple GPIO Control:
+   - Start with simple GPIO control using the PIO state machines.
+   - Write programs to control GPIO pins for input and output operations.
+
+6. Understanding Timing:
+   - Explore the concept of timing in PIO programs.
+   - Learn how to generate precise timing signals using delay instructions.
+
+7. Data Transfer with FIFOs:
+   - Understand the FIFOs in the PIO state machines.
+   - Learn how to use FIFOs for efficient data transfer between the state machine and the CPU.
+
+8. Advanced GPIO Techniques:
+   - Dive deeper into GPIO operations using PIO.
+   - Explore advanced techniques such as edge detection, debouncing, and precise I/O control.
+
+9. Implementing Digital Interfaces:
+   - Learn how to implement common digital interfaces using PIO.
+   - Examples include UART, SPI, I2C, and other protocols.
+
+10. Synchronization and Multi-Channel Communication:
+    - Understand the synchronization capabilities of multiple PIO state machines.
+    - Learn how to synchronize multiple state machines for multi-channel communication.
+
+11. Real-World Applications:
+    - Explore real-world applications of PIO on Raspberry Pi Pico.
+    - Examples may include driving addressable LED strips, motor control, sensor interfacing, etc.
+
+12. Project Development:
+    - Apply the knowledge gained to develop your own PIO-based projects.
+    - Start with simple projects and gradually increase complexity.
+
+13. Resources and Documentation:
+    - Explore additional resources, documentation, and examples provided by the Raspberry Pi Pico community.
+    - Participate in online forums and communities to seek help and share experiences.
+
+Remember to practice regularly, experiment with different examples, and gradually build your understanding and skills with PIO programming on the Raspberry Pi Pico. Good luck with your studies!   
+   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List the study resource such as videos, books, articles, labs, sample programs, etc.
+
+Certainly! Here's a list of study resources that can help you learn how to use the PIO on the Raspberry Pi Pico:
+
+1. Official Raspberry Pi Pico Documentation:
+   - Raspberry Pi Pico Datasheet: Provides detailed technical information about the Raspberry Pi Pico and its RP2040 microcontroller chip.
+   - Raspberry Pi Pico C/C++ SDK Documentation: Includes information on the PIO subsystem, PIO programming, and related APIs.
+   - Raspberry Pi Pico Python SDK Documentation: Offers guidance on PIO programming using Python.
+
+2. Raspberry Pi Foundation's Learning Resources:
+   - Raspberry Pi Pico Getting Started Guide: A step-by-step guide to setting up the Raspberry Pi Pico and getting started with programming.
+   - Raspberry Pi Pico and PIO YouTube Playlist: Features official tutorial videos on various aspects of Raspberry Pi Pico and PIO programming.
+
+3. Online Tutorials and Articles:
+   - Raspberry Pi Pico PIO Examples on GitHub: Provides a collection of PIO example programs and projects to explore and learn from.
+   - Hackster.io Raspberry Pi Pico Projects: Offers a range of projects, including PIO-based projects, with step-by-step instructions and code examples.
+   - Official Raspberry Pi Forums: Join the active community forums to seek guidance, share experiences, and learn from fellow enthusiasts.
+
+4. Video Tutorials:
+   - "Introduction to Raspberry Pi Pico" by The Raspberry Pi Guy: A beginner-friendly introduction to the Raspberry Pi Pico, including an overview of PIO programming.
+   - "Raspberry Pi Pico - PIO" by ExplainingComputers: Provides an in-depth explanation of the PIO subsystem and programming on the Raspberry Pi Pico.
+
+5. Books:
+   - "Programming Raspberry Pi Pico with MicroPython" by Simon Monk: Offers a comprehensive guide to programming the Raspberry Pi Pico, including a section on PIO programming.
+
+6. Online Courses and Labs:
+   - Coursera: Raspberry Pi Pico - Beginner's Guide: A comprehensive online course covering various aspects of Raspberry Pi Pico programming, including PIO.
+   - Pi Hut's Pico-Projects: Provides a collection of guided projects with detailed instructions and code examples, including PIO-based projects.
+
+Remember, the Raspberry Pi Pico and PIO are relatively new, and the available resources are continuously expanding. Exploring the official documentation, community forums, and online platforms will help you stay up to date with the latest resources, sample programs, and project ideas.
+
+Happy learning and experimenting with the Raspberry Pi Pico and PIO!   
+      
 ### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a MicroPython program that uses the PIO to output a squarewave 10 kHz on a GPIO pin.
 
 To generate a square wave of 10 kHz using the Programmable I/O (PIO) on the Raspberry Pi Pico with MicroPython, you can utilize the PIO's state machines and programmable waveform generator. Here's an example program to accomplish this:
@@ -4496,7 +4648,7 @@ This program utilizes the PIO to generate a square wave of approximately 10 kHz 
    
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P186">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P188">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
