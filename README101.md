@@ -4771,7 +4771,7 @@ These resources cover a wide range of topics and provide hands-on learning exper
 # Project 190: YouTube Channel [Gary Explains](https://www.youtube.com/@GaryExplains)
 
 <p align="center">
-  <img width="463" height="94" src="/Images/Python.png">  
+  <img width="176" height="176" src="/Images/GaryExplains.jpg">  
 </p>
 
 [Gary Explains](https://www.youtube.com/@GaryExplains) videos cover a wide variety of topics form Raspberry Pi to Nvidia Orin.
