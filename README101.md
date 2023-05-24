@@ -4783,12 +4783,13 @@ These resources cover a wide range of topics and provide hands-on learning exper
 <P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
     
 # Project 191: Bing ChatGPT-4
-
 <p align="center">
-  <img width="176" height="176" src="/Images/GaryExplains.jpg">  
+  <img width="618" height="239" src="/Images/BingChat.png">  
 </p>
 
-Microsoft Bing ChatGPT-4 chat bot.    
+Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8&ch) chat bot.    
+  + [Bing](https://www.bing.com/new)
+  + [What is Bing Chat? Here's everything you need to know](https://www.zdnet.com/article/what-is-the-new-bing-heres-everything-you-need-to-know/)  
     
 <A NAME="FUTURE"></A>
 <HR> 
