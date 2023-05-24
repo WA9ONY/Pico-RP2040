@@ -4767,7 +4767,7 @@ These resources cover a wide range of topics and provide hands-on learning exper
  
 <A NAME="P190"></A>
 <HR>
-<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P191">--&gt;</A></P>  
     
 # Project 190: YouTube Channel [Gary Explains](https://www.youtube.com/@GaryExplains)
 
@@ -4790,6 +4790,11 @@ These resources cover a wide range of topics and provide hands-on learning exper
 Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-chat?form=MT00D8&ch) chat bot.    
   + [Bing](https://www.bing.com/new)
   + [What is Bing Chat? Here's everything you need to know](https://www.zdnet.com/article/what-is-the-new-bing-heres-everything-you-need-to-know/)  
+  + iOS [Bing: Chat with AI & CPT-4](https://apps.apple.com/us/app/bing-chat-with-ai-gpt-4/id345323231) 
+  + Google Play [Bing: Chat with AI & CPT-4](https://play.google.com/store/apps/details?id=com.microsoft.bing&hl=en_US&gl=US&pli=1)    
+  + ChatGPT vs. Bing Chat: Which AI chatbot should you use? [URL](https://zapier.com/blog/chatgpt-vs-bing-chat/)
+  + ZDNET The best AI chatbots: ChatGPT and other noteworthy alternatives [URl](https://www.zdnet.com/article/best-ai-chatbot/)
+
     
 <A NAME="FUTURE"></A>
 <HR> 
