@@ -4749,8 +4749,7 @@ Books:
 Articles and Guides:
 1. Adafruit Learning System: https://learn.adafruit.com/category/circuitpython
 2. CircuitPython Documentation: https://circuitpython.readthedocs.io/
-3. Introduction to CircuitPython on PyPortal: https://learn.adafruit.com/pyportal-circuitpython-essentials/introduction
-4. "CircuitPython Essentials" Guide: https://learn.adafruit.com/circuitpython-essentials
+3. "CircuitPython Essentials" Guide: https://learn.adafruit.com/circuitpython-essentials
 
 Labs and Hands-on Activities:
 1. Adafruit CircuitPython Guides: https://learn.adafruit.com/category/circuitpython-guides
