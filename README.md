@@ -801,17 +801,7 @@ Some Adafriut product are available on Amazon.
 Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small connectors on sensor boards and some RP2040 boards.
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 
-<p align="center">
-  <img width="463" height="94" src="/Images/Python.png">  
-</p>
-
-Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and is a fork of [MicroPython](https://micropython.org/) that support the Adafruit RP2040 boards, Raspberry Pi Pico boards (Adafruit sells them) and the large selection of Adafriut sensors boards.  CircuitPython works great with the Mu IDE.  CircuitPython has RP2040 functions like deep sleep that are not in CircuitPython.
-+ [CircuitPython](https://circuitpython.org/)
-  + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
-  + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
-  + [CircuitPython 8.1.0 Released!](https://blog.adafruit.com/2023/05/22/circuitpython-8-1-0-released/?utm_source=Adafruit+Products+Newsletter&utm_campaign=e427965b13-EMAIL_CAMPAIGN_2023_05_23_03_38&utm_medium=email&utm_term=0_-e427965b13-%5BLIST_EMAIL_ID%5D)
  
-  
 <A NAME="P12"></A>
 <HR>
 <P align="center"><A HREF="#P11">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P13">--&gt;</A></P>  
