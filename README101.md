@@ -4794,7 +4794,8 @@ Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-ch
   + Google Play [Bing: Chat with AI & CPT-4](https://play.google.com/store/apps/details?id=com.microsoft.bing&hl=en_US&gl=US&pli=1)    
   + ChatGPT vs. Bing Chat: Which AI chatbot should you use? [URL](https://zapier.com/blog/chatgpt-vs-bing-chat/)
   + ZDNET The best AI chatbots: ChatGPT and other noteworthy alternatives [URl](https://www.zdnet.com/article/best-ai-chatbot/)
-
+  + Utilizing Microsoft Bing AI Chat on Ubuntu: Methods and Guidance [URL](https://vulehuan.com/en/blog/2023/05/utilizing-microsoft-bing-ai-chat-on-ubuntu-methods-and-guidance-64680f9664ac40ae37cdf488.html#gsc.tab=0)
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
