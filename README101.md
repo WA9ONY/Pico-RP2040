@@ -93,6 +93,8 @@
 + Project 188: <A HREF="README101.md#P188">Raspberry Pi Pico GPIO PIO</A>
 + Project 189: <A HREF="README101.md#P189">CircuitPython</A>
 + Project 190: <A HREF="README101.md#P190">YouTube Channel Gary Explains</A>
++ Project 191: <A HREF="README101.md#P191">Bing ChatGPT-4</A>
++ Project 1 to 100: <A HREF="README.md#HOME">Index</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4775,10 +4777,22 @@ These resources cover a wide range of topics and provide hands-on learning exper
 
 [Gary Explains](https://www.youtube.com/@GaryExplains) videos cover a wide variety of topics form Raspberry Pi to Nvidia Orin.
     
+ 
+<A NAME="P191"></A>
+<HR>
+<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 191: Bing ChatGPT-4
+
+<p align="center">
+  <img width="176" height="176" src="/Images/GaryExplains.jpg">  
+</p>
+
+Microsoft Bing ChatGPT-4 chat bot.    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
