@@ -91,6 +91,7 @@
 + Project 186: <A HREF="README101.md#P186">Raspberry Pi Pico GPIO Current</A>
 + Project 187: <A HREF="README101.md#P187">Raspberry Pi Pico GPIO Square Wave</A>
 + Project 188: <A HREF="README101.md#P188">Raspberry Pi Pico GPIO PIO</A>
++ Project 189: <A HREF="README101.md#P189">CircuitPython</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
@@ -4452,7 +4453,7 @@ In summary, the lowest frequency that can be used in the program is subject to v
     
 <A NAME="P188"></A>
 <HR>
-<P align="center"><A HREF="#P187">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P187">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P189">--&gt;</A></P>  
     
 # Project 188: Raspberry Pi Pico GPIO PIO
 <p align="center">
@@ -4643,12 +4644,30 @@ We initialize the PIO program with `pio_program.init()` and set the frequency to
 Finally, we activate the PIO program with `pio_program.active(1)` to start generating the square wave. The program then enters an infinite loop with `while True` to keep it running indefinitely.
 
 This program utilizes the PIO to generate a square wave of approximately 10 kHz on the specified GPIO pin.
+
+    
+<A NAME="P189"></A>
+<HR>
+<P align="center"><A HREF="#P188">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 189: CircuitPython
+
+<p align="center">
+  <img width="463" height="94" src="/Images/Python.png">  
+</p>
+
+Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and is a fork of [MicroPython](https://micropython.org/) that support the Adafruit RP2040 boards, Raspberry Pi Pico boards (Adafruit sells them) and the large selection of Adafriut sensors boards.  CircuitPython works great with the Mu IDE.  CircuitPython has RP2040 functions like deep sleep that are not in CircuitPython.
++ [CircuitPython](https://circuitpython.org/)
+  + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
+  + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
+  + [CircuitPython 8.1.0 Released!](https://blog.adafruit.com/2023/05/22/circuitpython-8-1-0-released/?utm_source=Adafruit+Products+Newsletter&utm_campaign=e427965b13-EMAIL_CAMPAIGN_2023_05_23_03_38&utm_medium=email&utm_term=0_-e427965b13-%5BLIST_EMAIL_ID%5D)
+ 
     
 
    
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P188">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
