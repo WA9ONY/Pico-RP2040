@@ -4738,13 +4738,13 @@ Remember, this outline is just a starting point, and you can adjust it based on 
 Certainly! Here's a list of study resources including videos, books, articles, labs, and sample programs that can be helpful for learning CircuitPython:
 
 Videos:
-1. Adafruit CircuitPython YouTube Playlist: https://www.youtube.com/playlist?list=PLjF7R1fz_OOV7VUOL0bzTIC58MrSLIAkN
-2. "Getting Started with CircuitPython" by Ladyada (Adafruit Industries): https://www.youtube.com/watch?v=3B3vUf2X4Bk
-3. "CircuitPython Essentials" by Adafruit Industries: https://www.youtube.com/playlist?list=PLjF7R1fz_OOVbgmF2oQZP7-hlLQlId-_W
+1. CircuitPython YouTube [Playlist](https://www.youtube.com/results?search_query=+CircuitPython+Playlist)
+2. Getting Started with CircuitPython [Playlist](https://www.youtube.com/results?search_query=Getting+Started+with+CircuitPython)
+3. CircuitPython [search](https://www.youtube.com/results?search_query=CircuitPython) 
 
 Books:
-1. "Getting Started with Adafruit Circuit Playground Express" by Mike Barela
-2. "Programming Microcontrollers with CircuitPython" by Donald Norris
+1. "Getting Started with Adafruit Circuit Playground Express" by Mike Barela on [Amazon](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground/dp/1680454889)
+2. "Python for Microcontrollers: Getting Started with MicroPython" by Donald Norrison on [Amazon](https://www.amazon.com/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)
 
 Articles and Guides:
 1. Adafruit Learning System: https://learn.adafruit.com/category/circuitpython
