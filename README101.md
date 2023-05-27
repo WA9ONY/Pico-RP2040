@@ -96,6 +96,7 @@
 + Project 191: <A HREF="README101.md#P191">Bing ChatGPT-4</A>
 + Project 192: <A HREF="README101.md#P192">Nvidia Jetson Orin Nano</A>
 + Project 193: <A HREF="README101.md#P193">Jetson Orin Nano SSD</A>
++ Project 194: <A HREF="README101.md#P194">YouTube Channel JetsonHacks</A>
 + Project 1 to 100: <A HREF="README.md#HOME">Index</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
