@@ -1401,8 +1401,9 @@ YouTube
     + Start with know groups.
     + Unknow element distance is measured to all members of the know groups.
     + Take the top nearest neighbors of the unknow element to determin which group the unknow element is identified with.
+  + Code With Aarohi [channel](https://www.youtube.com/@CodeWithAarohi)
 
-
+    
 <A NAME="P133"></A>
 <HR>
 <P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P134">--&gt;</A></P>  
@@ -4808,10 +4809,11 @@ Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-ch
   + [Amazon](https://www.amazon.com/dp/B0BZJTQ5YP?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   + YouTube Jetson Orin Nano [search](https://www.youtube.com/results?search_query=Jetson+Orin+Nano)
   + YouTube Jetson Orin [search](https://www.youtube.com/results?search_query=Jetson+Orin+)    
-  + YouTube Jetson [search](https://www.youtube.com/results?search_query=Jetson++)    
-  + YouTube Jetsonhacks [channel](https://www.youtube.com/results?search_query=Jetson++)    
- 
-    
+  + YouTube Jetson [search](https://www.youtube.com/results?search_query=Jetson++)        
+  + YouTube NVIDIA [channel](https://www.youtube.com/@NVIDIA)
+  + YouTube NVIDIA Developer [channel](https://www.youtube.com/@NVIDIADeveloper)
+  + YouTube Jetsonhacks [channel](https://www.youtube.com/@JetsonHacks)
+  + [Nvidia Jetson Orin Nano unboxing & SSD install](https://youtu.be/FX2exKW_20E)    
     
 <A NAME="FUTURE"></A>
 <HR> 
