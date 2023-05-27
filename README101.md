@@ -4833,7 +4833,7 @@ Jetson Orin Nano has 40 TOPS of AI performance which is 80X higher than the orig
     
 # Project 193: Jetson Orin Nano SSD
 
-The     
+The Jetson Orin Nano has 2 M.2 Key M interfaces  for a SSD.     
     
   + [Nvidia Jetson Orin Nano unboxing & SSD install](https://youtu.be/FX2exKW_20E)    
     
