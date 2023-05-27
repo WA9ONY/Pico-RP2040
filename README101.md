@@ -95,6 +95,7 @@
 + Project 190: <A HREF="README101.md#P190">YouTube Channel Gary Explains</A>
 + Project 191: <A HREF="README101.md#P191">Bing ChatGPT-4</A>
 + Project 192: <A HREF="README101.md#P192">Nvidia Jetson Orin Nano</A>
++ Project 193: <A HREF="README101.md#P193">Jetson Orin Nano SSD</A>
 + Project 1 to 100: <A HREF="README.md#HOME">Index</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
@@ -4801,11 +4802,17 @@ Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-ch
  
 <A NAME="P192"></A>
 <HR>
-<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P193">--&gt;</A></P>  
     
 # Project 192: Nvidia Jetson Orin Nano
+
+[Nvidia](https://www.nvidia.com/en-us/) [Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/) is an entry-level edge AI developer kit.
+ 
+Jetson Orin Nano is the next step up from a [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit), User Guide [26 page PDF](https://developer.download.nvidia.com/assets/embedded/secure/jetson/Nano/docs/NV_Jetson_Nano_Developer_Kit_User_Guide.pdf?ypZWaTdbyCJPfzu7j6vsyyTeiILh82zHpl54zI-nrV3jDI2I090ykVVWXXFb_nFovNt38Al_cHdoVKiYKUgYXWPUa9Ku15pnEOrVXz_2MQyqYxgbnB13gQ3Y7zcyZpmrIPBU2HttkaVoEBOR1znwZCOqrku2WlLAde94Sv5tOIPqHGOOySLs5skdVAstITJDVqY=&t=eyJscyI6ImdzZW8iLCJsc2QiOiJodHRwczovL3d3dy5nb29nbGUuY29tLyJ9).   
+
+Jetson Orin Nano [March 21, 2023](https://forums.developer.nvidia.com/t/announcing-jetson-orin-nano-developer-kit/246905)    
     
-[Jetson Orin Nano]
+[Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/)
   + [Amazon](https://www.amazon.com/dp/B0BZJTQ5YP?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   + YouTube Jetson Orin Nano [search](https://www.youtube.com/results?search_query=Jetson+Orin+Nano)
   + YouTube Jetson Orin [search](https://www.youtube.com/results?search_query=Jetson+Orin+)    
@@ -4815,9 +4822,30 @@ Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-ch
   + YouTube Jetsonhacks [channel](https://www.youtube.com/@JetsonHacks)
   + [Nvidia Jetson Orin Nano unboxing & SSD install](https://youtu.be/FX2exKW_20E)    
     
+ 
+<A NAME="P193"></A>
+<HR>
+<P align="center"><A HREF="#P192">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P194">--&gt;</A></P>  
+    
+# Project 193: Jetson Orin Nano SSD
+
+The     
+    
+  + [Nvidia Jetson Orin Nano unboxing & SSD install](https://youtu.be/FX2exKW_20E)    
+    
+ 
+<A NAME="P194"></A>
+<HR>
+<P align="center"><A HREF="#P193">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 194: YouTube Channel [JetsonHacks](https://www.youtube.com/@JetsonHacks)
+    
+The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focused on the Nvidia Jetson products.
+    
+    
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P192">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P194">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
