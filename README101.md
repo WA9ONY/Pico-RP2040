@@ -94,6 +94,7 @@
 + Project 189: <A HREF="README101.md#P189">CircuitPython</A>
 + Project 190: <A HREF="README101.md#P190">YouTube Channel Gary Explains</A>
 + Project 191: <A HREF="README101.md#P191">Bing ChatGPT-4</A>
++ Project 192: <A HREF="README101.md#P192">Nvidia Jetson Orin Nano</A>
 + Project 1 to 100: <A HREF="README.md#HOME">Index</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
@@ -4780,7 +4781,7 @@ These resources cover a wide range of topics and provide hands-on learning exper
  
 <A NAME="P191"></A>
 <HR>
-<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P192">--&gt;</A></P>  
     
 # Project 191: Bing ChatGPT-4
 <p align="center">
@@ -4796,10 +4797,25 @@ Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-ch
   + ZDNET The best AI chatbots: ChatGPT and other noteworthy alternatives [URl](https://www.zdnet.com/article/best-ai-chatbot/)
   + Utilizing Microsoft Bing AI Chat on Ubuntu: Methods and Guidance [URL](https://vulehuan.com/en/blog/2023/05/utilizing-microsoft-bing-ai-chat-on-ubuntu-methods-and-guidance-64680f9664ac40ae37cdf488.html#gsc.tab=0)
     
+ 
+<A NAME="P192"></A>
+<HR>
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+    
+# Project 192: Nvidia Jetson Orin Nano
+    
+[Jetson Orin Nano]
+  + [Amazon](https://www.amazon.com/dp/B0BZJTQ5YP?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+  + YouTube Jetson Orin Nano [search](https://www.youtube.com/results?search_query=Jetson+Orin+Nano)
+  + YouTube Jetson Orin [search](https://www.youtube.com/results?search_query=Jetson+Orin+)    
+  + YouTube Jetson [search](https://www.youtube.com/results?search_query=Jetson++)    
+  + YouTube Jetsonhacks [channel](https://www.youtube.com/results?search_query=Jetson++)    
+ 
+    
     
 <A NAME="FUTURE"></A>
 <HR> 
-<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
+<P align="center"><A HREF="#P192">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README.md#HOME">--&gt;</A></P>      
     
 <A NAME="Future"></A> 
     
