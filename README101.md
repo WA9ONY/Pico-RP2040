@@ -1011,6 +1011,24 @@ URLs
     
 Google
   + [raspberry pi pico machine learning](https://www.google.com/search?q=raspberry+pi+pico+machine+learning&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari)
+ 
+[Andrew Ng](https://www.youtube.com/results?search_query=andrew+ng) Machine Learning Career Advice [video](https://youtu.be/hkagmGAu74Y)
+  + ML couse
+    + DeepLearningAI YouTube [channel](https://www.youtube.com/@Deeplearningai/featured)
+    + Machine Learning Specialization on Coursera
+    + Mathematics for Machine Learning and Data Science Specialization on Coursera
+    + ChatGPT Prompt Engineering for Developers on Coursera
+    + #BeADeepLearner
+    + Machine Learning Specialization by Andrew Ng [41 videos playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
+      + 2: AGI, GAI: generative AI 
+      
+  + DL course
+  + Do a project
+  + PhD student process
+    + Read alot of papers
+    + Replicate results
+    + Dirty work
+    
     
     
 <A NAME="P118"></A>
