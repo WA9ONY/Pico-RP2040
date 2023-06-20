@@ -106,6 +106,9 @@
 + Project 100: <A HREF="#P100">2N3055 NPN Transistor BE I-V Characteristics Curve</A>
 + Project 101 to 199: <A HREF="README101.md">Project 101 to 199 Notes Index</A>
 
+git clone https://github.com/WA9ONY/Pico-RP2040
+
+
 <A NAME="Intro"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
