@@ -117,14 +117,12 @@
 + Project 188: <A HREF="README.md#P188">Raspberry Pi Pico GPIO PIO</A>
 + Project 189: <A HREF="README.md#P189">CircuitPython</A>
 
-git clone https://github.com/WA9ONY/Pico-RP2040
-
 
 <A NAME="Intro"></A>
 <HR>
 <P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
 
-# Microcontrollers, Edge Computing & ML (Machine Learning) Projects Notes
+# Raspberry Pi Pico and RP2040 Microcontrollers Projects Notes
 
 <p align="center">
 <img width="308" height="308" src="/Images/RP2040.png">  
