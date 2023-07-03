@@ -1516,7 +1516,6 @@ Bend the two vertical wires into a "M" shape and the holder is ready for the sol
     
 Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with [24 Kt. gold plated tip](#P37).     
     
-    
       
 <A NAME="P47"></A>
 <HR>
@@ -1589,50 +1588,6 @@ Anateur radio operators on the net with microcontroller projects.
 + [WA9ONY](https://www.qrz.com/db/WA9ONY) David Haworth
   + Raspberry Pi Pico and various Arduino microcontrollerrs [projects](README.md#INDEX).  
        
-      
-<A NAME="P51"></A>
-<HR>
-<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P52">--&gt;</A></P>  
-    
-# Project 51: Learn C++ with Arduino Web Editor & Board 
-
-<p align="center">
-<img width="159" height="57" src="/Images/ArduinoWebEditorIcon.png">  
-</p>
-
-All three Arduino IDEs are based on C++.  Learning C++ is done by using the Arduino Web Editor, a Arduino board/clone and C++ training materials (videos, articles, books, etc.
-+ [C++ Programming in easy steps, 6th edition 6th Edition](https://www.amazon.com/C-Programming-easy-steps-6th/dp/1840789719/ref=sr_1_1?crid=3CF6P6B0HVN3A&keywords=c%2B%2B+in+easy+steps&qid=1673365872&sprefix=C%2B%2B+in%2Caps%2C157&sr=8-1)
-+ The Great Courses [Introduction to C++: Programming Concepts and Applications](https://www.thegreatcourses.com/courses/introduction-to-c-plus-plus-programming-concepts-and-applications)  
-
-Using the Web Editior with Arduino Cloud allows the training sketches to be saved and accessed by different computers.  The Web Editor has a Monitor functions that is simple to use in learning C++.  By running the C++ program on the Arduino board no C++ compilier is needed on the computer with the Web Editor.  
-
-The high level program structor is 
-+ Initialization is left empty
-+ Setup contains two lines of serial code for the Monitor and the C++ lessions code.
-+ Loop is left empty
-    
-Summary
-+ Create C++ program that uses the Web Editor Monitor.
-+ Compile the C++ program on the Arduino Web Editor server and download into the Arduino board to run.
-+ Web Editor Monitor displays the C++ output.    
-      
-## Learn C++ Lesson 1: Output Hello World
-Purpose: Output Hello World to the Web Editor Monitor.
-Files: [LearnC_1_HelloWorld.zip](/Arduino/LearC/LearnC_1_HelloWorld.zip)    
-
-To setup the serial connection to the Arduino Web Editor Monitor.
-  Serial.begin(9600);           // set the baud rate for the Monitor
-  while (!Serial);              // wait for Web Editor Monitor to be ready
-  delay(9000);                  // wait 9 seconds to fix bug
-    
-The C++ statement
-    cout<<"Hello World<<;
-is replaced by
-    Serial.print("Hello World");  // send Hello World to the Monitor
-    
-<p align="center">
-<img width="870" height="397" src="/Images/LearnC_1.png">  
-</p>    
        
       
 <A NAME="P52"></A>
@@ -1815,31 +1770,6 @@ Kits
 + Freenove: 
   + [3 kits $24.95 to $59.95 on Azamon](https://www.amazon.com/s?k=Freenove+pi+pico+kit&i=electronics&crid=18MC2660QZ24O&sprefix=freenove+pi+pico+kit%2Celectronics%2C147&ref=nb_sb_noss)    
 +  Raspberry Pi Pico Starter Kits on [Amazon](https://www.amazon.com/s?k=raspberry+pi+pico+kit&crid=1T22X55NTOSKV&sprefix=Raspberry+Pi+Pico+%2Caps%2C165&ref=nb_sb_ss_ts-doa-p_2_18)   
-       
-      
-<A NAME="P54"></A>
-<HR>
-<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P55">--&gt;</A></P>  
-    
-# Project 54: Arduino MEGA 2560 Rev3 Case 
-    
-<p align="center">
-<img width="600" height="486" src="/Images/MEGAcase600.png">  
-</p>
-
-SunFounder 2560 Case installed on an Elegoo MEGA 2560 R3 clone.  
-    
-SunFounder 2560 Case Enclosure Transparent Gloss Acrylic Computer Box Compatible with Arduino Mega 2560 Rev3 R3, Genuino Mega 2560 Rev3 [on Amazon](https://www.amazon.com/dp/B00HNMZ2L0?ref=ppx_yo2ov_dt_b_product_details&th=1) 
-    
-Pros
-+ Clear so that you can see the connector labels and LEDs.
-+ Access to all the connectors.
-+ Reset button works with the case button extension.
-+ Cooling vent above the uC chip.
-+ Works with the Elegoo MEGA 2560 R3 clone.    
-    
-Cons
-+ Needs rubber feet.    
        
 
 
