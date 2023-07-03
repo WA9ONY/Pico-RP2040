@@ -63,6 +63,9 @@
 + Project 86: <A HREF="#P86">Tinkercad Codeblocks</A>
 + Project 87: <A HREF="#P87">Tinkercad 3D Design</A>
 + Project 102: <A HREF="#P102">List of YouTube Playlists</A>
++ Project 137: <A HREF="README.md#P137">Thonny</A>
++ Project 138: <A HREF="README.md#P138">CircuitPython</A>
++ Project 139: <A HREF="README.md#P139">Groups.IO Microcontrollers</A>
 + Project 140: <A HREF="#P140">Discord</A>
 + Project 141: <A HREF="#P141">RP2040 DVI</A>
 + Project 142: <A HREF="#P142">RP2040 PIO</A>
@@ -3609,7 +3612,7 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
      
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P140">--&gt;</A></P>  
+<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P137">--&gt;</A></P>  
     
 # Project 102: List of YouTube Playlists
 <p align="center">
@@ -3691,10 +3694,62 @@ This a list of playlist and over one hour videos.
 + [Circuit Python Tutorials, 74 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
 + [CircuitPython & Circuit Playground Express Tutorials, 16 videos](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPRo77roCKMzIh4q4Mu2dCBU)
 
+        
+<A NAME="P137"></A>
+<HR>
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P138">--&gt;</A></P>  
+    
+# Project 137: Thonny
+<p align="center">
+<img align="center" width="1169" height="689" src="/Images/ThonneyVersions.png">        
+</p>
+    
+[Thonny](https://thonny.org/) is an IDE for 
+  + [Python](https://www.python.org/)
+  + [MicroPython](https://micropython.org/) for Raspberry Pi Pico, etc.
+
+## Thonny on [Ubuntu](https://ubuntu.com/) 20.04.2 LTS    
+    
+Use the standard Ubuntu software to install Thonney.
+  + Open show applications    
+  + Open Ubuntu Software
+  + Search for Thonny
+  + Select Thonny-IDE and install
+  + The above screenshot shows Thony version and Python version.    
+     
+    
+<A NAME="P138"></A>
+<HR>
+<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P139">--&gt;</A></P>  
+    
+# Project 138: CircuitPython
+<p align="center">
+<img align="center" width="600" height="228" src="/Images/CircuitPython.png">        
+</p>
+    
+    
++ [100 CircuitPython Community Libraries!](https://blog.adafruit.com/2023/03/22/100-circuitpython-community-libraries-circuitpython-python-circuitpython/?utm_source=Adafruit+Products+Newsletter&utm_campaign=99ae4b98f4-EMAIL_CAMPAIGN_2023_03_28_03_04&utm_medium=email&utm_term=0_-99ae4b98f4-%5BLIST_EMAIL_ID%5D)    
+     
+    
+<A NAME="P139"></A>
+<HR>
+<P align="center"><A HREF="#P138">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P140">--&gt;</A></P>  
+    
+# Project 139: Groups.IO Microcontrollers
+    
+[Microcontrollers at Groups.IO](https://groups.io/g/Microcontrollers): Pico, Arduino, RP2040, ESP32, STM32, Atmega328P, UNO, Feather, etc. 
+
+This group is where you can share you experiences with using microcontrollers in your projects.  Examples of microcontrollers include Raspberry Pi Pico, Arduino family of microcontrollers and any other microcontrollers that you are using.
+
+Microcontrollers are tiny computers that run a single program usually without an operating system software to control various electrical and mechanical devices. 
+
+A hot area today is using microcontrollers in IoT (Internet of Things) devices.
+
+Group owner David Haworth WA9ONY
     
 <A NAME="P140"></A>
 <HR>
-<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P141">--&gt;</A></P>  
+<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P141">--&gt;</A></P>  
     
 # Project 140: Discord
 <p align="center">
