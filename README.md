@@ -3694,7 +3694,7 @@ This a list of playlist and over one hour videos.
     
 <A NAME="P140"></A>
 <HR>
-<P align="center"><A HREF="#P139">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P141">--&gt;</A></P>  
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P141">--&gt;</A></P>  
     
 # Project 140: Discord
 <p align="center">
@@ -3750,7 +3750,6 @@ The [Adafruit Discord](https://blog.adafruit.com/2017/07/20/adafruit-is-on-disco
 <img align="center" width="973" height="1067" src="/Images/PythonDiscord.png">        
 </p>
 
- 
     
 <A NAME="P141"></A>
 <HR>
