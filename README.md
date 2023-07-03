@@ -81,19 +81,19 @@
 + Project 98: <A HREF="#P98">Capacitor I-V Characteristics Curve</A>
 + Project 99: <A HREF="#P99">Transformer I-V Characteristics Curve</A>
 + Project 100: <A HREF="#P100">2N3055 NPN Transistor BE I-V Characteristics Curve</A>
-+ Project 102: <A HREF="README.md#P102">List of YouTube Playlists</A>
-+ Project 140: <A HREF="README.md#P140">Discord</A>
-+ Project 141: <A HREF="README.md#P141">RP2040 DVI</A>
-+ Project 142: <A HREF="README.md#P142">RP2040 PIO</A>
-+ Project 143: <A HREF="README.md#P143">Wire</A>
-+ Project 145: <A HREF="README.md#P145">Pico Vsys Power Test</A> 
-+ Project 169: <A HREF="README.md#P169">MicroSD Cards for SBC</A>
-+ Project 174: <A HREF="README.md#P174">YouTube Channel W2AEW</A>
-+ Project 179: <A HREF="README.md#P179">CAN Bus</A>
-+ Project 186: <A HREF="README.md#P186">Raspberry Pi Pico GPIO Current</A>
-+ Project 187: <A HREF="README.md#P187">Raspberry Pi Pico GPIO Square Wave</A>
-+ Project 188: <A HREF="README.md#P188">Raspberry Pi Pico GPIO PIO</A>
-+ Project 189: <A HREF="README.md#P189">CircuitPython</A>
++ Project 102: <A HREF="#P102">List of YouTube Playlists</A>
++ Project 140: <A HREF="#P140">Discord</A>
++ Project 141: <A HREF="#P141">RP2040 DVI</A>
++ Project 142: <A HREF="#P142">RP2040 PIO</A>
++ Project 143: <A HREF="#P143">Wire</A>
++ Project 145: <A HREF="#P145">Pico Vsys Power Test</A> 
++ Project 169: <A HREF="#P169">MicroSD Cards for SBC</A>
++ Project 174: <A HREF="#P174">YouTube Channel W2AEW</A>
++ Project 179: <A HREF="#P179">CAN Bus</A>
++ Project 186: <A HREF="#P186">Raspberry Pi Pico GPIO Current</A>
++ Project 187: <A HREF="#P187">Raspberry Pi Pico GPIO Square Wave</A>
++ Project 188: <A HREF="#P188">Raspberry Pi Pico GPIO PIO</A>
++ Project 189: <A HREF="#P189">CircuitPython</A>
 
 
 <A NAME="Intro"></A>
