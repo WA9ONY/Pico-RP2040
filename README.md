@@ -1192,7 +1192,7 @@ For more information
    
 <A NAME="P36"></A>
 <HR>
-<P align="center"><A HREF="#P35">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P37">--&gt;</A></P>  
+<P align="center"><A HREF="#P35">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P42">--&gt;</A></P>  
     
 # Project 36: PCBs 
 
@@ -1202,7 +1202,6 @@ For more information
 <p align="center">
 <img width="640" height="480" src="/Images/adVoltsDivider.jpg">  
 </p>
- 
     
 PCBs ([Printed circuit board](https://en.wikipedia.org/wiki/Printed_circuit_board)) are are used to transfer the microcontroller project from the quick breadboard to a perminet implementation.
     
@@ -1215,10 +1214,9 @@ For more information
 +  [Hex Brass Spacer Standoff](https://www.amazon.com/gp/product/B07PDQ7DVS/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) 
     
    
-   
 <A NAME="P42"></A>
 <HR>
-<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P43">--&gt;</A></P>  
+<P align="center"><A HREF="#P36">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P47">--&gt;</A></P>  
     
 # Project 42: USB 
 
@@ -1270,12 +1268,10 @@ david@wa9ony-nuc8i7hvk:~$ sudo dmesg
 [1475151.245217] usb 1-11.2: SerialNumber: 1EFE803450553133352E3120FF012734
 </PRE>   
    
-    
-   
       
 <A NAME="P47"></A>
 <HR>
-<P align="center"><A HREF="#P46">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P48">--&gt;</A></P>  
+<P align="center"><A HREF="#P42">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P50">--&gt;</A></P>  
     
 # Project 47: AC Power Suppies for Microcontroller Boards 
 
@@ -1301,12 +1297,11 @@ For example,
     
 A good soure of used low cost 120 Volts AC to DC Volts [wall wart](https://en.wikipedia.org/wiki/AC_adapter) power supplies is [Goodwill](https://www.goodwill.org/).
 Goodwill price tags have a color and one color is 50% off for a week. The discount color changes every Sunday.    
-    
-       
+        
       
 <A NAME="P50"></A>
 <HR>
-<P align="center"><A HREF="#P49">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P51">--&gt;</A></P>  
+<P align="center"><A HREF="#P47">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P52">--&gt;</A></P>  
     
 # Project 50: WA7ABU Repeater Project Net 
 
@@ -1324,8 +1319,7 @@ The weekly Project Net covers many topics including microcontroller projects.
 + WA7ABU on [RepeaterBook](https://www.repeaterbook.com/repeaters/details.php?ID=365&state_id=41)
 + Listen to [WA7ABU](https://www.broadcastify.com/listen/feed/12926) on the internet with [Broadcastify](https://www.broadcastify.com/). 
 + [WA7ABU.groups.io](https://wa7abu.groups.io/g/WA7ABU)    
-
-    
+ 
 Anateur radio operators on the net with microcontroller projects.
 + [KW7DSP](https://www.qrz.com/db/KW7DSP) Steve Pickering
   + Arduino UNO user  
@@ -1344,11 +1338,10 @@ Anateur radio operators on the net with microcontroller projects.
 + [WA9ONY](https://www.qrz.com/db/WA9ONY) David Haworth
   + Raspberry Pi Pico and various Arduino microcontrollerrs [projects](README.md#INDEX).  
        
-       
-      
+          
 <A NAME="P52"></A>
 <HR>
-<P align="center"><A HREF="#P51">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P53">--&gt;</A></P>  
+<P align="center"><A HREF="#P50">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P53">--&gt;</A></P>  
     
 # Project 52: Microcontroller Development Boards Price Table
  
@@ -1486,10 +1479,11 @@ Prices are as of January 10, 2023
 + Which Arduino board is [best for me?](https://linuxhint.com/which-arduino-is-best/)    
 + [Which Arduino Board to Buy : Complete Guide](https://robocraze.com/blogs/post/which-arduino-board-to-buy)  
 + Google: [best arduino board](https://www.google.com/search?q=best+arduino+board&oq=Best+Arduino&aqs=chrome.4.69i57j0i512l9.8706j0j15&sourceid=chrome&ie=UTF-8#ip=1)
+
     
 <A NAME="P53"></A>
 <HR>
-<P align="center"><A HREF="#P52">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P54">--&gt;</A></P>  
+<P align="center"><A HREF="#P52">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P60">--&gt;</A></P>  
     
 # Project 53: Starting with Microcontrollers 
     
@@ -1531,7 +1525,7 @@ Kits
 
 <A NAME="P60"></A>
 <HR>
-<P align="center"><A HREF="#P59">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
+<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
     
 # Project 60: Fritzing
     
@@ -1595,10 +1589,9 @@ Fritzing Videos
   + Double click on fritzing-0.9.10-l2134-40d23c29.AppImage to start Fritzing.  
     
  
-
 <A NAME="P61"></A>
 <HR>
-<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
+<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P63">--&gt;</A></P>  
     
 # Project 61: Tinkercad Arduino Simulator
     
@@ -1614,7 +1607,7 @@ Videos
     
 <A NAME="P63"></A>
 <HR>
-<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
+<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
     
 # Project 63: I²C-bus: Inter-Integrated Circuit Bus
  
@@ -3602,7 +3595,7 @@ Limitations
        
 <A NAME="P87"></A>
 <HR>
-<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P88">--&gt;</A></P>  
+<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
     
 # Project 87: Tinkercad 3D Design
 <p align="center">
@@ -3616,7 +3609,7 @@ Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/w
      
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
+<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P140">--&gt;</A></P>  
     
 # Project 102: List of YouTube Playlists
 <p align="center">
@@ -3812,7 +3805,7 @@ Google
  
 <A NAME="P143"></A>
 <HR>
-<P align="center"><A HREF="#P142">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
+<P align="center"><A HREF="#P142">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P145">--&gt;</A></P>  
     
 # Project 143: Wire
     
@@ -3822,7 +3815,7 @@ Nuts and Volts
 
 <A NAME="P145"></A>
 <HR>
-<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P146">--&gt;</A></P>  
+<P align="center"><A HREF="#P143">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P169">--&gt;</A></P>  
     
 # Project 145: Pico Vsys Power Test
 <p align="center">
@@ -3872,7 +3865,7 @@ YouTube
 
 <A NAME="P169"></A>
 <HR>
-<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P170">--&gt;</A></P>  
+<P align="center"><A HREF="#P145">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P174">--&gt;</A></P>  
     
 # Project 169: MicroSD Cards for SBC
     
@@ -3982,7 +3975,7 @@ By following these guidelines, you can help maximize the lifespan of the microSD
  
 <A NAME="P174"></A>
 <HR>
-<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P175">--&gt;</A></P>  
+<P align="center"><A HREF="#P169">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P179">--&gt;</A></P>  
     
 # Project 174: YouTube Channel [W2AEW](https://www.youtube.com/@w2aew)
     
@@ -3997,7 +3990,7 @@ Alan Wolke, Application Engineer at Tektronix, [W2AEW](https://www.qrz.com/db/W2
     
 <A NAME="P179"></A>
 <HR>
-<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P180">--&gt;</A></P>  
+<P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P186">--&gt;</A></P>  
     
 # Project 179: CAN Bus 
     
@@ -4011,7 +4004,7 @@ CAN Bus
    
 <A NAME="P186"></A>
 <HR>
-<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P187">--&gt;</A></P>  
+<P align="center"><A HREF="#P179">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P187">--&gt;</A></P>  
     
 # Project 186: Raspberry Pi Pico GPIO Current
 <p align="center">
