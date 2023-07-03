@@ -2,7 +2,6 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Pico and RP2040 Projects Notes Index 
-+ Project 101 to 199: <A HREF="README101.md">Project 101 to 199 Notes Index</A>
 + Project 1: <A HREF="#P1">Ham Radio Micorocontroller Books</A>
 + Project 2: <A HREF="#P2">Micorocontrollers Books</A>
 + Project 3: <A HREF="#P3">Micorocontrollers in Magazines</A>
@@ -10,16 +9,13 @@
 + Project 5: <A HREF="#P5">Forums</A>
 + Project 6: <A HREF="#P6">Micorocontrollers Applications</A>
 + Project 7: <A HREF="#P7"><A HREF="#P7">RP2040 Microcontroller Introduction</A>
-+ Project 8: <A HREF="#P8">Arduino Microcontroller Introduction</A>
 + Project 9: <A HREF="#P9">RP2040 Development Boards Lists</A>
 + Project 10: <A HREF="#P10">Raspberry Pi RP2040 Boards</A>
 + Project 11: <A HREF="#P11">Adafruit Industries RP2040 Boards</A>
-+ Project 12: <A HREF="#P12">Arduino Nano RP2040 Connect Board</A>
 + Project 13: <A HREF="#P13">Seeed Studio RP2040 Boards</A>
 + Project 14: <A HREF="#P14">SparkFun RP2040 Boards</A>
 + Project 15: <A HREF="#P15">Waveshare RP2040 Boards</A>
 + Project 16: <A HREF="#P16">Micorocontrollers Programming</A>
-+ Project 17: <A HREF="#P17">Arduino IDEs on Linux Computer</A>
 + Project 18: <A HREF="#P18">Build a Computer for Microcontroller Development</A>
 + Project 19: <A HREF="#P19">Setup GitHub</A>
 + Project 20: <A HREF="#P20">Learn Micropython on the Pico</A>
@@ -28,13 +24,7 @@
 + Project 23: <A HREF="#P23">Power the  Pico on Solar Cells</A>
 + Project 24: <A HREF="#P24">Use Pico A/Ds to Measure Vbus, Vsys and Vbattery Voltage
 + Project 25: <A HREF="#P25">Use Pico A/D to Measure CPU Temperature</A>
-+ Project 26: <A HREF="#P26">Run the Arduino IDE & Arduno Uno R3</A>
 + Project 27: <A HREF="#P27">Using the GiHub Web Interface</A>
-+ Project 28: <A HREF="#P28">Arduino Cloud</A>
-+ Project 29: <A HREF="#P29">Arduino Microcontroller Boards</A>
-+ Project 30: <A HREF="#P30">Arduino Clone Microcontroller Boards</A> 
-+ Project 31: <A HREF="#P31">Arduino OPLA IoT Kit</A>
-+ Project 32: <A HREF="#P32">Arduino IoTerrific Bundle</A>
 + Project 33: <A HREF="#P33">Electronic Component Kits</A>
 + Project 34: <A HREF="#P34">Steps in Building a Microcontroller Project</A>
 + Project 35: <A HREF="#P35">Electronic Breadboards</A>
@@ -45,23 +35,11 @@
 + Project 40: <A HREF="#P40">Measuring Resistors</A> 
 + Project 41: <A HREF="#P41">Resistor Composition</A> 
 + Project 42: <A HREF="#P42">USB</A> 
-+ Project 43: <A HREF="#P43">Arduino Registration and Cloud Plan</A> 
-+ Project 44: <A HREF="#P44">Arduino Simple OPLA Read & Display Sensor Data Sketch</A> 
 + Project 45: <A HREF="#P45">DIY Soldering Iron Holder</A> 
-+ Project 46: <A HREF="#P46">Arduino MEGA 2560 Microcontroller Board</A>
 + Project 47: <A HREF="#P47">AC Power Suppies for Microcontroller Boards</A>
-+ Project 48: <A HREF="#P48">Arduino IDEs on Windows 10 Computer</A>
-+ Project 49: <A HREF="#P49">Arduino IDE V1.8 on Raspberry Pi Computer</A>
 + Project 50: <A HREF="#P50">WA7ABU Repeater Project Net</A>
-+ Project 51: <A HREF="#P51">Learn C++ with Arduino Web Editor & Board</A>
 + Project 52: <A HREF="#P52">Microcontroller Development Boards Price Table</A>
 + Project 53: <A HREF="#P53">Starting with Microcontroller</A>
-+ Project 54: <A HREF="#P54">Arduino MEGA 2560 Rev3 Case</A>
-+ Project 55: <A HREF="#P55">Arduino IoT Cloud</A>
-+ Project 56: <A HREF="#P56">Arduino OPLA RGB LED Test</A>
-+ Project 57: <A HREF="#P57">Arduino OPLA Personal Weather Station IoT Cloud</A>
-+ Project 58: <A HREF="#P58">Arduino IoT Cloud Over-the-Air</A>
-+ Project 59: <A HREF="#P59">Arduino IoT Cloud iOS Mobile Dashboard Pane</A>
 + Project 60: <A HREF="#P60">Fritzing</A>
 + Project 61: <A HREF="#P61">Tinkercad Arduino Simulator</A>
 + Project 62: <A HREF="#P62">LED: Light-emitting Diode</A>
