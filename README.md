@@ -3599,10 +3599,21 @@ Limitations
     
 [Tinkercad](https://www.tinkercad.com/) [Codeblocks](https://www.tinkercad.com/codeblocks) [community gallery](https://www.tinkercad.com/things?type=blocks).   
     
-
-
-        
+       
+<A NAME="P87"></A>
+<HR>
+<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P88">--&gt;</A></P>  
     
+# Project 87: Tinkercad 3D Design
+<p align="center">
+<img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
+</p>
+    
+[Tinkercad](https://www.tinkercad.com/) [3D Design](https://www.tinkercad.com/3d-design) [community gallery](https://www.tinkercad.com/things?type=designs).   
+     
+Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/wiki/3D_printing)
+    
+     
 <A NAME="P102"></A>
 <HR>
 <P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
@@ -4370,4 +4381,120 @@ Finally, we activate the PIO program with `pio_program.active(1)` to start gener
 
 This program utilizes the PIO to generate a square wave of approximately 10 kHz on the specified GPIO pin.
 
- 
+    
+<A NAME="P189"></A>
+<HR>
+<P align="center"><A HREF="#P188">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P190">--&gt;</A></P>  
+    
+# Project 189: CircuitPython
+
+<p align="center">
+  <img width="463" height="94" src="/Images/Python.png">  
+</p>
+
+Adafruit CircuitPython is based on [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and is a fork of [MicroPython](https://micropython.org/) that support the Adafruit RP2040 boards, Raspberry Pi Pico boards (Adafruit sells them) and the large selection of Adafriut sensors boards.  CircuitPython works great with the Mu IDE.  CircuitPython has RP2040 functions like deep sleep that are not in CircuitPython.
++ [CircuitPython](https://circuitpython.org/)
+  + [Getting Started with Raspberry Pi Pico and CircuitPython](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython)
+  + [CircuitPython library](https://www.adafruit.com/category/956) >280 Python libraries.
+  + [CircuitPython 8.1.0 Released!](https://blog.adafruit.com/2023/05/22/circuitpython-8-1-0-released/?utm_source=Adafruit+Products+Newsletter&utm_campaign=e427965b13-EMAIL_CAMPAIGN_2023_05_23_03_38&utm_medium=email&utm_term=0_-e427965b13-%5BLIST_EMAIL_ID%5D)
+   
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): What is CircuitPython?
+
+CircuitPython is an open-source programming language and platform designed for microcontrollers and small computing devices. It is based on the Python programming language, which makes it accessible to beginners and experienced developers alike. CircuitPython provides a simplified and beginner-friendly interface for interacting with hardware components, such as sensors, actuators, and other electronic devices.
+
+Unlike traditional programming languages for microcontrollers, CircuitPython does not require compiling code before running it on the target device. Instead, it uses an interactive interpreter that allows you to write and execute code directly on the microcontroller. This makes the development process more efficient and beginner-friendly.
+
+CircuitPython is specifically tailored for hardware prototyping and projects involving electronics. It provides a high-level abstraction layer that simplifies the process of working with microcontrollers, allowing developers to focus on the functionality and interactions with sensors and other devices rather than low-level hardware details.
+
+The CircuitPython platform supports a wide range of microcontrollers, including popular boards like Adafruit's Feather, Trinket, and Circuit Playground. It offers a unified API (Application Programming Interface) across different devices, making it easier to transfer projects between supported hardware platforms.
+
+One of the key advantages of CircuitPython is its extensive library support. There are numerous pre-built libraries available for various sensors, actuators, displays, and communication protocols. These libraries provide ready-to-use code snippets and functions that simplify the process of integrating hardware components into your projects.
+
+CircuitPython also has an active and supportive community, which provides tutorials, documentation, and examples to help users get started and troubleshoot any issues they may encounter. This makes it a great choice for beginners and hobbyists who want to explore the world of electronics and physical computing using an easy-to-learn programming language.
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): Create a study outline for a beginner on how to use CircuitPython.
+
+Sure! Here's a study outline for a beginner to learn how to use CircuitPython:
+
+1. Introduction to CircuitPython
+   - What is CircuitPython?
+   - Advantages and features of CircuitPython
+   - Supported microcontrollers and hardware platforms
+
+2. Setting Up the Development Environment
+   - Installing CircuitPython on a microcontroller board
+   - Connecting the microcontroller to your computer
+   - Basic overview of the code editor and file structure
+
+3. Hello, CircuitPython!
+   - Writing and running your first CircuitPython script
+   - Understanding the structure of a CircuitPython program
+   - Interacting with the REPL (Read-Eval-Print Loop) prompt
+
+4. Working with Digital Inputs and Outputs
+   - Controlling LEDs and digital pins
+   - Reading button inputs and switches
+   - Using digital inputs and outputs to create simple circuits
+
+5. Analog Inputs and Outputs
+   - Understanding analog-to-digital conversion
+   - Reading values from analog sensors (e.g., light sensor, temperature sensor)
+   - Controlling analog outputs (e.g., PWM, analog voltage)
+
+6. Working with External Libraries
+   - Introduction to CircuitPython libraries
+   - Installing and managing libraries
+   - Exploring popular libraries for sensors, displays, and communication protocols
+
+7. Serial Communication and Interfacing
+   - Sending and receiving data using UART, I2C, and SPI protocols
+   - Interfacing with external devices (e.g., sensors, displays)
+   - Communicating with a computer via USB serial
+
+8. Creating Projects and Prototypes
+   - Planning and designing your CircuitPython project
+   - Integrating various hardware components
+   - Building interactive and responsive applications
+
+9. Troubleshooting and Debugging
+   - Common issues and how to solve them
+   - Using debugging techniques and tools
+   - Reading error messages and troubleshooting tips
+
+10. Community and Resources
+    - Joining the CircuitPython community
+    - Exploring online forums, tutorials, and projects
+    - Sharing and collaborating with other CircuitPython enthusiasts
+
+Remember, this outline is just a starting point, and you can adjust it based on your learning pace and interests. As you progress through the outline, it's important to practice what you learn by working on small projects and experimenting with different hardware components to deepen your understanding of CircuitPython.
+    
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List the study resource such as videos, books, articles, labs, sample programs, etc.
+
+Certainly! Here's a list of study resources including videos, books, articles, labs, and sample programs that can be helpful for learning CircuitPython:
+
+Videos:
+1. CircuitPython YouTube [Playlist](https://www.youtube.com/results?search_query=+CircuitPython+Playlist)
+2. Getting Started with CircuitPython [Playlist](https://www.youtube.com/results?search_query=Getting+Started+with+CircuitPython)
+3. CircuitPython [search](https://www.youtube.com/results?search_query=CircuitPython) 
+
+Books:
+1. "Getting Started with Adafruit Circuit Playground Express" by Mike Barela on [Amazon](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground/dp/1680454889)
+2. "Python for Microcontrollers: Getting Started with MicroPython" by Donald Norrison on [Amazon](https://www.amazon.com/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)
+
+Articles and Guides:
+1. Adafruit Learning System: https://learn.adafruit.com/category/circuitpython
+2. CircuitPython Documentation: https://circuitpython.readthedocs.io/
+3. "CircuitPython Essentials" Guide: https://learn.adafruit.com/circuitpython-essentials
+
+Labs and Hands-on Activities:
+1. Adafruit CircuitPython Guides: https://learn.adafruit.com/category/circuitpython-guides
+2. Adafruit Learn CircuitPython Projects: https://learn.adafruit.com/category/circuitpython-projects
+3. CircuitPython Weekly Newsletter (includes projects and community highlights): https://www.adafruitdaily.com/category/circuitpython/
+
+Sample Programs and Code Snippets:
+1. Adafruit CircuitPython GitHub Repository: https://github.com/adafruit/circuitpython
+2. Adafruit CircuitPython Library Bundle: https://github.com/adafruit/Adafruit_CircuitPython_Bundle
+
+These resources cover a wide range of topics and provide hands-on learning experiences to help you understand and explore CircuitPython effectively. Remember to combine theoretical knowledge with practical application by working on projects and experimenting with different hardware components to gain proficiency in CircuitPython. 
+    
+  
