@@ -631,7 +631,7 @@ For example, a microcontroller with a temperature sensor can be used as a remote
   
 <A NAME="P7"></A>
 <HR>
-<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P9">--&gt;</A></P>  
 
 #  Project 7: RP2040 Microcontroller Introduction
 
@@ -660,7 +660,7 @@ In January 2021, Raspberry Pi Foundation entered the microcontroller market with
   
 <A NAME="P9"></A>
 <HR>
-<P align="center"><A HREF="#P8">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P10">--&gt;</A></P>  
+<P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P10">--&gt;</A></P>  
 
 # Project 9: RP2040 Development Boards Lists
 
@@ -708,7 +708,7 @@ Wikipedia
   
 <A NAME="P11"></A>
 <HR>
-<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P12">--&gt;</A></P>  
+<P align="center"><A HREF="#P10">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P13">--&gt;</A></P>  
 
 # Project 11: [Adafruit Industries](https://www.adafruit.com/) [RP2040s](https://www.adafruit.com/?q=RP2040&sort=BestMatch) Boards
 
@@ -763,11 +763,9 @@ Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small conn
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 
  
-
-  
 <A NAME="P13"></A>
 <HR>
-<P align="center"><A HREF="#P12">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P14">--&gt;</A></P>  
+<P align="center"><A HREF="#P11">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P14">--&gt;</A></P>  
        
 # Project 13: [Seeed Studio](https://www.seeedstudio.com/) RP2040 Boards
 
@@ -851,7 +849,7 @@ Some Waveshare products are available from [Amazon](https://www.amazon.com/s?k=W
   
 <A NAME="P16"></A>
 <HR>
-<P align="center"><A HREF="#P15">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P17">--&gt;</A></P>  
+<P align="center"><A HREF="#P15">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P18">--&gt;</A></P>  
        
 # Project 16: Micorocontrollers Programming   
     
@@ -881,12 +879,10 @@ Software
   - [RP2040 Assembly Language Programming: ARM Cortex-M0+ on the Raspberry Pi Pico](https://www.amazon.com/RP2040-Assembly-Language-Programming-Cortex-M0/dp/148427752X/ref=sr_1_1?crid=10C0D1RJF1EMB&keywords=raspberry+pi+pico+assembly+language+programming&qid=1670506014&sprefix=Raspberry+Pi+Pico+ass%2Caps%2C158&sr=8-1) 1st ed. Edition
     * Shows how to mix assembly with C in a program
 
-  
-
-  
+   
 <A NAME="P18"></A>
 <HR>
-<P align="center"><A HREF="#P17">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P19">--&gt;</A></P>  
+<P align="center"><A HREF="#P16">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P19">--&gt;</A></P>  
        
 # Project 18: Build a Computer for Microcontroller Development
 
@@ -1100,7 +1096,7 @@ Results
  
 <A NAME="P25"></A>
 <HR>
-<P align="center"><A HREF="#P24">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P26">--&gt;</A></P>  
+<P align="center"><A HREF="#P24">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P27">--&gt;</A></P>  
 
 # Project 25: Use Pico A/D to Measure CPU Temperature
 
@@ -1144,7 +1140,7 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
   
 <A NAME="P27"></A>
 <HR>
-<P align="center"><A HREF="#P26">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P28">--&gt;</A></P>  
+<P align="center"><A HREF="#P25">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P34">--&gt;</A></P>  
     
 # Project 27: Using the GiHub Web Interface
 
@@ -1176,14 +1172,11 @@ README.md file
   + Images contains images used in the README.md file.
 + Some HTML code works in the .md file.
 + To create a folder a new file is created in the new folder at the same time.    
-
-
-   
  
    
 <A NAME="P34"></A>
 <HR>
-<P align="center"><A HREF="#P33">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P35">--&gt;</A></P>  
+<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P35">--&gt;</A></P>  
     
 # Project 34: Steps in Building a Microcontroller Project
 
