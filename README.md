@@ -655,34 +655,6 @@ To use a microcontroller it is connected to additional electrical hardware using
 Raspberry Pi Foundation helped redefine the personal computer market with the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) low cost single board computer running Linux.
 In January 2021, Raspberry Pi Foundation entered the microcontroller market with a high performace low cost (1$ single unit) microcontroller RP2040 and its boards.  Raspberry Pi Foundation make the RP2040 available to other companies: Adafruit, Sparkfun, Ardinuo, etc. This has caused a explosion of low cost microcontroller [boards](https://en.wikipedia.org/wiki/RP2040) that include the RP2040.
 
-  
-<A NAME="P8"></A>
-<HR>
-<P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P9">--&gt;</A></P>  
-
-# Project 8: Arduino Microcontroller Introduction
-
- <p align="center">
-<img width="74" height="57" src="/Images/arduinoLogo.png"> 
-</p>    
-    
-## Overview 
-[Arduino](https://www.arduino.cc/) is a popular microcontroller that was created for education in ~2003. Over 10 million Uno boards have been sold since 2010.  
-
-Arduino supports the RP2040 with the Arduino [Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers). 
-+ Wikipedia: [Arduino](https://en.wikipedia.org/wiki/Arduino)
-
-## Videos
-+ Exploring the Next Generation of Arduino Microcontrollers (Pico) [video](https://youtu.be/HOi_AYEgSmo) - Glen Popiel, KW5GP
-+ YouTube video [list](https://www.youtube.com/results?search_query=Arduino): Arduino
-  - New Arduino Tutorials [List](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) 68 videos
-
-## Magazines
-+ Hackspace issue [30](https://hackspace.raspberrypi.com/issues?page=3), [44](https://hackspace.raspberrypi.com/issues?page=2)
-+ Internet Archive Arduino [list](https://archive.org/search.php?query=Arduino&sin=)
-
-## Books
-+ [Get Started with Arduino](https://hackspace.raspberrypi.com/articles/get-started-with-arduino-book)
 
   
 <A NAME="P9"></A>
@@ -790,26 +762,6 @@ Adafruit STEMMA QT is a easy to use (no soldering) I2C interface with small conn
 + STEMMA QT [video](https://www.youtube.com/watch?v=6GXRRuFuFy0)
 
  
-<A NAME="P12"></A>
-<HR>
-<P align="center"><A HREF="#P11">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P13">--&gt;</A></P>  
-
-# Project 12: [Arduino](https://www.arduino.cc/) Nano RP2040 Connect Board
-
-<p align="center"> 
-<img width="600" height="557" src="/Images/ArdNANORPtb600.png">
-</p>
-<p align="center">
-<img align="right" width="74" height="57" src="/Images/arduinoLogo.png"> 
-</p>  
-   
-<p align="center">
-Arduino Nano RP2040 Connect Microcontroller Board.
-</p>
-
-+ Above photo is an [Arduino Nano RP2040 Connect](https://store-usa.arduino.cc/products/arduino-nano-rp2040-connect-with-headers)
-+ [YouTube Short First power on by WA9ONY](https://www.youtube.com/shorts/O2xxTe2i11w)
-+ Arduino RP2040 librar [list](https://www.arduinolibraries.info/architectures/rp2040)
 
   
 <A NAME="P13"></A>
@@ -929,59 +881,7 @@ Software
     * Shows how to mix assembly with C in a program
 
   
-<A NAME="P17"></A>
-<HR>
-<P align="center"><A HREF="#P16">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P18">--&gt;</A></P>  
-       
-# Project 17: Arduino IDEs on Linux Computer
 
-<p align="center"><img width="960" height="540" src="/Images/ArduinnoIDEsS.png"></p>
-
-The above screenshot shows the three [Arduino IDEs](https://www.arduino.cc/en/software) open on an Ubuntu computer.  The far left is the Web Editor, upper right corner is IDE V1,8.19 and bottom left corner is IDE 2.0.3.  All three IDEs have the example Blink sketch loaded.
- 
-The three versions of Arduino IDEs on an [Ubuntu Linux](/Images/UbuntuS.png) computer.
-## [Web Editor](https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor) 
-+ Need to have an Arduino account (no cost).
-+ Web Editor needs the Arduino Create Agent installed to communicate to the Arduino board.
-+ To use the [Arduino Cloud](https://cloud.arduino.cc/home/) the [free Cloud account](https://cloud.arduino.cc/plans/) provides 100 MBytes of storage. 
-+ Later the Arduino IoT Cloud will be used in projects.  The Arduino Cloud and Arduino IoT Cloud are different.
-## IDE [V2.0.3](https://www.arduino.cc/en/software)
-+ No program icon was created.
-+ V2 has a debugger.
-+ Editor auto completes.
-
-<PRE> 
-Version: 2.0.3
-Date: 2022-12-05T09:27:52.215Z
-CLI Version: 0.29.0 [76251df9]
-
-Copyright © 2022 Arduino SA 
-</PRE> 
- 
-## IDE [V1.8.19](https://www.arduino.cc/en/software) 
-+ Icon installed in applications screen.
-+ install needed the /dev/ttyACM* permison to be fixed as show in the below CLI history.
-  + [Permission denied on /dev/ttyACM0](https://forum.arduino.cc/t/permission-denied-on-dev-ttyacm0/475568)
-
-CLI history to fix permission denied issue. 
- 
-<PRE>
-1272  cd arduino-1.8.19
-1273  ls
-1274  ./install.sh 
-1275  sudo ./install.sh 
-1276  ls -l /dev/ttyACM*
-1277  group
-1278  groups
-1279  sudo adduser david dialout
-1280  history
-</PRE>
-
-YouTubes
-+ [Arduino Cloud Explained](https://youtu.be/uaLrmLCqGnc)
-+ [Arduino IDE vs. Arduino IoT Cloud Editor](https://youtu.be/lL1caDBLlhA)
-+ Arduino Workshop for Beginners, [35 videos playlist](https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr)
- 
   
 <A NAME="P18"></A>
 <HR>
@@ -1241,36 +1141,6 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 </pre>
 
   
-<A NAME="P26"></A>
-<HR>
-<P align="center"><A HREF="#P25">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P27">--&gt;</A></P>  
-
-# Project 26: Run the Arduino IDE & Arduno Uno R3
-
-<p align="center">
-  <img width="241" height="341" src="/Images/ProgrammingArduino3rd.png">     
-</p>
-<p align="center">   
-  <img align="right" width="92" height="94" src="/Images/Arduino1_8.png"> 
-</p>
-
-The 3rd edition is 2023 and contains a brief section on the Arduino NANO RP2040 Connect. 
- 
-Book's purpose:
-+ Learn how to use Arduino IDE.
-+ Learn how to program the Arduno Uno R3.
-+ Lear Arduino C++.
-
-Resources
-+ [Arduino IDE V1.8](https://www.arduino.cc/en/software) runs on a Linux computer (Intel NUC8).
-+ Arduino Uno R3 microcontroller board is used in the book.
-+ [Programming Arduino: Getting Started with Sketches, Third Edition 3rd Edition, 2023](https://www.amazon.com/gp/product/B0BKV9RMVT/ref=ppx_yo_dt_b_d_asin_image_o00?ie=UTF8&psc=1) 176 pages 
-  + [Amazon Simon Monk page of books](https://www.amazon.com/stores/Simon-Monk/author/B003VOT2DI?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
-  + [Monk Makes LTD](https://www.monkmakes.com/#)
-  + [SimonMonk.org](http://simonmonk.org/) 
-  + I enjoy Simon Monk's books. 
-+ 1st & 2nd editions [downloads](http://www.arduinobook.com/progardui2ed/)
-+  Simon Monk [GitHub](https://github.com/simonmonk) 
 
   
 <A NAME="P27"></A>
@@ -1309,40 +1179,7 @@ README.md file
 + To create a folder a new file is created in the new folder at the same time.    
 
   
-<A NAME="P28"></A>
-<HR>
-<P align="center"><A HREF="#P27">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P29">--&gt;</A></P>  
-    
-# Project 28: Arduino Cloud
 
-<p align="center">
-<img width="157" height="54" src="/Images/ArduinoCloud.png"> 
-</p> 
-<p align="center"> 
-<img width="600" height="557" src="/Images/ArdNANORPtb600.png">
-</p>
- 
- Arduino Cloud is Arduino’s integrated cloud platform to develop, deploy and manage IoT devices.
- + [Supported boards](https://store-usa.arduino.cc/pages/cloud-compatible-boards)
- + Above image is the Arduino NANO RP2040 Connect which supports Arduino IoT Cloud.
- 
- Webinar
- + [Arduino Cloud Explained](https://www.crowdcast.io/e/arduino-cloud-explained)
-   + Thu, Jan 12, 2023 8:00 AM PST
- + [Arduino Cloud for Education](https://arduino-cc.zoom.us/webinar/register/WN_2VO0jFXFSbWy29bsHT3_-Q)
-   + Q & A [pdf](https://maildoc.io/file/d55ecc8d3ba124bb32fb8b6f834377a1c9b2dcae3a1d7bd85bfbe1a57b389e28?u=9312464&hash=a2847c0d8d911d2a4a55eda6ef168f0aa6d27410&iti=ead01cdc-af8f-4a91-aeda-ed95ac450cf8&w=V0E5T05ZQGdtYWlsLmNvbQ)
- 
- Links
- + [Arduino Cloud How it Works](https://cloud.arduino.cc/how-it-works/)
- + [Use Cases](https://cloud.arduino.cc/use-cases/)
-
- YouTube
- + [Arduino Cloud play list 16 videos](https://www.youtube.com/watch?v=uaLrmLCqGnc&list=PLT6rF_I5kknObk6lnQMpk5NIUB_vEHcNW)
- + [Smart Lights and Automated Lighting using Arduino Cloud](https://youtu.be/eDcUefyDLZw)
- + [Making Your Plants Smart with Arduino Cloud](https://youtu.be/RsmPT4kAUl8)
- + [How to Integrate Amazon Alexa with Arduino Cloud](https://youtu.be/OMvZjwFYimo)
- + [Arduino IoT Cloud 2021 - Getting Started with Arduino & ESP32](https://youtu.be/UFCmTZUoZ1M)
- 
   
 <A NAME="P29"></A>
 <HR>
