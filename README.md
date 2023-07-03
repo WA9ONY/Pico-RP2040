@@ -1138,9 +1138,7 @@ Day Time    VBUS  VSYS  VBat  Temp 2022/11/28
 28 17:31:1  0.96V 3.06V 3.41V 68.88F
 28 17:31:11 0.96V 3.04V 3.41V 68.04F
 28 17:31:21 0.95V 3.05V 3.41V 68.04F
-</pre>
-
-  
+</pre>  
 
   
 <A NAME="P27"></A>
@@ -1178,81 +1176,6 @@ README.md file
 + Some HTML code works in the .md file.
 + To create a folder a new file is created in the new folder at the same time.    
 
-  
-
-  
-<A NAME="P29"></A>
-<HR>
-<P align="center"><A HREF="#P28">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P30">--&gt;</A></P>  
-    
-# Project 29: Arduino Microcontroller Boards
-
-<p align="center">
-<img width="600" height="557" src="/Images/ArdNANORPtb600.png"> 
-</p> 
-
-Arduino NANO RP2040 Connect on [Amazon](https://www.amazon.com/gp/product/B095J4KFVT/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
-YouTube
-+ [First Look at the Arduino Nano RP2040 Connect – It’s finally here!](https://youtu.be/rw_LifhqGjw) 
-+ [How To Use the RGB LED on the Arduino Nano RP2040 Connect - Tutorial 1: Rainbow LED Effect](https://youtu.be/mZxJxPZuhMs)
-
- <p align="center">
-<img width="600" height="248" src="/Images/ArdPortentaH7rev2back600.png">   
-<img width="600" height="251" src="/Images/ArdPortentaH7rev2front600.png"> 
-</p>  
-
-Arduino Portenta H7 Rev 2 on [Amazon](https://www.amazon.com/dp/B088KPDM8S?psc=1&ref=ppx_yo2ov_dt_b_product_details).
-
-Portenta H7 is expensive and is a part of the [PRO](https://www.arduino.cc/pro/) family product line that is aimed at professional use.
-
-The top image is the Portenta H7 Rev 2 back side with two high density connectors that plug into a [Portenta breakout board](https://www.amazon.com/gp/product/B09FBV5GH7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1).
- 
-<p align="center">
-<img width="600" height="257" src="/Images/ArdNANO33BLE600.png"> 
-</p> 
-
-Arduino NANO 33 BLE on [Amazon](https://www.amazon.com/dp/B07WV59YTZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-  
-<p align="center">
-<img width="600" height="254" src="/Images/ardMKR1000wifi600.png"> 
-</p> 
-
-Arduino MKR1000 WIFI on [Amazon](https://www.amazon.com/dp/B071LRYYHH?psc=1&ref=ppx_yo2ov_dt_b_product_details)
- 
-<p align="center">
-<img width="600" height="250" src="/Images/ArdMICRO600.png"> 
-</p>  
-
-Arduino Micro on [Amazon](https://www.amazon.com/dp/B00AFY2S56?ref=ppx_yo2ov_dt_b_product_details&th=1)
-  
-<p align="center">
-<img width="600" height="265" src="/Images/ArdNANOfront600.png"> 
-<img width="600" height="279" src="/Images/ArdNANOback600.png">  
-</p> 
-
-Arduino NANO on [Amazon](https://www.amazon.com/dp/B0097AU5OU?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-
-<p align="center">
-<img width="600" height="442" src="/Images/ArdUNOWIFI_600.png"> 
-</p>  
-
-Arduino Arduino UNO WiFi Rev2 on [Amazon](https://www.amazon.com/dp/B07MK598QV?psc=1&ref=ppx_yo2ov_dt_b_product_details)
- 
-<p align="center">
-<img width="600" height="443" src="/Images/ArdUNOSMD600.png"> 
-</p>  
-
-Arduino UNO SMD is a Arduino UNO R3 with a surface mount chip on [Amazon](https://www.amazon.com/dp/B007R9TUJE?psc=1&ref=ppx_yo2ov_dt_b_product_details).
-  
-<p align="center">
-<img width="600" height="443" src="/Images/ArdUNOR3600.png"> 
-</p>  
-  
-Arduino UNO R3, over 10 million have been sold.
- 
-On [Amazon](https://www.amazon.com/dp/B008GRTSV6?psc=1&ref=ppx_yo2ov_dt_b_product_details).
- 
-The Elegoo clone of the board is in the image below in project 30. 
 
  
 <A NAME="P30"></A>
