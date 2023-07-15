@@ -78,6 +78,7 @@
 + Project 187: <A HREF="#P187">Raspberry Pi Pico GPIO Square Wave</A>
 + Project 188: <A HREF="#P188">Raspberry Pi Pico GPIO PIO</A>
 + Project 189: <A HREF="#P189">CircuitPython</A>
++ Project 190: <A HREF="#P190">Pico CircuitPython</A>
 
 
 <A NAME="P0"></A>
@@ -4431,7 +4432,7 @@ This program utilizes the PIO to generate a square wave of approximately 10 kHz 
     
 <A NAME="P189"></A>
 <HR>
-<P align="center"><A HREF="#P188">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P188">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P190">--&gt;</A></P>  
     
 # Project 189: CircuitPython
 
@@ -4544,4 +4545,20 @@ Sample Programs and Code Snippets:
 
 These resources cover a wide range of topics and provide hands-on learning experiences to help you understand and explore CircuitPython effectively. Remember to combine theoretical knowledge with practical application by working on projects and experimenting with different hardware components to gain proficiency in CircuitPython. 
     
+
+    
+<A NAME="P190"></A>
+<HR>
+<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 190: Pico CircuitPython
+
+<p align="center">
+  <img width="463" height="94" src="/Images/Python.png">  
+</p>
+
+YouTube
++ [John Gallaugher](https://www.youtube.com/@profgallaugher)
+  + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
   
+[Raspberry Pi Pico Pinout](https://pico.pinout.xyz/)
