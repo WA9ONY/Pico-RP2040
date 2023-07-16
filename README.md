@@ -4555,9 +4555,18 @@ YouTube
     + [CircuitPython](https://circuitpython.org/)    
 
 
+## CPLAYBOOT INDO_UF2.TXT
+
+<PRE>
+
+UF2 Bootloader v3.15.0 SFHWRO
+Model: CPlay Express
+Board-ID: SAMD21G18A-CPlay-v0
+ 
+</PRE>PRE>
 
 
-## boot_out.txt
+## CIRCUITPY boot_out.txt
 
 <PRE>
 
