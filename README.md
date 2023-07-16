@@ -4551,7 +4551,7 @@ These resources cover a wide range of topics and provide hands-on learning exper
 + [Forum](https://forums.adafruit.com/)
 
 YouTube
-  + Circuit Python Tutorials by John Gallaugher [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
+  + Circuit Python Tutorials by [John Gallaugher](https://twitter.com/gallaugher) [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
     + [CircuitPython](https://circuitpython.org/)    
 
 
