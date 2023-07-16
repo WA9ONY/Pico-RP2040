@@ -4553,6 +4553,50 @@ These resources cover a wide range of topics and provide hands-on learning exper
 YouTube
   + Circuit Python Tutorials by John Gallaugher [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
     + [CircuitPython](https://circuitpython.org/)    
+
+
+
+
+## boot_out.txt
+
+<PRE>
+
+Adafruit CircuitPython 8.2.0 on 2023-07-05; Adafruit CircuitPlayground Express with samd21g18
+Board ID:circuitplayground_express
+UID:D542BEA85851555020312E372F1F0DFF
+ 
+</PRE>PRE>
+ 
+## Mu V1.2.0 on Ubuntu 20.04.2 LTS
+
++ Serial button
++ CircuitPython REPL
+
+<PRE>
+
+Visit circuitpython.org for more information.
+
+To list built-in modules type `help("modules")`.
+>>> 
+>>> help("modules")
+__future__        adafruit_hid/keycode                collections       pwmio
+__main__          adafruit_hid/mouse                  countio           rainbowio
+adafruit_bus_device                 adafruit_lis3dh   digitalio         random
+adafruit_bus_device.i2c_device      adafruit_pixelbuf errno             rotaryio
+adafruit_bus_device.spi_device      adafruit_thermistor                 gc                rtc
+adafruit_circuitplayground/__init__ analogio          math              storage
+adafruit_circuitplayground/circuit_playground_base    array             microcontroller   struct
+adafruit_circuitplayground/express  audiobusio        micropython       supervisor
+adafruit_hid/__init__               audiocore         neopixel          sys
+adafruit_hid/consumer_control       audioio           neopixel_write    time
+adafruit_hid/consumer_control_code  bitbangio         nvm               touchio
+adafruit_hid/keyboard               board             onewireio         usb_cdc
+adafruit_hid/keyboard_layout_base   builtins          os                usb_hid
+adafruit_hid/keyboard_layout_us     busio             pulseio           usb_midi
+Plus any modules on the filesystem
+>>> 
+ 
+</PRE>
   
 <A NAME="P190"></A>
 <HR>
