@@ -4547,11 +4547,11 @@ These resources cover a wide range of topics and provide hands-on learning exper
     
 ## Learn CircuitPython with Circuit Playground
 
-Circuit Playground [learn](https://learn.adafruit.com/category/circuit-playground)
-[Forum](https://forums.adafruit.com/)
++ Circuit Playground [learn](https://learn.adafruit.com/category/circuit-playground)
++ [Forum](https://forums.adafruit.com/)
 
 YouTube
-  + Circuit Python Tutorials by John Gallaugher [81 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
+  + Circuit Python Tutorials by John Gallaugher [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
     
   
 <A NAME="P190"></A>
