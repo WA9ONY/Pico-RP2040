@@ -4545,8 +4545,15 @@ Sample Programs and Code Snippets:
 
 These resources cover a wide range of topics and provide hands-on learning experiences to help you understand and explore CircuitPython effectively. Remember to combine theoretical knowledge with practical application by working on projects and experimenting with different hardware components to gain proficiency in CircuitPython. 
     
+## Learn CircuitPython with Circuit Playground
 
+Circuit Playground [learn](https://learn.adafruit.com/category/circuit-playground)
+[Forum](https://forums.adafruit.com/)
+
+YouTube
+  + Circuit Python Tutorials by John Gallaugher [81 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
     
+  
 <A NAME="P190"></A>
 <HR>
 <P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
