@@ -4552,7 +4552,7 @@ These resources cover a wide range of topics and provide hands-on learning exper
 
 YouTube
   + Circuit Python Tutorials by John Gallaugher [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
-    
+    + [CircuitPython](https://circuitpython.org/)    
   
 <A NAME="P190"></A>
 <HR>
