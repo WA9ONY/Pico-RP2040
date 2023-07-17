@@ -4558,6 +4558,12 @@ YouTube
   <img width="463" height="94" src="/Images/Python.png">  
 </p>
 
+Adafruit Circuit Playground Express [Learn](https://learn.adafruit.com/adafruit-circuit-playground-express)
++ Update boot loader.
++ Update CircuitPython.
++ Install the latest version of Mu the IDE for CircuitPython.
+
+
 [Circuit Playground](https://www.adafruit.com/product/3333)
   + Rest double click enters bootloarder directory CPYAYBOOT, all LEDs are green.
   + Rest once enters Python directory, code.py file is the CircuitPython code, lib directory is the CircuitPython, boot_out.txt is the CircuitPython version.
