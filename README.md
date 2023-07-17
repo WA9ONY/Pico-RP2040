@@ -4551,8 +4551,13 @@ YouTube
 # Project 191: Circuit Playground CircuitPython<
 
 <p align="center">
+  <img width="600" height="487" src="/Images/CPX600.png">  
+</p>
+
+<p align="center">
   <img width="463" height="94" src="/Images/Python.png">  
 </p>
+
 
 YouTube
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
