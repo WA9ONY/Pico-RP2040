@@ -3,16 +3,16 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Pico and RP2040 Projects Notes Index 
-+ Project 0: <A HREF="#P0">Raspberry Pi Pico and RP2040 Microcontrollers Interduction</A>
-+ Project 1: <A HREF="#P1">Ham Radio Micorocontroller Books</A>
-+ Project 2: <A HREF="#P2">Micorocontrollers Books</A>
-+ Project 3: <A HREF="#P3">Micorocontrollers in Magazines</A>
-+ Project 4: <A HREF="#P4">Micorocontrollers Videos</A>
-+ Project 5: <A HREF="#P5">Forums</A>
-+ Project 6: <A HREF="#P6">Micorocontrollers Applications</A>
-+ Project 7: <A HREF="#P7"><A HREF="#P7">RP2040 Microcontroller Introduction</A>
-+ Project 9: <A HREF="#P9">RP2040 Development Boards Lists</A>
-+ Project 10: <A HREF="#P10">Raspberry Pi RP2040 Boards</A>
++ Project 0: <A HREF="README.md#P0">Raspberry Pi Pico and RP2040 Microcontrollers Interduction</A>
++ Project 1: <A HREF="README.md#P1">Ham Radio Micorocontroller Books</A>
++ Project 2: <A HREF="README.md#P2">Micorocontrollers Books</A>
++ Project 3: <A HREF="README.md#P3">Micorocontrollers in Magazines</A>
++ Project 4: <A HREF="README.md#P4">Micorocontrollers Videos</A>
++ Project 5: <A HREF="README.md#P5">Forums</A>
++ Project 6: <A HREF="README.md#P6">Micorocontrollers Applications</A>
++ Project 7: <A HREF="README.md#P7"><A HREF="#P7">RP2040 Microcontroller Introduction</A>
++ Project 9: <A HREF="README.md#P9">RP2040 Development Boards Lists</A>
++ Project 10: <A HREF="README.md#P10">Raspberry Pi RP2040 Boards</A>
 + Project 11: <A HREF="#P11">Adafruit Industries RP2040 Boards</A>
 + Project 13: <A HREF="#P13">Seeed Studio RP2040 Boards</A>
 + Project 14: <A HREF="#P14">SparkFun RP2040 Boards</A>
