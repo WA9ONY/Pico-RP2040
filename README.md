@@ -4559,8 +4559,13 @@ YouTube
 </p>
 
 [Circuit Playground](https://www.adafruit.com/product/3333)
+  + Rest double click enters bootloarder directory CPYAYBOOT, all LEDs are green.
+  + Rest once enters Python directory, code.py file is the CircuitPython code, lib directory is the CircuitPython, boot_out.txt is the CircuitPython version.
 
-YouTube
+Mu is the recommended IDE for CircuitPython.
+
+
+YouTube tutorials
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
   + Circuit Python Tutorials by [John Gallaugher](https://twitter.com/gallaugher) [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
 
