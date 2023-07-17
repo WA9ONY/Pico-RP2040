@@ -78,8 +78,9 @@
 + Project 187: <A HREF="README.md#P187">Raspberry Pi Pico GPIO Square Wave</A>
 + Project 188: <A HREF="README.md#P188">Raspberry Pi Pico GPIO PIO</A>
 + Project 189: <A HREF="README.md#P189">CircuitPython</A>
-+ Project 190: <A HREF="README.md#P190">Pico CircuitPython</A>
-
++ Project 190: <A HREF="README.md#P190">Prof. John Gallaugher</A>
++ Project 191: <A HREF="README.md#P191">Circuit Playground CircuitPython</A>
++ Project 192: <A HREF="README.md#P192">Pico CircuitPython</A>
 
 <A NAME="P0"></A>
 <HR>
@@ -4545,15 +4546,46 @@ Sample Programs and Code Snippets:
 
 These resources cover a wide range of topics and provide hands-on learning experiences to help you understand and explore CircuitPython effectively. Remember to combine theoretical knowledge with practical application by working on projects and experimenting with different hardware components to gain proficiency in CircuitPython. 
     
+  
+<A NAME="P190"></A>
+<HR>
+<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P191">--&gt;</A></P>  
+    
+# Project 190: Prof. John Gallaugher
+
+<p align="center">
+  <img width="463" height="94" src="/Images/Python.png">  
+</p>
+
+YouTube
++ [John Gallaugher](https://www.youtube.com/@profgallaugher)
+  + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
+  + [Website](http://gallaugher.com/)
+  + [Twitter](https://twitter.com/gallaugher)
+  + [Instagram](https://www.instagram.com/john.gallaugher/)
+
+  
+<A NAME="P191"></A>
+<HR>
+<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P192">--&gt;</A></P>  
+    
+# Project 191: Circuit Playground CircuitPython<
+
+<p align="center">
+  <img width="463" height="94" src="/Images/Python.png">  
+</p>
+
+YouTube
++ [John Gallaugher](https://www.youtube.com/@profgallaugher)
+  + Circuit Python Tutorials by [John Gallaugher](https://twitter.com/gallaugher) [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
+
+URLs
++ [CircuitPython](https://circuitpython.org/)    
+
 ## Learn CircuitPython with Circuit Playground
 
 + Circuit Playground [learn](https://learn.adafruit.com/category/circuit-playground)
 + [Forum](https://forums.adafruit.com/)
-
-YouTube
-  + Circuit Python Tutorials by [John Gallaugher](https://twitter.com/gallaugher) [82 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSsQUWqQcNrVJqy4LhBjPX2)
-    + [CircuitPython](https://circuitpython.org/)    
-
 
 ## CPLAYBOOT INDO_UF2.TXT
 
@@ -4564,7 +4596,6 @@ Model: CPlay Express
 Board-ID: SAMD21G18A-CPlay-v0
  
 </PRE>PRE>
-
 
 ## CIRCUITPY boot_out.txt
 
@@ -4607,11 +4638,11 @@ Plus any modules on the filesystem
  
 </PRE>
   
-<A NAME="P190"></A>
+<A NAME="P192"></A>
 <HR>
-<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
-# Project 190: Pico CircuitPython
+# Project 192: Pico CircuitPython
 
 <p align="center">
   <img width="463" height="94" src="/Images/Python.png">  
@@ -4620,9 +4651,5 @@ Plus any modules on the filesystem
 YouTube
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
   + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
-  + [Website](http://gallaugher.com/)
-  + [Twitter](https://twitter.com/gallaugher)
-  + [Instagram](https://www.instagram.com/john.gallaugher/)
-
-   
-[Raspberry Pi Pico Pinout](https://pico.pinout.xyz/)
+ 
++ [Raspberry Pi Pico Pinout](https://pico.pinout.xyz/)
