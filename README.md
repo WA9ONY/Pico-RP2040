@@ -36,7 +36,6 @@
 + Project 52: <A HREF="README.md#P52">Microcontroller Development Boards Price Table</A>
 + Project 53: <A HREF="README.md#P53">Starting with Microcontroller</A>
 + Project 60: <A HREF="README.md#P60">Fritzing</A>
-+ Project 61: <A HREF="README.md#P61">Tinkercad Arduino Simulator</A>
 + Project 63: <A HREF="README.md#P63">I²C-bus: Inter-Integrated Circuit Bus</A>
 + Project 64: <A HREF="README.md#P64">SPI: Serial Peripheral Interface</A>
 + Project 65: <A HREF="README.md#P65">OLED: Organic Light-Emitting Diode</A>
@@ -1530,7 +1529,7 @@ Kits
 
 <A NAME="P60"></A>
 <HR>
-<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P61">--&gt;</A></P>  
+<P align="center"><A HREF="#P53">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P63">--&gt;</A></P>  
     
 # Project 60: Fritzing
     
@@ -1593,26 +1592,10 @@ Fritzing Videos
   + Change fritzing-0.9.10-l2134-40d23c29.AppImage permissions to execute 
   + Double click on fritzing-0.9.10-l2134-40d23c29.AppImage to start Fritzing.  
     
- 
-<A NAME="P61"></A>
-<HR>
-<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P63">--&gt;</A></P>  
-    
-# Project 61: Tinkercad Arduino Simulator
-    
-[Tinkercad](https://www.tinkercad.com)
-
-+ Gallery [Arduino](https://www.tinkercad.com/search?q=Arduino&category=circuits)    
-    
-Videos
-+ [The Arduino Simulator you’ve been looking for!](https://youtu.be/6uz1sCA9joc)   
-+ YouTube Tinkercad Arduino [list](https://www.youtube.com/results?search_query=tinkercad+arduino)    
-+ Arduino UNO Tutorial #1 - Intro to Arduino w/TinkerCAD Circuits [video](https://youtu.be/3kDMYomFw5o)
-
     
 <A NAME="P63"></A>
 <HR>
-<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
+<P align="center"><A HREF="#P60">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P64">--&gt;</A></P>  
     
 # Project 63: I²C-bus: Inter-Integrated Circuit Bus
  
