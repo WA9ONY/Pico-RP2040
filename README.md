@@ -44,7 +44,7 @@
 + Project 68: <A HREF="README.md#P68">Raspberry Pi Pico I²C Scan</A>
 + Project 69: <A HREF="README.md#P69">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "hello"</A>
 + Project 70: <A HREF="README.md#P70">Raspberry Pi Pic to SparkFun 16x2 SerLCD Qwiic "temp"</A>
-+ Project 71: <A HREF=README.md"#P71">Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test</A>
++ Project 71: <A HREF="README.md#P71">Raspberry Pi Pic to SparkFun 16x2 SerLCD 96 Char Test</A>
 + Project 72: <A HREF="README.md#P72">Raspberry Pi Pic I²C MicroPython</A>
 + Project 73: <A HREF="README.md#P73">I²C-bus: Adafruit STEMMA & STEMMA QT</A>
 + Project 74: <A HREF="README.md#P74">I²C Waveforms</A>
