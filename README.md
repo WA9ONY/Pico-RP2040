@@ -4558,6 +4558,7 @@ YouTube
   <img width="463" height="94" src="/Images/Python.png">  
 </p>
 
+[Circuit Playground](https://www.adafruit.com/product/3333)
 
 YouTube
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
