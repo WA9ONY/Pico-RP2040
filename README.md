@@ -4538,10 +4538,10 @@ These resources cover a wide range of topics and provide hands-on learning exper
 
 YouTube
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
-  + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
   + [Website](http://gallaugher.com/)
   + [Twitter](https://twitter.com/gallaugher)
   + [Instagram](https://www.instagram.com/john.gallaugher/)
++ Physical Computing Students [video](https://www.instagram.com/p/Cura92FMkG5/)
 
   
 <A NAME="P191"></A>
