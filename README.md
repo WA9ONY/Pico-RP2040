@@ -4620,5 +4620,9 @@ Plus any modules on the filesystem
 YouTube
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
   + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
-  
+  + [Twitter](https://twitter.com/gallaugher)
+  + [Website](http://gallaugher.com/)
+  + [Instagram](https://www.instagram.com/john.gallaugher/)
+  + [gallaugher.com](https://gallaugher.com/)
+   
 [Raspberry Pi Pico Pinout](https://pico.pinout.xyz/)
