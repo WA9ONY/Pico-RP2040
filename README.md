@@ -4536,10 +4536,6 @@ These resources cover a wide range of topics and provide hands-on learning exper
     
 # Project 190: Prof. John Gallaugher
 
-<p align="center">
-  <img width="463" height="94" src="/Images/Python.png">  
-</p>
-
 YouTube
 + [John Gallaugher](https://www.youtube.com/@profgallaugher)
   + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
