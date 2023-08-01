@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P190">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P0">--&gt;</A><BR>
+<P align="center"><A HREF="#P193">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P0">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Pico and RP2040 Projects Notes Index 
@@ -80,6 +80,7 @@
 + Project 190: <A HREF="README.md#P190">Prof. John Gallaugher</A>
 + Project 191: <A HREF="README.md#P191">Circuit Playground CircuitPython</A>
 + Project 192: <A HREF="README.md#P192">Pico CircuitPython</A>
++ Project 193: <A HREF="README.md#P193">MicroPython benchmark programs</A>
 
 <A NAME="P0"></A>
 <HR>
@@ -4636,7 +4637,7 @@ Plus any modules on the filesystem
   
 <A NAME="P192"></A>
 <HR>
-<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P193">--&gt;</A></P>  
     
 # Project 192: Pico CircuitPython
 
@@ -4649,3 +4650,32 @@ YouTube
   + Raspberry Pi Pico / Pico W Tutorials [31 videos playlist](https://www.youtube.com/playlist?list=PL9VJ9OpT-IPTfjeA45Ab_-9IY1VGnNY0K)
  
 + [Raspberry Pi Pico Pinout](https://pico.pinout.xyz/)
+
+  
+<A NAME="P193"></A>
+<HR>
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 193: MicroPython benchmark programs
+
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List benchmark programs for micropython.
+
+As of my last update in September 2021, the availability of benchmark programs for MicroPython might have changed. However, I can provide you with some benchmark programs that were commonly used for MicroPython at that time:
+
+1. **pystone**: Pystone is a popular benchmark used to measure the speed of Python interpreters. It is widely used in the Python community, including MicroPython.
+
+2. **pybench**: Pybench is another benchmark suite used for Python, including MicroPython. It measures various aspects of Python performance, such as computation and memory usage.
+
+3. **coremark**: Coremark is a widely-used benchmark for evaluating the performance of CPUs and compilers. It includes a version specifically for MicroPython.
+
+4. **dhrystone**: Dhrystone is a synthetic computing benchmark that has been used for many years to measure CPU performance.
+
+5. **uPyBench**: uPyBench is a MicroPython-specific benchmark that aims to measure the performance of MicroPython on embedded systems.
+
+6. **timeit**: Although not a benchmark suite, Python's built-in `timeit` module can be used to measure the execution time of small code snippets, which can help you compare different approaches and optimizations in MicroPython.
+
+It's essential to note that MicroPython's performance heavily depends on the hardware it runs on, as it's often used on resource-constrained embedded systems. For accurate benchmarking, you should run these programs on the specific hardware and version of MicroPython you are interested in.
+
+To find the latest and most up-to-date benchmark programs for MicroPython, I recommend checking the MicroPython community forums, GitHub repositories, or official websites for the MicroPython project. Also, keep in mind that new benchmarking tools and suites might have emerged since my last update.
+
+
