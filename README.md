@@ -4658,13 +4658,17 @@ YouTube
     
 # Project 193: MicroPython benchmark programs
 
-### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List benchmark programs for micropython.
+### [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT): List benchmark programs for MicroPython.
 
 As of my last update in September 2021, the availability of benchmark programs for MicroPython might have changed. However, I can provide you with some benchmark programs that were commonly used for MicroPython at that time:
 
 1. **pystone**: Pystone is a popular benchmark used to measure the speed of Python interpreters. It is widely used in the Python community, including MicroPython.
-
+  + [Python speed, benchmarks, 2v3](https://forums.raspberrypi.com/viewtopic.php?t=183829)
+  + YouTube Pystone [Search}(https://www.youtube.com/results?search_query=pyston)
+    
 2. **pybench**: Pybench is another benchmark suite used for Python, including MicroPython. It measures various aspects of Python performance, such as computation and memory usage.
+  + [Pybench](https://openbenchmarking.org/test/pts/pybench)
+  + YouTube Pybench [Search}(https://www.youtube.com/results?search_query=PyBench)
 
 3. **coremark**: Coremark is a widely-used benchmark for evaluating the performance of CPUs and compilers. It includes a version specifically for MicroPython.
 
@@ -4679,3 +4683,29 @@ It's essential to note that MicroPython's performance heavily depends on the har
 To find the latest and most up-to-date benchmark programs for MicroPython, I recommend checking the MicroPython community forums, GitHub repositories, or official websites for the MicroPython project. Also, keep in mind that new benchmarking tools and suites might have emerged since my last update.
 
 
+
+CircuitPython-Pi-Calculation-Benchmark 
++ YouTube [Raspberry Pi Pico VS ESP32 S2 speed comparison benchmark using CircuitPython](https://youtu.be/bTYQ_Jrpz6Y)
++ GitHub code [educ8s/CircuitPython-Pi-Calculation-Benchmark](https://github.com/educ8s/CircuitPython-Pi-Calculation-Benchmark) 
+<PRE>
+import board, busio, os, time, terminalio, displayio, microcontroller
+
+def calculate_pi(n):
+    """
+    Calculate the value of pi using the Bailey–Borwein–Plouffe formula.
+    """
+    pi = 0
+    k = 0
+    for k in range(n):
+        pi += (1 / 16.**k) * ((4 / (8 * k + 1)) - (2 / (8 * k + 4)) - (1 / (8 * k + 5)) - (1 / (8 * k + 6)))
+        k += 1
+        if k%50 == 0:
+            drawPercent(k/n)
+    return pi
+
+start_time = time.monotonic()
+pi = calculate_pi(60000)
+end_time = time.monotonic()
+execution_time = round(end_time - start_time,4)
+
+</PRE>
